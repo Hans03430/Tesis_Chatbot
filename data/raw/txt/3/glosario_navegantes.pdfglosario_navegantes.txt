@@ -1,0 +1,568 @@
+Glosario para navegantes
+ 
+ 
+
+ 
+Administrador de un sitio web: Webmaster
+. Persona encargada de la 
+gestión y el mantenimiento técnico de un sitio web.
+ 
+
+ 
+Alias
+: Nombre secundario o seudónimo. Los alias de grupo, por ejemplo, 
+proporcionan una forma práctica de 
+enviar un mismo mensaje a varias 
+personas a la vez.
+ 
+
+ 
+Antivirus
+: Programa que detecta la presencia de virus en archivos y en la 
+memoria principal de la computadora. El antivirus evita que el virus se copie 
+a otros archivos. La constante aparición de nuevos v
+irus informáticos exige 
+la actualización frecuente del antivirus.
+ 
+
+ 
+Aplicación
+: Programa que cumple funciones específicas orientadas a las 
+necesidades del usuario, por ejemplo: planilla de cálculo o electrónica, 
+procesador de textos, gestor de base de datos,
+ 
+sistemas orientados a la 
+gestión administrativa.
+ 
+
+ 
+Archivo adjunto
+: 
+Attachment
+. Archivo que se envía a través de un mensaje 
+de correo electrónico.
+ 
+
+ 
+Arroba
+ 
+(@): Símbolo que se utiliza en las direcciones de 
+correo electrónico
+. 
+Se coloca entre el nombre de la cuenta y el dominio, por ejemplo: 
+ayuda@educ.ar.
+ 
+
+ 
+Attachment
+: 
+Archivo adjunto
+.
+ 
+
+ 
+Bajar
+: 
+Download
+. 
+Operación por la cual un usuario descarga en su 
+computadora 
+copias de archivos ubicados en otra computadora a la que 
+está conectado en red.
+ 
+
+ 
+Bit
+: Unidad mínima de información en el sistema de numeración binario. 
+Cada carácter alfabético, dígito, señal o función que procesa la computadora 
+está definido por una combin
+ación de bits (0 y 1).
+ 
+
+ 
+Bps
+ 
+(
+bits por segundo
+): Medida de velocidad de transmisión de datos.
+ 
+
+ 
+Browser
+: 
+Navegador
+.
+ 
+
+ 
+Buscador
+: Los buscadores son sitios diseñados para facilitar al usuario el 
+hallazgo de determinada información en Internet. El servicio que ofre
+cen los 
+buscadores se basa en sistemas combinados de hardware, software y, en 
+muchos casos, la intervención de personas que evalúan y seleccionan los 
+sitios.
+ 
+Más información en "
+Búsqueda de información útil en Internet".
+ 
+
+ 
+Byte
+: Serie de 8 bits. La capacidad
+ 
+de los dispositivos que almacenan 
+información se mide en bytes. 1.024 bytes equivalen a un Kilobyte (Kb).
+ 
+
+ 
+Caché
+: Memoria temporaria de la computadora. De acuerdo con la 
+configuración del navegador y con el tipo de páginas web que se visitan, 
+esta memoria 
+puede mantener una copia de las últimas páginas visitadas, lo 
+cual mejora el tiempo de respuesta cuando se las vuelve a recorrer.
+ 
+
+ 
+Compresión
+: Operación que reduce el tamaño de uno o varios archivos. 
+Permite ahorrar espacio libre en el disco rígido y transm
+itir la información 
+más rápidamente. La compresión de los archivos se realiza por medio de 
+programas específicos (compresores).
+ 
+Más información sobre 
+compresores.
+ 
+
+ 
+Correo electrónico
+: 
+E
+-
+mail
+. Sistema de mensajería electrónica por el cual se 
+puede intercambi
+ar textos y archivos con uno o varios usuarios.
+ 
+
+ 
+Cracker
+: Persona capaz de desproteger programas y hacerlos susceptibles 
+de copia. Ver también 
+Pirata informático
+.
+ 
+
+ 
+Dirección de correo electrónico
+: Conjunto de caracteres que identifica a un 
+usuario de correo 
+electrónico. Sus partes son: nombre de la cuenta + @ + 
+dominio, por ejemplo: ayuda@educ.ar.
+ 
+
+ 
+Dirección de un sitio o página web
+: 
+URL (Uniform Resource Locator)
+. 
+Información que permite identificar con precisión el tipo y la ubicación de 
+los recursos en Inte
+rnet. Básicamente, se trata de la extensión al contexto de 
+redes del concepto "nombre de archivo y ruta de acceso". Sus partes 
+pueden ser:
+ 
+
+ 
+Protocolo de transferencia
+, por ejemplo: http (Hypertext Transfer Protocol 
+o Protocolo de Transferencia de Texto).
+ 
+
+ 
+Identificador del tipo de servicio
+, por ejemplo: www (World Wide Web).
+ 
+
+ 
+Dominio
+ 
+ 
+o
+ 
+Nombre, por ejemplo: me (Ministerio de Educación).
+ 
+o
+ 
+Tipo de organización responsable del sitio o finalidad del sitio, por 
+ejemplo: gov (gubernamental).
+ 
+o
+ 
+País: ar (Argentina).
+ 
+
+ 
+Arc
+hivo
+, por ejemplo: index1.html.
+ 
+
+ 
+Los ejemplos indican que la página inicial del Ministerio de Educación del 
+gobierno argentino es: http://www.me.gov.ar/index1.html.
+ 
+
+ 
+Dominio
+: Información que identifica a un grupo de usuarios que comparten 
+una misma "porción"
+ 
+de red (servidores, cuentas, recursos).
+ 
+
+ 
+Download
+: Bajar.
+ 
+
+ 
+E
+-
+mail
+: Correo electrónico.
+ 
+
+ 
+Enlace
+: 
+Link
+. 
+Hipervínculo
+. Palabra o frase que funciona como unión a otra 
+página. Esta página puede estar en una computadora situada en cualquier 
+lugar del mundo, ya que
+ 
+en el momento de la creación del enlace se le 
+asigna la dirección, o URL, a la que se dirige. El enlace suele aparecer 
+subrayado y destacado en otro color.
+ 
+
+ 
+En línea
+: 
+On line
+. Modo de trabajo con conexión a una red.
+ 
+
+ 
+FTP
+ 
+(
+File Transfer Protocol
+): Protocolo 
+de transferencia de archivos.
+ 
+
+ 
+Fuera de línea
+: 
+Off line
+. Modo de trabajo sin conexión a una red.
+ 
+
+ 
+Gigabyte
+: 1.024 Mb.
+ 
+ 
+Hacker
+: Pirata informático.
+ 
+
+ 
+Hipertexto
+: Texto que contiene enlaces a otros textos, permitiendo un 
+recorrido no secuencial de la 
+información.
+ 
+
+ 
+Hipervínculo
+: Enlace. Link.
+ 
+
+ 
+Home page
+: Inicio.
+ 
+
+ 
+Host
+: Servidor.
+ 
+
+ 
+Html
+ 
+(
+HyperText Markup Language
+): Lenguaje que permite crear 
+documentos hipertextuales y multimediales. Los documentos con extensión 
+html se visualizan mediante navegadores.
+ 
+
+ 
+Http
+ 
+(
+HyperText Transfer Protocol
+): Protocolo que permite la transferencia de 
+archivos hipertextuales en Internet.
+ 
+
+ 
+Inicio
+: 
+Home page
+. Habitualmente, página de ingreso a un sitio web.
+ 
+
+ 
+Internet
+: Red de redes de computadoras. Red de telecomunicaciones 
+considerada 
+la mayor del mundo.
+ 
+
+ 
+IP
+ 
+(
+Internet Protocol
+): Protocolo utilizado en Internet para transferir datos 
+fragmentándolos en forma de "paquetes".
+ 
+
+ 
+ISP
+ 
+(
+Internet Service Provider
+): Proveedor.
+ 
+
+ 
+Kilobyte
+ 
+(Kb): 1.024 bytes. 1.024 Kb equivalen a un Megabyte (Mb).
+ 
+
+ 
+LAN
+ 
+(
+Local Area Network
+): Red de computadoras físicamente cercanas entre 
+sí. En este tipo de redes, en general, la conexión entre computadoras se 
+realiza a través de cables.
+ 
+
+ 
+Link
+: Enlace. Hipervínculo.
+ 
+
+ 
+Megabyte
+ 
+(Mb): 1.024 Kb. 1.024 Mb equivalen a un Gigabyte (
+Gb).
+ 
+
+ 
+Módem
+: Dispositivo que permite transferir datos a través de la red 
+telefónica.
+ 
+
+ 
+Navegador
+: 
+Browser
+. Aplicación que permite visualizar documentos html y 
+navegar por Internet.
+ 
+Más información sobre navegadores.
+ 
+
+ 
+Off line
+: Fuera de línea.
+ 
+
+ 
+On line
+: En línea
+.
+ 
+
+ 
+Página web
+: Archivo en formato html publicado en Internet.
+ 
+
+ 
+Pirata informático
+: 
+Hacker
+. Experto en informática capaz de entrar en 
+sistemas cuyo acceso es restringido. Ver también 
+Cracker
+.
+ 
+
+ 
+Protocolo
+: Conjunto de normas y estándares que permiten la comunica
+ción 
+y el intercambio de información entre computadoras o redes de 
+computadoras con diferentes tecnologías y sistemas operativos. El protocolo 
+utilizado en Internet es el TCP/IP.
+ 
+
+ 
+Proveedor
+: 
+ISP
+ 
+(
+Internet Service Provider
+)
+.
+ 
+Empresa que suministra conexión 
+y acceso a los servicios de Internet.
+ 
+
+ 
+Proxy
+: Servidor que se ubica entre una red interna e Internet. Se lo utiliza 
+para almacenar las páginas web más solicitadas por los usuarios de la red 
+interna, lo que acelera el tiempo 
+de carga.
+ 
+
+ 
+Red
+: Sistema de comunicaciones e intercambio de información que se crea 
+mediante la conexión de dos o más computadoras administradas por un 
+sistema operativo específico.
+ 
+
+ 
+Servidor
+: 
+Host
+. Computadora conectada a una red que se encarga de las 
+petici
+ones de datos, el correo electrónico, la transferencia de archivos o 
+cualquier otro servicio brindado a esa red.
+ 
+
+ 
+Shareware
+: Software que puede ser utilizado de manera gratuita durante un 
+período de prueba.
+ 
+
+ 
+Sitio
+: Determinado conjunto de páginas web vincula
+das entre sí con una 
+coherencia temática.
+ 
+
+ 
+TCP/IP
+ 
+(
+Transmission Control Protocol/Internet Protocol
+): Protocolo que rige 
+todas las comunicaciones entre todas las computadoras de Internet.
+ 
+
+ 
+Telnet
+: Protocolo estándar de Internet que permite operar una 
+computad
+ora desde una terminal remota.
+ 
+
+ 
+URL
+ 
+(
+Uniform Resource Locator
+): 
+Dirección de un sitio o página web
+.
+ 
+
+ 
+Usenet Newsgroups
+: Servicio de Internet por el cual los usuarios, en forma 
+similar al correo electrónico, expresan sus ideas sobre determinados temas.
+ 
+
+ 
+Virus 
+informático
+: Programa creado especialmente para invadir 
+computadoras y redes, y manipular la información almacenada en ellas. 
+Puede alterar o destruir archivos y la configuración de la computadora.
+ 
+
+ 
+WAN
+ 
+(
+Wide Area Network
+): Red de computadoras ubicadas físi
+camente a 
+gran distancia unas de otras. En este caso, la telecomunicación se establece 
+a través de tecnologías como enlaces microondas o comunicaciones 
+satelitales.
+ 
+
+ 
+Web
+: 
+WWW
+ 
+(
+World Wide Web
+).
+ 
+
+ 
+Webmaster
+: 
+Administrador de un sitio web
+.
+ 
+
+ 
+WWW
+ 
+(
+World Wide Web)
+:
+Web
+. 
+Literalmente "telaraña mundial". Conjunto 
+total de documentos html residentes en distintos servidores de Internet.
+ 
+ 

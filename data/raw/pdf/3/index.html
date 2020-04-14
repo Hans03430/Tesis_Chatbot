@@ -1,0 +1,399 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8">
+
+	<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="js/turnjs/extras/modernizr.2.5.3.min.js"></script>
+	<script type="text/javascript" src="js/jquery-css-transform/jquery-css-transform.js"></script>
+	<script type="text/javascript" src="js/jquery-animate-css-rotate-scale/jquery-animate-css-rotate-scale.js"></script> 
+	<script type="text/javascript" src="js/functions.js"></script>  
+	<script type="text/javascript" src="js/jqueryui/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="js/audio_list.js"></script>
+	<script type="text/javascript" src="js/audiomanager.js"></script>
+	<link rel="stylesheet" href="css/estilo.css">
+	<title>El almohad&oacute;n de plumas</title>
+</head>
+<body>
+<img id="book_loader" src="image/clock.png" style="position:absolute;"></img>		
+<div id='corner_tr' style="position:absolute;"></div>	
+<div id='corner_br' style="position:absolute;"></div>	
+<div id='corner_tl' style="position:absolute;"></div>	
+<div id='corner_bl' style="position:absolute;"></div>
+<div id='book_options' style="position:absolute;">
+	<img id="img_narracion_libro" src="" style="position:absolute;"></img>	
+	<img id="img_home_libro" src="image/menu_options/home.png" style="position:absolute;" alt="Home"></img>	
+	<img id="book_option_narracion" src="image/menu_options/colapsed.png" style="position:absolute;"></img>		
+	<img id="book_option_home" src="image/menu_options/colapsed.png" style="position:absolute;"></img>			
+</div>
+<div class="book-viewport">
+	<div class="container">
+		<div id="book" class="book">
+		</div>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+
+$('#book_loader').css({'z-index':'6',top:'180px',left:'420px','display':'none',opacity:0});
+
+//Configuracion de los bordes
+$('#corner_tr').css({'z-index':'4',top:'0px',left:'924px',width:'100px',height:'100px','display':'block','background-image':'url(image/menu_options/corner.png)',opacity:1});
+
+$('#corner_br').css({'z-index':'4',top:'500px',left:'924px',width:'100px',height:'100px','display':'block','background-image':'url(image/menu_options/corner.png)',opacity:1});
+
+$('#corner_tl').css({'z-index':'6',top:'0px',left:'0px',width:'100px',height:'100px','display':'block','background-image':'url(image/menu_options/corner.png)',opacity:1});
+
+$('#corner_bl').css({'z-index':'6',top:'500px',left:'0px',width:'100px',height:'100px','display':'block','background-image':'url(image/menu_options/corner.png)',opacity:1});
+
+
+$("#corner_tr").mouseenter(function(){$('#book').turn('disable', true);});
+$("#corner_tr").mouseleave(function(){$('#book').turn('disable', false);});
+
+$("#corner_br").mouseenter(function(){$('#book').turn('disable', true);});
+$("#corner_br").mouseleave(function(){$('#book').turn('disable', false);});
+
+$("#corner_tl").mouseenter(function(){$('#book').turn('disable', true);});
+$("#corner_tl").mouseleave(function(){$('#book').turn('disable', false);});
+
+$("#corner_bl").mouseenter(function(){$('#book').turn('disable', true);});
+$("#corner_bl").mouseleave(function(){$('#book').turn('disable', false);});
+
+
+//Configuracion del menu
+$('#book_options').css({'z-index':'6',top:'250px',left:'963px','display':'block',opacity:1,'background-image':'url(image/menu_options/book_options.png)'});
+
+
+$('#book_option_home').css({top:'60px',left:'46px','display':'none'});
+$('#img_home_libro').css({left:'0px',top:'60px',opacity:0});
+$('#img_home_libro').click(function(){
+	$("#book").turn("page",  1);
+	$('#img_home_libro').css({opacity:0});
+	$('#book_option_home').css({opacity:1});
+});
+
+
+$('#book_option_narracion').css({top:'0px',left:'46px','display':'none'});
+$('#img_narracion_libro').css({left:'0px',top:'0px',opacity:0});
+$('#img_narracion_libro').click(function(){modo_sonido('#img_narracion_libro')});
+
+$("#book").mouseenter(function () {
+	$('#img_narracion_libro').animate({opacity:0},{duration:300});
+	$('#book_option_narracion').animate({opacity:1},{duration:300});
+	$('#img_home_libro').animate({opacity:0},{duration:300});
+	$('#book_option_home').animate({opacity:1},{duration:300});	
+});
+
+$("#book_option_narracion").mouseenter(function () {
+	$('#img_narracion_libro').animate({opacity:1},{duration:300});
+	$('#book_option_narracion').animate({opacity:0},{duration:300});
+});
+
+$("#img_narracion_libro").mouseleave(function () {
+ 		$('#img_narracion_libro').animate({opacity:0},{duration:300});
+		$('#book_option_narracion').animate({opacity:1},{duration:300});
+});
+
+$("#book_option_home").mouseenter(function () {
+	$('#img_home_libro').animate({opacity:1},{duration:300});
+	$('#book_option_home').animate({opacity:0},{duration:300});
+});
+
+$("#img_home_libro").mouseleave(function () {
+		$('#img_home_libro').animate({opacity:0},{duration:300});
+		$('#book_option_home').animate({opacity:1},{duration:300});
+});
+
+
+// Sample using dynamic pages with turn.js
+
+var numberOfPages = 47;
+
+setCookie('audio_libro',"SI");
+
+set_img_sonido('#img_narracion_libro');
+
+// Adds the pages that the book will need
+function addPage(page, book) {
+	// First check if the page is already in the book
+	if (!book.turn('hasPage', page)) {
+	// Create an element for this page
+
+			var element = $('<div />',
+			{'class': 'own-size',
+				css: {width: 1024, height: 600}
+			}).
+			html('<div class="loader"></div>');
+
+	//var element = $('<div />', {'class': 'page '+((page%2==0) ? 'odd' : 'even'), 'id': 'page-'+page}).html('<i class="loader"></i>');
+	// If not then add the page
+	book.turn('addPage', element, page);
+	// Let's assum that the data is comming from the server and the request takes 1s.
+	setTimeout(function(){
+		element.load('pages/'+page+'.html',function(responseTxt,statusTxt,xhr){
+	    if(statusTxt=="success")
+		    {
+			//Se carga el estado inicial de la animacion
+			var fn = window['inicial_' + page];
+
+			if(typeof fn === 'function')
+			{
+				fn();
+			}
+		    }
+
+	    });
+	}, 500);
+	}
+}
+
+function loadApp() {
+
+	// Create the flipbook
+
+
+
+	$('.book').turn({
+			
+			display: 'single',		
+			// Width
+
+			width:1024,
+			
+			// Height
+
+			height:600,
+
+			// Elevation
+
+			elevation: 50,
+			
+			// Enable gradients
+
+			gradients: true,
+			
+			acceleration: true,
+
+			pages: numberOfPages,
+
+			when: {
+				turning: function(event, page, view) {
+
+					$('#book_loader').css({'display':'block'});
+
+					if (page > 1 )
+						{
+						$('#book_option_home').css({display:'block'});
+						$('#book_option_narracion').css({display:'block'});
+						}
+					else
+						{
+						$('#book_option_home').css({display:'none'});
+						$('#book_option_narracion').css({display:'none'});
+						}
+
+
+					var page_turning = page;
+
+					// Gets the range of pages that the book needs right now
+					var range = $(this).turn('range', page);
+
+					// Check if each page is within the book
+					for (page = range[0]; page<=range[1]; page++)
+						addPage(page, $(this));
+
+
+						audio_manager.pararSonidos();
+						
+						pararAnimaciones(page_turning);
+
+					//Se carga el estado inicial de la animacion
+					var fn = window['inicial_' + page_turning];
+
+					if(typeof fn === 'function')
+					{
+						fn();
+					}
+
+
+
+
+				},
+
+				turned: function(event, page, view) {
+
+					$('#book_loader').animate({opacity:1},{duration:100});
+					
+					switch(page)
+					{
+					case 1:
+						//Para la portada
+						$('#corner_tr').css({'display':'block'});
+						$('#corner_br').css({'display':'block'});
+						$('#corner_tl').css({'display':'block'});
+						$('#corner_bl').css({'display':'block'});		
+					  break;
+					case 5:
+						//Para el cuadro 1
+						$('#corner_tl').css({'display':'block'});
+						$('#corner_bl').css({'display':'block'});
+						$('#corner_tr').css({'display':'none'});
+						$('#corner_br').css({'display':'none'});			
+					  break;
+					case 45:
+						//Para la ultima pagina del cuento
+						$('#corner_tr').css({'display':'block'});
+						$('#corner_br').css({'display':'block'});
+						$('#corner_tl').css({'display':'none'});
+						$('#corner_bl').css({'display':'none'});		
+					  break;	  	  
+					case 46:
+						//Para los creditos
+						$('#corner_tr').css({'display':'block'});
+						$('#corner_br').css({'display':'block'});
+						$('#corner_tl').css({'display':'block'});
+						$('#corner_bl').css({'display':'block'});		
+					  break;	  
+					case 47:
+						//Para la guia
+						$('#corner_tr').css({'display':'block'});
+						$('#corner_br').css({'display':'block'});
+						$('#corner_tl').css({'display':'block'});
+						$('#corner_bl').css({'display':'block'});		
+					  break;	  	  
+
+					default:
+						$('#corner_tl').css({'display':'none'});
+						$('#corner_bl').css({'display':'none'});
+						$('#corner_tr').css({'display':'none'});
+						$('#corner_br').css({'display':'none'});
+
+					}	
+
+
+
+
+
+					var sonidos = audio_pagina[page];
+
+					audio_manager.dispatcher.on('audiosCargados',function(){
+
+						$('#book_loader').animate({opacity:0},{duration:100,complete:function(){
+							$('#book_loader').css({'display':'none'});
+
+
+							var fn;
+							//Se carga la preanimacion si esta definida
+							fn = window['preanimacion_' + page];
+
+							if(typeof fn === 'function')
+							{
+								fn();
+							}	    	
+
+							audio_manager.reproducirSonido('M',page);
+
+							audio_manager.reproducirSonido('N',page);
+
+							}});
+
+						});
+
+					cargarSonidosPagina(sonidos);
+
+
+				},
+
+				missing: function (e, pages) {
+
+					for (var i = 0; i < pages.length; i++) {
+						addPage(pages[i], $(this));
+					}
+
+				}
+
+
+
+			},			
+
+	});
+}
+
+
+$(window).bind('keydown', function(e){
+
+if (e.target && e.target.tagName.toLowerCase()!='input')
+	if (e.keyCode==37){
+
+		switch($('#book').turn('page'))
+		{
+		case 5:
+			//Para la portada
+			$("#book").turn("page",  1)
+		  break;
+		case 46:
+			//Para los creditos
+		  break;
+		case 47:
+			//Para la guia
+		  break;	  
+		default:
+			$('#book').turn('previous');
+		}
+	}
+	else if (e.keyCode==39){
+
+		switch($('#book').turn('page'))
+		{
+		case 1:
+			//Para la portada
+			$("#book").turn("page",  5)
+		  break;
+		case 45:
+			//Para la ultima pagina del cuento
+		  break;
+		case 46:
+			//Para los creditos
+		  break;
+		case 47:
+			//Para la guia
+		  break;
+		default:
+			$('#book').turn('next');
+		}
+	}	
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Load the HTML4 version if there's not CSS transform
+
+yepnope({
+	test : Modernizr.csstransforms,
+	yep: ['js/turnjs/lib/turn.js'],
+	nope: ['js/turnjs/lib/turn.html4.min.js'],
+	both: ['css/basic.css'],
+	complete: loadApp
+});
+
+</script>
+
+</body>
+</html>

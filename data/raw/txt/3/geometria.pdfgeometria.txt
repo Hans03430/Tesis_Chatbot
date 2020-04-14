@@ -1,0 +1,1007 @@
+Serie para la enseñanza en el modelo 1 a 1
+Geometríamaterial de distribución gratuita
+GeometríaSerie para la enseñanza en el modelo 1 a 1
+Paula PodestácompiladoraCompiladora:
+  Paula Podestá,
+ sobre la base de materiales de Educ.ar y Conectar Igualdad
+.Edición y corrección: 
+ Martín Vittón.
+ Diseño de colección:  Silvana Caro.Fotografía:
+ © Francesco de Comite
+ (tapa)
+ y Andreyutzu.Gestión y edición fotográfica:
+ María Angélica Lamborghini (tapa)
+.Coordinación de Proyectos Educ.ar S. E.: Mayra Botta.
+ Coordinación de Contenidos Educ.ar S. E.: 
+Cecilia Sagol.Líder de proyecto: Magdalena Garzón.
+ ISBN: 978-950-00-0863-1Queda hecho el depósito que dispone la ley 11.723.
+
+Impreso en Argentina. Printed in Argentina.
+Primera edición: octubre 2011.
+Geometría /  compilado por Paula Podestá. - 1a ed. - Buenos Aires 
+: Ministerio de Educación de la 
+
+    Nación, 2011.
+
+    32 p. ; 20x28 cm. 
+    ISBN 978-950-00-0863-1          
+    1. Material Auxiliar para la Enseñanza . 2.  Geometría. I. Podestá, 
+Paula, comp.
+
+    CDD 371.33
+AutoridadesPresidenta de la Nación 
+Dra. Cristina Fernández de Kirchner
+Ministro de Educación Prof. Alberto E. Sileoni 
+
+ 
+Secretaria de Educación 
+
+Prof. María Inés Abrile de Vollmer
+Jefe de Gabinete 
+Lic. Jaime Perczyk 
+
+ 
+Subsecretaria de Equidad y Calidad Educativa 
+
+Lic. Mara Brawer 
+Subsecretario de Planeamiento Educativo 
+Lic. Eduardo Aragundi 
+Directora Ejecutiva del 
+INETProf. María Rosa Almandoz
+Directora Ejecutiva del 
+INFOD
+Lic. Graciela Lombardi
+
+Directora Nacional de Gestión Educativa
+Prof. Marisa DíazDirectora Nacional de Formación e Investigación 
+Lic. Andrea Molinari Gerente General Educ.ar S. E. 
+Rubén D™Audia
+Coordinadora Programa Conectar Igualdad 
+Lic. Cynthia Zapata
+Gerenta 
+TIC y Convergencia Educ.ar S. E.
+Patricia Pomiés
+4Hemos emprendido un camino ambicioso: el de sentar las bases para una escuela 
+secundaria pública inclusiva y de calidad, una escuela que desafíe las diferencias, que 
+profundice los vínculos y que nos permita alcanzar mayor igualdad social y educativa para 
+nuestros jóvenes. 
+En este contexto, el Programa Conectar Igualdad, creado por decreto del gobierno nacional 
+N.º 459/10, surge como una política destinada a favorecer la inclusión social y educativa 
+a partir de acciones que aseguren el acceso y promuevan el uso de las 
+TIC
+ en las escuelas 
+secundarias, escuelas de educación especial y entre estudiantes y profesores de los últimos 
+años de los Institutos Superiores de Formación Docente. 
+Tres millones de alumnos de los cuales somos responsables hoy integran el programa 
+de inclusión digital. Un programa en el que el Estado asume el compromiso de poner 
+al alcance de todos y todas la posibilidad de acceder a un uso efectivo de las nuevas 
+tecnologías. 
+Un programa que le otorga a la escuela el desafío de ofrecer herramientas cognitivas y el 
+desarrollo de competencias para actuar de modo crítico, creativo, reflexivo y responsable 
+frente a la información y sus usos para la construcción de conocimientos socialmente 
+
+válidos.
+En nuestro país esta responsabilidad cobró vida dentro de la Ley de Educación Nacional 
+N.º 26.206. En efecto, las veinticuatro jurisdicciones vienen desarrollando de manera 
+conjunta la implementación del programa en el marco de las políticas del Ministerio de 
+Educación de la Nación, superando las diferencias políticas con miras a lograr este objetivo 
+estratégico. 
+Para que esta decisión tenga un impacto efectivo, resulta fundamental recuperar la 
+centralidad de las prácticas de enseñanza, dotarlas de nuevos sentidos y ponerlas a favor 
+de otros modos de trabajo con el conocimiento escolar. Para ello la autoridad pedagógica de 
+
+la escuela y sus docentes necesita ser fortalecida y repensada en el marco de la renovación 
+del formato escolar de nuestras escuelas secundarias.
+Prólogo5Prof. Alberto Sileoni 
+Ministro de Educación de la Nación
+Sabemos que solo con equipamiento e infraestructura no alcanza para incorporar las TIC en el aula ni para generar aprendizajes más relevantes en los estudiantes. Por ello los docentes son figuras clave en los procesos de incorporación del recurso tecnológico al trabajo pedagógico de la escuela. En consecuencia, la incorporación de las nuevas tecnologías, como parte de un proceso de innovación pedagógica, requiere entre otras cuestiones instancias de formación continua, acompañamiento y materiales de apoyo que permitan asistir y sostener el desafío que esta tarea representa.Somos conscientes de que el universo de docentes es heterogéneo y lo celebramos, pues ello 
+indica la diversidad cultural de nuestro país. Por lo tanto, de los materiales que en esta oportunidad ponemos a disposición, cada uno podrá tomar lo que le resulte de utilidad de acuerdo con el punto de partida en el que se encuentra. En tal sentido, las acciones de desarrollo profesional y acompañamiento se estructuran en 
+distintas etapas y niveles de complejidad, a fin de cubrir todo el abanico de posibilidades: desde 
+saberes básicos e instancias de aproximación y práctica para el manejo de las 
+TIC
+, pasando por 
+la reflexión sobre sus usos, su aplicación e integración en el ámbito educativo, la exploración y 
+
+profundización en el manejo de aplicaciones afines a las distintas disciplinas y su integración en el 
+marco del modelo 1 a 1, hasta herramientas aplicadas a distintas áreas y proyectos, entre otros. 
+El módulo que aquí se presenta complementa las alternativas de desarrollo profesional y forma parte de una serie de materiales destinados a brindar apoyo a los docentes en el uso de las computadoras portátiles en las aulas, en el marco del Programa Conectar Igualdad. En particular, este texto pretende acercar a los integrantes de las instituciones que reciben equipamiento 1 a 1 reflexiones, conceptos e ideas para el aula. De esta manera, el Estado Nacional acompaña la progresiva apropiación de las TIC para mejorar prácticas habituales y explorar otras nuevas, con el fin de optimizar la calidad educativa y formar a los estudiantes 
+para el desafío del mundo que los espera como adultos. Deseamos que sea una celebración compartida este importante avance en la historia de la educación argentina, como parte de una política nacional y federal que tiene como uno de sus ejes fundamentales a la educación con inclusión y justicia social.7índice
+Índice Introducción
+ 81 Un enfoque para la enseñanza de la Geometría 10 Enseñar Geometría Dinámica 12 El procesador GeoGebra
+ 13 Información en la web
+ 13 El entorno de trabajo
+ 14 GeoGebra en las clases de Matemática
+ 15 Para comenzar
+ 15 2 Tareas de conceptualización
+ 16 Enseñar Geometría con GeoGebra
+ 16 Secuencia didáctica n.º 1. Teorema de Pitágoras
+ 16 Secuencia didáctica n.º 2. Construcción de circunferencias
+ 18 Secuencia didáctica n.º 3. Movimientos en el plano 203 Tareas de investigación
+ 22 Secuencia didáctica n.º 4. Longitud de la circunferencia
+ 22 Secuencia didáctica n.º 5. Propiedades de los ángulos
+ 23 de un triángulo 4 Tareas de justi˜cación
+ 26 Secuencia didáctica n.º 6. Ángulos inscriptos y semiinscriptos 26 Secuencia didáctica n.º 7. Suma de los ángulos interiores 
+ 27 de polígonos Secuencia didáctica n.º 8. Ángulos determinados por
+ 29 rectas paralelas
+  Conclusión 31Geometría
+8IntroducciónEste material está pensado para acompañar sus tareas como docentes de Matemática 
+en la escuela secundaria, en un momento de cambio sustancial marcado por la inclusión 
+de las netbooks en el aula a partir de la iniciativa del programa Conectar Igualdad.
+En las últimas décadas, las tecnologías de la información y la comunicación (
+TIC) han 
+modificado las relaciones sociales en todos sus aspectos, llegando a redefinir la manera 
+
+de interactuar con el medio. Por esta razón, la introducción de estas tecnologías en el aula 
+supone un nuevo desafío para los docentes.
+Hasta ahora, las prácticas áulicas intentaban responder el siguiente interrogante: 
+¿cómo enseñar Matemática desde los lineamientos de la Didáctica de la Matemática? 
+En este momento, la cuestión es más compleja y la nueva pregunta debería ser: ¿cómo 
+enseñar Matemática desde los lineamientos de su didáctica utilizando las 
+TIC en forma 
+apropiada? La respuesta a este nuevo eje de reflexión está en vías de construcción.
+La actualización disciplinar, el aprender a emplear programas educativos, la incor
+-poración significativa de las 
+TIC en el aula, el estudiar y analizar las propias prácticas son 
+algunas de las acciones que como docentes no podemos dejar de lado.
+9introducción
+En este material hemos pretendido acercarles algunas ideas sobre qué 
+significa enseñar Geometría utilizando GeoGebra, un programa de Geo
+-metría dinámica. A lo largo de estas páginas podrán encontrar un marco 
+general con lineamientos sobre la enseñanza de la Geometría, una pre
+-sentación de GeoGebra y una serie de secuencias didácticas que brindan 
+algunas orientaciones sobre cómo organizar la clase aprovechando las 
+netbooks que poseen los alumnos. Nos parece importante aclarar que este material no es un manual de 
+uso de GeoGebra ni un texto que desarrolla de manera secuencial y jerar
+-quizada contenidos de Geometría. Simplemente son ideas, propuestas y 
+sugerencias para que ustedes evalúen la posibilidad de llevarlas al aula. Es
+-
+tamos convencidos de que ustedes serán capaces de enriquecer y mejorar 
+las ideas que aquí les presentamos.
+Geometría
+10
+Un enfoque para la enseñanza 
+de la Geometría[–] el universo [–] está escrito en lengua matemática y sus caracteres son triángulos, círculos y 
+otras figuras geométricas, sin las cuales es imposible entender ni una palabra; sin ellos, es como girar 
+vanamente en un oscuro laberinto.
+La enseñanza de la Matemática ha cobrado nuevos horizontes a partir del desarro
+-llo de las tecnologías y la posibilidad de que los alumnos de las escuelas secundarias 
+cuenten con netbooks personales. Para el caso particular del trabajo en Geometría, 
+existen numerosos programas de Geometría Dinámica y graficadores que plantean al 
+docente formas inéditas de acercar el conocimiento al alumno. Nos interesa, por tanto, 
+construir una práctica docente a partir de los lineamientos actuales de la Didáctica de 
+la Matemática enmarcada en el potencial que nos brinda el modelo 1 a 1.
+El siguiente gráfico muestra que la construcción de esta práctica, respetando los 
+marcos teóricos de ambos modelos, es totalmente factible:
+1Galileo GalileiEl alumnoser protagonista en su proceso 
+de aprendizaje
+según elmodelo 1 a 1según laDidáctica de la MatemáticaGestionar informaciónInteractuar con recursos 
+tecnológicosAprender en forma 
+colaborativaCompartir y publicar sus producciones
+Investigar y resolver 
+problemas
+Utilizar diversos recursos
+Trabajar en equipo
+Argumentar sus razonamientos 
+y confrontarlos con sus pares
+debe11
+capítulo 1
+En el marco de lo expuesto, focalizaremos la mirada en la enseñanza 
+de la Geometría. Pretendemos alejarnos de enfoques tradicionales en los 
+cuales la presentación ostensiva de los conceptos suele ser muy utilizada. 
+Según Brousseau, ﬁla ostensión es el procedimiento privilegiado para la in
+-troducción precoz de las nociones geométricasﬂ, y si reflexionamos sobre 
+nuestras prácticas docentes, seguramente podremos reconocer rasgos de 
+esa tendencia. 
+Un esquema de clase ostensiva podría ser el siguiente: el docente expli
+-ca qué es un movimiento en el plano, detalla cada uno de los movimientos 
+mostrando imágenes, realiza un ejemplo de traslación en el pizarrón y lue
+-go les pide a los alumnos que resuelvan ejercicios del mismo tipo.
+La enseñanza de la Geometría, por el contrario, supone que los alum
+-nos realicen tareas de distintos tipos, a saber:
+*Tareas de conceptualización.
+ Apuntan a la construcción de con
+-ceptos y de relaciones geométricas partiendo del supuesto de que 
+la mera definición de un concepto no basta para comprenderlo, y 
+que el estudio de diversas representaciones gráficas pueden permi
+-tir una conceptualización completa y adecuada.
+Tareas de investigación. 
+Ponen al alumno en la necesidad de in
+-dagar acerca de las características, propiedades y relaciones entre 
+
+objetos geométricos con el propósito de dotarlas de significados. 
+Tareas de justificación. 
+Apuntan a que el alumno elabore conjetu
+-ras o procedimientos de resolución sobre un determinado proble
+-
+ma para luego explicar, probar o demostrar argumentando la vera
+-cidad de la solución hallada. Estas tareas pueden ser de diferente 
+tipo, según la edad de los alumnos y los objetivos que persiga el 
+docente:
+Tareas de explicación.
+ El alumno debe exponer el razonamiento 
+
+empleado para resolver una situación y todo lo que exprese es 
+sometido a discusión.Tareas de prueba.
+ Se comprueban teorías sin seguir los pasos ri
+-gurosos de una demostración matemática pero que igualmente 
+satisfacen las necesidades de los alumnos. Por ejemplo, cuando 
+
+se prueba que la suma de los ángulos interiores de un triángulo 
+da como resultado 180º.
+Tareas de demostración. 
+El alumno debe realizar una sucesión 
+coherente de pasos que, tomando como verdadero un conjunto 
+de hipótesis, permite asegurar la veracidad de una tesis. Estos 
+pasos deben estar fundamentados en la aplicación de reglas de 
+deducción. Este tipo de tarea se realiza en los años superiores de 
+la escuela secundaria y en la universidad.
+* GARCÍA PEÑA, Silvia y Olga LÓPEZ ESCUDERO
+: La enseñanza de la Geometría, colección Materiales para apoyar la 
+
+práctica educativa, Instituto 
+
+Nacional para la Evaluación de la 
+Educación, México, 2008.
+  Geometría
+12
+Evidentemente, las propuestas de trabajo que se realizan en el aula no 
+siempre pueden enmarcarse en una de estas categorías. Es probable que 
+una tarea que inicialmente apuntó a que el alumno investigara un deter
+-minado tema, más adelante se convierta en una tarea de justificación. 
+
+Así y todo, consideramos que esta categorización nos puede permitir or
+-ganizar el tipo de trabajo que pretendemos realizar en nuestras clases de 
+
+Geometría.
+A continuación presentamos un gráfico que permite visualizar las ha
+-bilidades que los alumnos deberían desarrollar a partir del trabajo con las 
+tareas mencionadas.
+Enseñar Geometría Dinámica
+En la actualidad, enseñar Geometría es una tarea que puede verse enor
+-memente enriquecida por el empleo de procesadores geométricos que lo
+-gran darles dinamismo a las construcciones. De hecho, en estos casos, se 
+habla de Geometría Dinámica. Pero ¿qué es la Geometría Dinámica? Este 
+concepto, introducido por Nick Jackiw y Steve Rasmussen, se aplica a los 
+programas informáticos que permiten a los usuarios, después de haber he
+-
+cho una construcción, mover ciertos elementos arrastrándolos libremente 
+y observar cómo otros elementos responden dinámicamente al alterarse 
+las condiciones previas.
+Hasta el momento, nuestros alumnos sólo podían desarrollar cons
+-trucciones gráficas en papel, con la limitación de que ellas podían carecer 
+de exactitud y, además, eran fijas, con lo cual se restringían las posibilida
+-des de exploración. Como contrapartida, las construcciones con Geome
+-tría dinámica son precisas y permiten, en forma sencilla y rápida, realizar 
+complejizaciones y/o modificaciones posteriores. 
+INVESTIGARCONCEPTUALIZARJUSTIFICARVisualizar
+Transferir lo aprendido
+Comunicar
+Comunicar
+Razonar
+13
+capítulo 1
+En este material hemos elegido, entre la cuantiosa variedad existente, 
+el programa GeoGebra (instalado en todos los equipos portátiles) para 
+abordar algunas de las posibilidades de trabajo que nos presenta este tipo 
+de software. 
+El procesador GeoGebra
+GeoGebra es un programa de Geometría Dinámica desarrollado por 
+Markus Hohenwarter en la Universidad Johannes Kepler de Linz, Austria. 
+Lo interesante de este software es que combina elementos de Geometría, 
+Álgebra, Análisis y Estadística, y que además es libre y gratuito. Otra ven
+-taja de este programa es que funciona en varios sistemas operativos (Win
+-dows, MacOS X, Linux o Solaris).
+GeoGebra fue elaborado con una visión colaborativa, por lo cual es 
+posible acceder a espacios de ayuda, recursos, foros y wikis que usuarios 
+de todo el mundo mantienen en constante renovación.
+Información en la web
+El sitio oficial de GeoGebra es 
+ www.geogebra.org/cms/es
+. En esta 
+web se encuentra todo tipo de información sobre el programa e incluso 
+
+permite descargarlo en forma gratuita. Para comenzar a conocer GeoGe
+-bra, los invitamos a explorar el sitio.
+Se sugiere especialmente la lectura del manual oficial de la versión 3.2 
+en español elaborado por Markus Hohenwarter, Judith Hohenwarter y Li
+-
+liana Saidón desde  www.geogebra.org/help/docues.pdf
+.También se recomienda el material ﬁApuntes sobre GeoGebra... con algu
+-nos toques de Matemáticaﬂ elaborado por Belarmino Corte Ramos editado 
+por el Centro del Profesorado de Recursos de Gijón en 
+ http://web.educas
+-tur.princast.es/cpr/gijon/recursos/mates/ManualGeogebra.pdf
+.Muchos docentes de todo el mundo emplean GeoGebra en sus clases y 
+comparten sus experiencias en la web:
+GeoGebra en la enseñanza de las Matemáticas (curso).
+ http://geogebra.es/cvg/index.html
+Figuras interactivas realizadas con Geogebra:
+  http://docentes.educacion.navarra.es/msadaall/geogebra/ 
+Geometría Dinámica:  www.geometriadinamica.cl
+Geometría Dinámica:  http://geometriadinamica.org/index.html 
+Instituto GeoGebra de Cantabria: 
+ http://geogebra.es/ 
+Geometría
+14
+El entorno de trabajo
+El entorno de trabajo tiene una visualización sencilla, lo cual ayuda a 
+que el uso del programa también lo sea. GeoGebra nos permite obtener 
+tres perspectivas de cada objeto matemático:
+vista gráfica (es la que vemos al iniciar el programa);
+vista algebraica;
+vista de hoja de cálculo (no será trabajada en este material).
+Para acceder a las vistas, basta con hacer clic, por ejemplo, en 
+ Vista 
+> Vista Algebraica
+. Lo interesante de estas tres vistas es que la representación de un mis
+-mo objeto en una de ellas se vincula dinámicamente con las demás en una 
+
+adaptación automática y recíproca que asimila los cambios producidos en 
+cualquiera de ellas, más allá de en cuál haya sido creada originalmente.
+Para comenzar a graficar, basta con seleccionar alguno de los íconos 
+disponibles en la 
+barra de herramientas
+. Estos íconos, además de per
+-mitir realizar el dibujo, incluyen algunas opciones para trabajar con ese 
+
+elemento. Por ejemplo, el botón 
+Polígono 
+ofrece la posibilidad de realizar 
+un polígono o un polígono regular.
+Recuerden que todo objeto creado en la vista gráfica siempre tendrá su 
+correspondiente representación en la vista algebraica.
+Además de esta forma, se pueden crear elementos a través de la 
+barra 
+de entrada
+. La diferencia es que, si se utiliza esta opción, hay que escribir 
+las expresiones algebraicas y al pulsar Enter se verá el elemento. En la barra 
+de entrada es posible trabajar con los comandos que ofrece el programa. 
+
+La lista de comandos 
+se encuentra en la esquina inferior derecha y al hacer 
+clic sobre ese botón se despliega una lista de opciones.
+Si se observa una imagen en vista algebraica, se diferencian los objetos 
+Elije y Mueve                 
+Arrastrar o seleccionar objetos (Esc)
+Archivo     Edita     Vista     Opciones     Herramientas     Ventana     Ayuda
+GeoGebra
+Entrada
+Comando...
+123456012112345678910234Objetos Libres 
+        A = (3.78, 3.06)        B = (1.98, 3.86)        E = (3.24, 0.78)Objetos Dependientes
+        polígono1 = 3.88
+  1  2  3
+  5
+  6
+  7
+  8
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19ABC15
+capítulo 1
+matemáticos libres y los dependientes. Todos los nuevos objetos creados sin 
+emplear ninguno de los ya existentes es un objeto libre. Por el contrario, será 
+un objeto dependiente el que se cree utilizando algún objeto preexistente.
+GeoGebra en las clases de Matemática
+GeoGebra es una herramienta de trabajo que puede ser de utilidad 
+tanto para el docente como para el alumno. Para el docente, porque le 
+permite elaborar materiales didácticos estáticos Œpor ejemplo imágenes, 
+presentaciones, trabajos prácticos, etc.Œ o dinámicos, como demostracio
+-nes dinámicas o applets publicados en una página web o blog. Al alum
+-no le brinda la posibilidad de visualizar conceptos matemáticos, realizar 
+construcciones libres o dirigidas a fin de resolver problemas y/o explorar e 
+investigar hipótesis. 
+Como la incorporación de GeoGebra a las clases de Matemática puede 
+realizarse de varias formas, a continuación les proponemos varias opcio
+-nes de trabajo.
+Para comenzar
+Aquellos docentes que no se encuentran muy familiarizados con el pro
+-grama, pueden comenzar utilizando applets creados por otros profesores. 
+Estos se pueden encontrar con facilidad en distintos sitios de Internet. 
+Pero ¿qué es un applet de GeoGebra? Es un subprograma de GeoGe
+-bra, una construcción realizada con Geogebra que se puede insertar en 
+una página web y permite que el usuario interactúe dinámicamente con él. 
+En el siguiente link pueden ver un ejemplo de applet sobre el Teorema 
+de Thales:  http://www.infoymate7.com/weba/Thales/Thales.html
+.Otra forma de comenzar a explorar el programa es creando materia
+-les didácticos estáticos que representen situaciones problemáticas, como 
+por ejemplo problemas dados por gráficos con los datos incluidos en la 
+imagen. Estos materiales luego pueden ser incluidos en trabajos prácticos 
+o evaluaciones.
+Una vez que se familiaricen con el programa, podrán crear sus propios 
+applets. Les proponemos que luego los publiquen en el sitio de la escuela 
+
+para que estén a disposición del alumnado.
+Obviamente, estas no son las únicas opciones. Confiamos en que la 
+creatividad y profesionalidad de los docentes permitirá recrear y enrique
+-cer las propuestas que les presentamos.
+Geometría
+16
+Tareas de conceptualización
+Enseñar Geometría con GeoGebra
+El sabio comienza por hacer lo que quiere enseñar y después enseña. 
+El propósito de este material es presentar nuevas estrategias de enseñanza para las 
+clases de Geometría aprovechando el potencial que brinda el software GeoGebra.
+A continuación se presenta una serie de secuencias didácticas para el aula que sugie
+-ren el abordaje de distintas temáticas empleando el programa GeoGebra como recurso 
+didáctico. Las secuencias se encuentran agrupadas según el tipo de tarea principal invo
+-lucrada (de conceptualización, de investigación o de justificación).
+Secuencia didáctica n.º 1
+Teorema de Pitágoras
+Esta secuencia tiene como objetivos que el alumno pueda apropiarse del Teorema de Pi
+-tágoras a partir de una conceptualización gráfica utilizando GeoGebra, que pueda formular 
+conclusiones y validarlas, y que sea capaz de investigar y gestionar información relevante so
+-bre el tema. Si bien en Internet encontramos numerosos applets que presentan la demostra
+-ción gráfica del teorema, nos parece interesante que inicialmente los alumnos construyan su 
+propia representación. Para ello les sugerimos darles las siguientes indicaciones.
+1.
+ Construyan un triángulo rectángulo. Nombren sus vértices como A, B y C donde el 
+ángulo Â sea de 90º.2. Sobre cada uno de los lados del triángulo construyan un cuadrado.
+3. ¿Cuál es la longitud de cada lado? Utilicen la herramienta 
+Distancia
+ o 
+longitud para 
+indicarlo en la construcción. 4. ¿Cuál es el área de cada uno de los cuadrados? Utilicen la herramienta 
+Área para 
+indicarlo en la construcción.5. Registren y completen en el cuadro los valores que se obtienen en cada caso (muevan 
+
+los vértices del triángulo hasta alcanzar estos valores):
+2Confucio17
+6. Analicen la tabla y respondan: ¿qué relación existe entre las áreas de 
+los cuadrados construidos sobre los lados del triángulo?
+Una vez realizadas estas actividades, el docente propicia un momento de 
+socialización y puesta en común de lo realizado y sistematiza el Teorema de 
+Pitágoras a partir de lo producido por sus alumnos.
+A continuación, nos interesa que los alumnos se apropien del teorema a 
+partir de diferentes representaciones gráficas. Por esta razón, ahora sí nos pa
+-rece que podemos proponerles a los alumnos que exploren diferentes demos
+-traciones gráficas del Teorema de Pitágoras. Les sugerimos, entre la infinita va
+-riedad existente en la web, la siguiente: Teorema de Pitágoras por Manuel Sada: 
+ http://docentes.educacion.navarra.es/msadaall/geogebra/pitagoras.htm
+. capítulo 2
+Área = 25,38Área = 20,58Área = 4,8CB = 5,04BA = 4,54AC = 2,19Posible producción de los alumnos.
+AB
+CA
+BC
+AB
+2CA
+2BC
+2332014464100Geometría
+18
+Cómo construir los cuadrados¿Qué pueden hacer los alumnos? Algunas sugerencias:
+ Explorar todos los applets, elegir uno para comprender cómo se 
+realiza la demostración gráfica y explicarlo en forma oral.
+ Elegir un applet y reconstruirlo en GeoGebra.
+ Elegir un applet y escribir en lenguaje matemático la demostración 
+
+que se presenta en forma gráfica.
+Como cierre de la clase, el docente puede socializar las producciones 
+de los alumnos según lo que haya propuesto y solicitarles que para la 
+
+próxima clase investiguen quién fue Pitágoras.
+Secuencia didáctica n.º 2
+Construcción de circunferencias
+Esta secuencia tiene como objetivos la construcción de circunferencias 
+para reproducir y crear figuras, conocer y utilizar los conceptos de centro 
+de una circunferencia, radio y diámetro para realizar construcciones, ex
+-plorar las diversas herramientas de construcción que ofrece GeoGebra, y 
+trabajar de manera ordenada y responsable.
+Cómo dibujar un triángulo rectángulo
+Recta que pasa por dos puntos                
+Marcar dos puntos
+654321Recta que pasa por Dos puntos
+Segmento entre Dos Puntos
+Segmento dados Punto Extremo y Longitud
+Semirrecta que pasa por Dos Puntos
+Vector entre Dos Puntos
+Vector desde un Punto
+aUna forma de construir un triángulo rectángulo consiste en trazar primero 
+dos rectas perpendiculares para contar 
+con el ángulo recto. Para ello, utilizar las 
+
+herramientas  Recta que pasa por dos puntos y  Recta perpendicular. Luego, 
+señalar un tercer punto con  Nuevo punto y con la herramienta  Polígono
+ unir los tres vértices del triángulo.Para dibujar los cuadrados, elegir la herramienta 
+ Polígono
+ regular, hacer clic en los vértices de uno de los 
+lados del triángulo, luego escribir ﬁ4ﬂ (este valor suele venir predeterminado) en la ventana que se despliega y 
+
+hacer clic en ﬁOKﬂ.
+Polígono                 
+Vértices uno a uno y 
+˜nalmente 
+reelegir el primero
+Polígono                 
+Vértices uno a uno y 
+˜nalmente 
+reelegir el primero
+19
+Seguramente, los alumnos ya hayan trabajado con el concepto de círcu
+-lo y circunferencia, y se habrán detenido en la construcción de circunferen
+-cias utilizando los elementos de Geometría bajo determinadas condiciones. 
+Teniendo en cuenta esos conocimientos previos, proponemos la siguiente 
+tarea para que realicen en forma individual en sus netbooks, a fin de pro
+-fundizar el concepto de circunferencia y su trazado.
+ 1.
+ Utilizando GeoGebra, reproducir los siguientes dibujos. 
+
+a) Detallar las herramientas utilizadas y las condiciones matemáticas 
+respetadas.
+2. Crear una figura propia con círculos. 
+
+a) Detallar las herramientas utilizadas y las condiciones matemáticas 
+
+respetadas.
+3. Mostrarle a un compañero la figura creada y pedirle que la reproduz
+-ca. Luego, evaluar si la tarea fue exitosamente lograda.
+Consideramos conveniente observar el trabajo de los alumnos, orien
+-tar y valorar las producciones que se van realizando en el aula. Se espera 
+que al finalizar la intervención todos los alumnos hayan podido resolver 
+las actividades y que estas hayan sido evaluadas.
+capítulo 2
+Cómo construir circunferencias
+Hay varias opciones para gra˜car circunferencias. Veamos cuáles son:
+Circunferencia dados su Centro y uno de sus Puntos
+  Circunferencia dados su Centro y Radio
+Compás
+Circunferencia dad
+os Tres de sus Puntos
+ Geometría
+20
+Secuencia didáctica n.º 3
+Movimientos en el plano
+Esta secuencia tiene como objetivos investigar en Internet gestionando 
+en forma adecuada la información obtenida; emplear applets de manera 
+reflexiva para inferir conceptos matemáticos; identificar los movimientos 
+en el plano presentes en teselados; utilizar GeoGebra para el diseño de 
+teselados y trabajar de manera ordenada y responsable.
+En la presente propuesta se pretende abordar el cubrimiento del 
+plano mediante teselados, a fin de que los alumnos puedan establecer 
+relaciones con la realidad y reconocer los diversos movimientos impli
+-cados. 
+¿Qué es un mosaico o teselado? Es el cubrimiento del plano median
+-te piezas llamadas teselas que no pueden superponerse ni pueden dejar 
+huecos sin recubrir, y en las que los ángulos que concurren en un vértice 
+suman 360°. Existen muchas formas de obtener un mosaico. Los más 
+sencillos están formados por un único tipo de polígono regular, como el 
+triángulo equilátero, el cuadrado o el hexágono regular. Si los alumnos 
+cuentan con conexión a Internet, sería interesante que busquen y elijan 
+imágenes de teselados en Internet y que las guarden en sus equipos. 
+1.
+ Pueden proponerles a sus alumnos que visiten el 
+sitio del holandés 
+M. C. Escher
+, uno de los artistas gráficos más grandes del siglo 
+XX
+. Algunas de sus obras ponen en juego movimientos como los que se 
+pretenden trabajar en la clase. Se les podría pedir a los alumnos que 
+conozcan al artista a partir de la lectura de su biografía y que luego 
+se detengan en sus obras de arte 
+Symmetry
+. Luego, sería interesante generar un momento de diálogo con los 
+
+alumnos a partir de alguna de las obras del autor, con la intención 
+de indagar sobre los movimientos que se han empleado para lograr 
+la composición. Para enriquecer este diálogo, proponemos que los 
+alumnos exploren algunos de los applets que se encuentran en el si
+-guiente enlace: 
+ http://docentes.educacion.navarra.es/msadaall/
+geogebra/escher.htm 
+[consultado el 24/3/2011].
+2. Sugerimos proponerles las siguientes consignas a los alumnos: 
+ Elegir una de las ilustraciones sobre las teselaciones de Escher.
+ Estudiar de manera reflexiva cómo se genera la composición.
+ Enumerar los movimientos que se han realizado.
+ Compartir con un compañero las apreciaciones realizadas y evaluar 
+
+si son correctas.
+ www.mcescher.com
+ La página está en inglés, pero 
+utilizando el traductor de Google 
+se puede leer en castellano 
+[consultado el 24/3/2011].
+21
+capítulo 2
+ Intentar reproducir parte de alguna de las teselaciones de Escher en 
+GeoGebra. Para ello pueden utilizar cualquiera de las imágenes que 
+aparecen en el sitio provisto en la página anterior.
+ Empleando GeoGebra y las herramientas matemáticas necesarias, 
+crear un mosaico o teselado personal.
+Cómo realizar movimientos
+Cómo insertar una imagenEntrada
+Comando...
+Archivo     Edita     Vista     Opciones     Herramientas     Ventana     Ayuda
+GeoGebra
+12012112345678234Re˜eja Objeto en Recata                 Objeto a re˜ejar, luego eje de re˜exión
+Re˜eja Objeto en Recta
+Re˜eja Objeto por Punto
+Re˜eja Punto en Circunferencia 
+Rota Objeto en torno a Punto, al Ángulo indicado
+Traslada objeto por  un Vector 
+Homoteciadesde un Punto por un Factor de Escala
+akObjetos Libres 
+Objetos Dependientes
+En primer lugar, la imagen debe estar guardada en la netbook. Para insertarla en la vista grá˜ca, hay que hacer clic en 
+el ícono  Deslizador y allí elegir la opción  Inserta imagen. Luego, hacer clic en la zona de la vista grá˜ca en la 
+que se desea insertar la imagen. Allí se abre una ventana desde la cual se puede elegir la imagen deseada.
+Las transformaciones que se utilizan en esta propuesta son las señaladas en la siguiente imagen:
+
+
+
+para que aparezca una ventana desde la cual se puede especi˜car la amplitud del ángulo de rotación. Luego de 
+
+aceptar, se operará la rotación.
+
+traslación. Previo a la traslación debe de˜nirse un vector. Para ello en el botón 
+Recta que pasa por dos puntos  
+
+elegir alguna de las dos opciones que se presentan: 
+Vector entre dos puntos o Vector desde un punto.Traslación Simetría axialRotación Simetría centralTransformaciones geométricasGeometría
+22
+Secuencia didáctica n.º 4
+Longitud de la circunferencia
+En esta secuencia se pretende que los alumnos puedan investigar y deducir, a partir de 
+la interacción con un applet, la fórmula que permite calcular la longitud de una circun
+-ferencia. En este proceso descubrirán la existencia del número ˜ y su valor aproximado.
+Les sugerimos iniciar la clase proponiendo a los alumnos que, en pequeños grupos de 
+trabajo, cada uno con su netbook, exploren el applet ﬁLongitud de una circunferenciaﬂ 
+que se encuentra en 
+ http://www.geogebra.org/en/upload/files/xuxo/geogebra_co
+-baem/circunferencia_perimetro.html
+. El autor de este applet ha incluido una serie de cuestiones para orientar el estudio 
+del tema. Los docentes pueden optar por utilizar, descartar o modificar esas cuestio
+-nes Œque veremos a continuaciónŒ según los grupos de alumnos y los objetivos que se 
+
+hayan propuesto.
+1.
+ ¿Cuál es la longitud de la circunferencia de diámetro 1?
+2. Volvé a la posición inicial y deslizá ahora el punto azul hasta visualizar la circunferen
+-cia de diámetro 2. ¿Cuál es ahora su perímetro?
+3. ¿Cuántas veces más largo es el perímetro de la circunferencia que su diámetro? Probá 
+con el círculo de diámetro 6 (hacer zoom a la imagen dando clic derecho sobre la zona 
+gráfica y eligiendo zoom y 25%). 
+Tareas de investigación
+3-1-00.511.522.533.544.555.566.5-0.5-10.511.522.53001.236323
+capítulo 3
+4. ¿Cómo puede calcularse el perímetro de un círculo (circunferencia) 
+conociendo su diámetro? 5. ¿Cómo explicarías qué es pi?
+Una vez que los alumnos hayan finalizado esta primera parte, es oportu
+-no que se realice una puesta en común en relación con las conclusiones a las 
+cuales ha arribado cada grupo. 
+Seguramente se planteará el interrogante ﬁ¿qué es ˜?ﬂ. Es un buen dis
+-parador para promover la búsqueda y gestión de información que permita 
+dar respuesta a la inquietud presentada. Sugerimos que el docente les pro
+-ponga a los alumnos investigar en la web: Definición de ˜
+ Valor de ˜
+ Historia de ˜Si los alumnos consultan únicamente Wikipedia, el docente puede pro
+-poner que busquen en otros sitios o bien dar una lista de enlaces que 
+previamente haya evaluado. Por ejemplo:
+ Bienvenido a la página de pi. Alrededor de pi:
+  http://webs.adam.es/rllorens/pihome.htm 
+ Red Escolar. ¿Qué es pi?:
+  http://redescolar.ilce.edu.mx/educontinua/mate/lugares/que_
+es_pi/pi.htmPara finalizar la clase, y a modo de institucionalización del tema, les su
+-gerimos emplear un video de Adrián Paenza en el cual se refiere al número 
+en cuestión (capítulo 13 de Alterados por pi, de Canal Encuentro). Pueden 
+encontrar un fragmento del programa en 
+ http://www.encuentro.gov.ar/
+nota-2628-Buscando-al-numero-Pi.html 
+o bien acceder a todo el capítulo 
+en  http://descargas.encuentro.gov.ar/emision.php?emision_id=95
+.Secuencia didáctica n.º 5
+Propiedades de los ángulos de un triángulo
+En esta secuencia partimos del supuesto de que los alumnos han traba
+-jado previamente con el concepto de triángulo, sus elementos, su clasifica
+-ción según sus ángulos y sus lados, su construcción dados diversos elementos 
+tanto con lápiz y papel como también con GeoGebra, y han demostrado la 
+propiedad de los ángulos interiores de un triángulo.
+Geometría
+24
+Se espera que los alumnos puedan utilizar GeoGebra para resolver proble
+-mas e investigar propiedades de los ángulos de los triángulos, como así tam
+-bién que sean capaces de inferir las propiedades y enunciarlas correctamente.
+En este punto, nos interesa que los alumnos investiguen las siguientes 
+propiedades:
+ En todo triángulo, la suma de los tres ángulos exteriores es igual a 
+360º. En todo triángulo, cada ángulo exterior es igual a la suma de los dos 
+
+ángulos interiores no adyacentes. 
+Para iniciar la clase, los alumnos pueden resolver, utilizando GeoGe
+-bra, la siguiente actividad.
+1.
+ Construyan un triángulo cualquiera y nombren a sus vértices A, B y C.
+2. Señalen sus ángulos exteriores y nómbrenlos como 
+,  y .3. Analicen los valores de los ángulos exteriores para distintos triángulos 
+(muevan los vértices para obtener diversas medidas) y estimen: ¿cuál 
+
+es el valor de su suma?4. Ingresen la fórmula para sumar los ángulos exteriores y comprueben la 
+respuesta anterior.
+5. Formulen la propiedad de los ángulos exteriores de un triángulo.
+Antes de continuar con la otra propiedad, sugerimos realizar una 
+puesta en común en la que se presenten las conclusiones a las cuales se 
+arribaron, a fin de que el docente pueda formalizar el saber construido 
+por el grupo de alumnos.
+Seguidamente, pueden sugerirles a los alumnos que resuelvan una 
+nueva propuesta de actividades en forma grupal empleando GeoGebra, 
+Posible resolución de la actividad.
+ = 91,85º = 134,9º = 133,26ºABC‹‹‹25
+capítulo 3
+cada uno en su netbook, y debatiendo con los compañeros las respues
+-tas a cada consigna.
+1.
+ Dibujen un triángulo ABC cualquiera.
+2. Señalen sus ángulos interiores.
+3. Señalen sus ángulos exteriores y nómbrenlos como 
+,  y .4. Completen la siguiente tabla y busquen alguna regularidad entre las 
+medidas de los ángulos de distintos triángulos.Si los alumnos no están habituados a este tipo de trabajo de inves
+-tigación y de búsqueda de regularidades, se puede proponer esta otra 
+tabla que dirige un poco más el establecimiento de las relaciones.
+5. Enuncien la conclusión a la cual arribaron en el punto 4.Sugerimos al docente finalizar la propuesta socializando los razona
+-mientos de los alumnos y formulando correctamente los enunciados de 
+las propiedades inferidas. Para una próxima intervención sería adecuado, 
+
+en función del grupo, continuar con las demostraciones matemáticas de 
+estas propiedades.
+Â‹B‹CTriángulo 1
+Triángulo 2
+Triángulo 3
+Triángulo 4
+‹‹‹Â‹BTriángulo 1
+Triángulo 2
+
+Triángulo 3
+
+Triángulo 4
+‹‹‹‹Geometría
+26
+Tareas de justificación
+Secuencia didáctica n.º 6
+Ángulos inscriptos y semiinscriptos
+Esta secuencia tiene como objetivos: inferir propiedades a partir del uso de applets y 
+de GeoGebra; formular propiedades utilizando el lenguaje matemático apropiado, y crear 
+situaciones problemáticas y resolverlas.
+Sugerimos proponer a los alumnos que trabajen con el applet que encontrarán en el 
+siguiente enlace: 
+ http://www.geogebra.org/en/upload/files/xuxo/geogebra_cobaem/
+circunferencia_angulo.html 
+[consultado el 25/3/2011]. 
+Cada alumno en su netbook podría comenzar interactuando en forma libre con el 
+applet y luego responder los interrogantes que se plantean en la misma pantalla, para 
+
+socializar luego las respuestas con su grupo de trabajo.
+Cuando todos los grupos finalicen, sería conveniente realizar una puesta en común en 
+la que se logre arribar al enunciado de las propiedades: 
+ ﬁTodo ángulo inscripto en un arco de circunferencia es igual a la mitad del ángulo 
+central correspondiente.ﬂ
+ ﬁTodo ángulo semiinscripto en un arco de circunferencia es igual a la mitad del 
+
+ángulo central correspondiente.ﬂ
+A continuación, proponemos solicitar a los alumnos que demuestren la primera pro
+-piedad para el caso en que el centro pertenezca a uno de los lados del ángulo inscripto. Se 
+
+espera que los alumnos puedan realizar un procedimiento similar al siguiente ayudándose 
+con una construcción realizada en GeoGebra:
+4En el applet se hace 
+referencia al ángulo 
+exinscrito como 
+semiinscripto.
+ = 99,46º = 49,73º D = 49,73º C B A
+EF27
+capítulo 4
+Una vez finalizada la tarea, sería conveniente generar una puesta en 
+común en la que los alumnos se vean en la necesidad de formular sus 
+conjeturas utilizando un lenguaje matemático adecuado y verificando ma
+-temáticamente las propiedades inferidas.
+Sugerimos recuperar los aportes de los alumnos utilizando alguna de 
+las representaciones realizadas por ellos e institucionalizar las propiedades 
+deducidas.Secuencia didáctica n.º 7
+Suma de los ángulos interiores de polígonos
+Esta secuencia tiene como objetivos que los alumnos infieran la fórmu
+-la para el cálculo de la suma de los ángulos interiores de un polígono y que 
+
+utilicen el programa GeoGebra para la resolución de situaciones proble
+-máticas. Les sugerimos presentar a sus alumnos las siguientes actividades 
+para resolver en pequeños grupos, trabajando cada uno con su netbook, 
+
+y confrontando permanentemente con sus pares las construcciones y re
+-sultados obtenidos.
+1.
+ ¿Cuál es la suma de los ángulos interiores de los polígonos que figuran 
+en el cuadro? a) Construir los polígonos en GeoGebra.
+b) Calcular la suma de los ángulos interiores de cada uno utilizando las 
+
+herramientas del programa.
+Cómo gra˜car ángulosbotón Cbotón A
+botón BPara gra˜car una circunferencia se hace clic en el botón A
+ y se elige alguna de las tres primeras opciones, 
+dado que se necesita el centro.
+Luego se marcan los puntos sobre la circunferencia que determinan el ángulo central.
+Para señalar el ángulo, se hace clic en el 
+botón B eligiendo la primera opción. Para delimitar el ángulo 
+
+se debe hacer clic en los tres puntos que lo determinan. Hay que tener en cuenta que el orden en que se 
+
+
+
+correspondientes mediante la segunda opción del botón C.Geometría
+28
+c) A partir de lo observado, completar un cuadro como el siguiente:
+2. Conservando los grupos armados al principio de la actividad, estudiar 
+los resultados obtenidos y responder:
+ ¿Qué tienen en común los resultados obtenidos en la última columna? 
+ ¿Hay alguna forma de prever cuánto va a ser la suma de los ángulos 
+interiores de un decágono, un dodecágono o un icoságono? Pensar una 
+fórmula que refleje su razonamiento y probar si es válida.
+Una vez que los alumnos hayan concluido las actividades, es recomen
+-dable que se genere una puesta en común a fin de socializar las produccio
+-nes de cada grupo. El docente puede orientar el debate a fin de arribar a la 
+fórmula que permite el cálculo de la suma de los ángulos interiores de un 
+polígono: Suma de áng. int. = 180° (n - 2)A continuación, se puede pedir a los alumnos que expliquen la fórmula 
+obtenida. Se pretende que puedan vincular la cantidad de triángulos que 
+quedan determinados por las diagonales que concurren en uno solo de los 
+vértices de cualquier polígono.
+Aconsejamos cerrar la intervención institucionalizando el saber elabo
+-rado por los alumnos para darle carácter formal.
+Cómo gra˜car polígonosPara gra˜car polígonos de n lados, hacer clic en el botón 
+Polígono
+. Luego, hacer clic en la vista grá˜ca tantas veces 
+como lados tenga el polígono deseado.
+
+herramientas.Polígono                 
+Vértices uno a uno y 
+˜nalmente 
+reelegir el primero
+Polígono                 
+Vértices uno a uno y 
+˜nalmente 
+reelegir el primero
+POLÍGONO
+CANTID
+AD D
+E L
+ADOS
+SUM
+A D
+E LOS 
+ÁNGULOS INT
+ERIOR
+ESTriángulo
+Cuadrilátero
+
+Pentágono
+
+Hexágono
+
+Heptágono
+
+Octógono
+Eneágono29
+capítulo 4
+Secuencia didáctica n.º 8
+Ángulos determinados por rectas paralelas
+Esta secuencia tiene como objetivos inferir propiedades de los ángulos y 
+verificar los enunciados utilizando argumentos válidos, emplear GeoGebra 
+para resolver situaciones problemáticas y trabajar en forma colaborativa con 
+sus pares.
+En clases previas se ha trabajado con los alumnos la clasificación de los 
+ángulos comprendidos entre dos paralelas cortados por una transversal. De 
+esta forma, los alumnos son capaces de identificar cuáles son los ángulos 
+alternos internos y externos, conjugados internos y externos, y correspondien
+-tes. También han comprobado que los ángulos correspondientes entre para
+-lelas son congruentes. Se pretende ahora que los alumnos infieran y prueben 
+las propiedades de los ángulos alternos. Para ello, sugerimos trabajar consig
+-nas como las siguientes:
+1.
+ Con tu netbook, en GeoGebra, trazá dos rectas paralelas cortadas por 
+una transversal. Luego: 
+a) Ubicá un par de ángulos alternos externos.
+ ¿Cómo son entre sí?
+ ¿Qué ocurre si modificás la dirección de la transversal o de las 
+paralelas? ¿Cómo resultan las amplitudes de los ángulos?
+ ¿Esto ocurre también para el otro par de ángulos alternos externos?
+b) Ubicá un par de ángulos alternos internos.
+Cómo calcular la suma de los ángulosPara que el programa calcule y visualice la suma de los ángulos 
+haciendo clic en el botón Deslizador 
+y elegir Inserta texto
+ventana y en ella se debe introducir 
+ángulos =ﬂ + (
+ +  +  +  + )/°
+Hay que tener en cuenta que si no 
+se agrega ﬁ/°ﬂ el resultado será 180, 
+
+dado que GeoGebra asume que la 
+suma debe estar comprendida entre 
+0° y 360°. Esta notación quiere decir 
+
+Entrada
+Comando...
+Archivo     Edita     Vista     Opciones     Herramientas     Ventana     Ayuda
+GeoGebra
+Deslizador               Clic en Vista Grá˜ca donde irá el Deslizador
+Deslizador
+Casilla de Control para Ocultar Objetos
+Inserta Texto
+Inserta Imagen
+Objetos Libres 
+Objetos Dependientes
+123456012112345678234Relación entre Dos Objetos
+b?Geometría
+30
+ ¿Cómo son entre sí?
+ ¿Qué ocurre si modificás la dirección de la transversal o de las 
+paralelas? ¿Cómo resultan las amplitudes de los ángulos?
+ ¿Esto ocurre también para el otro par de ángulos alternos inter
+-nos?
+2. Trabajá con un compañero:
+a) Enuncien las propiedades que verifican los ángulos alternos entre pa
+-ralelas.
+b) Intenten probar los enunciados de las propiedades descubiertas.
+Una vez finalizada la tarea, resulta oportuno generar una puesta en co
+-mún en la que los alumnos tengan la necesidad de formular sus conjeturas 
+
+utilizando un lenguaje matemático adecuado y verificar matemáticamente 
+las propiedades inferidas.
+Sugerimos recuperar los aportes de los alumnos utilizando alguna de 
+las representaciones realizadas por ellos e institucionalizar las propiedades 
+
+deducidas.Cómo gra˜car rectas paralelas
+Recta que pasa por dos puntos, que se encuentra cuando se 
+
+despliega la caja del segundo botón del 
+menú. Una vez gra˜cada la primera recta, 
+
+para representar una paralela se elige la 
+opción Recta paralela desde el cuarto 
+botón del menú.Entrada
+Comando...
+Archivo     Edita     Vista     Opciones     Herramientas     Ventana     Ayuda
+GeoGebra
+Recta Perpendicular                
+Punto y recta perpendicular 
+Recta perpendicular
+Recta Paralela 
+Mediatriz 
+Bisectriz
+Objetos Libres 
+Objetos Dependientes
+1234560121123456782Tangentes
+Recta Polar y Diametral
+Ajuste Lineal 
+Lugar Geométrico
+Cómo señalar ángulosPara poder representar ángulos, es preciso antes señalar los puntos necesarios sobre las rectas para poder 
+determinarlos. Lo interesante de la construcción lograda es que el alumno puede mover las rectas, con lo cual los 
+
+valores iniciales se van modi˜cando. Hay que tener en cuenta que GeoGebra no trabaja con medidas en sistema 
+
+31
+capítulo 4
+Conclusión
+Hasta aquí hemos presentado algunas secuencias didácticas que pue
+-den ser orientativas sobre cómo incorporar el uso de GeoGebra en la en
+-señanza de la Geometría.Las nuevas tecnologías abren un nuevo abanico de posibilidades para 
+enseñar en la escuela secundaria. Estamos convencidos de la necesidad de 
+enseñar Matemática a partir de la resolución de problemas involucrando 
+
+al alumno en un proceso activo de construcción del conocimiento. El mo
+-delo 1 a 1 enriquece y potencia esta idea. El desafío que se nos presenta 
+es construir o reconstruir prácticas áulicas aprovechando el potencial de 
+programas como GeoGebra.
+Los invitamos a diseñar secuencias didácticas propias que hagan realidad 
+la idea de mejorar los procesos de enseñanza y aprendizaje a través de la mo
+-dificación de las formas de trabajo en el aula y en la escuela incluyendo las 
+TIC
+, uno de los objetivos del programa Conectar Igualdad.
+Serie para la enseñanza en el modelo 1 a 1
+Este libro se terminó de imprimir 
+en el mes de octubre de 2011,
+ en Gráfica Pinter, Diógenes Taborda 48, 
+Ciudad de Buenos Aires.
+Serie para la enseñanza en el modelo 1 a 1
+Geometríamaterial de distribución gratuita

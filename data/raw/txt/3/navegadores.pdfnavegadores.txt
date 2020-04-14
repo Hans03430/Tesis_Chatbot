@@ -1,0 +1,472 @@
+Navegadores
+ 
+ 
+Para poder acceder a la World
+ 
+Wide Web es necesario emplear un programa 
+cliente de este servicio. A estos clientes se los suele denominar "browsers" o 
+"navegadores", ya que al movernos de un servidor web a otro es como si 
+estuviésemos "navegando" por
+ 
+la red.
+ 
+Los navegadores han sido f
+undamentales para la popularización de internet, 
+principalmente debido a su facilidad de manejo para usuarios no expertos en 
+informática, y a que permiten capturar cualquier documento de internet, 
+independientemente de su localización y formato, y presenta
+rlo al usuario. Gracias 
+a esto no es necesario seguir los complicados pasos que requería el sistema Unix 
+para realizar, por ejemplo, la transferencia de un archivo por ftp.
+ 
+Los navegadores ofrecen una interfaz gráfica que permite navegar por la red 
+simplem
+ente usando el mouse en un soporte multimedia, para realizar cualquier 
+tipo de búsquedas y encontrar lo que deseamos.
+ 
+Básicamente, los navegadores son visualizadores de documentos escritos en 
+lenguaje HTML, los cuales pueden incluir texto, gráficos, sonido
+s, enlaces (links) a 
+otros documentos o servidores web.
+ 
+Internet Explorer (IE)
+ 
+Es el navegador de Microsoft y viene junto con los sistemas operativos de 
+Microsoft, Windows98, Windows2000 y WindowsXP. Por lo tanto, si tiene uno de 
+estos sistemas no habrá ne
+cesitado instalar IE porque se instala junto con el 
+sistema operativo.
+ 
+Elementos de la pantalla inicial
+ 
+Al iniciar IE aparece una pantalla como esta. Para que conozca los nombres de los 
+diferentes elementos los hemos puesto en color rojo y los vamos a ir d
+escribiendo 
+en orden.
+ 
+Así podrá saber a qué nos referimos en la guía cuando hablemos de la 
+barra de 
+Menús
+ 
+o de la 
+barra de Direcciones
+.
+ 
+ 
+La barra de Título
+ 
+Está en la primera línea de la pantalla, con fondo azul, y en ella aparece el título de 
+la página web seguida por "Microsoft Internet Explorer". No confundir este título 
+con la dirección de la página web (URL). El título de la página web suele ser una 
+desc
+ripción del contenido de la página. En este caso es una página web en blanco 
+llamada 
+about:blank
+ 
+y que utilizaremos a lo largo de este tema para no 
+despistarnos con el contenido de otra página web.
+ 
+ 
+La barra de Menús
+ 
+Desde los menús de esta barra se puede
+n ejecutar todos los comandos de IE. Al 
+hacer clic sobre un menú se despliegan las opciones correspondientes, para que 
+elijamos una.
+ 
+ 
+Las opciones no disponibles en un determinado momento aparecen sin iluminar.
+ 
+La barra de Herramientas estándar
+ 
+Contiene íconos para ejecutar de forma inmediata algunos de los comandos más 
+habituales, como 
+Avanzar, Retroceder, Actualizar
+,
+ 
+etc. En el siguiente punto 
+veremos con más detalle algunos de los más utilizados.
+ 
+ 
+La barra de Direcciones
+ 
+Contiene la dirección
+ 
+URL de la página actual.
+ 
+ 
+Podemos escribir una nueva dirección: basta con colocar el cursor donde vamos a 
+escribir, hacer clic y teclear la nueva dirección. Para ir a la página pulsar la tecla 
+Intro
+ 
+o hacer clic en el botón de la derecha 
+Ir a
+. Las direcc
+iones a veces son largas 
+y difíciles de escribir, pero hay dos formas de hacerlo más fácilmente:
+ 
+ 
+1. 
+-
+En primer lugar, existe el botón con un triángulo que está a la derecha del 
+espacio para la dirección: al hacer clic aparece una 
+lista desplegable
+ 
+con las
+ 
+últimas direcciones tecleadas: si aparece la que queremos, haciendo clic sobre ella 
+queda seleccionada.2.
+-
+En segundo lugar existe la opción de 
+autocompletar,
+ 
+que 
+consiste en que al teclear las primeras letras de una dirección se presenta 
+automáticamente una lista con las direcciones que IE tiene almacenadas y que 
+comienzan con esas letras. Si hay alguna que nos interesa basta con hacer clic para 
+seleccionarla.
+ 
+ 
+En esta imagen puede ver la lista que nos presenta IE al teclear la letra "a". Observe 
+que no ha sido necesario teclear "http://". Podemos seleccionar en la lista, por 
+ejemplo, http://www.educ.ar, y sólo habremos necesitado teclear la letra "e" para 
+enc
+ontrar la dirección de educ.ar.
+ 
+ 
+Por supuesto, IE sólo puede almacenar aquellas direcciones que ya hemos visitado 
+previamente.
+ 
+El área de la página web
+ 
+Es la zona donde reside el contenido de la página web. Como la mayoría de las 
+ventanas de Windows, a la 
+ventana de IE se le puede cambiar el tamaño. Para eso, 
+hay que pulsar en el botón 
+resize
+ 
+de la esquina superior derecha, y ajustar el 
+tamaño arrastrando desde los márgenes de la ventana.
+ 
+ 
+La mayoría de las páginas web están diseñadas para adaptar el conten
+ido al 
+tamaño de la ventana; cuando la ventana es tan pequeña que algunas imágenes ya 
+no caben, aparecen automáticamente unas barras de desplazamiento horizontales 
+que permiten mover la ventana a izquierda y derecha para ver el contenido. Las 
+barras de des
+plazamiento verticales casi siempre están presentes.
+ 
+La línea de Estado
+ 
+Contiene información sobre el estado de la página. Por ejemplo, le indicará si la 
+página se está cargando, o si falta cargar algunas imágenes. Cuando la página está 
+cargada aparece la 
+palabra "Listo". También aparece una barra azul que se va 
+rellenando proporcionalmente al avance de la carga de la página, lo que permite 
+tener una idea de lo que va a tardar la carga en completarse.
+ 
+ 
+En esta zona también pueden aparecer mensajes escritos 
+por el autor de la página.
+ 
+ 
+Vamos a ver uno a uno los íconos de esta barra. Son los más utilizados y 
+conviene conocerlos bien.
+ 
+Atrás
+ 
+ 
+Permite ir a la página que acabamos de visitar. Volvemos hacia atrás.
+ 
+Adelante
+ 
+ 
+Después de utilizar el ícono 
+Atrás
+, per
+mite ir hacia adelante. Es decir volver a 
+avanzar lo que antes se retrocedió.
+ 
+Detener
+ 
+ 
+Detiene la carga de la página. Para navegar por internet hacemos clic en un 
+hiperenlace que contiene la dirección (URL) de una página, y el navegador intenta 
+acceder al servidor donde está esa página para cargarla. El proceso de cargar una 
+página puede dur
+ar desde un segundo a varios minutos. Mientras el sistema 
+intenta cargar la página, el cursor toma la forma de un reloj de arena. Si queremos 
+detener el proceso de cargar la página podemos hacer clic en este ícono. Si ya se 
+había cargado parte de la página
+, quedará en ese estado. Por ejemplo, puede 
+haberse cargado el texto y faltar cargar algunas imágenes, con lo cual veremos la 
+página incompleta.
+ 
+Actualizar
+ 
+ 
+Vuelve a cargar la página actual. Podríamos preguntarnos 
+para qué sirve volver a 
+cargar la misma p
+ágina
+, si ya la tenemos cargada. Vamos a ver tres casos en los 
+que es conveniente utilizar este comando.
+ 
+ 
+1.
+ 
+Cuando visitamos una página el navegador la guarda en nuestro disco duro. Así, 
+si volvemos a visitarla la toma del disco y no necesita volver a acc
+eder al servidor 
+para cargarla de nuevo. Esto tiene la ventaja de ahorrar mucho tiempo en la carga, 
+pero el inconveniente de que no veremos la última versión de la página.
+ 
+ 
+Si la página ha sido modificada después de ser guardada en el disco, estaremos 
+vien
+do una versión antigua, sin las últimas modificaciones. Pero si pulsamos el 
+ícono 
+Actualizar
+ 
+obligamos al navegador a tomar la página de internet. Así, 
+nos 
+aseguramos de tener la última versión
+. Esto es útil para páginas que cambian 
+frecuentemente de 
+contenido, como por ejemplo las de noticias.
+ 
+ 
+2.
+ 
+A veces durante el proceso de carga de una página se produce un error, o la 
+página 
+no acaba nunca de cargarse.
+ 
+En estos casos hay que pulsar el botón 
+Detener
+ 
+y luego 
+Actualizar
+ 
+para iniciar la carga de nuevo
+.
+ 
+ 
+3.
+ 
+Si ha pulsado el botón 
+Detener
+ 
+por 
+error
+, debe pulsar 
+Actualizar
+ 
+para cargar la 
+página.
+ 
+Inicio
+ 
+ 
+Se carga la página inicial.
+ 
+Búsqueda
+ 
+ 
+Este ícono abre una ventana con la utilidad de búsqueda de Microsoft. Se puede 
+configurar para que utilice el busc
+ador de Telépolis o de MSN. De momento no se 
+pueden incluir otros buscadores.
+ 
+Favoritos
+ 
+ 
+Lo veremos con detalle en el siguiente punto.
+ 
+Historial
+ 
+ 
+Este comando nos permite saber qué páginas hemos visitado en los últimos días. IE 
+va guardando en un archivo
+ 
+las direcciones de las páginas que vamos visitando.
+ 
+Favoritos o marcadores
+ 
+Para visitar una página web puede teclear su dirección en la barra de direcciones, o 
+llegar a ella través de un hiperenlace o desde un buscador. Cuando encontramos 
+una 
+página que n
+os interesa
+ 
+podemos 
+anotar
+ 
+en algún lugar 
+su dirección
+, o el 
+modo en que llegamos a ella. Pero lo más sencillo es agregarla a nuestros 
+Favoritos
+. Es decir, guardarnos su dirección utilizando las facilidades que 
+proporciona el propio navegador IE. Cuando 
+queramos visitar esa página sólo 
+tendremos que buscarla en nuestros Favoritos y hacer clic.
+ 
+ 
+Al principio sólo tendremos unas pocas páginas en Favoritos, por lo que de un 
+vistazo las veremos todas. Pero poco a poco iremos añadiendo más y más páginas 
+hasta 
+que ya sea un poco más difícil encontrar la que buscamos. Afortunadamente 
+podemos organizar nuestros favoritos en carpetas y subcarpetas, tal comolo 
+hacemos en el disco duro. Así nos resultará más fácil la búsqueda dentro de 
+Favoritos.
+ 
+ 
+A continuación vamo
+s a ver con detalle cómo acceder a Favoritos, y agregar y 
+organizar Favoritos.
+ 
+Formas de acceder a Favoritos
+ 
+Se puede acceder a Favoritos desde el menú o desde el ícono. La mayor diferencia 
+entre las dos maneras de acceder es la forma de presentación.
+ 
+ 
+Desde el menú
+ 
+se presentan los favoritos como una lista deplegable. Al colocar el 
+cursor sobre una carpeta se vuelve a desplegar otra lista con su contenido.
+ 
+ 
+Para visitar una página, hacer clic sobre ella.
+ 
+ 
+Para salir sin visitar ninguna página hacer clic
+ 
+fuera de la lista de Favoritos.
+ 
+ 
+Desde el ícono
+ 
+se ven ocupando una franja a la izquierda de la pantalla de forma 
+permanente, hasta que los cerremos. Para ver el contenido de una carpeta hacer 
+clic sobre ella.
+ 
+ 
+Para visitar una página hacer clic sobre el
+la.
+ 
+ 
+Para cerrar los Favoritos hacer clic en el ícono cerrar (X) de la primera línea.
+ 
+ 
+Los comandos 
+Agregar...
+ 
+y 
+Organizar...
+ 
+están disponibles desde estas dos formas 
+de acceder a los Favoritos.
+ 
+Agregar a Favoritos
+ 
+Para añadir una dirección más a la lista 
+de Favoritos, una vez que estamos situados 
+en la página web que queremos añadir hacemos clic en el botón agregar y 
+aparecerá un cuadro de diálogo como este.
+ 
+Lo que escribamos en el campo 
+Nombre
+ 
+será lo que veremos al desplegar la lista 
+de favoritos. Inicia
+lmente aparece el título de la página web, pero podemos 
+cambiarlo.
+ 
+ 
+Podemos agregar en la lista de primer nivel o agregarlo dentro de una carpeta; 
+también podemos crear una carpeta nueva.
+ 
+Para agregarlo a una carpeta de las que se nos muestran basta hacer
+ 
+clic sobre ella 
+para seleccionarla. Si queremos agregarlo en la carpeta de primer nivel seleccionar 
+la carpeta 
+Favoritos
+.
+ 
+Una vez seleccionada la carpeta hacer clic en 
+Aceptar
+.
+ 
+Nueva carpeta
+. Para crear una carpeta nueva seleccionar la carpeta dentro de l
+a 
+cual queremos que se cree la nueva carpeta y hacer clic en el botón 
+Nueva 
+carpeta.
+ 
+Aparecerá un cuadro de diálogo para que demos el nombre de la nueva 
+carpeta. Hacer clic en 
+Aceptar
+ 
+para agregar el enlace a esa nueva carpeta.
+ 
+Esta ventana tiene el modo s
+imple, donde no aparece el cuadro para elegir carpeta, 
+y el modo completo, donde sí aparece. Para pasar de un modo a otro hacer clic en 
+el botón 
+Crear en
+.
+ 
+Navegador Firefox 
+-
+ 
+Software Libre
+ 
+Firefox es un navegador gratuito de código abierto (un software de
+ 
+distribución 
+gratuita y cuyo código fuente es visible y modificable), y es multiplataforma, es 
+decir, compatible con sistemas operativos tales como Microsoft Windows, Mac OS, 
+GNU/Linux o Solaris.
+ 
+Ha sido desarrollado por la Fundación Mozilla, un proyecto 
+destinado a la creación 
+y desarrollo de soluciones basadas en Código Abierto y tecnologías para la Web 
+(WWW o World Wide Web).
+ 
+Se instala en unos instantes, proporcionando una navegación rápida y segura. A 
+ello se une una gran facilidad de uso gracias a ca
+racterísticas como la navegación 
+por pestañas o el bloqueador de pop
+-
+ups, lo cual le otorga un alto nivel de 
+seguridad ante virus y programas espía (spyware). Asimismo, se actualiza con 
+frecuencia y su funcionalidad puede incrementarse gracias a las extens
+iones, 
+pequeñas aplicaciones que le confieren un sinfín de posibilidades.
+ 
+Por otro lado, Firefox puede adoptar una apariencia totalmente personalizada 
+gracias a los numerosos temas existentes. Por estas razones, es una alternativa 
+altamente recomendable.
+ 
+R
+equerimientos mínimos:
+ 
+Windows 98.
+ 
+Manual de uso
+ 
+Curso Modular sobre Navegación Web centrado en Firefox
+ 
+desarrollado por 
+Capisol 
+(Centro de Acceso Público a Internet 
+-
+ 
+Software Libre)
+ 
+ 

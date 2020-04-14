@@ -1,0 +1,225 @@
+Cómo editar contenidos en un procesador de textos
+ 
+ 
+Copiar, Pegar, Cortar, Borrar, Deshacer, Rehacer (Word XP)
+ 
+1. Deshacer y rehacer
+ 
+Word permite corregir los errores fácilmente. Si acabamos de borrar un párrafo 
+completo y nos damos cuenta de que no era 
+ese el párrafo que queríamos borrar, 
+con un solo clic podemos deshacer la acción errónea y recuperar el párrafo. 
+Veamos cómo deshacer acciones:
+ 
+
+ 
+La última acción realizada
+ 
+Para deshacer la última acción realizada, pulsar el ícono 
+Deshacer
+, de la barra de 
+He
+rramientas.
+ 
+También podemos deshacer haciendo clic en 
+Edición,
+ 
+que figura en el menú 
+superior, y cuando se despliega la solapa pulsar en 
+Deshacer
+ 
+escritura
+.
+ 
+Otra forma más de deshacer es pulsar la tecla 
+CTRL
+ 
+y, mientras se la mantiene 
+pulsada, pulsar la le
+tra 
+Z
+. (
+CTRL+Z
+).
+ 
+
+ 
+Las últimas acciones realizadas
+ 
+Si hacemos clic en el triángulo que hay a la derecha del ícono 
+Deshacer
+, aparecerá 
+una lista con las últimas acciones para deshacer. Colocando el cursor en esa lista 
+podremos deshacer varias acciones a la ve
+z. Por ejemplo, al colocar el cursor en la 
+tercera línea de la lista desharemos tres acciones.
+ 
+ 
+La lista nos indica de forma abreviada cuáles son las diferentes acciones que 
+podemos deshacer, por ejemplo, 
+Escritura "colocando el"
+ 
+nos dice que podemos 
+deshacer la escritura de la frase que empieza por "
+colocando el".
+ 
+
+ 
+Rehacer
+ 
+Utilizando el ícono 
+Rehacer
+ 
+podemos rehacer las acciones que acabamos de 
+deshacer. Por ejemplo, si ponemos en cursiva un párrafo y deshacemos la acción 
+porque p
+ensamos que no queda bien en cursiva, y luego volvemos a cambiar de 
+opinión, con Rehacer volvemos a la cursiva inicial.
+ 
+2. Copiar, cortar y pegar
+ 
+Cuando hablamos de copiar nos referimos a colocar una copia de algo en otro 
+lugar; mientras que cuando hablamo
+s de cortar queremos indicar que quitamos 
+algo de un lugar para llevarlo a otro lugar. Se pueden utilizar varios métodos.
+ 
+
+ 
+Mediante el mouse y los íconos del menú de Herramientas:
+ 
+ 
+Seleccionar el elemento (carácter, palabra, párrafo) a copiar o cortar, hacer clic en el 
+ícono 
+Copiar
+ 
+, o en 
+Cortar
+ 
+. Colocar el cursor en el punto de destino y hacer clic en 
+el ícono 
+Pegar
+.
+ 
+
+ 
+Mediante el menú:
+ 
+Seleccionar el elemento a copiar o cortar, ir a
+l menú 
+Edición
+, elegir la opción 
+Copiar
+ 
+o 
+Cortar
+. Colocar el cursor en el punto de destino, y elegir 
+Pegar
+ 
+del menú 
+Edición.
+ 
+
+ 
+Mediante el mouse:
+ 
+1) Seleccionar lo que se quiere copiar o cortar con doble clic, presionar el botón 
+derecho, y elegir 
+Copiar
+ 
+o 
+Cortar
+ 
+en el menú contextual que se despliega.
+ 
+Ir a la posición donde vamos a copiar o pegar, presionar el botón derecho del 
+mouse y elegir 
+Pegar.
+ 
+ 
+2)Forma rápida:seleccionar lo que se quiere cortar y pegar con doble clic, y 
+presionar el botón derecho del
+ 
+mouse. Cuando aparezca un pequeño cuadrado 
+debajo del cursor, sin soltar ir a la posición donde vamos a copiar, soltar el botón y 
+aparecerá un menú: elegir la opción 
+Copiar aquí
+.
+ 
+
+ 
+Sólo con el teclado:
+ 
+Primero, seleccionar el texto. Con 
+MAY +
+ 
+flechas
+, se se
+leccionan letras; con 
+MAY 
++ Ctrl + flechas
+ 
+se seleccionan palabras.
+ 
+Segundo, copiar con 
+Ctrl + C
+ 
+(cortar con 
+Ctrl + X
+). Y por último, ir a la posición 
+donde vamos a pegar, y pulsar 
+Ctrl + V.
+ 
+
+ 
+Opciones de pegado
+ 
+Cada vez que pegamos se copia el texto tal y c
+omo lo copiamos, con el formato 
+que tenía. Por ejemplo, si copiamos algo que estaba en estilo negrita y tamaño 18, 
+al pegar se pegará también en negrita y tamaño 18. Sin embargo, en ocasiones 
+puede interesarnos que no se copie el formato, ya que desentonar
+ía en el lugar 
+donde lo vamos a pegar. Para este caso existen las 
+Opciones de pegado
+.
+ 
+¿Cómo se usan estas opciones? Cada vez que pegamos aparece un pequeño ícono 
+Pegar
+ 
+al lado de la palabra que acabamos de pegar. Si hacemos clic en ese ícono 
+se despliega u
+na lista con las siguientes opciones:
+ 
+
+ 
+Conservar formato de origen
+. Es la opción por defecto, pega tal y como se 
+copió.
+ 
+
+ 
+Hacer coincidir formato de destino
+. Hace que lo que se pega tome el 
+formato del lugar donde se pega. Por ejemplo, si estamos pegando en 
+m
+edio de un texto que está en estilo cursiva, lo que peguemos pasará 
+también a tener ese estilo.
+ 
+
+ 
+Conservar sólo texto
+. Hace que lo que se pega quede sin el formato 
+original. Por ejemplo, si lo que pegamos estaba en estilo negrita, quedará 
+pegado en estilo n
+ormal.
+ 
+
+ 
+Aplicar estilo o formato
+. Hace que se abra el panel de 
+Estilos y formatos
+, 
+para que podamos aplicarle un estilo o formato a lo que acabamos de 
+pegar.
+ 
+ 

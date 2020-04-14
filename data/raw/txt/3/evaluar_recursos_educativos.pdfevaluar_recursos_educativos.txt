@@ -1,0 +1,384 @@
+Cómo evaluar sitios y recursos educativos de 
+Internet
+ 
+ 
+La disponibilidad de innumerables recursos en Internet, de posible aplicación en los 
+procesos de enseñanza y de aprendizaje, plantea la necesidad de analizarlos y 
+seleccionarlos teniendo en cuenta el 
+perfil de los destinatarios, sus intereses y 
+expectativas, y las características del contexto, tanto de la escuela como de su 
+comunidad de pertenencia.
+ 
+La selección y el análisis de recursos existentes en la "red de redes" constituye una 
+actividad que ha d
+e realizarse con criterios claros, pertinentes y relevantes para que 
+estos recursos:
+ 
+
+ 
+sean un apoyo y un aporte que favorezcan el logro de los objetivos de la 
+escuela;
+ 
+
+ 
+respondan a los intereses, los objetivos y las características de los usuarios;
+ 
+
+ 
+contemple
+n fuentes de información y de servicios que son provistas casi con 
+exclusividad por Internet.
+ 
+En este documento se sugieren algunos indicadores que pueden resultar útiles 
+para la evaluación de sitios y recursos educativos en Internet. En cada caso, se 
+pres
+enta una descripción del indicador, el objetivo al que apunta y una serie de 
+preguntas para orientar la evaluación.
+ 
+Los indicadores son:
+ 
+
+ 
+autoridad,
+ 
+
+ 
+actualización,
+ 
+
+ 
+navegabilidad,
+ 
+
+ 
+organización,
+ 
+
+ 
+selección de contenidos,
+ 
+
+ 
+legibilidad,
+ 
+
+ 
+adecuación al destinatario
+.
+ 
+ 
+ 
+AUTORIDAD
+ 
+Descripción
+ 
+La autoridad está dada por el responsable del sitio 
+-
+puede ser una 
+persona, un grupo de personas reunidas por un objetivo determinado, 
+o una entidad
+-
+, su prestigio y las fuentes utilizadas.
+ 
+Objetivo
+ 
+Seleccionar recursos y sitios 
+que incluyan información y contenidos 
+provenientes de fuentes confiables, específicas, actualizadas y 
+reconocidas en los ámbitos científicos y académicos.
+ 
+Preguntas
+ 
+
+ 
+¿Está claro y explícito quién o quiénes son los responsables del 
+sitio?
+ 
+
+ 
+Si correspondiere,
+ 
+¿se describe el propósito de la organización 
+que promueve el sitio?
+ 
+
+ 
+Los responsables 
+-
+personas o instituciones públicas, privadas, 
+comerciales, educativas, etc.
+-
+, ¿tienen prestigio en la temática 
+tratada?
+ 
+
+ 
+¿La información en este sitio es veraz?
+ 
+
+ 
+¿El sitio 
+ha recibido algún premio o reconocimiento?
+ 
+
+ 
+¿Tiene un gran número de visitas?
+ 
+ACTUALIZACIÓN
+ 
+Descripción
+ 
+La actualización puede referirse a:
+ 
+
+ 
+La incorporación periódica de nuevos recursos.
+ 
+
+ 
+La modificación de los recursos y los datos existentes en 
+respuesta a
+ 
+la aparición de nuevos aportes al tema.
+ 
+Se considera como parámetro aceptable que la última actualización 
+del sitio no se extienda más allá de unos meses anteriores a la fecha 
+de consulta, aunque se puede ampliar el criterio según el caso.
+ 
+Objetivo
+ 
+Ident
+ificar sitios y recursos que contengan información actualizada y 
+válida.
+ 
+Preguntas
+ 
+
+ 
+¿Se indica claramente la fecha de actualización?
+ 
+
+ 
+¿Cuándo se realizó la última actualización?
+ 
+
+ 
+Además de una mención explícita, ¿hay otros indicios de que la 
+información está
+ 
+actualizada?
+ 
+NAVEGABILIDAD
+ 
+Descripción
+ 
+Se considera la facilidad que se le ofrece al usuario de ubicarse y 
+moverse dentro del sitio.
+ 
+Objetivo
+ 
+Seleccionar sitios que tengan una estructura clara y ordenada de sus 
+componentes, temáticas, servicios y demás 
+recursos, y un diseño que 
+facilite la orientación del usuario durante toda la navegación.
+ 
+Preguntas
+ 
+
+ 
+¿Se incluye un mapa del sitio?
+ 
+
+ 
+¿Se puede identificar con rapidez la página que se quiere 
+visitar? ¿Se puede llegar fácil y directamente a ella?
+ 
+
+ 
+¿Está 
+claramente indicado el nombre de la página que se está 
+navegando en cada caso?
+ 
+
+ 
+¿Hay un enlace a la página inicial desde cualquier otra página?
+ 
+
+ 
+¿Se puede volver fácilmente a una página ya visitada?
+ 
+
+ 
+¿Los enlaces son fáciles de identificar?
+ 
+
+ 
+¿Los enlaces se ag
+rupan con algún criterio reconocible?
+ 
+
+ 
+¿Los íconos representan claramente su propósito?
+ 
+ORGANIZACIÓN
+ 
+Descripción
+ 
+Se espera que el sitio se encuentre ordenado lógicamente y que cada 
+segmento de información se relacione con los demás. Se tendrá en 
+cuenta la 
+presencia de herramientas de ordenación, como índices, 
+esquemas, títulos, etcétera.
+ 
+Objetivo
+ 
+Seleccionar sitios que presenten una adecuada organización de sus 
+contenidos y herramientas, con una secuencia clara y lógica, donde 
+títulos, subtítulos e íconos 
+cumplan una función didáctica adicional 
+para la consulta y exploración.
+ 
+Preguntas
+ 
+
+ 
+¿Tiene títulos, encabezamientos o capítulos?
+ 
+
+ 
+¿Son pertinentes o, por el contrario, excesivos, confusos, 
+engañosos?
+ 
+
+ 
+¿La información sobre el tema indicado es completa?
+ 
+
+ 
+¿La 
+información está ordenada lógicamente?
+ 
+
+ 
+¿Existen herramientas de ordenamiento (índices, esquemas, 
+etc.)?
+ 
+SELECCIÓN DE CONTENIDOS
+ 
+Descripción
+ 
+La propuesta es que los contenidos del sitio manifiesten especial 
+cuidado en el tratamiento y el enfoque dado al 
+desarrollo de un tema, 
+tópico o teoría de un campo disciplinar o área del conocimiento.
+ 
+Objetivo
+ 
+Identificar sitios y recursos que incluyan contenidos válidos, 
+consistentes, relevantes y significativos para el nivel y las 
+características de los destinatar
+ios, y que contemplen el uso 
+apropiado del lenguaje y de la comunicación escrita y gráfica.
+ 
+Preguntas
+ 
+
+ 
+¿Es rigurosa la información que ofrece?
+ 
+
+ 
+¿La información se presenta con claridad?
+ 
+
+ 
+¿La información posee relevancia?
+ 
+
+ 
+¿Existe coherencia entre los objetivo
+s, los contenidos y los 
+procedimientos sugeridos?
+ 
+
+ 
+¿Existe coherencia entre texto, imagen y sonido?
+ 
+
+ 
+¿La información está desarrollada con amplitud?
+ 
+
+ 
+¿El tema está desarrollado en profundidad?
+ 
+
+ 
+¿La información está libre de errores gramaticales y 
+ortográficos?
+ 
+¿Se presenta de modo coherente y consistente a 
+lo largo de todas las páginas del sitio?
+ 
+LEGIBILIDAD
+ 
+Descripción
+ 
+La legibilidad responde a una buena combinación de colores, tamaños 
+y tipos de letras, fondos e ilustraciones, que permita leer en la pantalla
+ 
+y navegar de una manera adecuada y atractiva.
+ 
+Objetivo
+ 
+Identificar sitios y recursos que sean de fácil lectura y navegabilidad, 
+donde los diferentes componentes y recursos tipográficos e 
+iconográficos añadan un valor didáctico y estético a los contenidos
+ 
+ofrecidos.
+ 
+Preguntas
+ 
+
+ 
+¿Es adecuado el tamaño de la letra utilizada?
+ 
+
+ 
+¿La imagen de fondo ofrece un buen contraste con el tipo de 
+letra?
+ 
+
+ 
+¿El texto y los gráficos están amontonados?
+ 
+
+ 
+¿Las páginas son excesivamente largas o sobrecargadas?
+ 
+ADECUACIÓN AL 
+DESTINATARIO
+ 
+Descripción
+ 
+Los destinatarios son los usuarios de Internet a quienes está dirigido 
+el sitio web (niños, docentes, familias, etc.).
+ 
+Objetivo
+ 
+Verificar que el contenido que se presenta sea adecuado respecto del 
+destinatario a quien se dirige.
+ 
+Preguntas
+ 
+
+ 
+En el caso de un sitio para niños, ¿la información es apropiada 
+desde el punto de vista de su desarrollo cognitivo?
+ 
+
+ 
+El vocabulario, el lenguaje, los conceptos, ¿son adecuados para 
+el destinatario previsto?
+ 
+ 

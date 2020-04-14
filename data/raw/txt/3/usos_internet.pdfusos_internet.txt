@@ -1,0 +1,675 @@
+Usos de Internet
+ 
+Por Educ.ar 
+ 
+Al ingresar a la web, se ingresa a un 
+espacio virtual
+, distinto del real pero que 
+tiene gran incidencia sobre él. Mediante 
+I
+nternet se puede estar comunicado con 
+un amigo o familiar que vive en un lugar alejado, se pueden 
+consultar las noticias 
+del diario, el pronóstico del tiempo, saber el valor de un producto para decidir su 
+compra, ver una película u obtener información de lo más variada y en múltiples 
+idiomas.
+ 
+I.
+ 
+Ocio
+ 
+Uno de los usos más extendidos de 
+I
+nternet tiene relación con el ocio y el 
+tiempo libre. Muchas personas, en especial los jóvenes, utilizan internet 
+para 
+descargar material de la red a sus propias computadoras
+: música, películas, 
+libros y otros archivos, en especial de entretenimiento o div
+ersión, que luego 
+pueden visualizar desde sus computadoras sin la necesidad de estar conectados. 
+Hay fuentes que cobran por su uso y otras que son gratuitas.
+ 
+En lo que a 
+cine
+ 
+respecta, hay páginas que proporcionan una amplia variedad 
+de películas que pued
+en verse íntegramente desde internet, sin necesidad de 
+descargarlas a la propia computadora. Claro que para ello hace falta contar con 
+una buena conexión.
+ 
+ 
+En tiempos más recientes
+,
+ 
+han cobrado fuerza
+ 
+portales
+ 
+como 
+YouTube
+, 
+donde los usuarios pueden tener acceso a una gran variedad de videos sobre 
+prácticamente cualquier tema, o 
+Facebook
+ 
+y 
+Twitter
+, las redes sociales más 
+populares por la cantidad de usuarios que nuclean. Ya verán más sobre este tema 
+en el apartado sobre redes sociales.
+ 
+ 
+También se puede acceder a través de internet a una gran variedad de 
+juegos 
+en red
+. Se pueden jugar en línea, incluso con más de un jugador a la vez, o 
+descargarse en la propia computadora personal la versión de algún juego y jugar 
+sin necesidad de estar c
+onectado.
+ 
+Además, casi todas las computadoras traen en sus sistemas operativos varios 
+juegos a los que se puede acceder yendo al ícono inferior izquierdo: 
+inicio/todos 
+los programas/juegos
+. Los más grandes suelen elegir los juegos de cartas o las 
+damas y e
+l ajedrez, con los que se suelen sentir más identificados y que son una 
+buena forma de practicar y desarrollar habilidad en el manejo de dispositivos como 
+el 
+mouse
+ 
+o el teclado.
+ 
+Pueden profundizar en la nota de 
+Julio Moreno sobre las características 
+pedagógicas de los juegos en red
+, en el CD 27 de la 
+Colección de CD 
+de educ.ar
+.
+ 
+a.
+ 
+Chat
+ 
+La 
+mensajería instantánea
+, también llamada 
+chat
+, es uno de los servicios 
+más extendidos de internet porque permiten poner en 
+comunicación a dos o más 
+personas de manera sincrónica y en tiempo real, e intercambiar información: 
+fotografías, documentos, etc.
+ 
+Para llevar a cabo un chat (chatear) se necesitan 
+dos o más personas
+, cada 
+una con una computadora. En el chat cada usuario se identifica con un nombre 
+-
+generalmente se elige un sobrenombre, al que se conoce como 
+nick
+. 
+Fundamentalmente, los participantes de un chat 
+intercambian breves mensajes 
+escritos
+, exactamente de la m
+isma manera que en una conversación o un 
+sms
+ 
+de 
+teléfono celular: escriben su mensaje en un recuadro en la pantalla de su 
+computadora y leen en otro recuadro las respuestas. Estos mensajes van y vienen 
+en tiempo real. También se pueden intercambiar archivo
+s digitales.
+ 
+El chat es muy utilizado por los adolescentes, dada su gran necesidad de estar 
+en contacto permanente con sus pares, pero también funciona como espacio para 
+transmitir eventos o reuniones de grupos con 
+inquietudes comunes, brindar 
+servicios de
+ 
+asistencia
+ 
+y es una herramienta fundamental en educación a distancia 
+comúnmente llamada 
+e
+-
+learning
+ 
+para la interacción 
+entre los alumnos y el 
+docente
+-
+tutor de una asignatura.
+ 
+ 
+Pueden profundizar más sobre el tema leyendo el artículo de 
+educ.ar
+: 
+«
+Adole
+scentes y el chat
+».
+ 
+ 
+ 
+b.
+ 
+Fuente de información
+ 
+Actualmente
+, I
+nternet es la fuente de información 
+más consultada en el 
+mundo
+, superando a los medios llamados tradicionales como la televisión, la radio 
+y los diarios.
+ 
+En 
+I
+nternet se puede encontrar información sobre casi todos los temas, desde 
+los más banales hasta los más complejos: 
+el estado del clima
+, 
+los signos del 
+Zodíaco
+, los goles del Mundial 78, 
+recetas de cocina
+, 
+información para celíacos
+, 
+recomendaciones para bajar de peso
+ 
+y miles de temas de lo más variad
+os.
+ 
+A través de 
+I
+nternet
+,
+ 
+se puede acceder a las 
+noticias de los diarios
+ 
+de casi 
+todos los países del mundo. Los diarios argentinos de tirada nacional y casi todos 
+los provinciales cuentan con una página web donde publican sus noticias.
+ 
+Como fuente de info
+rmación, 
+I
+nternet también puede ser utilizada para 
+consultar 
+archivos de los diarios
+ 
+y ver el seguimiento de algún tema de interés, 
+ver toda la información publicada en relación a algún tema a través de un buscador 
+y observar las opiniones que los navegant
+es dejan sobre algún tema específico, en 
+especial en los foros de opinión.
+ 
+c.
+ 
+Protocolo de Transferencia de Archivos (FTP)
+ 
+El 
+Protocolo
+ 
+de Transferencia de Archivos
+ 
+(
+File Transfer Protocol
+) es un sistema 
+de transmisión de archivos que sirve para 
+enviar y recibir archivos de gran 
+tamaño
+ 
+de un lugar a otro en forma más rápida y cómoda que si se utilizara el 
+correo electrónico.
+ 
+En 
+I
+nternet e
+xisten grandes 
+servidores FTP
+ 
+con miles de programas de 
+distribución pública, imágenes y sonidos, de libre acceso. También lo usan muchas 
+empresas para mantener al día a sus clien
+tes en cuanto a nuevas versiones de sus 
+programas (
+software
+), revistas electrónicas y otros materiales.
+ 
+ 
+II.
+ 
+Trabajo
+ 
+Con la aparición de 
+I
+nternet y de las 
+conexiones de alta velocidad
+ 
+disponibles 
+al público, se ha alterado de manera significativa la manera de trabajar de algunas 
+personas, que ahora 
+pueden hacerlo a distancia, generalmente desde su propia 
+casa.
+ 
+Internet ha permitido, en el caso de algunas profesiones, 
+mayor flexibilidad
+ 
+en términos de horarios y de localización, en comparación a la jornada laboral 
+tradicional de 8 horas que exige a los empleados desplazarse al lugar de trabajo.
+ 
+Internet permite que un experto 
+contable asentado en un país 
+pueda revisar los libros de una 
+c
+ompañía de otro país, en un 
+servidor situado en un tercer país, 
+que sea mantenido remotamente 
+por los especialistas en un cuarto.
+ 
+
+ 
+Para quienes tienen un trabajo
+, el correo electrónico, el chat, las redes sociales, 
+permiten comunicarse con la institución en
+ 
+la que trabajamos 
+permanentemente, si nos encontramos enfermos o de viaje. A la vez, podemos 
+conectarnos con todos los compañeros de trabajo desde el hogar para acordar 
+asuntos compartidos en el empleo.
+ 
+Además, en el escritorio de la computadora disponemo
+s de los procesadores de 
+texto y otros programas que nos permiten elaborar informes, realizar planillas de 
+cálculos, diseñar presentaciones gráficas entre otras muchas opciones que 
+encontramos en sus programas.
+ 
+
+ 
+Para quienes no tienen un empleo
+ 
+se multiplic
+an las oportunidades de trabajar 
+en el hogar. Por supuesto ello supone organizar la vida de la familia para 
+armonizar la vida afectiva, la conversación cotidiana y la convivencia con la 
+organización de tareas productivas y la disciplina para llevarlas a ca
+bo, por eso 
+es necesario:
+ 
+1.
+ 
+Establecer un horario de trabajo como si concurrieran a una empresa, de 
+modo que haya tiempo para la producción, pero también tiempo para la 
+comunicación familiar y una vida compartida, con días feriados y tiempo 
+para el esparcimi
+ento y para el estudio. La computadora brinda la 
+posibilidad de tener una agenda con las tareas cotidianas.
+ 
+2.
+ 
+Fijar metas de producción alcanzables, ser emprendedores, optimistas y 
+difundir por 
+I
+nternet, a través del correo electrónico, los sitios web, los 
+v
+ideos y las fotos la calidad del servicio o de los productos.
+ 
+3.
+ 
+Dedicar un espacio exclusivo para la actividad productiva, de modo que no 
+interfieran en ella otras actividades familiares. Un espacio virtual a la vez 
+permite abrir una carpeta de archivos en l
+a computadora para registrar 
+todos los movimientos productivos
+, lo comprado, vendido, entregado, 
+cobrado, por ejemplo.
+ 
+4.
+ 
+Definir cuáles miembros de la familia participan de la actividad productiva y 
+con cual dedicación y tareas, para mantener la tranquilidad
+ 
+y la armonía 
+entre las personas. El procesador de textos, permite armar una tabla de 
+horarios y tareas de los miembros de la familia en relación con el trabajo 
+familiar.
+ 
+5.
+ 
+Organizar y ordenar los procedimientos, herramientas y materiales para el 
+trabajo par
+a ganar tiempo y obtener los mayores resultados. Un listado de 
+materiales y herramientas disponibles se puede registrar en una planilla 
+electrónica.
+ 
+Vamos a centrarnos en las oportunidades laborales que toda la familia puede 
+inaugurar con esta herramienta.
+ 
+a)
+ 
+Elaborar la hoja de vida o curriculum laboral:
+ 
+Si alguno de los miembros de la familia desea cambiar de empleo o conseguir 
+uno, lo primero que se le requerirá es información sobre sus experiencias y 
+educación. El primer paso es escribir los datos personales y la propia historia 
+laboral y educativa en u
+n documento que toma el nombre de curriculum: se 
+indican en él datos de identidad, datos de contacto, estudios cursados, trabajos 
+realizados anteriormente, habilidades, conocimientos, oficios desarrollados. 
+Utilizamos el procesador de textos que está dispo
+nible en la computadora, para 
+escribir, archivar e imprimir copias del curriculum.
+ 
+b)
+ 
+Consultar y pedir asesoramiento a las instituciones:
+ 
+Para consultar oportunidades de empleo puede recurrirse a instituciones a 
+instituciones que colaboran con las empresas p
+ara hallar personal y con las 
+personas para buscar trabajo. Por ejemplo,
+ 
+el Ministerio de Trabajo
+, Empleo y 
+Seguridad Social de la Nación ofrece orientación a través de su sitio
+.
+ 
+ 
+c)
+ 
+Buscar empleo por internet:
+ 
+Algunas empresas se dedican a difundir búsquedas de trabajadores por 
+internet, de modo que publican en la red los puestos de trabajo que se están 
+ofreciendo. Un 
+listado de los sitios internet de estas empresas
+ 
+también puede 
+hallarse en el sitio web del Ministerio de Trabajo, Empleo y Seguridad Social de 
+la Nación.
+ 
+d)
+ 
+Crear fuentes de trab
+ajo para la familia o alguno de sus miembros:
+ 
+Una familia, cualquiera de sus miembros, o un grupo de familias pueden 
+organizarse para ofrecer 
+
+a través de la web
+
+ 
+un servicio o un producto para 
+la venta, o para cambiarlo por productos o servicios que produ
+cen otras 
+familias de la comunidad. Para lograrlo la computadora permite subir a internet 
+avisos, fotos, videos de los servicios o bienes que se ofrece vender o 
+intercambiar con otras familias de la comunidad. Algunas sugerencias son:
+ 
+e)
+ 
+Ofrecer para la venta
+ 
+o trueque servicios domiciliarios.
+ 
+Enseñanza de oficios, jardinería, cuidado de personas, reparación de 
+instalaciones y electrodomésticos.
+ 
+f)
+ 
+Ofrecer productos de fabricación artesanal
+: juguetes, jabones, velas, 
+muebles, ropa.
+ 
+ 
+g)
+ 
+Ofrecer producciones familiare
+s
+: productos de la huerta, frutos, tejidos, 
+cerámicas, panificados, etc.
+ 
+ 
+h)
+ 
+Realizar teletrabajos:
+ 
+Esto significa realizar a distancia, vía internet, 
+diseños, ventas, informes, estudios, estadísticas, trámites, enseñanza, entre 
+otros servicios. Algunos de lo
+s numerosos sitios que podemos hallar para 
+ampliar la información sobre oportunidades de teletrabajo son el sitio del 
+Centro de Teletrabajo y Teleformación de la Carrera de Relaciones del 
+Trabajo de la 
+Universidad de Buenos Aires
+ 
+(UBA) o 
+Caminando Utopías
+.
+ 
+ 
+i)
+ 
+Capacitarse en procedimientos de producción
+ 
+y comercialización:
+ 
+Para 
+lograr información actualizada sobre la producción de bienes o servicios, 
+puede buscarse en internet. Por ejemplo, si se trata de productos de 
+producción rural puede realizarse una consulta al Instituto Nacional de 
+Tecnología Agro
+pecuaria (
+INTA
+).
+ 
+Si se trata de una producción industrial, 
+además de los organismos provinciales que p
+restan colaboración puede 
+recurrirse al Instituto Nacional de tecnología industrial (
+INTI
+).
+ 
+ 
+j)
+ 
+Obtener 
+información y capacitación sobre un oficio o técnica de 
+producción o venta por internet:
+ 
+Hay numerosos sitios en internet que 
+permiten obtener información para desarrollar una producción 
+determinada. Por ejemplo si escribimos en el buscador de Google cómo 
+cultivar arándanos, se nos ofrecen miles de sitios virtuales que tratan el 
+tema. Podemos seleccionar varios de ellos para tener información de 
+diversa fuente sobre ese conocimiento. Por ejemplo, el sitio 
+Botanical
+-
+online.com
+ 
+nos explica tipos y cultivos del fruto, su riego, plagas, 
+recolección, etc.
+ 
+k)
+ 
+Capacitarse en mejores métodos de producción y comercialización de 
+productos:
+ 
+Si recurrimos nuevamente al 
+buscador de google podemos 
+escribir la búsqueda como comercializar mi producto. Entre los millones de 
+resultados quizá encontremos varios documentos explicativos, como ser 
+«
+Cómo vender tu producto o servicio
+».
+ 
+Además de las muchas actividades que la creatividad familiar inventará, es 
+fantástica la oportunidad de conectarse con muchas personas del mundo que han 
+decidido el mismo emprendimiento, para inter
+cambiar experiencias y aprendizajes. 
+Los buscadores de internet nos ofrecen miles de sitios para participar en foros de 
+opinión en los cuáles volcar nuestros aportes, o realizar consultas y aprendizajes. 
+Por ejemplo, en el
+ 
+foro artesanal
+ 
+pueden hallar sitios de conversación sobre cocina, 
+alfarería, trabajos en vidrio, mimbre, telas, cueros entre muchos otros.
+ 
+La tentación es enorme porque las oportunidades están allí, sob
+re la mesa que 
+sostiene esa computadora (llamada netbook por su nombre en inglés) que el 
+programa conectar.igualdad acerca a los hogares a través de los estudiantes de las 
+escuelas públicas.
+ 
+III.
+ 
+Trámites
+ 
+Otro de los usos extendidos de 
+I
+nternet son los 
+trámites
+, que pueden hacerse 
+a través de la red sin la necesidad de hacer colas interminables, perder tiempo o 
+realizar largos viajes hasta las oficinas de atención.
+ 
+1.
+ 
+Dependencias del Estado
+ 
+Con distintos niveles de desarrollo, cada vez son más las dependencias del 
+Estado que permiten realizar trámites vía internet: solicitar turnos para tramitar la 
+licencia
+ 
+de conducir, imprimir o consultar boletas de impuestos, solicitar permisos 
+o realizar 
+reclamos, entre otras cosas.
+ 
+Asignación Universal por Hijo
+.
+ 
+Registro Nacional de las Personas
+.
+ 
+Gobierno de la Ciudad de Buenos Aires
+.
+ 
+Gobernación de la provincia de Buenos 
+Aires
+.
+ 
+Rentas de la provincia de Salta
+.
+ 
+Consultas y Reclamos Gobernación de la provincia de Córdoba
+.
+ 
+Gobernación de la provincia de Santa Fe
+.
+ 
+Los municipios suelen también van incorporando trámites que pueden realizarse 
+por internet. Pueden consultar en un buscado
+r, por ejemplo Google, poniendo la 
+palabra clave trámites la ciudad en la que viven y presionar buscar, para ver si la 
+ciudad en la que viven ofrece la posibilidad de realizar trámites desde internet.
+ 
+2.
+ 
+AFIP
+ 
+La 
+Administración Federal de Ingresos Públicos
+ 
+tiene una página web con 
+muchísima información y una guía de trámites que pueden realizarse vía internet. 
+Algunos son la recategorización en el m
+onotributo, imprimir la credencial de 
+monotributista o tramitar la clave fiscal para acceder a información de la situación 
+personal ante la AFIP.
+ 
+3.
+ 
+Bancos
+ 
+Casi todos los bancos cuentan con 
+home banking
+ 
+o banca desde casa, que permite 
+variadas operaciones sin
+ 
+necesidad de movilizarse hasta el banco. En la página web 
+del banco donde tiene abierta una cuenta, y luego de obtener una clave, podrá 
+consultar saldos, realizar operaciones tales como transferencias bancarias, pagar 
+servicios, consultar sus gastos de ta
+rjeta de crédito, entre otras operaciones 
+posibles.
+ 
+4.
+ 
+Padrón electoral
+ 
+En época electoral o preelectoral, la página del 
+Poder Judicial de la Nación
+ 
+ofrece 
+una versión actualizada del
+ 
+padrón electoral
+. Allí, con solo ingresar el número de 
+Documento Nacional de Identidad
+ 
+(D.N.I.), se puede acceder a los datos: 
+establecimiento, dirección, mesa del lugar de votación, etc.
+ 
+ 
+5.
+ 
+Compañías de Seguros
+ 
+La gran ma
+yoría de las compañías de seguros tienen su página para que los 
+asegurados puedan hacer trámites básicos, como imprimir un certificado de 
+cobertura, denunciar un siniestro o consultar pólizas.
+ 
+6.
+ 
+Embajadas
+ 
+Algunas embajadas cuentan con páginas donde pueden re
+alizarse trámites por 
+internet, solicitar turnos para tramitar ciudadanías o pasaportes, gestionar copias 
+de certificados, obtener información para viajar a los países de origen.
+ 
+Como en el caso de 
+España
+ 
+y
+ 
+de 
+Italia
+.
+ 
+ 
+Si quieren profundizar acerca de los usos de 
+I
+nternet pueden leer el siguiente 
+artículo
+ 
+de 
+educ.ar
+: «
+Mundo locutorio: Una mirada antropológica sobre el uso de 
+internet
+».
+ 
+ 
+ 

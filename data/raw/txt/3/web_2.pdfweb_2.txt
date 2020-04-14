@@ -1,0 +1,438 @@
+Web 2.0
+ 
+Por Educ.ar 
+ 
+Posiblemente hayan escuchado 
+la expresión
+ 
+Web 2.0
+. Al igual 
+que redes 
+sociales, 
+son dos expresiones muy utilizadas en los últimos tiempos en el ámbito de las TIC.
+ 
+ 
+La Web 2.0 se refiere a 
+una nueva concepción de páginas web
+ 
+basadas en 
+contenidos compartidos y producidos por los propios usuarios o navegantes de la 
+p
+ágina.
+ 
+ 
+El término Web 2.0 se utilizó por primera vez en el año 2004, cuando 
+Tim OReilly
+ 
+y 
+Dale Dougherty
+, de la editorial estadounidense especializada en libros de 
+tecnología 
+OReilly Media
+ 
+utilizaron este término en una conferencia en la que 
+expusieron sobre 
+el renacimiento y evolución de la Web
+.
+ 
+ 
+Un sitio Web 2.0 permite a sus usuarios 
+interactuar 
+con otros usuarios
+ 
+o cambiar contenidos del sitio 
+Web, en contras
+te con los sitios Web no interactivos 
+en los que los usuarios se limitan a la 
+visualización 
+pasiva
+ 
+de información que se les proporciona.
+ 
+ 
+Como su nombre lo indica, la Web 2.0 es la evolución de una web anterior, la 
+Web 
+1.0
+, que es la Web tradicional, que se caracteriza porque el contenido e 
+información de una página o sitio es producido por una persona, el editor o 
+webmaster
+. Esos contenidos son, una vez publicados, visitados por los navegantes, 
+sin la posibilidad de ser modificados
+, opinar sobre ellos o agreg
+ar contenidos 
+nuevos.
+ 
+ 
+ 
+
+ 
+La 
+Web 1.0 es estática
+, es decir, los datos que se encuentran en esta no se 
+pueden cambiar, se encuentran fijos, no varían, no se actualizan. En el modelo 
+de la 
+Web 2.0
+, en cambio, la información y contenidos se producen directa o 
+in
+directamente por los usuarios del sitio Web y es compartida.
+ 
+ 
+Anteriormente internet era 
+unidireccional
+, es decir, la información era más bien de 
+corte informativo y no permitía la interacción directa con y entre los usuarios. Con 
+la 2.0, se ha convertido 
+en 
+bidireccional
+ 
+y permite la interacción de todo tipo de 
+contenido, sean estos videos, imágenes o textos e incluso el almacenamiento y 
+edición de archivos online y en tiempo real.
+ 
+
+ 
+En la 
+Web 2.0
+ 
+los consumidores de información se han convertido en 
+prosumi
+dores, es decir, en 
+productores de la información que ellos mismos 
+consumen
+. La Web 2.0 pone a disposición de millones de personas 
+herramientas y plataformas de fácil uso para la 
+publicación de información 
+en la red
+. Actualmente la Web 2.0 está relacionada
+ 
+con nuevas tecnologías 
+que permiten que cualquier persona que no sepa nada sobre programación 
+Web pueda, por ejemplo, gestionar su propio 
+blog
+ 
+y publ
+icar sus artículos de 
+opinión, fotos, videos, archivos de audio, etc., y compartirlos con otros 
+portales e internautas.
+ 
+ 
+La Web 2.0 ha contribuido a la 
+democratización de los medios
+, haciendo que 
+cualquier persona tenga las mismas posibilidades de publica
+r noticias que un 
+periódico tradicional. De hecho existen experiencias de grupos de personas que 
+crean blogs que reciben más visitas que las versiones Web de muchos periódicos.
+ 
+ 
+La Web 2.0 ha reducido además los 
+costos de difusión de la información
+, ya que
+ 
+se puede 
+-
+a través de ciertas páginas que lo permiten
+-
+ 
+tener gratuitamente una 
+emisora de radio propia, un periódico y hasta un canal de videos.
+ 
+ 
+La Web 2.0 no es precisamente una tecnología, es 
+más bien 
+una actitud
+ 
+con la que se propone 
+utilizar internet
+, donde la única constante debe 
+ser el cambio: renovar, actualizar y mejorar en 
+forma permanente los contenidos.
+ 
+Además el conjunto de aplicaciones de la Web 2.0 permite ejecutar las siguientes 
+acciones
+:
+ 
+
+ 
+Compartir información
+ 
+
+ 
+Subir archivos a la red
+ 
+
+ 
+Escrib
+ir (colaborar en la producción de contenidos por medio de wikis, blogs 
+y otras herramientas).
+ 
+
+ 
+Reescribir la información (editar).
+ 
+
+ 
+Escuchar y hablar (participar en video o teleconferencias por medio de 
+herramientas como: 
+Skype
+, 
+YouTube
+ 
+entre otras).
+ 
+
+ 
+Participar en redes sociales (por medio de herramientas como: 
+Myspace
+, 
+Second Life
+, 
+Facebook
+).
+ 
+I.
+ 
+Wikipedia: máximo ejemplo de la Web 2.0
+ 
+En enero de 2001, un corredor de bolsa estadounidense llamado 
+Jimmy Wales
+ 
+se propuso cre
+ar 
+una gran enciclopedia en internet
+ 
+a través de la participación 
+colectiva de millones de personas aficionadas y con conocimientos de diversos 
+temas. Esta enciclopedia sería de 
+acceso gratuito
+ 
+y creada por todos los usuarios 
+que quisieran contribuir. Wale
+s empezó con varias docenas de artículos y un 
+programa informático llamado 
+wiki
+ 
+(palabra hawaiana que significa rápido). Este 
+programa permite a los usuarios añadir, modificar y borrar artículos escritos y 
+publicados.
+ 
+ 
+El modelo de la 
+Wikipedia
+ 
+materializó la 
+filosofía de la Web 2.0
+. En lugar de que 
+un autor erudito o un grupo de expertos escriban todos los contenidos de la 
+enciclopedia, la Wikipedia re
+curre a miles de personas de todo tipo, que van desde 
+verdaderos expertos hasta lectores interesados, con una gran cantidad de 
+supervisores voluntarios que aprueban y vigilan las entradas o artículos ingresados.
+ 
+ 
+En 2001 la idea parecía descabellada, pero
+ 
+al día de hoy la Wikipedia es 
+la 
+enciclopedia más grande del mundo
+. Ofrece más de 1 millón de artículos en 
+inglés creados por más de 20 mil colaboradores, y más 280 mil artículos en 
+castellano.
+ 
+ 
+Lo mejor de la Wikipedia, comparado con las enciclopedias tr
+adicionales de papel, 
+es que 
+la información está constantemente actualizada
+ 
+gracias a los aportes de 
+los usuarios que permanentemente añaden datos, enlaces u otras fuentes, 
+imágenes, etc. La Wikipedia es uno de los portales Web más visitados del planeta y 
+la fuente más citada en la red.
+ 
+ 
+ 
+Para poner en práctica:
+ 
+ 
+Como han visto, son varios los beneficios de la Web 2.0, especialmente en 
+proyectos educativos, donde 
+potencia el trabajo autónomo y colaborativo
+, 
+crítico y creativo, la expresión personal, investig
+ar y compartir recursos, crear 
+conocimiento y aprender.
+ 
+En el ámbito educativo, con sus aplicaciones de edición, profesores y estudiantes 
+pueden elaborar fácilmente materiales de manera individual o grupal, compartirlos 
+y someterlos a los comentarios de l
+os lectores.
+ 
+También proporciona entornos para el desarrollo de redes de centros y profesores 
+donde reflexionar sobre temas educativos, ayudarse y
+ 
+elaborar y compartir 
+recursos.
+ 
+Una buena práctica en familia puede ser 
+visitar páginas Web y observar si es
+tán 
+realizadas bajo el concepto Web 1.0 o Web 2.0
+.
+ 
+ 
+También puede ser una práctica útil para compartir en familia: subir y compartir 
+archivos en línea en 
+Google Drive
+, crear un blog con algún tema que les interese, 
+crear un álbum de fotografías familiares o utilizar 
+Google maps
+ 
+en casa para 
+desarrollar nociones de geografía. Tod
+as ellas pueden ser algunas actividades 
+entretenidas para empezar a usar la Web 2.0.
+ 
+II.
+ 
+Herramientas para compartir en la Web 2.0
+ 
+ 
+a.
+ 
+Blogs
+: La blogosfera e
+s el conjunto de blogs a los que se accede a través de 
+internet. Un blog es un espacio Web personal en el que su autor (puede haber 
+varios autores autorizados) puede escribir artículos, noticias (con imágenes y 
+enlaces, que se muestran en orden cronológico
+), pero además es un espacio 
+colaborativo donde los lectores también pueden escribir sus comentarios a 
+cada uno de los artículos (entradas/post) que ha realizado el autor. Hay 
+diversos sitios que ofrecen la posibilidad de crear blogs gratuitos como por 
+eje
+mplo:
+ 
+ 
+
+ 
+Blogger
+ 
+
+ 
+WordPress
+ 
+ 
+b.
+ 
+Wikis
+: En hawaiano wikiwiki significa: rápido, informal. Una wiki es un espacio 
+Web colaborati
+vo, organizado mediante una estructura hipertextual de páginas 
+(referenciadas en un menú lateral), donde varias personas autorizadas elaboran 
+contenidos de manera asincrónica. Basta pulsar el botón editar para acceder a 
+los contenidos y modificarlos. Suele
+n mantener un archivo histórico de las 
+versiones anteriores y facilitan la realización de copias de seguridad de los 
+contenidos. Hay diversos servidores de wiki gratuitos:
+ 
+ 
+
+ 
+Wikia
+ 
+
+ 
+Wikipedia
+: es el ejemplo más conocido de wiki y de creación colaborativa 
+del conocimiento.
+ 
+c.
+ 
+Entornos para compartir r
+ecursos:
+ 
+se trata de sitios que permiten almacenar 
+recursos en internet, compartirlos y visualizarlos cuando se desee, desde 
+internet. Constituyen una inmensa fuente de recursos y lugares donde publicar 
+materiales para su difusión.
+ 
+ 
+Entornos para compartir r
+ecursos
+ 
+ 
+Textos: para subir docum
+entos y 
+compartirlos
+ 
+ 
+ 
+
+ 
+Scribd
+ 
+
+ 
+Calameo
+ 
+
+ 
+Issuu
+ 
+Videos: lugares donde 
+compartir videos.
+ 
+
+ 
+YouTube
+ 
+
+ 
+Universia.tv
+ 
+Presentaciones
+ 
+
+ 
+Slideshare
+ 
+Fotos
+ 
+
+ 
+Flickr
+ 
+Plataformas educativas
+ 
+ 
+
+ 
+Moodle
+ 
+
+ 
+Webquest
+: unidades didácticas 
+interactivas y muy fáciles de crear.
+ 
+ 
+ 
+     
+Para profundizar sobre la Web 2
+.0 pueden consultar el artículo de 
+educ.ar
+ 
+«
+El 
+abecé de la Web 2.0 y la transformación de los 
+mass media
+» o ver el video «
+Web 
+2.0 & educación
+»
+ 
+publicado en YouTube.
+ 
+ 
+ 
