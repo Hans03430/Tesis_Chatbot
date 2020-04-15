@@ -60,7 +60,5 @@ target/
 # VS Code
 .vscode
 
-# Unnecesary data
-data/raw/pdf/1
-data/raw/pdf/2
-data/raw/pdf/3
+# Unnecesary pdf data
+data/raw/pdf/
