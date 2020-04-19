@@ -1,1757 +1,1343 @@
-de laspara el aprovechamiento
-Guíadocente
-Secundaria Tutorial
-Secundaria en Alternancia
-Secundaria con Residencia Estudiantil
+Guía docente
+para el aprovechamiento
+de las
+               Secundaria Tutorial
+            Secundaria en Alternancia
+       Secundaria con Residencia Estudiantil
+                                          MINISTERIO DE EDUCACIÓN
+                 Dirección General de Educación Básica Alternativa, intercultural Bilingüe
+                               y de Servicios Educativos en el Ámbito Rural
+                           Dirección de Servicios Educativos en el Ámbito Rural
 Guía docente para el aprovechamiento de las TIC
-©Ministerio de Educación 
+©Ministerio de Educación
 Calle del Comercio 193, San Borja
-
 Lima, Perú
-
 Teléfono: 615-5800
-
 www.gob.pe/minedu
 Elaboración
 Carol Rivero Panaqué
 Coordinación de la elaboración
 Violeta Emily Huanasca Rivas
-Revisión pedagógica 
+Revisión pedagógica
 Lourdes Guadalupe Concha Guevara
-
-
-
+Rosmery Duran Ayti
 Rocío Flores Garaycochea
-
 Violeta Emily Huanasca Rivas
-
 Ysmael Sullca Oviedo
 Diseño y diagramación
 Roxana Valdez Chávez
-
-
-Corrección de texto 
-Alonso Germán Velasco Tapia 
-
+Christian Alejandro Bendezú Rodriguez
+Corrección de texto
+Alonso Germán Velasco Tapia
 Gerson Rivera Cisneros
 Primera edición: 2017
 Primera reimpresión: 2018
-
 Tiraje: 352 ejemplares
 Hecho el Depósito Legal en la Biblioteca Nacional del Perú N.° 2018 - 17421
-
 Se terminó de imprimir en noviembre del 2018 en:
 Editorial Roel S.A.C.
-
 Psje. Miguel Valcársel 361. Urb. San Franciso.
-
 Ate, Lima - Perú
-Todos los derechos reservados. Prohibida la reproducción de este documento sin permiso del Ministerio 
+Todos los derechos reservados. Prohibida la reproducción de este documento sin permiso del Ministerio
 de Educación.
-Impreso en Perú/ 
-Printed in Peru 
-MINISTERIO DE EDUCACIÓN
-
-
-
-3Introducción 
- ...............................................................................................................................41. Rol del docente ante las TIC 
-....................................................................................................52. La competencia TIC en el Currículo Nacional 
- .........................................................................73. Aprovechamiento de los recursos TIC disponibles en el aula  
- ..............................................11 3.1. ¿Cómo se pueden aprovechar las TIC disponibles en el aula 
- ..............................................114. Estrategias metodológicas para el aprovechamiento de las TIC 
- ...........................................18
- ..................................................................................................18
- .........................................................................................19 4.3. Contar con retroalimentación oportuna 
- .......................................................................21 4.4. Hacer conexiones con el mundo real 
- ............................................................................225. Producción de videos en el aula como estrategia para integrar las TIC 
- ................................24 5.1. ¿Qué recursos TIC se necesitan? 
- ...................................................................................24 5.2. ¿Qué procesos hay que realizar? 
- ..................................................................................28 5.3. Diseñar la producción y escribir un guion
- ......................................................................31 5.4. Capturar los videos (cámaras y acción)
- ............................................................................... 32 5.5. Editar el video
- ................................................................................................................33
- ...............................................................................................356. Sesión de aprendizaje referencial de Educación para el Trabajo integrando las TIC
- .............37Glosario  ....................................................................................................................................47
- .........................................................................................................48Contenido
-4El Currículo Nacional establece que los egresados de la Educación Básica serán capaces 
-de aprovechar responsablemente las tecnologías de la información y la comunicación 
-(TIC) a través de la aplicación de diversos entornos de aprendizaje y 
- En este 
-
-
-
-
-Dichos servicios se ofrecen a través de las
- 
-
- diseñados para atender a los estudiantes del nivel 
-
-En este escenario es imprescindible que los docentes desarrollen competencias para el 
-
-diseñen situaciones de aprendizaje en las que sus estudiantes tengan la oportunidad de 
-
-
-
-
-
-
-
-
-
-
-Introducción
-5
-
-
-
-
-
+Impreso en Perú/ Printed in Peru
+Contenido
+Introducción ................................................................................................................................ 4
+1. Rol del docente ante las TIC .................................................................................................... 5
+2. La competencia TIC en el Currículo Nacional .......................................................................... 7
+3. Aprovechamiento de los recursos TIC disponibles en el aula ............................................... 11
+   3.1. ¿Cómo se pueden aprovechar las TIC disponibles en el aula ............................................... 11
+4. Estrategias metodológicas para el aprovechamiento de las TIC ............................................ 18
+   4.1. Aprender activamente ................................................................................................... 18
+   4.2. Aprender cooperativamente .......................................................................................... 19
+   4.3. Contar con retroalimentación oportuna ........................................................................ 21
+   4.4. Hacer conexiones con el mundo real ............................................................................. 22
+5. Producción de videos en el aula como estrategia para integrar las TIC ................................. 24
+   5.1. ¿Qué recursos TIC se necesitan? .................................................................................... 24
+   5.2. ¿Qué procesos hay que realizar? ................................................................................... 28
+   5.3. Diseñar la producción y escribir un guion....................................................................... 31
+   5.4. Capturar los videos (cámaras y acción)................................................................................ 32
+   5.5. Editar el video................................................................................................................. 33
+   5.6. Compartir la producción ................................................................................................ 35
+6. Sesión de aprendizaje referencial de Educación para el Trabajo integrando las TIC.............. 37
+Glosario ..................................................................................................................................... 47
+Referencias bibliográficas .......................................................................................................... 48
+                                                                                                                                                  3
+  Guía docente para el aprovechamiento de las
+        Introducción
+        El Currículo Nacional establece que los egresados de la Educación Básica serán capaces
+        de aprovechar responsablemente las tecnologías de la información y la comunicación
+        (TIC) a través de la aplicación de diversos entornos de aprendizaje y software. En este
+        sentido, la Dirección de Servicios Educativos en el Ámbito Rural (DISER) tiene como una
+        de sus funciones "diseñar y determinar el uso de los recursos educativo-pedagógicos y
+        tecnologías de la información en los servicios educativos en el ámbito de su competencia".
+        Dichos servicios se ofrecen a través de las formas de atención diversificada (FAD) o
+        los modelos de servicio educativo, diseñados para atender a los estudiantes del nivel
+        secundaria en áreas rurales.
+        En este escenario es imprescindible que los docentes desarrollen competencias para el
+        aprovechamiento pedagógico de las TIC disponibles en sus instituciones educativas y
+        diseñen situaciones de aprendizaje en las que sus estudiantes tengan la oportunidad de
+        desarrollar la competencia TIC.
+        La presente guía tratará sobre el rol docente ante las TIC, la competencia TIC en
+        el Currículo Nacional, el uso eficiente de los recursos TIC disponibles en el aula y las
+        estrategias metodológicas para su aprovechamiento. Asimismo, permitirá relacionar las
+        TIC con los proyectos productivos y el emprendimiento, ejes principales de las FAD y los
+        modelos de servicio educativo.
+        Las orientaciones que se proponen en esta guía ofrecen un punto de partida para que
+        los docentes formulen, planteen y planifiquen situaciones de aprendizaje adecuadas al
+        contexto en el que laboran.
+4
 1. Rol del docente ante las TIC
-Ł 
-
-
- 
-
-
-
-
-
-
-Preparación y uso personal
-Equipamiento
-Ł
-
-
-
-
-Ł
-
-
-
-Ł
-
-documentos digitales y lleve cursos virtuales como los que 
-
-6Ł Recuerde que su rol es diseñar situacio
-nes de aprendizaje y guiar a sus estudian
-
-principal fortaleza es su conocimiento pe
-
-
-Ł 
-
-
-des de enseñanza que usted domina y pos
-
-
-Use las orientaciones de esta guía como 
-
-Ł 
-
-
-
-
-
-a los estudiantes de los grados superiores para 
-
-
-
-tecnología podrían ayudar a preparar material 
-
-
-Enseñanza7
-
-
-
-
-
-
-
-
-
-
-ponsabilidad en redes sociales y comunidades virtuales a través de diálogos basados en el respeto 
-
-proyectos de 
-emprendimiento 
-económico o 
-Interpreta la realidad 
-y toma decisiones a 
-
-
-
-Se comunica en su lengua 
-
-segunda lengua y en inglés como 
-
-Indaga y comprende el mundo 
-
-
-
-Adaptado 
-del Currículo 
-Nacional 2016
-Aprovecha 
-responsablemente 
-las tecnologías de la 
-información y de la 
-
-
-
-
-
-y saludable para su 
-
-
-
-Aprecia manifestaciones 
-
-
-
-
-Desarrolla procesos 
-autónomos de 
-
-Se reconoce como persona valiosa y 
-
-
-reconoce sus derechos y 
-
-
-2. La competencia TIC en el 
-
-Currículo Nacional
-
-8
-
-
-
-
-
-
-
-
-
-
-
-
-Adaptado del Currículo Nacional de Educación Básica (2016)
-
-entornos 
-virtuales generados por las 
-
-en entornos 
-
-información 
-del entorno 
-Crea objetos 
-virtuales en diversos 
-
-
- Capacidades de la competencia TIC
-Consiste en construir ma
-
-teriales digitales con diver
-
-Ejemplo
-presentación con fotogra
-
-
-
-diferentes etapas del pro
-ceso de producción de su 
-
-Consiste en manifestar 
-
-de manera organizada y 
-
-coherente la individua
-
-lidad en distintos entor
-
-Ejemplo
-una red social para pro
-
-mocionar los productos 
-
-
-
-
-
-
-
-
-
-
-
-diversa disponible en los en
-
-
-Ejemplo
-
-de internet o intranet sobre 
-
-las ventajas de la técnica de 
-
-riego por goteo en la agri
-
-
-información que le permi
-ta sustentar los beneficios 
-
-
-otros en espacios virtuales 
-
-
-
-
-
-
-
-Ejemplo
-videollamada para comu
-
-nicarse con estudiantes 
-de otra región o país para 
-
-
-producción del producto 
-
-
-Competencia N.° 28:
-ﬁSe desenvuelve en los entornos virtuales generados por las TICﬂ
-9Capacidades TIC
-Ciencia y Tecnología
-ComunicaciónEducación para 
-el Trabajo
-
-
-que controla la 
-velocidad del motor en 
-un kit de robótica para 
-probar por ensayo y 
-error una hipótesis.
-Buscan información 
-en intranet o 
-internet que les 
-permita elaborar una 
-presentación sobre 
-un animal peruano en 
-
-Para ello, deben 
-analizar, seleccionar 
-y sistematizar la 
-información de 
-
-con respeto de los 
-derechos de autor.
-Como parte de un 
-proyecto orientado a 
-rescatar los cuentos 
-de su comunidad, los 
-en equipos elaboran 
-ello, se ayudan de una plantilla que perso
--nalizan (nombre, foto, 
-diseño, etc.).
-Elaboran un ensayo 
-sobre los recursos 
-naturales de su localidad. Para ello, 
-utilizan un procesador 
-
-diversas fuentes y 
-
-con respeto de los 
-derechos de autor.
-Para realizar de 
-manera automática 
-el balance diario de 
-de venta al por 
-menor, personalizan 
-la ayuda de una hoja de cálculo.Aplican una encuesta, tabulan los resultados y elaboran 
-para observar las 
-preferencias musicales 
-estudiantes. Para ello, 
-se ayudan de una hoja de cálculo.El desarrollo de estas capacidades implica que desde su rol fundamental como docente diseñe y eje
-
-
-
-Personaliza 
-entornos 
-virtuales
-Gestiona 
-información del 
-entorno virtual
-10Capacidades TIC
-Ciencia y Tecnología
-ComunicaciónEducación para 
-el Trabajo
-Interactúa 
-en entornos 
-virtuales
-Crea objetos 
-virtuales en 
-diversos formatos
-Como parte de un 
-proyecto colaborativo 
-que consiste en 
-analizar durante una 
-semana el crecimiento 
-de las plantas con y sin presencia de 
-luz, los estudiantes 
-compartirán ideas y 
-
-
-desarrollan. Para ello, 
-utilizan la red malla de 
-las laptop
- XO. 
-de los animales en 
-en el Perú mediante 
-una presentación de 
-diapositivas.
-Participan en el foro 
-creado en PerúEduca, 
-en este espacio los 
-
-sus opiniones respetuosamente en 
-
-ﬁAnaliza  dos 
-
-(propuestos por el 
-docente) y precisa 
-cuál de ellos transmite 
-cultura sustentando 
-tu respuesta con dos 
-
-Crean historietas 
-animadas usando el software
- Scratch 
-para representar 
-recomendaciones 
-sobre cómo actuar ante 
-situaciones de maltrato 
-físico o verbal.
-Como parte de 
-un proyecto entre 
-dos instituciones educativas, los 
-estudiantes comparten 
-
-colaborativo el 
-proceso de desarrollo 
-
-elaborar el estudio de mercado de su 
-proyecto y destacan 
-encontradas.Elaboran material 
-y volantes para 
-promocionar un 
-producto o nuevo 
-
-se ayudan de un 
-11
-
-
-
-
-
-docentes que emplean sus propios equipos (
-
-
-
-
-
-
-3. Aprovechamiento de los recursos TIC 
-disponibles en el aulaRecursos TIC disponibles en las instituciones educativas
-TabletaCelularCámaraComputadora de escritorioTelevisorParlantesProyectorRadio/grabadoraReproductor de DVDSmartphone3.1. ¿Cómo se pueden aprovechar las TIC disponibles en el aula?
-Laptop XO12
-
-
-
-
-
-
-
-
-que propone una manera de integrar la tecnología mediante un modelo de planeamiento instruc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sugerencia
-13Breve descripción
-Posibles tecnologías
-
-
-Los estudiantes emplean estrategias 
-y aplican sus conocimientos y el 
-razonamiento lógico para resolver 
-
-la hoja de cálculo para crear fórmulas que 
-
-:
-
-:
-Resuelve proble
-Los estudiantes implementan una estra
-
-
-
-
-
-:
-Breve descripción
-Posibles tecnologías
-Presencia una 
-demostración.
-Los estudiantes adquieren información 
-
-de una presentación elaborada o 
-
-
-
-
-
-: 
-: 
-
-
-
-Lee textos.
-Los estudiantes extraen información 
-
-de libros de texto u otros materiales 
-
-
-
-:
-formato digital elaborados o 
-
-
-
-
-concepto.
-
-
-
-
-
-
-:
-otro formato digital elaborados 
-
-
-
-Wikipedia ( u :
-Comprende 
-
-problema.
-Los estudiantes comprenden el contex
-
-
-
-
-
-usando el 
-
-
-
-
-:
-
-
-
-14Breve descripción
-Posibles tecnologías
-Desarrolla un 
-argumento.
-El estudiante desarrolla un argumento ma
-
-
-
-: 
-
-
-: 
-Categoriza.
-El estudiante intenta examinar un con
-cepto o relación con el propósito de clasi
-
-
-
-:
-
-otro formato digital elaborados o 
-
-: 
-Interpreta una 
-
-representación.
-El estudiante explica las relaciones visi
-
-
-
-:
-
-
-: 
-Breve descripción
-Posibles tecnologías
-Genera textos o 
-portafolio.
-
-
-
-
-blica mensualmente un pequeño diario 
-
-virtual en el que explica lo que aprendió 
-
-
-:
-
-: 
-Describe 
-
-un objeto o 
-
-concepto.
-
-
-tudiante produce una explicación mate
-
-crea su propio video tutorial en el que 
-demuestra la resolución de un problema 
-
-:
-
-
-:
-
-
-15Área de Ciencia y Tecnología
-Breve descripción
-Posibles tecnologías
-
-Los estudiantes registran informa
-
-
-:
-
-
-: 
-
-
-Los estudiantes examinan imáge
-
-
-animaciones) en formato impreso 
-
-: reproductores de 
-
-: 
- 
- pro
-
-Explora un tema / realiza 
-
-
-
-
-
-
-fundamentos usando fuentes im
-
-
-:
-otro formato digital elaborados 
-
-
-
-Wikipedia ( u :
-
-
-
-
-
-Los estudiantes desarrollan pre
-
-
-
-
-
-: 
-
-:
-
-
-
-Los estudiantes crean una estructura 
-
-para organizar los datos recolec
-
-:
-: 
-
-
-Los estudiantes reconocen patro
-
-
-
-
-:
-: 
-
-
-16Breve descripción
-Posibles tecnologías
-
-Los estudiantes realizan observa
-
-
-:
-:
-
-
-Los estudiantes organizan datos 
-obtenidos a través de la observa
-ción y previamente registrados en 
-
-
-
-:
-:
-
-
-
-Los estudiantes recogen datos con 
-
-:
-
-:
-
-Los estudiantes analizan resulta
-
-:
-:
-
-
-
-
-
-
-
-
-
-
-
-
-
-y tutoriales muy detallados sobre el uso de cada una de las 
-
-Sugerencia
-17Generalmente las tecnologías de la información y la 
-comunicación en educación solo son vistas como herramientas 
-
-
-
-
-
-
-Ł 
-
-Ł 
-
-Ł 
-
-Virus y antivirus
-Un problema frecuente en las computadoras y otros dispositivos 
-
-
-(software
-
-
-
+   Los desempeños 8 y 23 del Marco del Buen Desempeño Docente para Educación Básica Regular,
+   aprobado mediante Resolución Ministerial N.° 0547-2012-ED, indican que los docentes deben
+   ser capaces de utilizar recursos y tecnologías diversas y accesibles en función al propósito de la
+   sesión de aprendizaje; así como de crear, seleccionar y organizar diversos recursos para facilitar
+   el aprendizaje de los estudiantes.
+   Los docentes pueden encontrar en las TIC un aliado para fortalecer su práctica pedagógica:
+     Preparación y uso personal
+   • Conozca lo básico de las TIC: reconozca los
+      elementos de una computadora, escriba textos,
+      cree presentaciones, organice datos, navegue en
+      internet, descargue recursos y organice las carpetas
+      y archivos de una computadora.
+   • Use las TIC para sus actividades de planificación y
+      gestión académica: elabore los documentos de su carpeta
+      pedagógica, lleve el registro de sus estudiantes y de las
+      evaluaciones, entre otras actividades.
+   • Aproveche las TIC para la autoformación: revise tutoriales,
+      documentos digitales y lleve cursos virtuales como los que
+      ofrece PerúEduca.
+           Equipamiento
+                                           • Reconozca el equipamiento disponible en su institución
+                                             educativa: ¿Con qué equipamiento cuentan: laptop
+                                             XO, PC, laptop, proyector multimedia, otros? ¿Cuántos
+                                             equipos están operativos? ¿Cuenta con servicio de
+                                             internet? ¿Cuántas computadoras se pueden conectar
+                                             a internet simultáneamente? ¿Qué programas están
+                                             disponibles?
+                                                                                                      5
+  Guía docente para el aprovechamiento de las
+                                                        • ¿Cómo se gestiona el equipamiento en su
+                                                           institución educativa? ¿Hay un encargado del
+                                                           equipamiento? ¿Cuenta con un docente de
+                                                           aula de innovación pedagógica (DAIP) que le
+                                                           apoye en el uso de las TIC? ¿Es posible organizar
+                                                           a los estudiantes de los grados superiores para
+                                                           que apoyen en la gestión del equipamiento?
+                                                           ¿Sus estudiantes con mayores habilidades en
+                                                           tecnología podrían ayudar a preparar material
+                                                           educativo digital como parte de sus actividades
+                                                           de aprendizaje?
+         Enseñanza
+        • Recuerde que su rol es diseñar situacio-
+           nes de aprendizaje y guiar a sus estudian-
+           tes para que las aprovechen al máximo. Su
+           principal fortaleza es su conocimiento pe-
+           dagógico y su capacidad didáctica, no ne-
+           cesita ser un experto en el uso de las TIC.
+        • Utilice progresivamente las TIC en su aula;
+           al principio para reforzar el tipo de activida-
+           des de enseñanza que usted domina y pos-
+           teriormente para renovar su metodología.
+           Use las orientaciones de esta guía como
+           punto de partida.
+6
+2. La competencia TIC en el
+         Currículo Nacional
+         El Currículo Nacional de la Educación Básica propone en el perfil de egreso de los estudiantes el
+         aprovechamiento responsable de las tecnologías de la información y comunicación (TIC). Este
+         es un aprendizaje que deben lograr a lo largo de toda la escolaridad.
+                         Gráfico N.° 1. Perfil del egreso de la Educación Básica
+                                                 Se reconoce como persona valiosa y
+                                                       se identifica con su cultura.
+                                                                                                     Propicia la vida en democracia,
+                Desarrolla procesos
+                                                                                                        reconoce sus derechos y
+                  autónomos de
+                                                                                                     responsabilidades, comprende
+                    aprendizaje.
+                                                                                                      procesos históricos y sociales.
+       Aprovecha
+  responsablemente                                                                                                       Comprende, aprecia
+ las tecnologías de la                                                                                                  y cultiva la dimensión
+  información y de la                                                                                                   espiritual y religiosa.
+ comunicación (TIC).
+                                                                                                                         Practica una vida activa
+                                                                                                                           y saludable para su
+      Gestiona                                                                                                             bienestar, cuida su
+   proyectos de                                                                                                         cuerpo e interactúa con
+ emprendimiento                                                                                                              otras personas.
+   económico o
+       social.
+                                                                                                                Aprecia manifestaciones
+                                                                                                                   artístico-culturales y
+     Interpreta la realidad                                                                                     crea proyectos artísticos
+      y toma decisiones a                                                                                         utilizando los diversos
+    partir de conocimientos                                                                                         lenguajes del arte.
+  matemáticos que aporten
+          a su contexto.
+                                 Indaga y comprende el mundo                     Se comunica en su lengua
+                                   natural y artificial utilizando              materna, en castellano como
+Adaptado del Currículo            conocimientos científicos en                segunda lengua y en inglés como
+Nacional 2016                      diálogo con saberes locales.                      lengua extranjera.
+         Este perfil propone lo siguiente:
+         El estudiante discrimina y organiza información interactiva, se expresa a través de la modificación
+         y creación de materiales digitales, selecciona e instala aplicaciones según sus necesidades para
+         satisfacer nuevas demandas y cambios en su contexto, identifica y elige interfaces según sus con-
+         diciones personales o de su entorno sociocultural y ambiental, y participa y se relaciona con res-
+         ponsabilidad en redes sociales y comunidades virtuales a través de diálogos basados en el respeto
+                                                                                                                                                  7
+  Guía docente para el aprovechamiento de las
+         y el desarrollo colaborativo de proyecto. Además, lleva a cabo todas estas actividades de manera
+         sistemática y con capacidad de autorregulación de sus acciones. (Minedu 2016: 17).
+         Un aspecto significativo del Currículo Nacional es la incorporación de dos competencias
+         transversales: “se desenvuelve en los entornos virtuales generados por las TIC” y “gestiona
+         su aprendizaje de manera autónoma”. Ellas se integran en las áreas curriculares considerando
+         sus capacidades y desempeños específicos. Al no estar enmarcadas en un área en particular,
+         se hace necesario que todos los docentes las incorporen en la planificación y ejecución de sus
+         actividades educativas. En la presente guía abordaremos la relacionada con las TIC.
+                                                          Competencia N.° 28:
+                  “Se desenvuelve en los entornos virtuales generados por las TIC”
+         Esta competencia implica para el estudiante el desarrollo de las siguientes capacidades:
+                               Gráfico N.° 2. Capacidades de la competencia TIC
+           Consiste en manifestar                                                  Consiste en analizar, organi-
+           de manera organizada y                                                  zar y sistematizar información
+           coherente la individua-                                                 diversa disponible en los en-
+           lidad en distintos entor-                                               tornos virtuales.
+           nos virtuales.                                                          Ejemplo: cuando busca infor-
+           Ejemplo: cuando al crear                                                mación en fuentes confiables
+           una red social para pro-                                                de internet o intranet sobre
+           mocionar los productos                     Personaliza                  las ventajas de la técnica de
+           que ofrece, edita su perfil                                   Gestiona  riego por goteo en la agri-
+                                                       entornos
+           (imagen, nombre, datos                                     información  cultura. Selecciona aquella
+           de contacto, descripción                    virtuales                   información que le permi-
+                                                                      del entorno  ta sustentar los beneficios
+           del producto, entre otros).           generados por las
+                                                                          virtual. de esta técnica.
+                                                           TIC.
+                                                     Interactúa       Crea objetos
+           Consiste en participar con                                    virtuales  Consiste en construir ma-
+           otros en espacios virtuales              en entornos
+                                                                                    teriales digitales con diver-
+           colaborativos para comuni-                 virtuales.       en diversos
+                                                                                    sos propósitos.
+           carse, construir y mantener                                  formatos.
+           vínculos según sus edades e                                              Ejemplo: cuando crea una
+           intereses.                                                               presentación con fotogra-
+           Ejemplo: cuando utiliza la                                               fías en las que se evidencia
+           videollamada para comu-                                                  la sistematización de las
+           nicarse con estudiantes                                                  diferentes etapas del pro-
+           de otra región o país para                                               ceso de producción de su
+           compartir el proceso de                                                  proyecto productivo.
+           producción del producto
+           que ofrecen.
+8       Adaptado del Currículo Nacional de Educación Básica (2016)
+El desarrollo de estas capacidades implica que desde su rol fundamental como docente diseñe y eje-
+cute situaciones significativas de aprendizaje que generen interés, emoción y compromiso en sus es-
+tudiantes mediante el aprender haciendo, integrando las TIC disponibles en la institución educativa,
+cuando esta sea la solución más pertinente y eficaz.
+Veamos algunas actividades de aprendizaje y su relación con las capacidades de la competencia TIC:
+                                       Ciencia y                                    Educación para
+   Capacidades TIC                                          Comunicación
+                                      Tecnología                                        el Trabajo
+                               Modifican el programa       Como parte de un           Para realizar de
+                                    que controla la      proyecto orientado a      manera automática
+                               velocidad del motor en     rescatar los cuentos     el balance diario de
+                               un kit de robótica para  de su comunidad, los     la caja de un negocio
+                                 probar por ensayo y   estudiantes organizados        de venta al por
+                                 error una hipótesis.    en equipos elaboran      menor, personalizan
+                                                       un blog educativo. Para    la configuración con
+                                                        ello, se ayudan de una   la ayuda de una hoja
+      Personaliza
+                                                          plantilla que perso-          de cálculo.
+       entornos                                         nalizan (nombre, foto,
+        virtuales                                             diseño, etc.).
+                                 Buscan información       Elaboran un ensayo           Aplican una
+                                     en intranet o         sobre los recursos    encuesta, tabulan los
+                                   internet que les          naturales de su     resultados y elaboran
+                                permita elaborar una      localidad. Para ello,   gráficos estadísticos
+                                 presentación sobre     utilizan un procesador      para observar las
+                               un animal peruano en       de texto, recurren a  preferencias musicales
+                                peligro de extinción.      diversas fuentes y        de un grupo de
+                                   Para ello, deben      recopilan fotografías,  estudiantes. Para ello,
+        Gestiona                analizar, seleccionar      con respeto de los   se ayudan de una hoja
+    información del                y sistematizar la       derechos de autor.           de cálculo.
+     entorno virtual                información de
+                                  fuentes confiables
+                                 con respeto de los
+                                 derechos de autor.
+                                                                                                         9
+   Guía docente para el aprovechamiento de las
+                                         Ciencia y                                    Educación para
+    Capacidades TIC                                             Comunicación
+                                        Tecnología                                        el Trabajo
+                                    Como parte de un         Participan en el foro      Como parte de
+                                 proyecto colaborativo      creado en PerúEduca,      un proyecto entre
+                                      que consiste en         en este espacio los      dos instituciones
+                                  analizar durante una      estudiantes expresan        educativas, los
+                                 semana el crecimiento           sus opiniones     estudiantes comparten
+                                    de las plantas con       respetuosamente en     en un blog educativo
+                                    y sin presencia de       torno a la consigna:       colaborativo el
+                                   luz, los estudiantes           “Analiza dos      proceso de desarrollo
+        Interactúa                 compartirán ideas y    programas de televisión  que han seguido para
+      en entornos                reflexiones en relación      (propuestos por el     elaborar el estudio
+         virtuales              con el experimento que        docente) y precisa      de mercado de su
+                                  desarrollan. Para ello,  cuál de ellos transmite   proyecto y destacan
+                                 utilizan la red malla de    cultura sustentando         los beneficios
+                                       las laptop XO.       tu respuesta con dos         y dificultades
+                                                                  argumentos”.            encontradas.
+                                  Explican la situación         Crean historietas     Elaboran material
+                                   de los animales en          animadas usando       publicitario: afiches
+                                  peligro de extinción        el software Scratch       y volantes para
+                                  en el Perú mediante           para representar       promocionar un
+                                 una presentación de           recomendaciones        producto o nuevo
+                                       diapositivas.      sobre cómo actuar ante      negocio. Para ello,
+                                                          situaciones de maltrato      se ayudan de un
+       Crea objetos                                              físico o verbal.  procesador de textos.
+       virtuales en
+   diversos formatos
+10
+3. Aprovechamiento de los recursos TIC
+   disponibles en el aula
+    3.1. ¿Cómo se pueden aprovechar las TIC disponibles en el aula?
+  En primer lugar, es importante saber con qué recursos cuenta la institución educativa: laptops XO,
+  computadoras, equipos de video, televisores, proyectores multimedia u otros; los que podrían
+  ser parte del inventario del equipamiento tecnológico disponible. Pero también hay muchos
+  docentes que emplean sus propios equipos (laptop, celulares, cámaras fotográficas) para su
+  desarrollo profesional y la mejora de su trabajo en el aula, y otros que ponen en valor para fines
+  educativos los equipos personales que los estudiantes poseen: celulares, tabletas u otros.
+               Recursos TIC disponibles en las instituciones educativas
+                                           Proy tor      Parlantes       Re
+                                               ec                          pr              VD
+               La p                                                          od            D
+                      top XO                                                      uctor de
+                                                                                Ra
+                                                                                  dio           r
+                                                                                                a
+    Tableta                                                                             /grabado
+     Celular                                                                       Televisor
+                                                             Co
+                       Sm              e                        m        ora
+                          ar t   p h on         Cámara       d e p ut a d i o
+                                                                 escritor
+                                                                                                       11
+   Guía docente para el aprovechamiento de las
+                                              Sugerencia
+                                         Dedique un espacio de tiempo para reconocer los recursos
+                                         TIC disponibles en su institución educativa. Algunos
+                                         aspectos claves por verificar:
+                                         • ¿Qué tipo de equipos son?
+                                         • ¿Cuántos están funcionando correctamente?
+                                         • ¿Qué programas está disponible?
+                                         • ¿Cuentan con software antivirus?
+                                         • ¿Existe un servidor escuela en la institución educativa?
+                                         • ¿Qué necesito saber para poder utilizarlos con los
+                                           estudiantes?
+                                         • ¿Cuento con el apoyo de un encargado de tecnología?
+                                         • ¿Hay conexión a internet?
+         Identificar las actividades educativas que los docentes planifican y ejecutan con mayor frecuencia
+         en las aulas y las tecnologías que ayudan a que estas se realicen de manera más efectiva pueden
+         ser el punto de partida para reconocer la utilidad de los recursos tecnológicos disponibles. Toma-
+         remos como referencia para este aspecto un trabajo que publicó el equipo liderado por Harris y
+         Hofer (2011), propulsores del enfoque TPACK (Technological Pedagogical and Content Knowledge),
+         que propone una manera de integrar la tecnología mediante un modelo de planeamiento instruc-
+         cional basado en una clasificación de las actividades de aprendizaje.
+         La propuesta surge de la observación del trabajo de planificación curricular de los docentes y
+         diferencia los tipos de actividades según el área de conocimiento. No se trata de una clasificación
+         definitiva, pero es un referente útil y puede servir como insumo para el diseño de las sesiones de
+         aprendizaje tomando en cuenta el planteamiento del Currículo Nacional de la Educación Básica.
+         A modo de ejemplo, hemos recogido algunas categorías de la propuesta original para las áreas de
+         Matemática y Ciencia y Tecnología, y adecuamos algunos términos de acuerdo con los recursos
+         que pueden encontrase en las instituciones educativas de secundaria en contextos rurales.
+12
+         Área de Matemática
+  Actividades para adquirir nuevos conceptos
+ Tipo de actividad             Breve descripción                      Posibles tecnologías
+Presencia una      Los estudiantes adquieren información       Software: PowerPoint, Impress.
+demostración.      de una presentación elaborada o             Hardware: PC, laptop, proyector
+                   seleccionada por su docente, de un video    multimedia, USB, televisor.
+                   o de una animación. Ejemplo: video
+                   tutorial de Khan Academy en español
+                   sobre cómo sumar números de varias
+                   cifras con valor posicional.
+Lee textos.        Los estudiantes extraen información         Software: archivos en PDF u otro
+                   de libros de texto u otros materiales       formato digital elaborados o
+                   escritos digitalizados. Ejemplo: textos     seleccionados por el docente.
+                   sobre áreas y volúmenes de cuerpos          Hardware: XO, PC.
+                   geométricos.
+Investiga un       Los estudiantes investigan un concep-       Software: archivos en PDF u
+concepto.          to. Ejemplo: buscan información sobre       otro formato digital elaborados
+                   instrumentos matemáticos de nuestros        o seleccionados por el docente.
+                   antepasados.                                Wikipedia (offline u online).
+                                                               Hardware: XO, PC.
+Comprende          Los estudiantes comprenden el contex-       Software: Xmind, Excel, Calc,
+o define un        to de un problema dado y definen sus        Tortugarte, Scratch.
+problema.          características matemáticas. Ejemplo:       Hardware: XO, PC.
+                   crean un juego matemático para afianzar
+                   el aprendizaje sobre figuras geométricas,
+                   usando el software Scratch.
+  Actividades para practicar
+ Tipo de actividad             Breve descripción                      Posibles tecnologías
+Hace cálculos y    Los estudiantes emplean estrategias         Software: calculadora, hoja de
+ejercicios.        y aplican sus conocimientos y el            cálculo (Excel, Calc).
+                   razonamiento lógico para resolver           Hardware: XO, PC, calculadora.
+                   operaciones matemáticas. Ejemplo: usan
+                   la hoja de cálculo para crear fórmulas que
+                   les permitan realizar cálculos matemáticos.
+Resuelve proble-   Los estudiantes implementan una estra-      Software: calculadora, hoja de
+mas.               tegia o técnica matemática para resolver    cálculo (Excel, Calc), Tortugarte,
+                   un problema.                                Scratch.
+                                                               Hardware: XO, PC, calculadora.     13
+   Guía docente para el aprovechamiento de las
+     Actividades para interpretar
+    Tipo de actividad                  Breve descripción                       Posibles tecnologías
+   Desarrolla un           El estudiante desarrolla un argumento ma-   Software: Xmind, PowerPoint,
+   argumento.              temático relacionado con las razones por    Impress, editores de video, Word,
+                           las cuales él piensa que algo es verdad.    Writer.
+                                                                       Hardware: XO, PC, cámara, celular.
+   Categoriza.             El estudiante intenta examinar un con-       Software: archivos en PDF u
+                           cepto o relación con el propósito de clasi-  otro formato digital elaborados o
+                           ficarlo dentro de un conjunto de catego-     seleccionados por el docente.
+                           rías conocidas.                              Hardware: XO, PC.
+   Interpreta una          El estudiante explica las relaciones visi-   Software: Xmind, PowerPoint,
+   representación.         bles en una representación matemática        Impress, editor de video, Word,
+                           (tabla, fórmula, diagrama, gráfico, ilus-    Writer, Excel, Calc.
+                           tración, modelo, animación, etc.).           Hardware: XO, PC, cámara, celular.
+     Actividades para producir
+    Tipo de actividad                  Breve descripción                       Posibles tecnologías
+   Genera textos o         El estudiante produce un informe, co-        Software: Word, Writer,
+   portafolio.             mentario, explicación, o documento, para     PowerPoint, Impress.
+                           demostrar su comprensión. Ejemplo: pu-
+                                                                        Hardware: PC, XO, proyector
+                           blica mensualmente un pequeño diario
+                           virtual en el que explica lo que aprendió    multimedia.
+                           en las clases de Matemática y su relación
+                           con la vida diaria.
+   Describe                Asistido por la tecnología en el proceso     Software: Xmind, PowerPoint,
+   matemáticamente         de descripción o documentación, el es-       Impress, editores de video, Word,
+   un objeto o             tudiante produce una explicación mate-
+                                                                        Writer, Excel, Calc.
+   concepto.               mática de su objeto o concepto. Ejemplo:
+                           crea su propio video tutorial en el que      Hardware: XO, PC, cámara, celular.
+                           demuestra la resolución de un problema
+                           matemático sobre fracciones.
+14
+         Área de Ciencia y Tecnología
+  Actividades para construir conceptos
+    Tipo de actividad              Breve descripción                  Posibles tecnologías
+Toma apuntes.             Los estudiantes registran informa-   Software: Word, Writer, Bloc de
+                          ción de clases, presentaciones, tra- notas, Excel, Calc.
+                          bajos grupales.                      Hardware: XO, PC, laptop.
+Ve imágenes/objetos.      Los estudiantes examinan imáge-      Software: reproductores de
+                          nes/objetos tanto fijos como en      video.
+                          movimiento (por ejemplo: video y     Hardware: XO, PC, laptop, pro-
+                          animaciones) en formato impreso      yector multimedia.
+                          o digital.
+Explora un tema / realiza Los estudiantes reúnen informa-      Software: archivos en PDF u
+una investigación de      ción / realizan una investigación de otro formato digital elaborados
+fundamentos.              fundamentos usando fuentes im-       o seleccionados por el docente.
+                          presas y digitales.                  Wikipedia (Offline u Online).
+                                                               Hardware: XO, PC, laptop.
+Desarrolla predicciones,  Los estudiantes desarrollan pre-     Software: Xmind, PowerPoint,
+hipótesis, preguntas,     dicciones, reflexionan sobre estas   Impress, Word, Writer.
+variables.                y seleccionan hipótesis pertinen-    Hardware: XO, PC, cámara, celular.
+                          tes, preguntas comprobables y
+                          variables.
+Organiza / clasifica      Los estudiantes crean una estructura Software: Excel, Calc, Xmind.
+datos.                    para organizar los datos recolec-    Hardware: XO, PC, laptop.
+                          tados.
+Analiza datos.            Los estudiantes reconocen patro-     Software: Excel, Calc.
+                          nes, se hacen preguntas sobre esos   Hardware: XO, PC, laptop.
+                          patrones, recolectan más datos,
+                          continúan el análisis, clasifican,
+                          cuestionan, construyen y prueban.
+                                                                                                  15
+   Guía docente para el aprovechamiento de las
+    Actividades para realizar procedimientos
+      Tipo de actividad                 Breve descripción                      Posibles tecnologías
+   Observa.                    Los estudiantes realizan observa-       Software: reproductor de video.
+                               ciones a partir de experiencias físi-   Hardware: XO, cámara digital,
+                               cas o digitales.                        proyector multimedia.
+   Registra datos.             Los estudiantes organizan datos         Software: Excel, Calc, Word, Writer.
+                               obtenidos a través de la observa-       Hardware: PC, laptop, XO.
+                               ción y previamente registrados en
+                               tablas, gráficos, imágenes y notas
+                               de laboratorio.
+   Recolecta datos.            Los estudiantes recogen datos con       Software: Excel, Calc, Word, Writer,
+                               objetos físicos o simulaciones.         simuladores.
+                                                                       Hardware: celular, XO, cámara digital.
+   Procesa.                    Los estudiantes analizan resulta-       Software: Excel, Calc.
+                               dos a partir de datos.                  Hardware: XO, PC, laptop,
+                                                                       calculadora.
+                                              Sugerencia
+                                         Compare las actividades propuestas en los cuadros anteriores
+                                         con las que planifica y realiza a diario con sus estudiantes.
+                                         • ¿Encuentra alguna similitud?
+                                         • ¿Qué otras actividades se deberían considerar?
+                                         • ¿Conoce las tecnologías que se proponen?
+                                         En el portal educativo PerúEduca (www.perueduca.pe) y en
+                                         muchas otras fuentes de internet, podrá encontrar manuales
+                                         y tutoriales muy detallados sobre el uso de cada una de las
+                                         tecnologías propuestas.
+16
+                   Reflexión
+               Generalmente las tecnologías de la información y la
+               comunicación en educación solo son vistas como herramientas
+               que incrementan el alcance de los métodos educativos. Sin
+               embargo, estas mejoras permiten plantear modificaciones en
+               la forma tradicional de enseñar.
+               • ¿Qué piensa de esta afirmación?
+               • ¿Qué actividades de las que regularmente ejecuta en sus clases
+                  podrían ser más efectivas con el aprovechamiento de las TIC?
+               • ¿Qué otras posibilidades encuentra?
+                            Virus y antivirus
+Un problema frecuente en las computadoras y otros dispositivos
+informáticos son los ataques de virus. Un virus es un programa
+(software) que tiene la capacidad de replicarse a sí mismo y generar
+múltiples fallas en los equipos, incluso puede generar la pérdida total
 de la información almacenada.
-
-
-
-
-software
- antivirus distribuido por el Ministerio de 
- 
-
-docentes y estudiantes.
-
-
-18En el documento 
-
-
-
-
-
-
-
-
-Cuando el estudiante deja de ser receptor pasivo de la información y se convierte en creador 
-
-
-
-
-construcción de 
-conocimiento. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-herramienta Scratch nos permite contar historias 
-
-
-
-pensamiento computacional; con Word o Writer 
-
-
-
-
-4. Estrategias metodológicas para el 
-aprovechamiento de las TIC
-4.1. Aprender activamente
-19Scratch es una aplicación 
-disponible en la laptop
- XO. Permite que los 
-estudiantes creen 
-divertidas animaciones 
-
-
-
-
-
-docente es más favorable que leer una separata sobre el mismo tema en forma individual; en 
-
-4.2. Aprender cooperativamente
-20Si cuenta con internet en 
-la institución educativa, la 
-videoconferencia es una 
-buena oportunidad para 
-conectar a los estudiantes 
-
-ubicadas en cualquier parte del mundo.
-
-dos herramientas muy 
-
-
-
-
-
-
-
-
-
-
-
-
-de estudiantes de diversas zonas vía internet; son muchos los casos de docentes que organizan 
-
-
-
-
-
-
-
-
-
-21La misma idea sobre la inmediatez de los 
-resultados es aplicable a dinámicas en 
-el aula que consisten en la aplicación de 
-encuestas anónimas o concursos en los que 
-los estudiantes responden simultáneamente 
-a una serie de preguntas y las respuestas 
-
-
-
-
-
-
-
-
-otras áreas más es provocada por el largo proceso manual que es necesario ejecutar desde que 
-
-
-dedicado a esta elaboración reduce el que se necesita para la interpretación y la valoración 
-
-
-
-
-
-
-Actividades con JClicŁ AsociacionesŁ Ł 
-Ł Puzzles o rompecabezas
-Ł Respuesta escrita
-4.3. Contar con retroalimentación oportuna
+Para contrarrestar estos ataques, es necesario considerar las siguientes
+acciones:
+- Mantenga actualizado el sistema operativo de sus equipos.
+- Asegúrese que el software antivirus distribuido por el Ministerio de
+  Educación esté correctamente instalado y actualizado.
+- Asegúrese de revisar previamente las memorias USB que utilizan
+  docentes y estudiantes.
+- Cuando usted o sus estudiantes hagan uso de internet, evite la
+  descarga de archivos de dudosa procedencia.
+                                                                                17
+   Guía docente para el aprovechamiento de las
+   4. Estrategias metodológicas para el
+         aprovechamiento de las TIC
+         En el documento Tecnología para la mejora de la educación, Francesc Pedró (2015) afirma que
+         cada vez hay mayor evidencia científica que permite identificar las aproximaciones pedagógicas
+         soportadas por la tecnología con las que es posible conseguir resultados significativamente
+         superiores a las metodologías que no la incorporan. Las metodologías que mejoran
+         sustantivamente con la tecnología son aquellas en las que el estudiante tiene oportunidad
+         de aprender activa y cooperativamente, cuenta con una retroalimentación frecuente y hace
+         conexiones con el mundo real.
+             4.1. Aprender activamente
+         Cuando el estudiante deja de ser receptor pasivo de la información y se convierte en creador
+         de contenido, aprende más. Es decir, las actividades que involucran al estudiante propiciando
+         la experiencia directa, la posibilidad de ensayar interpretaciones personales de la realidad
+         y la interacción estructurada con sus pares contribuyen firmemente a la construcción de
+         conocimiento.
+         Ver un buen video en clases puede ser motivador y útil para generar aprendizajes, pero producir
+         un video es mucho mejor. La captura y edición de video es una actividad cada vez más frecuente
+         y se puede llevar a la práctica con recursos muy asequibles, como la cámara de grabación de
+         un celular y un aplicativo gratuito de edición de videos. La producción audiovisual realizada con
+         fines educativos resulta ser una actividad muy completa, pues genera oportunidades para que los
+         estudiantes investiguen y seleccionen información; produzcan textos, y practiquen la expresión
+         oral, escrita y corporal, el pensamiento crítico y la resolución de problemas.
+         De esta manera, las herramientas TIC ofrecen
+         múltiples posibilidades para que los estudiantes
+         generen contenido. Por ejemplo, las herramientas
+         PowerPoint o Impress pueden servir para exponer
+         ideas a través de presentaciones multimedia; la
+         herramienta Scratch nos permite contar historias
+         animadas, crear juegos y, de paso, practicar el
+         pensamiento computacional; con Word o Writer
+         podemos diseñar afiches, trípticos u otras piezas
+         de comunicación, y con la cámara de un teléfono
+         celular podemos capturar un video y editarlo.
+18
+                                                                   Scratch es una aplicación
+                                                                    disponible en la laptop
+                                                                     XO. Permite que los
+                                                                      estudiantes creen
+                                                                   divertidas animaciones
+                                                                 multimedia a través de un
+                                                                 lenguaje de programación
+                                                                         iconográfico.
+  4.2. Aprender cooperativamente
+La realización cooperativa de una tarea ofrece la oportunidad de aprender imitando lo que ha-
+cen los demás, discutir la propia tarea, hacer visible el pensamiento y aprovechar la retroali-
+mentación de los demás (Pedró, 2015). Discutir en grupo sobre una cuestión planteada por el
+docente es más favorable que leer una separata sobre el mismo tema en forma individual; en
+todo caso, ambos tipos de actividad deberían ser complementarias en el aula.
+                                                                                                19
+   Guía docente para el aprovechamiento de las
+                                                                        Si cuenta con internet en
+                                                                       la institución educativa, la
+                                                                        videoconferencia es una
+                                                                        buena oportunidad para
+                                                                       conectar a los estudiantes
+                                                                        con personas de interés
+                                                                         ubicadas en cualquier
+                                                                            parte del mundo.
+                                                                         Hangouts y Skype son
+                                                                         dos herramientas muy
+                                                                        populares para este fin.
+        Muchas veces se piensa que la tecnología puede estar en contra del aprendizaje cooperativo
+        cuando vemos a niñas, niños y jóvenes absortos frente a una pantalla, completamente aislados
+        de su entorno. Sin embargo, es competencia del docente diseñar situaciones de aprendizaje que
+        promuevan la interacción entre estudiantes. Por ello, es importante plantear buenas preguntas,
+        seleccionar información digital pertinente y permitir que los estudiantes trabajen en equipo. Lo
+        mismo se puede aplicar a la creación de contenido, la revisión de cuadros estadísticos, la lectura
+        de un texto, la visualización de videos o animaciones, la resolución de problemas de matemática,
+        entre otros usos.
+        Si una institución educativa cuenta con un punto de conexión a internet, es posible ampliar sig-
+        nificativamente el alcance de la cooperación, convocando expertos y mentores para que com-
+        partan su experiencia con los estudiantes o participen en proyectos colaborativos con grupos
+        de estudiantes de diversas zonas vía internet; son muchos los casos de docentes que organizan
+        reuniones virtuales periódicas entre los grupos de estudiantes a su cargo, ubicados en diferentes
+        partes del país. Para ello, es suficiente contar con una laptop con conexión a internet.
+        Un ejemplo interesante es el proyecto educativo “School in the cloud” (escuela en la nube) pro-
+        movido por Sugata Mitra, en el que veinte estudiantes exploraron libremente información cargada
+        en computadoras para dar respuestas a “grandes preguntas”; se ubicarán cuatro estudiantes por
+        computadora para promover que cooperen. Los resultados sugieren que los niños en grupos pue-
+        den leer y comprender en niveles más altos que de manera individual (Mitra y Crawley, 2014).
+20
+   4.3. Contar con retroalimentación oportuna
+Una situación frecuente en las áreas de Matemática, Ciencias Sociales, Ciencia y Tecnología y
+otras áreas más es provocada por el largo proceso manual que es necesario ejecutar desde que
+se recogen los datos hasta la elaboración de gráficos estadísticos y curvas, ya que el tiempo
+dedicado a esta elaboración reduce el que se necesita para la interpretación y la valoración
+científica. Los estudiantes se convierten en diestros procesadores de la información, pero tienen
+poca práctica en el análisis e interpretación de los resultados. La utilización de una hoja de
+cálculo como Excel o Calc permite obtener los gráficos de manera automática y proporciona
+a los estudiantes la oportunidad para desarrollar competencias de mayor nivel. Por otro lado,
+los prepara mejor para el mundo laboral, en el que cada vez más las actividades manuales y
+mecánicas se encomiendan a las máquinas y computadoras.
+La misma idea sobre la inmediatez de los
+resultados es aplicable a dinámicas en                 Actividades con JClic
+el aula que consisten en la aplicación de
+encuestas anónimas o concursos en los que              • Asociaciones
+                                                       • Juegos de memoria
+los estudiantes responden simultáneamente              • Actividades de exploración,
+a una serie de preguntas y las respuestas                identificación e información
+individuales y consolidadas se obtienen de             • Puzzles o rompecabezas
+                                                       • Respuesta escrita
+manera inmediata. Si cuenta con internet en
+la institución educativa, puede probar Kahoot
+o Socrative, herramientas gratuitas y muy
+intuitivas. También existen aplicaciones como JClic y Hotpotatoes (disponibles en versión offline),
+que permiten crear evaluaciones y múltiples contenidos interactivos para estudiantes.
+                                                                                                    21
+   Guía docente para el aprovechamiento de las
+         La gamificación en educación o el uso de características del juego audiovisual con fines educativos
+         es una estrategia cada vez más frecuente en educación. Hay múltiples razones para tomar en cuenta
+         el uso de ciertas características y dinámicas del juego audiovisual para involucrar a los estudiantes
+                                              en el aprendizaje. En principio tenemos la retroalimentación
+                                              inmediata, los estudiantes reciben automáticamente una
+                                              valoración en respuesta a sus acciones en el juego, ya sea
+                                              elegir una opción o introducir un contenido. Por otro lado, en
+                                              los juegos se practica de manera habitual el ensayo y error, y
+                                              los jugadores-estudiantes tienen la posibilidad de avanzar a su
+                                              propio ritmo.
+                                              Los participantes en el juego audiovisual ascienden niveles,
+                                              reciben recompensas, se involucran en una misión y en una
+                                              historia. Oráculo Matemágico es una aplicación gratuita para
+                                              computadoras convencionales, laptop, tabletas y celulares
+                                              inteligentes que incluye todas estas características y es útil
+                                              como complemento de las actividades educativas en el área
+                                              de Matemática.
+            4.4. Hacer conexiones con el mundo real
+         Lo que se aprende en la escuela debe ser útil en la vida real. Los estudiantes suelen tener pro-
+         blemas para aplicar lo que aprenden en clase a situaciones problemáticas cotidianas. Las sesio-
+         nes de aprendizaje incluyen un momento de transferencia, sin embargo, este a veces es solo
+         una repetición o ampliación de las situaciones ficticias desarrolladas en clase.
 22
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-245. Producción de videos en el aula como 
-estrategia para integrar las TIC
-En el siguiente ejemplo revisaremos los recursos y procesos necesarios para implementar una ac
-
-
-5.1. ¿Qué recursos TIC se necesitan?
-
-captura y graba
-
-
-puede ser una 
-una cámara de fotos digital (con 
-
-gente o una 
-
-
-
-
-puede ser una 
-
-convencional 
-
-algunos celulares inteligentes cuentan 
-
-
-
-
-con el 
- necesario para editar 
-
-Sugerencia
-Si no cuenta con un 
-
-
-
-
-
-En el repositorio de videos YouTube podrá encontrar tutoriales 
-
-
-25
-
-
-
-
-
-
-
-
-2612
-1. 
-2.
-
-3. Seleccione la versión de instalador.
-Nota:Si su equipo cuenta con el sistema operativo 
-
-
-
-la versión de instalador que requiere (32 o 
-
-
-
-
-
-a.
-
-Windows (parte inferior izquierda de su 
-
-pantalla).
-b.
-c.
-
-
-
-la versión de instalador
-.abc3¿Cómo descargar Shotcut?
-27Más allá de la sala de cómputo
-
-
-ambiente 
-
-
-
-limitación cuando se requiera organizar a los estudiantes de tal manera que puedan tra
-
-
-
-
-
+Por otro lado, los estudiantes aprenden de manera más efectiva cuando están involucrados en
+la solución de problemas reales de su entorno. La percepción de que lo que están haciendo
+es útil y trasciende las paredes de su salón de clases es el mejor estímulo. Involucrados en la
+solución de problemas reales de la sociedad, los estudiantes se sensibilizan y se convierten en
+agentes sociales de cambio.
+La tecnología puede ayudar mucho a acercar la realidad a las actividades de la institución educa-
+tiva. Proyectos educativos que consisten en rescatar el acervo cultural de las comunidades son
+muy valiosos. Entre las actividades del desarrollo de este proyecto, los estudiantes podrían, por
+ejemplo, entrevistar a los sabios de la comunidad o a sus abuelos, tomar fotos a los paisajes de
+su comunidad, grabar en la lengua nativa las tradiciones de la comunidad y elaborar un banco
+de materiales digital con el objetivo de conservar su patrimonio. En estos casos, el uso de la gra-
+badora del celular o una cámara son muy útiles para recoger testimonios y fotografías que luego
+se pueden convertir en videos, infografías u otro tipo de presentaciones. La tecnología puede
+ser muy útil para hacer conexiones con el mundo real.
+                                                                                                    23
+   Guía docente para el aprovechamiento de las
+   5. Producción de videos en el aula como
+         estrategia para integrar las TIC
+         En el siguiente ejemplo revisaremos los recursos y procesos necesarios para implementar una ac-
+         tividad educativa basada en una producción audiovisual. En términos generales, los estudiantes
+         van a investigar sobre un tema de interés y producir un video.
+            5.1. ¿Qué recursos TIC se necesitan?
+                Un dispositivo de                              Un dispositivo para
+                captura y graba-                               editar el video,
+                ción de video,                                 puede ser una
+                puede ser una                                  laptop convencional
+                cámara filmadora,                              o PC, incluso
+                una cámara de fotos digital (con               algunos celulares inteligentes cuentan
+                función de video), un celular inteli-          con esta posibilidad. Si se utiliza una
+                gente o una laptop convencional.               laptop convencional, esta debe contar
+                                                               con el software necesario para editar
+                                                               videos.
+                                             Sugerencia
+                                        Si no cuenta con un software para editar videos, puede utilizar
+                                        Shotcut, que es gratuito. Para ello será necesario descargar e
+                                        instalar el programa. Si cuenta con acceso a internet, puede
+                                        acceder a la página web de los desarrolladores:
+                                                              https://www.shotcut.org/
+                                        En el repositorio de videos YouTube podrá encontrar tutoriales
+                                        sobre el uso de esta herramienta.
+24
+        Reflexión
+Para facilitar un proyecto educativo basado en la producción de videos no necesita
+dominar el uso de las herramientas TIC de captura y edición. Seguramente los estudiantes
+ya las saben usar; si no es así, permita que ellos exploren y descubran su funcionamiento
+de manera autónoma. Se sorprenderá de la facilidad con que logran este objetivo.
+Además, es una manera de promover el desarrollo transversal de la competencia TIC.
+                                                                                          25
+   Guía docente para el aprovechamiento de las
+                                   ¿Cómo descargar Shotcut?
+                                           1
+                                                                2
+                                                     Realice los siguientes pasos:
+                                                    1. Ingrese a la dirección https://shotcut.org/
+                                                    2. Haga clic en “Download” (descargar).
+                                                 3  3. Seleccione la versión de instalador.
+                                                    Nota:
+                                                    Si su equipo cuenta con el sistema operativo
+                                                    Windows, es posible que no esté seguro de
+                                                    la versión de instalador que requiere (32 o
+                                                    64 bit). Para saberlo, realice los siguientes
+                                                    pasos:
+                                                    a. Haga clic derecho en el botón inicio de
+                                                       Windows (parte inferior izquierda de su
+                                                       pantalla).
+                                                    b. Elija la opción “Sistema”.
+                                                    c. En “Tipo de sistema” encontrará el detalle
+                                                       que requiere para elegir adecuadamente
+                                                       la versión de instalador.
+                                               b
+                                                                                  c
+                                                  a
+26
+                     Más allá de la sala de cómputo
+En muchas instituciones educativas el uso de la tecnología para el aprendizaje está úni-
+camente relacionado al espacio físico donde se encuentran las computadoras: ambiente
+físico implementado con equipamiento TIC (aula de innovación pedagógica �AIP�). Incluso
+se tiende a ubicar las computadoras portátiles XO en puestos fijos. Esto constituye una
+limitación cuando se requiera organizar a los estudiantes de tal manera que puedan tra-
+bajar en equipos y moverse libremente, pues la posición de los estudiantes está sujeta al
+puesto donde está ubicada la computadora.
+Si cuenta con equipos portátiles en su institución educativa, aproveche esta portabili-
+dad, use la tecnología en las aulas, en los espacios libres y abiertos, e incluso fuera del
+local escolar.
+                                                                                            27
+   Guía docente para el aprovechamiento de las
+           5.2 ¿Qué procesos hay que realizar?
+         Producir videos requiere la realización de varias actividades, todas con gran potencial para de-
+         sarrollar competencias asociadas a diversas áreas del currículo y evidenciar desempeños. Estos
+         pasos son:
+         a. Trabajar en equipo, organizar tareas y responsabilidades:
+            Para producir un video es necesario que los estudiantes se organicen y asuman diversos roles,
+            por ejemplo:
+                                         Encargados de escribir el contenido y los textos para ser
+                Guionista(s)
+                                         debatidos entre todos los miembros del equipo.
+               Actores y                 Quienes aparecerán en la grabación, ya sea con su imagen
+               locutores                 o su voz.
+                                         Encargados de organizar y asegurar la disponibilidad de la
+               Productores
+                                         utilería, escenarios, recursos para los efectos, etc.
+               Camarógrafos              Encargados de capturar las imágenes.
+               Editores de               Encargados de editar el video (cortan, pegan, agregan efectos,
+               video                     etc.). Logran la versión final del video.
+               Director/                 Encargado de coordinar todos los procedimientos y asegurarse
+               Coordinador               de la calidad de la producción.
+         b. Buscar y seleccionar información:
+            El asunto sobre el cual tratará el video deberá ser correctamente delimitado. No olvide que
+            la actual abundancia de información se convierte en un problema cuando los estudiantes no
+            tienen las herramientas conceptuales necesarias para procesar dicha información.
+            Hay varias maneras de contribuir a que los estudiantes sean más eficientes en la búsqueda y
+            selección de la información:
 28
-
-Estos 
-
-
-Actores y 
-locutores
-Editores de 
-
-videoDirector/
-Coordinador
-Productores
-
-
-
-
-Encargados de organizar y asegurar la disponibilidad de la 
-
-Encargado de coordinar todos los procedimientos y asegurarse 
-
-Encargados de escribir el contenido y los textos para ser 
-
-
-5.2 ¿Qué procesos hay que realizar?
-Guionista(s)Camarógrafos
-
-
-la actual abundancia de información se convierte en un problema cuando los estudiantes no 
-
-
-
-29132Ł 
-
-
-
-
-
-
-
-Ł Plantee preguntas orientadoras
-
-
-
-
-
-Ł Filtre y entregue las fuentes de información
- 
-(estas pueden ser digitales o impresas).
- También hay información en el entorno de la 
-escuela y la comunidad que puede ser valiosa; esta se puede recolectar de diversas ma
-
-
-En las imágenes siguientes se observan los pasos a seguir para ingresar a Xmind en la computa
-
-
-
-Para acceder a Xmind en 
-una laptop
- XO, realice 
-
-
-1.
-
-
-
-superior izquierda de 
-
-su pantalla).
-2. Elija la opción 
-
-
-3. Seleccione la opción 
-"Xmind".30No será necesario ofrecer muchas indicaciones a los estudiantes 
-sobre cómo usar Xmind; permita que ellos lo exploren 
-
-libremente y aprenderán por autodescubrimiento mucho más 
-
-
-
-
-
-Sugerencia
-31Llegó la hora de planear la secuencia de escenas que servirá para explicar en video lo comprendido 
-
-que aparecerán en las imágenes y los que serán leídos por los locutores o interpretados por los 
-
-
-
-
-
-Contar con un procesador de textos o con un programa para la elaboración de presentaciones será 
-
-
-
-
-
-1325.3. Diseñar la producción y escribir un guion
-Para acceder a Writer en una 
-laptop
- 
-1.
-2.
-3.
-325.4. Capturar los videos (cámaras y acción)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-de demostrar lo que aprendieron en el proceso y que su producto no se quedó en las 
-
-
-Esta quizá resulte ser la etapa más entretenida para los estudiantes y la más retadora si el guion 
-
-
-
-
-
-
-33
-
-
-
-
-
-
-del 
-
-En los siguientes enlaces podrá acceder a un ejemplo de video producido por estudiantes en el 
-
-
-5.5. Editar el videoEs probable que los estudiantes no hayan tenido 
-oportunidad de editar un video anteriormente; entonces 
-
-
-
-propicie también el ensayo y error con las diversas opciones 
-del Oportunidad para el 
-
-
-
+  • Filtre y entregue las fuentes de información más adecuadas para el trabajo a realizar
+     (estas pueden ser digitales o impresas). También hay información en el entorno de la
+     escuela y la comunidad que puede ser valiosa; esta se puede recolectar de diversas ma-
+     neras, por ejemplo, mediante fotos y entrevistas.
+  • Plantee preguntas orientadoras. El título y la descripción delimitada de un asunto de-
+     finen el punto de partida para iniciar una búsqueda, y las preguntas ayudan a marcar el
+     camino. Las preguntas deben ser generales y específicas, y el ejercicio de contestarlas
+     invita a los estudiantes a enfocar su tarea en los aspectos importantes.
+  • Promueva el uso de organizadores gráficos del pensamiento. Los mapas mentales, mapas
+     conceptuales y otros esquemas de este tipo son muy útiles al momento de organizar las ideas
+     y generan la reflexión crítica de los estudiantes sobre los conceptos que se están asimilando.
+     Estos gráficos pueden elaborarse con papel y lápices de colores o con la herramienta digital
+     Xmind, que está disponible en la laptop XO y permite elaborar mapas mentales.
+En las imágenes siguientes se observan los pasos a seguir para ingresar a Xmind en la computa-
+dora XO. Una vez abierto el programa, el procedimiento que permite crear un mapa mental es
+muy intuitivo, basta con hacer doble clic en los recuadros para modificar su contenido y luego
+buscar en el menú “Editar” la opción que permite insertar subtemas.
+ 1
+                                                                         Para acceder a Xmind en
+ 2                                                                       una laptop XO, realice
+                                                                         los siguientes pasos:
+                                                                         1. Haga clic en
+                                                                            “Aplicaciones” (parte
+                                                                            superior izquierda de
+                                            3                               su pantalla).
+                                                                         2. Elija la opción
+                                                                            “Educación”.
+                                                                         3. Seleccione la opción
+                                                                            "Xmind".
+                                                                                                    29
+   Guía docente para el aprovechamiento de las
+                                             Sugerencia
+                                        No será necesario ofrecer muchas indicaciones a los estudiantes
+                                        sobre cómo usar Xmind; permita que ellos lo exploren
+                                        libremente y aprenderán por autodescubrimiento mucho más
+                                        de lo que podrían aprender en una práctica dirigida.
+                                        Enseñar a los estudiantes sobre los fundamentos y características
+                                        de los mapas mentales es necesario y mucho más útil que
+                                        enseñarles a usar una herramienta digital como Xmind.
+30
+  5.3. Diseñar la producción y escribir un guion
+Llegó la hora de planear la secuencia de escenas que servirá para explicar en video lo comprendido
+durante el proceso de búsqueda y selección. Además, será necesario escribir los textos y diálogos
+que aparecerán en las imágenes y los que serán leídos por los locutores o interpretados por los
+estudiantes-actores en la filmación. Es de vital importancia promover de manera permanente que
+los estudiantes se pongan en el lugar de la audiencia que verá su producto final.
+En este punto, la intervención del docente como facilitador y asesor es especialmente importante,
+pues lo escrito será la base para la elaboración del producto final y representa lo que los estudiantes
+han comprendido sobre el asunto planteado.
+Contar con un procesador de textos o con un programa para la elaboración de presentaciones será
+muy importante en esta etapa. Si la institución educativa cuenta con computadoras con sistema
+operativo Windows, es muy probable que dispongan de Word o PowerPoint. Si tiene computadoras
+del tipo laptop XO, podrá utilizar Writer o Impress.
+  1
+  2
+                                                                       3
+              Para acceder a Writer en una laptop XO, realice los siguientes pasos:
+              1. Haga clic en “Aplicaciones” (parte superior izquierda de su pantalla).
+              2. Elija la opción “Oficina”.
+              3. Seleccione la opción "OpenOffice.org Writer".
+                                                                                                        31
+   Guía docente para el aprovechamiento de las
+           5.4. Capturar los videos (cámaras y acción)
+         Esta quizá resulte ser la etapa más entretenida para los estudiantes y la más retadora si el guion
+         del video contempla la actuación y locución de las escenas. Serán muchas las situaciones de en-
+         sayo y error, de validación y corrección de lo escrito en los guiones, y de interacción constante.
+         Las siguientes recomendaciones pueden ser útiles para que esta etapa resulte de la mejor
+         manera:
+                 La extensión total del video una vez editado no debería superar los tres minutos. La can-
+                 tidad necesaria de contenido para completar este tiempo es muy considerable.
+                 La calidad de las imágenes captadas, en cuanto a resolución y nitidez, depende prin-
+                 cipalmente de las características técnicas de los equipos utilizados (cámara o celular
+                 inteligente). No considere este aspecto como criterio de evaluación del producto final.
+                 Encuentre un espacio en la institución educativa donde el nivel de ruido no interrumpa
+                 o se mezcle con el audio de las grabaciones, esto será todo un reto. Los estudiantes
+                 pueden optar por evitar los diálogos y cambiarlos por textos escritos (subtítulos) o hacer
+                 una locución por separado para incluirla luego en el proceso de edición.
+                 Permita que los estudiantes revisen una y otra vez sus grabaciones, que disfruten de sus
+                 errores y practiquen ciclos de mejora a partir de los comentarios de sus compañeras y
+                 compañeros, y la autocrítica.
+                 Procure que los estudiantes le saquen provecho a los bloques de video en donde come-
+                 tieron alguna equivocación durante la grabación; por ejemplo, cuando se olvidaron el
+                 texto que debían decir. Estos bloques les permitirán armar un pequeño video “detrás de
+                 cámara” que pueden agregar al final.
+                 Recopile la evidencia de la producción de video de los estudiantes día a día. Por ejem-
+                 plo: fotos de los estudiantes organizándose en equipos buscando la información po-
+                 niéndose de acuerdo, argumentando su postura, elaborando los borradores del guion,
+                 registrando en un diario los sucesos imprevistos y las soluciones que encontraron, etc.
+                 Todo ello le permitirá sistematizar el proyecto y compartirlo con sus colegas, y también
+                 participar de concursos sobre buenas prácticas docentes con TIC.
+                 Es de vital importancia que los estudiantes presenten el producto final a actores exter-
+                 nos y en espacios fuera del aula. Por ejemplo, a la comunidad educativa, a los padres
+                 de familia, en un evento organizado por la comunidad, etc. De esta manera disfrutarán
+                 de demostrar lo que aprendieron en el proceso y que su producto no se quedó en las
+                 cuatro paredes del aula.
+32
+En los siguientes enlaces podrá acceder a un ejemplo de video producido por estudiantes en el
+marco de actividades educativas propuestas por docentes:
+                                                                       Hablar en público
+                                                                  Extraído de Emily Huanasca
+                                                                     (10 de mayo de 2011)
+          https://www.youtube.com/watch?v=eiq3XgygZaA&t=5s
+                                Consultado el 14 de junio de 2018
+  5.5. Editar el video
+De esta parte de la producción se suelen encargar los estudiantes con mayor afinidad por el
+uso de la tecnología. Por otro lado, será necesario contar con una laptop o PC y hacer uso
+del software de edición de video. En esta guía estamos recomendando Shotcut, aunque puede
+usarse cualquier otro programa.
+                                    Es probable que los estudiantes no hayan tenido
+                                    oportunidad de editar un video anteriormente; entonces
+Oportunidad para el                 tendrán una inmejorable oportunidad para practicar el
+autoaprendizaje                     autoaprendizaje. Si su institución educativa cuenta con
+                                    internet, fomente la revisión de tutoriales en video y
+                                    propicie también el ensayo y error con las diversas opciones
+                                    del software.
+                                                                                                 33
+   Guía docente para el aprovechamiento de las
+        Tomar en cuenta aspectos relacionados con la propiedad intelectual
+        Durante el proceso de edición se pueden utilizar contenidos de varias fuentes; por ello, es
+        importante tomar en cuenta los derechos de propiedad intelectual de los autores y aprovechar
+        la oportunidad para reflexionar sobre este importante tema con los estudiantes.
+        Editor de videos Shotcut
+        En tres simples pasos, los estudiantes pueden editar un video a partir de recortes en la captura original:
+          1     Abrir el archivo de video.
+          2     Arrastrarlo hacia la zona de línea de tiempo.
+          3     Realizar cortes en la línea de tiempo. Mover, repetir o eliminar segmentos según se
+                requiera.
+       1
+       2
+                                                            3
 34
-importante tomar en cuenta los derechos de propiedad intelectual de los autores y aprovechar 
-
-
-Tomar en cuenta aspectos relacionados con la propiedad intelectual
-Editor de videos Shotcut
-
-123
-
-
-
-12335
-
-la proyección del video; los productores pueden hacer una introducción antes de presentar su 
-
-
-
-
-Es una secuencia muy parecida a la 
-de la producción de videos que pue
-
-de aprendizaje basadas en la difusión 
-
-
-aprovecha los mismos equipos de 
-
-
-
-5.6. Compartir la producción
-Una variante de la difusión en directo consiste en grabar los audios en archivos digitales que 
-
-
-
-
-
-Radio escolar (grabación y distribución de audios)
-
-36Crean objetos 
-Trabajar en equipo
-Buscar y seleccionar 
-información
-Redactar el guion
-Capturar las imágenes
-Editar el video
-produccción
-Aprenden 
-
-
-
-Aprenden 
-
-Se conectan con el 
-
-
-Capacidades y estrategias desarrolladas a través de la 
-producción de video
-Reciben 
-retroalimentación 
-37Competencia
-CapacidadesDesempeñosPrimer grado de secundaria
-
-de emprendimiento 
-
-Ł
-Ł
-Ł
-
-
-Ł  
-Diseña las preguntas que serán parte 
-
-
-
-
-Ł
-
-
-estudio de mercado antes de iniciar 
-
-
-Ł  
-Realiza entrevistas individuales para 
-
-explorar necesidades de un grupo de 
-
-
-Se desenvuelve en 
-entornos virtuales 
-
-Ł Crea objetos virtuales en 
-
-Ł Elabora una presentación en la que 
-
-explica los pasos que ha tenido que 
-
-seguir para diseñar su propuesta de 
-
-encuesta (como parte de su estudio de 
-
-
-
-del usuario6. Sesión de aprendizaje referencial 
-de Educación para el Trabajo 
-
-integrando las TIC
-38Antes de la sesión
-
-
-
-
-
-
-Ł 
-Ł Elaborar los criterios de evaluación
-Preparación de la sesión
-Ł
-
-
-
-dizajes que desarrollan los estudiantes en el área 
-
-
-
-
-
-
-contando su experiencia sobre cómo iniciaron su 
-
-
-
-
-
-
-
-
-
-
-Si fuera el caso que los emprendedores no hayan realizado una encuesta de estudio de mercado 
-
-
-
-
-
-
-
-
-
-
-39Los estudiantes elaboran preguntas para recoger información sobre las necesidades de sus 
-
-Ł
-
-Ł
-
-
-
-
-Ł Anote las respuestas en la pizarra o en un papelote y oriente la conversación para destacar 
-la importancia de elaborar una estrategia para conocer esta información antes de iniciar un 
-
-Ł
-manera breve compartan con sus estudiantes las estrategias que emplearon para conocer si 
-
-
-
-
-
-
-Ł Es recomendable presentar a sus estudiantes ejemplos o experiencias de personas que les 
-
-
-
-
-
-Ł
-Ł
-Ł
-Ł
- con archivo de video descargado
-Propósito
-Inicio (20 min)40¿Qué es un estudio de mercado?
-
- (detener el video a los dos minutos 
-
-
-
-Ł
-
-
-Ł
-
-
-
-
-
-
-Ł Luego solicite a sus estudiantes que organizados en parejas respondan la siguiente pre
-
-
-
-
-Ł
-
-
-Desarrollo (100 min) 
-Ł Solicite que lean el siguiente ejemplo (puede colocar este texto en un papelote o en una dia
-
-41
-En un centro poblado, Susana instala una bonita 
-tienda en donde ofrece pasteles y postres variados y 
-
-economía de sus pobladores. 
-Todos los días los transeúntes se detienen a observar 
-
-
-
-producto.
-Con las pocas ventas realizadas, a Susana no le será 
-
-
-
-
-
-
-Ł
-Ł
-Ł
-Ł
-Lo que le sucedió a Susana también les ha sucedido a algunos emprendedores que inician 
-
-
-
-
-
-42
-
-
-
-
-
-
-Ł Entregue a cada responsable de equipo una guía para trabajar las posibles preguntas de la 
-
-
-
- 
- 
- Seleccionar las preguntas para la encuesta
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2343Ł Si en el aula cuentan con
- 
- 
-equipo para que elaboren su encuesta de estudio de mercado de acuerdo con una de las ideas 
-
-Ł
-Ł
-
-
-Ł
-
-Ł Solicite que elijan a un representante de cada equipo para que presente al grupo de clase las 
-
-
-Ł
-
-
-Ł
-
-
-Ł
-
-
-
-
-
-
-Ł
-
-
-
-
-Ł
-
-
-44Ł
-
-
-
-Ł
-
-Ł
-
-
-
-
-Ł Recomiende a sus estudiantes que para encuestar a sus clientes potenciales realicen el 
-
-
-
-
-Ł
-
-
-Ł
-
-
-Cierre (15 min)
-Tarea
-45
-
-
-
-
-
-
-
-
-
-
-
-
-¿Por qué comprarían los productos o servicios que ofreces? 
-¿Cuánto dinero estarán dispuestos a pagar?
-
-¿Cómo venderás los productos o servicios?
-
-
-
-Estudio de mercado
-Internacional del Trabajo 
-
-(2011). 
-
-
-Lima: Autor.
-
-Los hermanos Azucena y Eduardo Gutiérrez sa
--bían que la juguería era un buen negocio. Tanto 
-
-a sus abuelos como a su padre les había ido bien 
-
-vendiendo jugos de frutas. Sin embargo, Azu
--cena y Eduardo querían innovar para ganar al 
-
-público joven, así que se dedicaron a estudiar el 
-
-mercado y a diseñar la estrategia de mercadeo.Estos jóvenes empresarios realizaron 500 en-cuestas a vecinos, entrevistaron a un recono-cido chef y a dos administradores. Además, 
-organizaron ocho
- focus group 
-de siete personas 
-cada uno. Los resultados indicaron que las mu-jeres querían comida saludable y que los hom-bres se inclinaban por los sánguches de buen 
-sabor. Los potenciales clientes también daban 
-
-importancia a la limpieza del local y a la posi-bilidad de poder llevarse los jugos en envases 
-
-descartables.La investigación fue realizada por Azucena 
-y dos compañeras de estudio. Hace dos años abrieron las puertas de Disfruta en la avenida Las Artes Norte (San Borja
- - Lima) y las ventas han superado sus proyecciones iniciales en más 
-del 100 %. Tienen quince combinaciones de ju
--gos, además de champús y el chocofrutas  Œbe-bida a base de chocolate y pulpa de frutaŒ. Hoy 
-los hermanos Gutiérrez están concentrados en 
-
-estandarizar la producción y elaborar manuales 
-de trabajo para que puedan ofrecer su marca 
-
-como un franquicia.Disfruta es el exitoso concepto que transformó la tradicional juguería de barrio en un restau
--rante al estilo de las mejores franquicias del 
-mundo como Starbucks. Con tan solo dos años 
-en el mercado cuenta hoy con ocho locales en 
-diferentes provincias del país, como Chiclayo, Trujillo y Huancayo. 
-Juguería Disfruta vende lo proyectado y mucho másUn buen estudio de mercado les dijo lo que querían sus clientes
-Fuente: 
-El Comercio
-. 21.03.201046Ejemplo de encuesta de estudio de mercado
-
-
-
-
-
-
-
-
-Sí No 
-
-El sabor  
-La textura
- El precio
-  La presentación
- 
-
-
-
-Todos los días
- Una vez a la semana
- Una vez cada quince días
- No acostumbro a consumir 
-
-
-Dulce Salado Agridulce
- 
-Amargo
- 
-
-En caja
- En bolsa de papel
- En táper de tecnopor
- 
-
-
-
-
-
-
-
-
-
-
-En mi centro de trabajo
- En mi centro de estudios
- En cualquier lugar
- 
-obtener información acerca de nuestro 
-
-
-En la radio local (detalle el
-horario en que acostumbra
-a escuchar la radio)
- 
- 
-En televisión
- Otros
- 
-      M 167892345Estudiantes de la I.
- E. ––––––––.......................––..47Comunidad virtual. Conjunto de personas que establecen vínculos (relaciones estables basadas en com
-
-Entorno virtual.
-  Entorno proporcionado por las TIC (con o sin internet) donde las personas realizan sus 
-
-
-
-
-
-Hangout
-.
-Hardware
-.
-Interfaz.
- 
-
-
-Intranet.
- 
-
-
-Pensamiento computacional.
-
-
-
-Servidor escuela.
- Es un equipo servidor que permite administrar la red local de una escuela entregando 
-
-(
-Skype. 
-
-Smartphone.
- 
-
-
-
-
-
-Videollamada.
- Es la comunicación simultánea bidireccional de audio y video que permite mantener reu
-
-SIGLASAIP: 
-FAD: 
-
-TIC: 
-TPACK:
-
-
-
-PC: 
-Glosario
+  5.6. Compartir la producción
+Un gran trabajo merece ser compartido a lo grande. Dedique un momento especial a la pre-
+sentación de las producciones de sus estudiantes. Estas presentaciones no deberían limitarse a
+la proyección del video; los productores pueden hacer una introducción antes de presentar su
+trabajo y generar muchas situaciones de diálogo a partir de la visualización.
+A lo largo del proceso de producción del video, los estudiantes tienen la oportunidad de de-
+sarrollar capacidades asociadas a la competencia transversal TIC. Por otro lado, se ponen en
+práctica las metodologías que potenciadas con la tecnología producen mejores aprendizajes.
+   Radio escolar (grabación y distribución de audios)
+Es una secuencia muy parecida a la
+de la producción de videos que pue-
+de servir para formular actividades
+de aprendizaje basadas en la difusión
+en directo de noticias, entrevistas,
+radionovelas o similares. Además,
+aprovecha los mismos equipos de
+sonido que se utilizan a diario en las
+instituciones educativas para las ce-
+remonias y otras actividades.
+Una variante de la difusión en directo consiste en grabar los audios en archivos digitales que
+luego pueden ser editados fácilmente y difundidos a través de varios medios, como el correo
+electrónico o las redes sociales. También se pueden reproducir en una computadora conectada
+a parlantes para llegar a un mayor público.
+Audacity es una aplicación muy utilizada para la grabación y edición de archivos de audio:
+                                 http://www.audacityteam.org/
+                                                                                               35
+   Guía docente para el aprovechamiento de las
+           Gráfico N.° 3. Capacidades y estrategias desarrolladas a través de la
+                                          producción de video
+          Aprenden                                                    Gestionan
+     colaborativamente.               Trabajar en equipo            información.
+     Se conectan con el              Buscar y seleccionar
+         mundo real.                        información
+                                       Redactar el guion
+                                    Capturar las imágenes
+                                                               Aprenden
+                                                              activamente.
+        Crean objetos
+          virtuales.                      Editar el video                      Reciben
+                                                                          retroalimentación
+                                                                              oportuna.
+                                           Compartir la
+                                            produccción
+36
+6. Sesión de aprendizaje referencial
+   de Educación para el Trabajo
+   integrando las TIC
+                                     Nombre de la sesión:
+              Diseñamos y aplicamos encuestas para identificar las necesidades
+                                           del usuario
+                                                                          Desempeños
+       Competencia                 Capacidades
+                                                                 Primer grado de secundaria
+                                                         •		Diseña las preguntas que serán parte
+                                                            de su encuesta, teniendo en cuenta los
+                          • Crea propuestas de valor.       pasos para su elaboración.
+                          • Aplica habilidades técnicas. •		Identifica las ventajas de realizar un
+    Gestiona proyectos
+                          • Trabaja cooperativamente        estudio de mercado antes de iniciar
+    de emprendimiento
+                            para lograr objetivos y         una idea de negocio.
+    económico o social.
+                            metas.                       •		Realiza entrevistas individuales para
+                                                            explorar necesidades de un grupo de
+                                                            usuarios y satisfacerlas o resolverlas
+                                                            desde su campo de interés.
+                                                         • Elabora una presentación en la que
+     Se desenvuelve en                                      explica los pasos que ha tenido que
+                          • Crea objetos virtuales en
+     entornos virtuales                                     seguir para diseñar su propuesta de
+                            diversos formatos.
+   generados por las TIC.                                   encuesta (como parte de su estudio de
+                                                            mercado).
+                                                                                                   37
+   Guía docente para el aprovechamiento de las
+       Preparación de la sesión
+                                                      Antes de la sesión
+          • Identifique a uno o dos emprendedores de la co-
+             munidad, reúnase con él o ellos días antes de la
+             sesión, explíqueles que como parte de los apren-
+             dizajes que desarrollan los estudiantes en el área
+             de Educación para el Trabajo, se encuentra plani-
+             ficando una sesión sobre la importancia del estu-
+             dio de mercado antes de iniciar un negocio. Invite
+             al emprendedor o emprendedores a participar
+             contando su experiencia sobre cómo iniciaron su
+             negocio. Oriéntelos para que estructuren su pre-
+             sentación a partir de las siguientes preguntas:
+              › ¿En qué consiste su negocio?
+              › ¿Hace cuánto tiempo se dedica a ello?
+              › ¿Por qué eligió emprender este negocio?
+              › ¿Qué es lo que más disfruta de su rol de emprendedor de su propio negocio?
+              › ¿Cómo se dio cuenta de que su idea de negocio tendría éxito?
+          Si fuera el caso que los emprendedores no hayan realizado una encuesta de estudio de mercado
+          para conocer si su idea de negocio tendría éxito o no, solicite que destaquen y hagan evidente que
+          pusieron en práctica otras estrategias, por ejemplo:
+              › Observar y analizar las necesidades de su público potencial.
+              › Dialogar con las personas para averiguar si estaban o no satisfechas con los productos o los
+                servicios que adquirían.
+              › Estar atentos a los comentarios, quejas y recomendaciones que realizaba el público respecto a
+                los productos que adquirían, etc.
+           Si decide utilizar un video como un recurso audiovisual en su sesión, tenga en cuenta que este no sea
+           muy extenso para no perder la atención de sus estudiantes (de tres a cinco minutos aproximadamente).
+           Es necesario que explore con detenimiento el contenido del video; si este es muy extenso, reproduzca
+           en clase únicamente el bloque del video que realmente aporta al propósito de la sesión.
+         Tener en cuenta:
+         • Elaborar la ficha de actividad
+         • Elaborar los criterios de evaluación
+38
+                                Recursos o materiales que necesitará
+•  Papelote, plumones gruesos, cinta adhesiva o limpiatipos
+•  Ficha de actividad
+•  Proyector multimedia y parlantes
+•  Laptop con archivo de video descargado
+   Propósito
+Los estudiantes elaboran preguntas para recoger información sobre las necesidades de sus
+posibles clientes.
+   Inicio (20 min)
+• Dé la bienvenida a sus estudiantes y presente el título de la sesión diciendo: “Hoy elaborare-
+  mos preguntas para recoger información y así realizar un estudio de mercado”.
+• De acuerdo con la idea de negocio que determinaron la semana anterior (ejemplos: produc-
+  ción de mermelada de frutas, confección de paneras a base de totora y producción de marcos
+  tallados en madera) menciona lo siguiente: "¿Qué será necesario hacer para conocer si su
+  idea de negocio tendrá o no éxito?".
+• Anote las respuestas en la pizarra o en un papelote y oriente la conversación para destacar
+  la importancia de elaborar una estrategia para conocer esta información antes de iniciar un
+  negocio.
+• Presente a uno o dos emprendedores dueños de algún negocio de la comunidad para que de
+  manera breve compartan con sus estudiantes las estrategias que emplearon para conocer si
+  su idea de negocio tendría o no éxito (5 minutos cada uno).
+  › ¿En qué consiste su negocio? ¿Desde cuándo lo inició?
+  › ¿Por qué eligió dedicarse a ese negocio?
+  › ¿Qué estrategias empleó para conocer si su idea de negocio funcionaría?
+  › ¿Por qué es importante realizar el estudio de mercado antes de iniciar un negocio?
+  › ¿Qué otras estrategias se pueden emplear para conocer la preferencia del público?
+• Es recomendable presentar a sus estudiantes ejemplos o experiencias de personas que les
+  resulten cotidianos o cercanos. Por ello, si no consigue que los dos emprendedores dueños
+  de algún negocio de la comunidad estén presentes en la clase, podría visitarlos previamente
+  y entrevistarlos, grabando el audio de la entrevista con su celular (previa autorización) para
+  posteriormente emplearlo en clase.
+                                                                                                 39
+   Guía docente para el aprovechamiento de las
+         • Si en el aula cuenta con un proyector multimedia o un televisor, también puede utilizar un
+           audiovisual para el momento de la motivación. Es recomendable descargarlo previamente de
+           un repositorio de videos como YouTube o Vimeo.
+         • Seguidamente, solicite a sus estudiantes que se ubiquen formando una "U" y que observen los
+           siguientes videos:
+         ¿Qué es un estudio de mercado?
+         Extraído de Claro Perú (18 de agosto de 2014).
+                        https://www.youtube.com/watch?v=O1ikaVmS18A
+                                                Consultado el 14 de junio de 2018
+         Azucena Gutiérrez, fundadora de la cadena de juguerías Disfruta (detener el video a los dos minutos
+         aproximadamente).
+         Extraído de Cadena de Juguerías Disfruta (14 de marzo de 2014).
+                       https://www.youtube.com/watch?v=9oQ-a4IqKTY
+                                                 Consultado el 14 de junio de 2018
+         • Luego solicite a sus estudiantes que organizados en parejas respondan la siguiente pre-
+           gunta:
+           › ¿Cuáles son las ventajas de realizar un estudio de mercado? Mencionen al menos dos
+             ventajas.
+         • A continuación, cierre la presentación concluyendo la relevancia del estudio de mercado
+           para conocer las preferencias de los clientes potenciales de un negocio.
+           Desarrollo (100 min)
+         • Solicite que lean el siguiente ejemplo (puede colocar este texto en un papelote o en una dia-
+           positiva, procure incluir imágenes relacionadas al texto):
+40
+   En un centro poblado, Susana instala una bonita
+   tienda en donde ofrece pasteles y postres variados y
+   muy bien presentados, pero a precios que exceden la
+   economía de sus pobladores.
+   Todos los días los transeúntes se detienen a observar
+   con agrado las vitrinas con la variedad de pasteles y
+   postres, y felicitan a Susana por su nuevo negocio,
+   pero son muy pocos los que finalmente compran el
+   producto.
+   Con las pocas ventas realizadas, a Susana no le será
+   rentable continuar manteniendo el negocio.
+• Seguidamente coloque en la pizarra la siguiente pregunta:
+       ¿Qué harían ustedes si estuvieran en el lugar de Susana? ¿Por qué?
+• Solicite que anoten sus respuestas en un papelote o en la pizarra.
+• Solicite que prosigan con la lectura.
+  Seguramente Susana tendrá que optar por alguna de las siguientes opciones:
+   Trasladar su negocio a otra zona donde las personas tengan un mejor ingreso económico.
+   Bajar la calidad de los insumos para la elaboración de pasteles y postres, y ofrecerlos a
+     menor precio.
+   Cerrar el negocio.
+• Ahora reflexione junto con los estudiantes:
+  Lo que le sucedió a Susana también les ha sucedido a algunos emprendedores que inician
+  su negocio sin detenerse a elaborar un adecuado estudio de mercado, sin observar las
+  fortalezas y debilidades de la competencia, sin escuchar las preferencias de los posibles
+  clientes.
+                                                                                              41
+   Guía docente para el aprovechamiento de las
+        Explique lo que es un estudio de mercado:
+                Un estudio de mercado consiste en investigar y analizar información para
+                evaluar si el producto o servicio que tiene como idea de negocio va a funcionar
+                o no. Por ello, esta herramienta reduce riesgos de pérdida para cuando inicie
+                una idea de negocio.
+                Los pasos para su realización son los siguientes:
+                 1 Identificar lo que se quiere saber.
+                 2 Definir la población (los posibles clientes).
+                 3 Definir un grupo de estudio (muestra).
+                 4 Definir las técnicas de recojo de información (entrevista, observación,
+                     encuesta).
+                 5 Organizar la información (en tablas y gráficos).
+                 6 Elaborar conclusiones.
+                Realice la explicación de estos pasos con una ayuda visual. Si cuenta con pro-
+                yector multimedia, utilice una presentación en diapositivas.
+        • Entregue el anexo 1, solicite que lean el contenido en parejas y explique el contenido con al-
+          gunos ejemplos.
+        • Comunique el propósito de la sesión: "Hoy elaboraremos preguntas para recoger información
+          sobre las necesidades de los posibles clientes (estudio de mercado)".
+        • Organice a los estudiantes en equipos de cuatro integrantes, cada equipo deberá elegir un
+          representante.
+        • Entregue a cada responsable de equipo una guía para trabajar las posibles preguntas de la
+          encuesta según su idea de negocio.
+        • Indique las actividades a desarrollar:
+          › Reconocer qué información se quiere conocer y definir la población de estudio.
+          › Formular preguntas de manera colaborativa.
+42        › Seleccionar las preguntas para la encuesta.
+• Si en el aula cuentan con laptop o computadoras de escritorio, asigne una computadora a cada
+   equipo para que elaboren su encuesta de estudio de mercado de acuerdo con una de las ideas
+   de negocio que identificaron en la sesión anterior.
+• Recuerde que si no cuentan con computadoras, pueden utilizar un papelote.
+• Mientras los estudiantes trabajan, acérquese a cada equipo, realice algunas preguntas que
+   promuevan el diálogo y la discusión, y resuelva dudas y consultas.
+• Monitoree sus discusiones, argumentos y propuestas de preguntas para la encuesta de estu-
+   dio de mercado.
+• Solicite que elijan a un representante de cada equipo para que presente al grupo de clase las
+   preguntas propuestas para la encuesta; para ello, pueden hacer uso del proyector multimedia.
+• Al finalizar, cada equipo recibirá aportes y sugerencias de sus compañeras y compañeros para
+   mejorar su propuesta.
+• En equipos elaboran la versión final de la encuesta teniendo en cuenta los aportes de sus com-
+   pañeras y compañeros.
+• A manera de ejemplo, demuestre mediante una escenificación cómo deberán dirigirse a las
+   personas para encuestarlas. Resalta la importancia de los siguientes aspectos:
+   › Saludar respetuosamente.
+   › Postura y tono de voz al dirigirse al encuestado.
+   › Comunicación clara al explicar la razón por la cual se realiza la encuesta.
+   › Agradecer al encuestado por su colaboración.
+• Solicite que en parejas ensayen la aplicación de la encuesta, teniendo en cuenta el tono de voz,
+  la postura, la mirada al interlocutor, el saludo y la despedida con respeto. En el ensayo ambos
+  estudiantes deberán intercambiar roles, como entrevistado y como entrevistador.
+• Mientras los estudiantes ensayan, acérquese a cada pareja, felicite sus puntos fuertes y brinde
+  orientaciones para que mejoren los aspectos débiles.
+                                                                                                   43
+   Guía docente para el aprovechamiento de las
+          Cierre (15 min)
+         • Solicite a cada equipo que respondan las siguientes preguntas:
+           › ¿Logramos cumplir el propósito de la sesión?
+           › ¿Por qué es necesario elaborar un estudio de mercado?
+           › ¿Qué características deben tener las preguntas de una encuesta de estudio de mercado?
+         • Presénteles una diapositiva con datos puntuales tratados en clase, a fin de afianzar los apren-
+           dizajes.
+           Tarea
+         • Solicite a sus estudiantes que apliquen la encuesta a cinco potenciales clientes. Si contaran
+            con algún dispositivo que permita grabar el audio (por ejemplo, un celular), indique que
+            pueden hacerlo solicitando el permiso correspondiente al encuestado.
+         • Recomiende a sus estudiantes que para encuestar a sus clientes potenciales realicen el
+            procedimiento en parejas y turnándose los roles. Mientras un estudiante encuesta, el otro
+            graba el audio o toma fotografías para generar evidencias del estudio de mercado.
+         • Tenga en cuenta que las fotografías tomadas les permitirán contar con insumos para
+            sistematizar todo el proceso de desarrollo de su proyecto productivo.
+         • Solicite que traigan en la siguiente clase las encuestas aplicadas, ya que el siguiente paso
+            consiste en el procesamiento de la información y el análisis de los resultados de la encuesta,
+            así como su presentación mediante gráficos y cuadros estadísticos.
+44
+Anexo
+                                                                  e querían sus          clientes
+                              mercado les dijo lo qu
+                        de
+                                                                                                 a
+                            Juguería Disfrut
+Un   bu en  es tu dio
+                                                                                                                                                    Estudio
+                                                                                                  do
+                       vende lo proyecta
+                                                                                                                                                         de
+                                                                                                                                                   mercado
+                             y mucho más               rre  z sa-     La   inv estigación fue rea
+                                                                                                           lizada por Azucen
+                                                                                                                        ce   do s añ
+                                                                                                                                       a
+                                                                                                                                      os
+                         ena y Eduardo Gutié                                                         estudio. Ha
+Los hermanos Azuc                                                           s compañeras de
+                      ría   era   un  bu  en  ne gocio. Tanto y do                      pu  ert as  de  Disfruta en la aven
+                                                                                                                                     ida
+ bían que la jugue                                           bien     ab rie ro n  las                                    y las  ve nta s
+                          a su padre les había
+                                                       ido                                          Borja - Lima)
+ a sus abuelos como                               ba rgo ,  Az  u-     La s Artes Norte (San                     s  ini cia les en  má   s
+    nd iendo   jugos   de    frutas. Sin em
+                                                                al     ha n su pe  rad  o sus proyeccione                       s de  ju-
+ ve
+                           erían innovar para
+                                                       ganar                                                   mbinacione                     Adaptado de Oficina
+  cena y Eduardo qu                                                                  . Tienen quince co
+                                se  de dic  aro n a est udiar el del 100 %                    ch am  pú  s  y  el chocofrutas –­ be-          Internacional del Trabajo
+                        que                                            gos, además de
+  público joven, así                           de me  rca  de o.                                          y  pu  lpa   de fruta–. Hoy
+                             la estrategia                              bida a base de choc
+                                                                                                   olate                                      (2011). Manual jóvenes
+  mercado y a diseñar                                          en-                                     z están concentrado
+                                                                                                                                     s en
+              en es  em  pr   es ari os realizaron 500                  los  hermanos Gutiérre                        bo  rar ma  nu  ales    emprendedores inician su
+   Estos jóv                                        un recono- estandarizar la producción y                      ela
+                          ,  en  tre vis tar on  a                                                                            su  ma   rca    negocio. Lima: Autor.
+   cuestas a vecinos                  nis
+                                                                    ,
+                                           tradores. Además de trabajo para que pu
+                                                                                                          edan ofrecer
+                y  a   do  s   ad  mi
+   cido chef                                                rsonas como un franquicia.
+                                us group de siete pe
+   organizaron ocho foc                           n qu  e  las mu-                                                 to que transformó
+    cada uno. Los result
+                               ados indica     ro
+                                                                         Di sfr uta   es el exitoso concep                             tau-
+                             da saludable y que
+                                                        los   ho m-                                       de barrio en un res
+    jeres querían comi                              he s  de   bu en     la  tradicional juguería                  es   fra nq uic ias   del
+    bres se inclinaban
+                               por los sánguc
+                                                                 ba  n    ran te  al   es tilo de las mejor                      do s  añ  os
+                                les clientes tambié
+                                                           n da                                         ks. Con tan solo
+     sabor. Los potencia                              y  a  la po  si-    mu  ndo como Starbuc                       n  oc ho  loc ale  s  en
+                                 pieza del local                                                      ta hoy co
+     importancia a la lim                          os  en   en va ses      en el mercado cuen                  pa  ís, co  mo   Ch  iclayo,
+                                 varse los    jug                                                   ias de   l
+     bilidad de poder lle                                                  diferentes provinc
+              ble s.                                                          uji llo  y Hu   an ca yo .
+      descarta                                                             Tr                                                21.03.2010
+                                                                                                Fuen El Comercio.
+                                                                                                      te:
+   Cuando un emprendedor tiene definida su idea de negocio y además ha identificado un determinado
+   tipo de cliente, es momento de empezar a recopilar información para conocer las características de
+   sus clientes potenciales:
+                     ¿Qué tipo de productos desean tus clientes?
+                     ¿Por qué comprarían los productos o servicios que ofreces?
+                     ¿Cuánto dinero estarán dispuestos a pagar?
+                     ¿Dónde acostumbran a adquirir este tipo de productos? ¿Cada cuánto tiempo?
+                     ¿Cómo venderás los productos o servicios?
+   Para obtener las respuestas a estas preguntas es necesario realizar un estudio de mercado. Existen
+   diferentes formas de realizarlo:
+    Encuestar a tus potenciales clientes con la finalidad de conocer a fondo sus preferencias y hábitos de
+        compra.
+    Observar y escuchar con atención lo que opinan los clientes sobre tus competidores. Asegúrate de
+        averiguar las características del producto que ofrece la competencia.
+    Dialogar con tus potenciales clientes, averiguar por qué prefieren adquirir el producto en determina-
+        do negocio y no en otro.
+    Visitar las páginas web de la competencia o de negocios similares en otras regiones.
+    Indagar sobre datos estadísticos respecto del negocio que pudieran ser de utilidad.
+    Entrevistar a expertos del sector relacionado con el rubro de tu idea de negocio.                                                                                  45
+   Guía docente para el aprovechamiento de las
+   Ejemplo de encuesta de estudio de mercado
+   Somos un grupo de estudiantes de la I. E. ………….., estamos realizando un estudio de mercado para conocer
+   las preferencias de nuestros posibles clientes respecto a un producto que planificamos lanzar próximamen-
+   te al mercado; se trata de postres regionales en tamaño personal. Por ello, le agradeceremos responder las
+   siguientes preguntas:
+   Edad: _______                                                             Sexo: F          M
+    1 ¿Estaría dispuesto a adquirir un postre regio-         6 ¿En qué tipo de presentación le gustaría
+        nal en tamaño personal?                                  adquirir el postre regional?
+        Sí                                                       En caja
+        No                                                       En bolsa de papel
+                                                                 En táper de tecnopor
+    2 ¿Qué es lo que más importa para usted en un
+        postre?                                                  En táper de plástico
+        El sabor		                                               En bolsa de plástico
+        La textura                                           7 ¿Cuánto estaría dispuesto a pagar por un pos-
+        El precio		                                              tre regional?
+        La presentación                                          Hasta 1 sol
+                                                                 Hasta 2 soles
+    3 ¿Cuáles son los postres regionales que más le
+        agradan?                                                 Hasta 3 soles
+        ____________________________________                     Hasta 4 soles
+    4 ¿Cada cuánto tiempo adquiere un postre                 8 ¿En qué lugar le gustaría adquirir el producto?
+        regional?                                                En las tiendas
+        Todos los días                                           En mi centro de trabajo
+        Una vez a la semana                                      En mi centro de estudios
+        Una vez cada quince días                                 En cualquier lugar
+        No acostumbro a consumir
+                                                             9 ¿En qué medio de comunicación le gustaría
+        postres regionales.                                      obtener información acerca de nuestro
+    5 ¿Qué tipo de sabor prefiere en los postres?                producto?
+        Dulce                                                    En la radio local (detalle el
+                                                                 horario en que acostumbra
+        Salado
+                                                                 a escuchar la radio)              ________
+        Agridulce
+                                                                 En Facebook
+        Ácido
+                                                                 En afiches
+        Amargo
+                                                                 En televisión
+                                                                 Otros                             ________
+                               Le agradecemos mucho por su colaboración.
+                            Estudiantes de la I. E. …………………….......................……..
+46
+                                                Glosario
+Comunidad virtual. Conjunto de personas que establecen vínculos (relaciones estables basadas en com-
+ponentes cognitivos, sociales y afectivos) que se desarrollan y se realizan en los entornos virtuales.
+Entorno virtual. Entorno proporcionado por las TIC (con o sin internet) donde las personas realizan sus
+procesos de información y comunicación a través de una interfaz interactiva.
+Gamificación. Técnica de aprendizaje que traslada la mecánica de los juegos al ámbito educativo o profe-
+sional con el fin de conseguir mejores resultados.
+Hangout. Es una aplicación gratuita multiplataforma de mensajería instantánea desarrollada por
+Google Inc.
+Hardware. Conjunto de unidades físicas, circuitos y dispositivos que componen un sistema informático.
+Interfaz. Medios con los que las personas pueden intercambiar información con los dispositivos electró-
+nicos o controlarlos. Comprende todos los puntos de contacto entre la persona y los dispositivos (por
+ejemplo: interfaces gráficas, interfaces táctiles, interfaces de movimiento, entre otros).
+Intranet. Red informática que utiliza el protocolo de internet para compartir información, sistemas opera-
+tivos o diversos servicios dentro de una red local.
+Pensamiento computacional. Consiste en la resolución de problemas, el diseño de los sistemas y la
+comprensión de la conducta humana haciendo uso de los conceptos fundamentales de la informática.
+Incluye habilidades como modelar y descomponer un problema, procesar datos y crear algoritmos.
+Servidor escuela. Es un equipo servidor que permite administrar la red local de una escuela entregando
+servicios locales, web, filtro de navegación y seguridad. Brinda servicios de repositorio público local
+(offline) y contenidos multimedia pedagógicos.
+Skype. Es un servicio gratuito para hacer llamadas, videollamadas, enviar mensajes instantáneos y com-
+partir archivos con otras personas.
+Smartphone. Teléfono celular con pantalla táctil, que permite al usuario conectarse a internet, gestionar
+cuentas de correo electrónico e instalar aplicaciones y recursos a modo de pequeño computador.
+Software. Conjunto de programas, instrucciones y reglas informáticas para ejecutar ciertas tareas en una
+computadora.
+Videollamada. Es la comunicación simultánea bidireccional de audio y video que permite mantener reu-
+niones con grupos de personas situadas en lugares alejados entre sí.
+SIGLAS
+AIP: aula de innovación pedagógica implementada con equipamiento TIC.
+FAD: formas de atención diversificada para la secundaria en ámbitos rurales.
+TIC: tecnologías de la información y la comunicación.
+TPACK: Technological Pedagogical and Content Knowledge (integración del conocimiento tecnológico
+         pedagógico disciplinar).
+PC: computadora personal.
+                                                                                                           47
+   Guía docente para el aprovechamiento de las
+                                   Referencias bibliográficas
+   Bingimlas, K. (2009). Barriers to the successful integration of ICT in Teaching and Learning Environ-
+   ments: A review of the Literature. Eurasia Journal of Mathematics, Science & Technology Education,
+   5(3), 235-245.
+   Harris, J. y Hofer, M. (2011). Technological pedagogical content knowledge. Journal of research on
+   education, 43, 211-229.
+   Ministerio de Educación (2016a). Currículo Nacional de la Educación Básica. Lima: Autor.
+   Ministerio de Educación (2016b). Resolución de Secretaría General N.040-2016. Lima: Autor.
+   Ministerio de Educación (2016c). Programa curricular de Educación Secundaria. Lima: Autor.
+   Mitra, S. y Crawley, E. (2014). Effectiveness of Self-Organised Learning by Children: Gateshead Expe-
+   riments. Journal of Education and Human Development, 3(3), 79-88.
+   Pedró, F. (2015). Tecnología para la mejora de la educación. Santiago: Fundación Santillana.
+   Rodríguez, E., Vargas, E. y Luna, J. (2010). Evaluación de la estrategia: aprendizaje basado en pro-
+   yectos. Educación y Educadores, 13(1), 13-25. Recuperado de http://www.redalyc.org/articulo.
+   oa?id=83416264002
+   Tejada, J. (2009). Competencias docentes. Profesorado. Revista de Currículum y Formación de Profe-
+   sorado, 13(2),1-15.
+   Vaillant, D. (2014). Formación de profesores en escenarios TIC. Revista e-Curriculum, 2(12). Recupe-
+   rado de http://www.redalyc.org/articulo.oa?id=76632206003
 48
-
-
-5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-

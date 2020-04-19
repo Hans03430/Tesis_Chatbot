@@ -1,0 +1,1 @@
+Para transformar archivos pdf a texto esta biblioteca utiliza la libería "pdftotext". Seguir las instrucciones de instalación de dependencias para su sistema operativo de aquí: https://github.com/jalan/pdftotext

@@ -1,7 +1,5 @@
-import io
-
 import asyncio
-import PyPDF2
+import pdftotext
 
 from aiofile import AIOFile
 
@@ -9,7 +7,6 @@ from aiofile import AIOFile
 async def convert_pdf_to_txt(pdf_path: str, save_dir: str) -> None:
     """
     This function converts a pdf file to a txt file
-    Adapted from: https://www.blog.pythonlibrary.org/2018/05/03/exporting-data-from-pdfs-with-python/
     
     Parameters:
     pdf_path (str): The path where the pdf to covert is located
@@ -20,9 +17,9 @@ async def convert_pdf_to_txt(pdf_path: str, save_dir: str) -> None:
     """
     try:
         with open(pdf_path, mode='rb') as pdf_file:
-            reader = PyPDF2.PdfFileReader(pdf_file)
-            text = ''.join([page.extractText() for page in reader.pages])
-            
+            pdf_reader = pdftotext.PDF(pdf_file)
+            text = ''.join(pdf_reader)
+
             async with AIOFile(save_dir, 'w') as text_file:
                 await text_file.write(text)
 

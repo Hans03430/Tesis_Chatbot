@@ -1,296 +1,107 @@
- 
-1
- 
- 
 Guía para la producción de Audiolibros
- 
-AUTOR: MARA LIS VILA
-R
- 
+AUTOR: MARA LIS VILAR
 Supervisión: Daniel Zappalá
- 
 Revisión: Miriam Suchodolski, Mariano Ambrogetti
- 
- 
-¿QUÉ SON? ¿CÓMO Y QU
-IÉNES LOS UTILIZAN?
- 
-Un audiolibro es la grabación y producción, en formato de audio, del contenido del texto de un 
-libro escrito. 
- 
+¿QUÉ SON? ¿CÓMO Y QUIÉNES LOS UTILIZAN?
+Un audiolibro es la grabación y producción, en formato de audio, del contenido del texto de un
+libro escrito.
 La producción del audio puede realizarse de diferentes formas:
- 
-
- 
-con locutores o narradores, personas con buena lectura en voz alta que leen el mat
-erial 
-impreso, graban y posteriormente editan lo leído.
- 
-
- 
-con programas de conversión de texto a audio, solo si contamos con el texto 
-digitalizado. Por ejemplo el software Balabolka.
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Encontrá Balabolka en el sitio de Conectar Igualdad para la Modalidad de
- 
-Educación 
-Especial
- 
-
- 
-/ 
-Descargas
-
-Conectar Igualdad para la Modalidad Educación Especia
-l
-. El 
-
-Software / 
-Tutoriales
-
- 
- 
-2
- 
- 
-¿A QUIÉNES ESTÁN DIR
-IGIDOS?
- 
-Los audiolibros pueden tener como destinatarios tanto niños y 
-jóvenes con ceguera o baja 
-visión, como adultos mayores, a personas con dislexia o con problemas  motrices que les 
+       con locutores o narradores, personas con buena lectura en voz alta que leen el material
+        impreso, graban y posteriormente editan lo leído.
+       con programas de conversión de texto a audio, solo si contamos con el texto
+        digitalizado. Por ejemplo el software Balabolka.
+        Encontrá Balabolka en el sitio de Conectar Igualdad para la Modalidad de Educación
+        Especial
+        Este software está disponible en la sección “Materiales para la descarga / Software /
+        Descargas” del sitio Web de Conectar Igualdad para la Modalidad Educación Especial. El
+        instructivo de uso se encuentra en la sección “Materiales para la descarga / Software /
+        Tutoriales”
+                                                                                                1
+¿A QUIÉNES ESTÁN DIRIGIDOS?
+Los audiolibros pueden tener como destinatarios tanto niños y jóvenes con ceguera o baja
+visión, como adultos mayores, a personas con dislexia o con problemas motrices que les
 impiden el manejo de un libro convencional, entre otros.
- 
-Para disfrutarlos no es necesario tener conocimientos específicos previos 
--
-como podría ser el 
-manejo de un lector de pantalla en la computadora o del sistema de escritura Braille
--
-. Por eso 
-facilitan el acceso a la información.   
- 
- 
- 
- 
-PASO A PASO: CÓMO PR
-ODU
-CIR UN AUDIOLIBRO 
- 
-Al producir materiales en formato audio, debemos tener presente que se trata de un formato 
-literal y lineal
-: 
- 
-
- 
-Literal
- 
-en el sentido de que leerá la información exactamente como se encuentra 
-escrita, respetando además para la entonación l
-os signos de puntuación, acentos, entre 
-otros. 
- 
-
- 
-Lineal
- 
-porque las páginas y/o capítulos se suceden en el orden que fueron grabadas y 
-no se puede realizar una lectura asistemática o encontrar de manera sencilla una 
-porción específica de texto.  
- 
-Antes de la
- 
-conversión del texto a audio, y para lograr un resultado óptimo, tendremos en 
-cuent
-a las siguientes orientaciones:
- 
-RECOMENDACIONES PARA
-  
-MEJORAR LA LECTURA
- 
-
- 
-Se realizará en un ambiente silencioso, donde el ruido del ambiente no interfiera en la 
-grabación. 
- 
-El programa libre y gratuito de lectura de pantalla que se usa con las netbooks d
-e Conectar 
-Igualdad es el NVDA
-. 
-El mismo está disponible en el sitio Web de 
-Conectar Igualdad para la 
-Modalidad Educación Especial
- 
- 
- 
-3
- 
- 
-
- 
-El lector deberá sostener la lectura de manera fluida y amena, respetando la 
-entonación pautada por signos de interrogación, exclamación, puntos, comas y demás; 
-sin incluir en la lectura la dramatización de los textos. Una lectura con errores o 
-titubeos, 
-
-dificultar su comprensión. 
- 
-         
- 
- 
- 
- 
- 
- 
-SUGERENCIAS PARA LA 
-LECTURA DE TEXTOS 
- 
-En un material 
-escrito encontraremos diferentes indicadores que orientan la lectura y 
-
+Para disfrutarlos no es necesario tener conocimientos específicos previos -como podría ser el
+manejo de un lector de pantalla en la computadora o del sistema de escritura Braille-. Por eso
+facilitan el acceso a la información.
+       El programa libre y gratuito de lectura de pantalla que se usa con las netbooks de Conectar
+       Igualdad es el NVDA. El mismo está disponible en el sitio Web de Conectar Igualdad para la
+       Modalidad Educación Especial
+PASO A PASO: CÓMO PRODUCIR UN AUDIOLIBRO
+Al producir materiales en formato audio, debemos tener presente que se trata de un formato
+literal y lineal:
+        Literal en el sentido de que leerá la información exactamente como se encuentra
+         escrita, respetando además para la entonación los signos de puntuación, acentos, entre
+         otros.
+        Lineal porque las páginas y/o capítulos se suceden en el orden que fueron grabadas y
+         no se puede realizar una lectura asistemática o encontrar de manera sencilla una
+         porción específica de texto.
+Antes de la conversión del texto a audio, y para lograr un resultado óptimo, tendremos en
+cuenta las siguientes orientaciones:
+RECOMENDACIONES PARA MEJORAR LA LECTURA
+        Se realizará en un ambiente silencioso, donde el ruido del ambiente no interfiera en la
+         grabación.
+                                                                                                   2
+         El lector deberá sostener la lectura de manera fluida y amena, respetando la
+          entonación pautada por signos de interrogación, exclamación, puntos, comas y demás;
+          sin incluir en la lectura la dramatización de los textos. Una lectura con errores o
+          titubeos, en ocasiones, puede llevar a “perder el hilo” de lo que se está escuchando o
+          dificultar su comprensión.
+                                 No se estila incluir efectos de sonido o musicales en los audiolibros,
+                                 ya que resultan elementos subjetivos que no tienen una relación
+                                 directa con el texto al que se aplican.
+      Existe una gran diferencia al momento de leer un texto escrito y de escuchar un audiolibro. Leer
+      en papel implica un compromiso corporal completo: la postura general del cuerpo, de la cabeza
+      y las manos. En el consumo de formatos de audio el compromiso corporal es muy inferior; por
+      lo tanto, es mucho más fácil que se dificulte la concentración. Por esto conviene evitar toda
+      clase de distractores dentro de este tipo de materiales.
+SUGERENCIAS PARA LA LECTURA DE TEXTOS
+En un material escrito encontraremos diferentes indicadores que orientan la lectura y
+necesitan ser “traducidos” o convertidos de manera correcta al pasar a audio la información
 que nos brindan. Algunos ejemplos:
- 
-E
-s importante incluir en el audiolibro toda la informació
-n del material impreso
-. 
- 
--
- 
-Al leer, se comenzará por la tapa, luego la contratapa y a continuación el contenido del texto 
-incluyendo datos editoriales, índice, prólogo, y demás. Es importante brindarle al lector del 
-audio la misma información y códigos del pacto de lectura de quie
-n accede al material en tinta. 
- 
+Es importante incluir en el audiolibro toda la informació n del material impreso .
+- Al leer, se comenzará por la tapa, luego la contratapa y a continuación el contenido del texto
+incluyendo datos editoriales, índice, prólogo, y demás. Es importante brindarle al lector del
+audio la misma información y códigos del pacto de lectura de quien accede al material en tinta.
 Nombrar títulos, subtítulos, apartados
- 
- 
--
- 
-Cuando vemos un texto escrito, podemos diferenciar por el tamaño, color, espacio anterior o 
-posterior, el tipo de texto que es. En el formato audio lo vamos a indicar mencionando ese
-  
-tipo 
-No se estila incluir efectos de sonido o musicales en los audiolibros, 
-ya que resultan elementos subjetivos que no tienen una relación 
-directa con e
-l texto al que se aplican.  
- 
-Existe una gran diferencia al momento de leer un texto escrito y de escuchar un audiolibro. Leer 
-en papel implica un compromiso corporal completo: la postura general del cuerpo, de la cabeza 
-y las manos.  En el consumo de formatos de audio el compromiso co
-rporal es muy inferior; por 
-lo tanto, es mucho más fácil que se dificulte la concentración. 
-Por esto conviene evitar toda 
-clase de distractores dentro de este tipo de materiales.  
- 
- 
-4
- 
- 
-de información.  
- 
+ - Cuando vemos un texto escrito, podemos diferenciar por el tamaño, color, espacio anterior o
+posterior, el tipo de texto que es. En el formato audio lo vamos a indicar mencionando ese tipo
+                                                                                                        3
+de información.
 Contar los números de página
- 
--
- 
-Se debe indicar el número al inicio de cada página, para que al comenzar  la lectura de esa 
+- Se debe indicar el número al inicio de cada página, para que al comenzar la lectura de esa
 sección se cuente con la referencia correspondiente y así poder ubicarse en el audiotexto.
- 
-Deletrear nombres
- 
-propios o palabras en idioma extranjero
- 
--
- 
-Como no responden a normas ortográficas en español o tienen una pronunciación distinta a la 
-literal en español, ante la primera aparición del término conviene hacer una lectura fonética y, 
-a continuación, deletrea
-rlo. En las siguientes apariciones, solo lo grabaremos con la lectura 
-
-
- 
-Mencionar grá
-ficos e imágenes sin explicarlos
- 
--
- 
-En general no es conveniente explicar las imágenes porque la interpretación de las mismas es 
-subjetiva. En el caso de cuadros, gráficos u otro elemento que brinde información de 
-importancia es suficiente con mencionar su 
-existencia y el lector, de necesitarlo, buscará quien 
-le amplíe o detalle la información relacionada con esa representación. 
- 
- 
-LONGITUD DE LOS TEXT
-OS
- 
-El audio permite grabar textos breves como puede ser un libro infantil o un cuento, hasta 
-textos sumamente
- 
-largos como El Quijote de la Mancha. En todos los casos es importante que 
-las pistas de audio no sean muy extensas. Como referencia general, cada pista podría durar 
-entre cinco y veinte minutos, dependiendo del libro y del destinatario del audiolibro.  
- 
-C
-
-texto. Esto facilita dejar y retomar la lectura desde una página en particular o ubicar una 
-sección en particular del texto. Estos cortes en la lectura se harán siemp
-re en un punto y aparte 
-cercano al final de la página. 
- 
- 
- 
-5
- 
- 
+Deletrear nombres propios o palabras en idioma extranjero
+- Como no responden a normas ortográficas en español o tienen una pronunciación distinta a la
+literal en español, ante la primera aparición del término conviene hacer una lectura fonética y,
+a continuación, deletrearlo. En las siguientes apariciones, solo lo grabaremos con la lectura
+fonética. Por ejemplo, si aparece Max Weber, diremos “Véber” y luego deletrearemos: w e b e
+r; Shakespeare diremos “Yécspir” y luego deletrearemos: s h a k e s p e a r e.
+Mencionar gráficos e imágenes sin explicarlos
+- En general no es conveniente explicar las imágenes porque la interpretación de las mismas es
+subjetiva. En el caso de cuadros, gráficos u otro elemento que brinde información de
+importancia es suficiente con mencionar su existencia y el lector, de necesitarlo, buscará quien
+le amplíe o detalle la información relacionada con esa representación.
+LONGITUD DE LOS TEXTOS
+El audio permite grabar textos breves como puede ser un libro infantil o un cuento, hasta
+textos sumamente largos como El Quijote de la Mancha. En todos los casos es importante que
+las pistas de audio no sean muy extensas. Como referencia general, cada pista podría durar
+entre cinco y veinte minutos, dependiendo del libro y del destinatario del audiolibro.
+Como si se tratara de un cd de música, realizaremos un “tema” diferente con fragmentos del
+texto. Esto facilita dejar y retomar la lectura desde una página en particular o ubicar una
+sección en particular del texto. Estos cortes en la lectura se harán siempre en un punto y aparte
+cercano al final de la página.
+                                                                                                4
 Los clásicos en formato audiolibro: Rayuela y Don Quijote
- 
- 
-A modo de ejemplo compartimos un link al primer capítulo de Rayuela en formato de 
-
-
- 
-Rayuela:
- 
-http://bit.ly/1oAZ5RZ
- 
-Don Quijote: 
-http://bit.ly/PUTzxJ
- 
- 
- 
-  
-  
- 
-Una muy buena herramienta para la edición del audio se 
-puede realizar con el programa 
-Audacity. Por su fácil manejo y 
-al ofrecer posibilidad de guardar el audio final en formato 
-MP3,
- 
-es el más conveniente por generar archivos livianos y 
-que pueden reproducirse en varios dispositivos diferentes.
- 
- 
- 
- 
- 
-Encontrá e
-l
- 
-programa Audacity
- 
-en el Escritorio de Educación Especial
- 
-(
-http://escritorioeducacionespecial.educ.ar/datos/audacity.html
-)
- 
+A modo de ejemplo compartimos un link al primer capítulo de Rayuela en formato de
+audiolibro y un link a los capítulos 13, 14 y 15 de “Don Quijote de la Mancha”
+Rayuela: http://bit.ly/1oAZ5RZ
+Don Quijote: http://bit.ly/PUTzxJ
+                                   Una muy buena herramienta para la edición del audio se
+                                   puede realizar con el programa Audacity. Por su fácil manejo y
+                                   al ofrecer posibilidad de guardar el audio final en formato
+                                   MP3, es el más conveniente por generar archivos livianos y
+                                   que pueden reproducirse en varios dispositivos diferentes.
+                  Encontrá el programa Audacity en el Escritorio de Educación Especial
+                    (http://escritorioeducacionespecial.educ.ar/datos/audacity.html)
+                                                                                                  5
