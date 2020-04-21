@@ -1,1574 +1,2083 @@
-Física
 Serie para la enseñanza en el modelo 1 a 1
-Serie para la enseñanza en el modelo 1 a 1
-Física
+Físicamaterial de distribución gratuita
+FísicaSerie para la enseñanza en el modelo 1 a 1
 Hernán Ferrari
-Autor:                         Hernán Ferrari.
-Edición y corrección:          Martín Vittón.
-Diseño de colección:           Silvana Caro.
-Fotografía:                    © John Chase (tapa).
-Gestión y edición fotográfica: María Angélica Lamborghini (tapa).
-Coordinación de Proyectos Educ.ar S. E.: Mayra Botta.
-Coordinación de Contenidos Educ.ar S. E.: Cecilia Sagol.
-Líder de proyecto: Magdalena Garzón.
-  Ferrari, Hernán
-     Física. - 1a ed. - Buenos Aires : Ministerio de Educación de la
-  Nación, 2011.
-    48 p. ; 20x28 cm.
-    ISBN 978-950-00-0873-0
-    1. Física. I. Título
-    CDD 530
-ISBN: 978-950-00-0873-0
-Queda hecho el depósito que dispone la ley 11.723.
+Autor:
+  Hernán Ferrari.
+Edición y corrección: 
+ Martín Vittón.
+ Diseño de colección:  Silvana Caro.Fotografía:
+ © John Chase (tapa)
+.Gestión y edición fotográfica:
+ María Angélica Lamborghini (tapa)
+.Coordinación de Proyectos Educ.ar S. E.: Mayra Botta.
+ Coordinación de Contenidos Educ.ar S. E.: 
+Cecilia Sagol.Líder de proyecto: Magdalena Garzón.
+ ISBN: 978-950-00-0873-0Queda hecho el depósito que dispone la ley 11.723.
+
 Impreso en Argentina. Printed in Argentina.
 Primera edición: octubre 2011.
-Autoridades Presidenta de la Nación
-            Dra. Cristina Fernández de Kirchner
-            Ministro de Educación
-            Prof. Alberto E. Sileoni
-            Secretaria de Educación
-            Prof. María Inés Abrile de Vollmer
-            Jefe de Gabinete
-            Lic. Jaime Perczyk
-            Subsecretaria de Equidad y Calidad Educativa
-            Lic. Mara Brawer
-            Subsecretario de Planeamiento Educativo
-            Lic. Eduardo Aragundi
-            Directora Ejecutiva del inet
-            Prof. María Rosa Almandoz
-            Directora Ejecutiva del infod
-            Lic. Graciela Lombardi
-            Directora Nacional de Gestión Educativa
-            Prof. Marisa Díaz
-            Directora Nacional de Formación e Investigación
-            Lic. Andrea Molinari
-            Gerente General Educ.ar S. E.
-            Rubén D’Audia
-            Coordinadora Programa Conectar Igualdad
-            Lic. Cynthia Zapata
-            Gerenta tic y Convergencia Educ.ar S. E.
-            Patricia Pomiés
-  Prólogo
-          Hemos emprendido un camino ambicioso: el de sentar las bases para una escuela
-          secundaria pública inclusiva y de calidad, una escuela que desafíe las diferencias, que
-          profundice los vínculos y que nos permita alcanzar mayor igualdad social y educativa para
-          nuestros jóvenes.
-          En este contexto, el Programa Conectar Igualdad, creado por decreto del gobierno nacional
-          N.º 459/10, surge como una política destinada a favorecer la inclusión social y educativa
-          a partir de acciones que aseguren el acceso y promuevan el uso de las tic en las escuelas
-          secundarias, escuelas de educación especial y entre estudiantes y profesores de los últimos
-          años de los Institutos Superiores de Formación Docente.
-          Tres millones de alumnos de los cuales somos responsables hoy integran el programa
-          de inclusión digital. Un programa en el que el Estado asume el compromiso de poner
-          al alcance de todos y todas la posibilidad de acceder a un uso efectivo de las nuevas
-          tecnologías.
-          Un programa que le otorga a la escuela el desafío de ofrecer herramientas cognitivas y el
-          desarrollo de competencias para actuar de modo crítico, creativo, reflexivo y responsable
-          frente a la información y sus usos para la construcción de conocimientos socialmente
-          válidos.
-          En nuestro país esta responsabilidad cobró vida dentro de la Ley de Educación Nacional
-          N.º 26.206. En efecto, las veinticuatro jurisdicciones vienen desarrollando de manera
-          conjunta la implementación del programa en el marco de las políticas del Ministerio de
-          Educación de la Nación, superando las diferencias políticas con miras a lograr este objetivo
-          estratégico.
-          Para que esta decisión tenga un impacto efectivo, resulta fundamental recuperar la
-          centralidad de las prácticas de enseñanza, dotarlas de nuevos sentidos y ponerlas a favor
-          de otros modos de trabajo con el conocimiento escolar. Para ello la autoridad pedagógica de
-          la escuela y sus docentes necesita ser fortalecida y repensada en el marco de la renovación
-          del formato escolar de nuestras escuelas secundarias.
-4
-Sabemos que solo con equipamiento e infraestructura no alcanza para incorporar las tic en el
-aula ni para generar aprendizajes más relevantes en los estudiantes. Por ello los docentes son
-figuras clave en los procesos de incorporación del recurso tecnológico al trabajo pedagógico
-de la escuela. En consecuencia, la incorporación de las nuevas tecnologías, como parte de un
-proceso de innovación pedagógica, requiere entre otras cuestiones instancias de formación
-continua, acompañamiento y materiales de apoyo que permitan asistir y sostener el desafío
-que esta tarea representa.
-Somos conscientes de que el universo de docentes es heterogéneo y lo celebramos, pues ello
-indica la diversidad cultural de nuestro país. Por lo tanto, de los materiales que en esta
-oportunidad ponemos a disposición, cada uno podrá tomar lo que le resulte de utilidad de
-acuerdo con el punto de partida en el que se encuentra.
-En tal sentido, las acciones de desarrollo profesional y acompañamiento se estructuran en
-distintas etapas y niveles de complejidad, a fin de cubrir todo el abanico de posibilidades: desde
-saberes básicos e instancias de aproximación y práctica para el manejo de las tic, pasando por
-la reflexión sobre sus usos, su aplicación e integración en el ámbito educativo, la exploración y
-profundización en el manejo de aplicaciones afines a las distintas disciplinas y su integración en el
-marco del modelo 1 a 1, hasta herramientas aplicadas a distintas áreas y proyectos, entre otros.
-El módulo que aquí se presenta complementa las alternativas de desarrollo profesional y
-forma parte de una serie de materiales destinados a brindar apoyo a los docentes en el uso
-de las computadoras portátiles en las aulas, en el marco del Programa Conectar Igualdad.
-En particular, este texto pretende acercar a los integrantes de las instituciones que reciben
-equipamiento 1 a 1 reflexiones, conceptos e ideas para el aula. De esta manera, el Estado
-Nacional acompaña la progresiva apropiación de las tic para mejorar prácticas habituales y
-explorar otras nuevas, con el fin de optimizar la calidad educativa y formar a los estudiantes
-para el desafío del mundo que los espera como adultos.
-Deseamos que sea una celebración compartida este importante avance en la historia de la
-educación argentina, como parte de una política nacional y federal que tiene como uno de sus
-ejes fundamentales a la educación con inclusión y justicia social.
-                                                                                 Prof. Alberto Sileoni
-                                                                                 Ministro de Educación de la Nación
-                                                                                                                    5
-  Índice
-          Introducción                                                       8
-          Los programas                                                      8
-          Modellus                                                           8
-          Scilab                                                             9
-        1 Cinemática                                                        10
-          Secuencia didáctica n.º 1. Movimiento rectilíneo                  10
-          Actividad 1. Altura máxima en un tiro vertical                    10
-          Actividad 2. Tiro oblicuo y caída libre con Modellus              11
-          Actividad de cierre. Tiro oblicuo, aceleración centrípeta y       13
-          aceleración tangencial
-        2 Dinámica                                                          14
-          Secuencia didáctica n.º 2. Fuerzas y Dinámica / Modelado numérico 15
-          Modelado numérico                                                 15
-          Actividad 1. Resolver el movimiento horizontal de un cuerpo       16
-          con y sin rozamiento
-          Actividad 2. Movimiento en un plano inclinado con rozamiento      17
-          Secuencia didáctica n.º 3. Fuerzas de vínculo y fuerzas elásticas 18
-          (movimiento oscilatorio)
-          Actividad 1. Movimiento oscilatorio                               19
-          Actividad 2. Movimiento oscilatorio                               20
-          Actividad 3. Período de un péndulo y su dependencia con la        20
-          longitud del péndulo (con Scilab o Modellus)
-          Actividad 4. Péndulo con Modellus                                 21
-          Actividad 5. Fuerzas elásticas. Movimiento oscilatorio armónico   22
-          Actividad 6. Período de un cuerpo unido a un resorte y su         23
-          dependencia con la masa del cuerpo
-          Actividad 7. Período de un cuerpo unido a un resorte y su         24
-          dependencia con la constante del resorte
-          Secuencia didáctica n.º 4. Fuerzas de rozamiento                  24
-          Actividad 1. Caída libre considerando el rozamiento con el aire   24
-          Actividad 2. Movimiento oscilatorio amortiguado                   25
-6
-  Actividad 3. Caída libre considerando el rozamiento con el aire         26
-  a altas velocidades
-  Actividad 4. Tiro oblicuo considerando el rozamiento                    27
-  con el aire
-  Secuencia didáctica n.º 5. Fuerza de gravitación universal              28
-  Actividad 1. Movimiento de Venus alrededor del Sol.
-  Órbita circular. Modellus                                               30
-  Actividad 2. Movimiento planetario. Órbita elíptica                     32
-3 Trabajo y energía                                                       34
-  Secuencia didáctica n.º 6. Trabajo de una fuerza. Energía cinética      34
-  Energía cinética                                                        35
-  Teorema de las fuerzas vivas                                            35
-  Actividad 1. Trabajo de la fuerza peso en una caída libre               35
-  Actividad 2. Trabajo en el movimiento oscilatorio. Péndulo              36
-  Actividad 3. Trabajo en el movimiento oscilatorio amortiguado.          37
-  Resorte con resistencia
-  Actividad 4. Trabajo de las fuerzas en un tiro oblicuo con              38
-  rozamiento
-  Actividad 5. Trabajo en el movimiento oscilatorio amortiguado.          38
-  Resorte con resistencia con Modellus
-  Secuencia didáctica n.º 7. Energía potencial                            39
-  Actividad 1. Trabajo de la fuerza gravitatoria en una órbita elíptica   40
-  Actividad 2. Trabajo de la fuerza elástica                              41
-  Secuencia didáctica n.º 8. Energía mecánica. Conservación               42
-  de la energía
-  Actividad 1. Energía mecánica en el tiro vertical                       43
-  Actividad 2. Variación de energía mecánica y trabajo de las             43
-  fuerzas no conservativas
-  Actividad 3. Resolver el movimiento horizontal de un cuerpo con         44
-  rozamiento
-  Actividad 4. Resolver el movimiento horizontal de un cuerpo unido       45
-                                                                               índice
-  a un resorte con rozamiento
-  Actividad 5. Movimiento en un plano inclinado con rozamiento            46
-                                                                               7
-         Introducción
-             La Física intenta describir los distintos comportamientos que se encuentran en la na-
-         turaleza con el fin de analizarla y describirla. Desde Galileo Galilei en adelante, las con-
-         clusiones de esta ciencia se basan en resultados obtenidos a través de la experimentación,
-         de allí que la Física sea una ciencia netamente experimental. Realizando experimentos se
-         llevan a cabo mediciones de distintas magnitudes físicas y luego se analizan los resultados
-         obtenidos para tratar de modelizar esos resultados.
-             Para desarrollar el modelo de la naturaleza se emplea el lenguaje matemático, y es
-         así cómo se desarrolla una teoría que describe el comportamiento de la naturaleza. Con
-         este modelo se pueden reproducir los resultados obtenidos en los experimentos, dándole
-         fortaleza al modelo, pero también se pueden llegar a predecir resultados no medidos.
-         Cuando estas predicciones son medidas experimentalmente en la naturaleza, las teorías
-         y los modelos ganan fortaleza, y son aceptados como buenos modelos de la realidad.
-         Por el contrario, si la naturaleza contradice el resultado de una teoría, la teoría debe ser
-         reformulada, corregida o desechada y reemplazada por una nueva.
-             Durante cientos de años los modelos desarrollados por Newton fueron confirmados
-         para el movimiento de los cuerpos en escalas macroscópicas y a bajas velocidades. Sin
-         embargo, para poder desarrollar estos modelos y teorías, Newton necesitó crear toda una
-         nueva rama de la Matemática, conocida como cálculo diferencial e integral. En estos días,
-         con la ayuda y la potencia de las nuevas computadoras, es posible resolver problemas
-         avanzados del movimiento de los cuerpos utilizando únicamente las definiciones básicas
-         de posición, velocidad y aceleración medias.
-             El objetivo de este material es utilizar el software disponible en las netbooks para
-         resolver problemas tradicionales de enseñanza media, y también poder encontrar solu-
-         ciones a problemas que no se pueden resolver con lápiz y papel o en el pizarrón, pero sí
-         con la potencia de cálculo de una computadora. Para resolver los problemas propuestos
-         en las actividades se utilizan programas de uso libre: Scilab y Modellus. El primero es un
-         programa que permite programar en lenguaje de alto nivel, y si bien es más complejo, sus
-         resoluciones son más rápidas. El segundo, por su parte, es un software con una interfaz
-         gráfica más amigable, preparada para resolver problemas de evolución temporal.
-Física   Los programas
-         Modellus
-            Es un programa que permite al usuario diseñar, construir, explorar y simular un fenóme-
-8        no físico a partir de un modelo matemático interactivo. Esta simulación tiene lugar en su
-aspecto temporal (evolución a lo largo del tiempo) y matemático (cálculo
+Ferrari, Hernán
+    Física. - 1a ed. - Buenos Aires : Ministerio de Educación de la 
+
+Nación, 2011.
+
+    48 p. ; 20x28 cm. 
+    ISBN 978-950-00-0873-0          
+    1. Física. I. Título
+    CDD 530AutoridadesPresidenta de la Nación 
+Dra. Cristina Fernández de Kirchner
+Ministro de Educación Prof. Alberto E. Sileoni 
+
+ 
+Secretaria de Educación 
+
+Prof. María Inés Abrile de Vollmer
+Jefe de Gabinete 
+Lic. Jaime Perczyk 
+
+ 
+Subsecretaria de Equidad y Calidad Educativa 
+
+Lic. Mara Brawer 
+Subsecretario de Planeamiento Educativo 
+Lic. Eduardo Aragundi 
+Directora Ejecutiva del 
+INETProf. María Rosa Almandoz
+Directora Ejecutiva del 
+INFOD
+Lic. Graciela Lombardi
+
+Directora Nacional de Gestión Educativa
+Prof. Marisa DíazDirectora Nacional de Formación e Investigación 
+Lic. Andrea Molinari Gerente General Educ.ar S. E. 
+Rubén D™Audia
+Coordinadora Programa Conectar Igualdad 
+Lic. Cynthia Zapata
+Gerenta 
+TIC y Convergencia Educ.ar S. E.
+Patricia Pomiés
+4Hemos emprendido un camino ambicioso: el de sentar las bases para una escuela 
+secundaria pública inclusiva y de calidad, una escuela que desafíe las diferencias, que 
+profundice los vínculos y que nos permita alcanzar mayor igualdad social y educativa para 
+nuestros jóvenes. 
+En este contexto, el Programa Conectar Igualdad, creado por decreto del gobierno nacional 
+N.º 459/10, surge como una política destinada a favorecer la inclusión social y educativa 
+a partir de acciones que aseguren el acceso y promuevan el uso de las 
+TIC
+ en las escuelas 
+secundarias, escuelas de educación especial y entre estudiantes y profesores de los últimos 
+años de los Institutos Superiores de Formación Docente. 
+Tres millones de alumnos de los cuales somos responsables hoy integran el programa 
+de inclusión digital. Un programa en el que el Estado asume el compromiso de poner 
+al alcance de todos y todas la posibilidad de acceder a un uso efectivo de las nuevas 
+tecnologías. 
+Un programa que le otorga a la escuela el desafío de ofrecer herramientas cognitivas y el 
+desarrollo de competencias para actuar de modo crítico, creativo, reflexivo y responsable 
+frente a la información y sus usos para la construcción de conocimientos socialmente 
+
+válidos.
+En nuestro país esta responsabilidad cobró vida dentro de la Ley de Educación Nacional 
+N.º 26.206. En efecto, las veinticuatro jurisdicciones vienen desarrollando de manera 
+conjunta la implementación del programa en el marco de las políticas del Ministerio de 
+Educación de la Nación, superando las diferencias políticas con miras a lograr este objetivo 
+estratégico. 
+Para que esta decisión tenga un impacto efectivo, resulta fundamental recuperar la 
+centralidad de las prácticas de enseñanza, dotarlas de nuevos sentidos y ponerlas a favor 
+de otros modos de trabajo con el conocimiento escolar. Para ello la autoridad pedagógica de 
+
+la escuela y sus docentes necesita ser fortalecida y repensada en el marco de la renovación 
+del formato escolar de nuestras escuelas secundarias.
+Prólogo5Prof. Alberto Sileoni 
+Ministro de Educación de la Nación
+Sabemos que solo con equipamiento e infraestructura no alcanza para incorporar las TIC en el aula ni para generar aprendizajes más relevantes en los estudiantes. Por ello los docentes son figuras clave en los procesos de incorporación del recurso tecnológico al trabajo pedagógico de la escuela. En consecuencia, la incorporación de las nuevas tecnologías, como parte de un proceso de innovación pedagógica, requiere entre otras cuestiones instancias de formación continua, acompañamiento y materiales de apoyo que permitan asistir y sostener el desafío que esta tarea representa.Somos conscientes de que el universo de docentes es heterogéneo y lo celebramos, pues ello 
+indica la diversidad cultural de nuestro país. Por lo tanto, de los materiales que en esta oportunidad ponemos a disposición, cada uno podrá tomar lo que le resulte de utilidad de acuerdo con el punto de partida en el que se encuentra. En tal sentido, las acciones de desarrollo profesional y acompañamiento se estructuran en 
+distintas etapas y niveles de complejidad, a fin de cubrir todo el abanico de posibilidades: desde 
+saberes básicos e instancias de aproximación y práctica para el manejo de las 
+TIC
+, pasando por 
+la reflexión sobre sus usos, su aplicación e integración en el ámbito educativo, la exploración y 
+
+profundización en el manejo de aplicaciones afines a las distintas disciplinas y su integración en el 
+marco del modelo 1 a 1, hasta herramientas aplicadas a distintas áreas y proyectos, entre otros. 
+El módulo que aquí se presenta complementa las alternativas de desarrollo profesional y forma parte de una serie de materiales destinados a brindar apoyo a los docentes en el uso de las computadoras portátiles en las aulas, en el marco del Programa Conectar Igualdad. En particular, este texto pretende acercar a los integrantes de las instituciones que reciben equipamiento 1 a 1 reflexiones, conceptos e ideas para el aula. De esta manera, el Estado Nacional acompaña la progresiva apropiación de las TIC para mejorar prácticas habituales y explorar otras nuevas, con el fin de optimizar la calidad educativa y formar a los estudiantes 
+para el desafío del mundo que los espera como adultos. Deseamos que sea una celebración compartida este importante avance en la historia de la educación argentina, como parte de una política nacional y federal que tiene como uno de sus ejes fundamentales a la educación con inclusión y justicia social.6Índice Introducción
+ 8 Los programas
+ 8 Modellus 8 Scilab 91 Cinemática 10 Secuencia didáctica n.º 1. Movimiento rectilíneo
+ 10  Actividad 1. Altura máxima en un tiro vertical
+ 10 Actividad 2. Tiro oblicuo y caída libre con Modellus
+ 11 Actividad de cierre. Tiro oblicuo, aceleración centrípeta y 
+ 13 aceleración tangencial
+ 2 Dinámica 14 Secuencia didáctica n.º 2. Fuerzas y Dinámica / Modelado numérico
+ 15 Modelado numérico 15 Actividad 1. Resolver el movimiento horizontal de un cuerpo 
+ 16 con y sin rozamiento
+  Actividad 2. Movimiento en un plano inclinado con rozamiento
+ 17 Secuencia didáctica n.º 3. Fuerzas de vínculo y fuerzas elásticas 
+ 18 (movimiento oscilatorio)  Actividad 1. Movimiento oscilatorio
+ 19 Actividad 2. Movimiento oscilatorio 20 Actividad 3. Período de un péndulo y su dependencia con la 
+ 20 longitud del péndulo (con Scilab o Modellus)  Actividad 4. Péndulo con Modellus
+ 21 Actividad 5. Fuerzas elásticas. Movimiento oscilatorio armónico
+ 22 Actividad 6. Período de un cuerpo unido a un resorte y su 
+ 23 dependencia con la masa del cuerpo
+  Actividad 7. Período de un cuerpo unido a un resorte y su
+ 24 dependencia con la constante del resorte
+  Secuencia didáctica n.º 4. Fuerzas de rozamiento
+ 24 Actividad 1. Caída libre considerando el rozamiento con el aire
+ 24 Actividad 2. Movimiento oscilatorio amortiguado
+ 257índice
+ Actividad 3. Caída libre considerando el rozamiento con el aire 
+ 26 a altas velocidades
+  Actividad 4. Tiro oblicuo considerando el rozamiento
+ 27 con el aire
+   Secuencia didáctica n.º 5. Fuerza de gravitación universal
+ 28 Actividad 1. Movimiento de Venus alrededor del Sol.
+ Órbita circular. Modellus
+ 30 Actividad 2. Movimiento planetario. Órbita elíptica
+ 323 Trabajo y energía
+ 34 Secuencia didáctica n.º 6. Trabajo de una fuerza. Energía cinética
+ 34 Energía cinética
+ 35 Teorema de las fuerzas vivas
+ 35 Actividad 1. Trabajo de la fuerza peso en una caída libre
+ 35 Actividad 2. Trabajo en el movimiento oscilatorio. Péndulo
+ 36 Actividad 3. Trabajo en el movimiento oscilatorio amortiguado. 
+ 37 Resorte con resistencia
+  Actividad 4. Trabajo de las fuerzas en un tiro oblicuo con 
+ 38 rozamiento
+  Actividad 5. Trabajo en el movimiento oscilatorio amortiguado. 
+ 38 Resorte con resistencia con Modellus
+  Secuencia didáctica n.º 7. Energía potencial
+ 39 Actividad 1. Trabajo de la fuerza gravitatoria en una órbita elíptica
+ 40 Actividad 2. Trabajo de la fuerza elástica
+ 41 Secuencia didáctica n.º 8. Energía mecánica. Conservación 
+ 42 de la energía
+  Actividad 1. Energía mecánica en el tiro vertical
+ 43 Actividad 2. Variación de energía mecánica y trabajo de las 
+ 43 fuerzas no conservativas
+ Actividad 3. Resolver el movimiento horizontal de un cuerpo con 
+ 44 rozamiento
+ Actividad 4. Resolver el movimiento horizontal de un cuerpo unido
+ 45  a un resorte con rozamiento
+ Actividad 5. Movimiento en un plano inclinado con rozamiento
+ 46Física
+8IntroducciónLa Física intenta describir los distintos comportamientos que se encuentran en la na
+-turaleza con el fin de analizarla y describirla. Desde Galileo Galilei en adelante, las con
+-clusiones de esta ciencia se basan en resultados obtenidos a través de la experimentación, 
+de allí que la Física sea una ciencia netamente experimental. Realizando experimentos se 
+llevan a cabo mediciones de distintas magnitudes físicas y luego se analizan los resultados 
+obtenidos para tratar de modelizar esos resultados. 
+Para desarrollar el modelo de la naturaleza se emplea el lenguaje matemático, y es 
+así cómo se desarrolla una teoría que describe el comportamiento de la naturaleza. Con 
+este modelo se pueden reproducir los resultados obtenidos en los experimentos, dándole 
+fortaleza al modelo, pero también se pueden llegar a predecir resultados no medidos. 
+Cuando estas predicciones son medidas experimentalmente en la naturaleza, las teorías 
+y los modelos ganan fortaleza, y son aceptados como buenos modelos de la realidad. 
+
+Por el contrario, si la naturaleza contradice el resultado de una teoría, la teoría debe ser 
+reformulada, corregida o desechada y reemplazada por una nueva.
+Durante cientos de años los modelos desarrollados por Newton fueron confirmados 
+para el movimiento de los cuerpos en escalas macroscópicas y a bajas velocidades. Sin 
+embargo, para poder desarrollar estos modelos y teorías, Newton necesitó crear toda una 
+nueva rama de la Matemática, conocida como cálculo diferencial e integral. En estos días, 
+con la ayuda y la potencia de las nuevas computadoras, es posible resolver problemas 
+avanzados del movimiento de los cuerpos utilizando únicamente las definiciones básicas 
+de posición, velocidad y aceleración medias. 
+El objetivo de este material es utilizar el software disponible en las netbooks para 
+resolver problemas tradicionales de enseñanza media, y también poder encontrar solu
+-
+ciones a problemas que no se pueden resolver con lápiz y papel o en el pizarrón, pero sí 
+con la potencia de cálculo de una computadora. Para resolver los problemas propuestos 
+en las actividades se utilizan programas de uso libre: Scilab y Modellus. El primero es un 
+programa que permite programar en lenguaje de alto nivel, y si bien es más complejo, sus 
+resoluciones son más rápidas. El segundo, por su parte, es un software con una interfaz 
+gráfica más amigable, preparada para resolver problemas de evolución temporal. 
+Los programas
+Modellus
+Es un programa que permite al usuario diseñar, construir, explorar y simular un fenóme
+-no físico a partir de un modelo matemático interactivo. Esta simulación tiene lugar en su 
+9introducción
+aspecto temporal (evolución a lo largo del tiempo) y matemático (cálculo 
 de valores).
-    Este software está orientado a estudiar modelos temporales, por lo
-cual permite simular fenómenos físicos en distintos escenarios (casos), en
-cada uno de los cuales el parámetro o la constante del modelo puede
-ser modificado. La interfaz con la que trabaja el usuario está dada en un
-entorno muy amigable basado en una serie de ventanas, que reúnen o
+Este software está orientado a estudiar modelos temporales, por lo 
+cual permite simular fenómenos físicos en distintos escenarios (casos), en 
+cada uno de los cuales el parámetro o la constante del modelo puede 
+ser modificado. La interfaz con la que trabaja el usuario está dada en un 
+entorno muy amigable basado en una serie de ventanas, que reúnen o 
 muestran informaciones concretas.
-    La versión 4.01 del programa Modellus que se utiliza en este material
-didáctico y funciona correctamente en las netbooks entregadas, se pue-
-de descargar de forma gratuita –previo registro en el sitio– en la siguiente
-página: http://modellus.fct.unl.pt. Podrán acceder al tutorial desde:
-   http://escritorioalumnos.educ.ar/ > Programas > Modellus.
-Scilab
-    Es un programa de cálculo numérico que permite realizar operaciones
-con cálculos matriciales, polinomios, operaciones con ecuaciones lineales
-y diferenciales, graficar funciones en 2D y 3D, y además programar sus
-propias funciones. Es un software que permite conocer y experimentar con
-el uso de variables y practicar programación. Utilizando algunos coman-
-dos básicos de este programa, y a través del modelado numérico, se pue-
+La versión 4.01 del programa Modellus que se utiliza en este material 
+didáctico y funciona correctamente en las netbooks entregadas, se pue
+-de descargar de forma gratuita Œprevio registro en el sitioŒ en la siguiente 
+
+página: 
+ http://modellus.fct.unl.pt
+. Podrán acceder al tutorial desde: 
+ http://escritorioalumnos.educ.ar/ > Programas > Modellus
+. ScilabEs un programa de cálculo numérico que permite realizar operaciones 
+con cálculos matriciales, polinomios, operaciones con ecuaciones lineales 
+y diferenciales, graficar funciones en 2D y 3D, y además programar sus 
+propias funciones. Es un software que permite conocer y experimentar con 
+el uso de variables y practicar programación. Utilizando algunos coman
+-dos básicos de este programa, y a través del modelado numérico, se pue
+-
 den resolver muchos problemas de Física.
-    En los equipos portátiles está instalada la versión 5.1.1 de Scilab. Se
-puede acceder a un manual en español de la versión 3.0 del programa des-
-de: http://www.scilab.org/contrib/index_contrib.php?page=download
-> Manuals > Introducción a Scilab (Héctor Manuel Mora Escobar).
-    El enlace directo para descargar el pdf es: http://www.scilab.org/
-contrib/download.php?fileID=210&attachFileName=Intro_Spanish.pdf.
-    La versión 5.3.2 de Scilab se puede descargar de forma gratuita desde
-la web oficial del programa: www.scilab.org.
-                                                                               introducción
-                                                                               9
-         1   Cinemática
-                 A continuación se presentan tres propuestas de actividades para trabajar contenidos
-             de cinemática integrando el uso de Modellus. Los contenidos que se abordan en cada
-             actividad sugerida son los que en general se desarrollan en la materia, por eso se realizan
-             breves introducciones a fin de que el docente emplee una o todas las actividades sugeri-
-             das en el momento de la clase que considere oportuno.
-                 Las propuestas plantean el uso de conceptos abordados en el área de Matemática
-             –como por ejemplo el de vectores– que son fundamentales para la Física y permiten un
-             tratamiento más riguroso de la nomenclatura y una innovadora manera de abordar pro-
-             blemas de Física. Esto permitirá que el docente muestre a los alumnos –con un propósito
-             concreto– contenidos aprendidos en otras áreas y cómo estos se vinculan entre sí.
-                 Utilizar el programa Modellus para resolver problemas de cinemática posibilitará al
-             docente concentrarse en la interpretación, comparación, construcción de hipótesis y con-
-             clusiones, y aprovechar la capacidad de cálculo del programa para resolver las operacio-
-             nes de Matemática avanzada que están por detrás de las experiencias.
-             Secuencia didáctica n.º 1
-             Movimiento rectilíneo
-             Actividad 1. Altura máxima en un tiro vertical
-             1. Resolver el siguiente problema utilizando el software Modellus: un jugador de fútbol
-                profesional puede arrojar una pelota de fútbol en dirección vertical, con una veloci-
-                dad inicial de 1500 m/s.
-                a) Utilizar las ecuaciones para el movimiento rectilíneo uniformemente variado. Para
-                   ello, en la ventana de modelo matemático escribir las ecuaciones del mruv para las
-                   variables x1 y v1, en las que se ha tomado un sistema de referencia con origen en la
-                   posición inicial de la pelota, positivo hacia arriba y para un valor del módulo de la
-                   aceleración de la gravedad de 10 m/s2.
-                                            m       m
-                    v1 = v 0 + at = 1500       − 10 2 t
-                                             s      s
-                                     1             m        m
-                    x1 = x 0 + v 0t + at 2 = 1500     t − 5 2 t2
-Física                               2              s       s
-                                                           Modelo Matemático
-                   El modelo matemático tendrá una         Solución analítica
-                                                           v 2 = 1500 − 10 × t
-                   expresión similar a la siguiente:
-10                                                         x 2 = 1500 × t − 5 × t 2
-   b) Se agregará en el fondo blanco del espacio de trabajo una partícula
-      a la que se le asignará la variable x1 en la coordenada vertical, tam-
-      bién se cambiará la escala vertical a 4 píxeles por cada unidad. En
-      la variable independiente se dará un paso de 0.1 entre un valor mí-
-      nimo de 0 y máximo de 8. Por último, se agregará un nuevo objeto
-      en el espacio de trabajo: un vector. Para ello, con el botón derecho
-      seleccionar “crear vector”, y ubicar este objeto en la coordenada
-      horizontal 0; en la vertical se le asignará el valor de la velocidad v1
-      y, finalmente, más a la derecha, se le pondrá “unir objeto a”, “selec-
-      cionar Partícula 1”. De esta forma se podrá ver el objeto subiendo y,
-      junto con su movimiento en cada paso, cómo va variando el vector
-      velocidad.
-   c) Apretando el botón verde de abajo a la izquierda, se podrá visuali-
-      zar la solución del problema.
-      • ¿Cuál es la altura máxima y cuánto tiempo tarda en alcanzarla?
-           Comparar este resultado con el que se obtuvo analíticamente
-           –lápiz y papel–. La solución debe resultar similar a la que se ve
-           en el siguiente video: http://youtu.be/9vxVm16k4tk.                  Word, procesador de textos de
-                                                                                Microsoft Office.
-   d) En un procesador de textos, realizar un informe detallado de todos
-      los pasos realizados en esta actividad, incluyendo programas utili-       Writer, procesador de textos de
-      zados, gráficos, a través de capturas de pantalla.                        OpenOffice.
+En los equipos portátiles está instalada la versión 5.1.1 de Scilab. Se 
+puede acceder a un manual en español de la versión 3.0 del programa des
+-de:  http://www.scilab.org/contrib/index_contrib.php?page=download 
+> Manuals > Introducción a Scilab (Héctor Manuel Mora Escobar)
+. El enlace directo para descargar el 
+PDF es: 
+ http://www.scilab.org/
+contrib/download.php?fileID=210&attachFileName=Intro_Spanish.pdf
+.La versión 5.3.2 de Scilab se puede descargar de forma gratuita desde 
+la web oficial del programa: 
+ www.scilab.org
+.Física
+10
+CinemáticaA continuación se presentan tres propuestas de actividades para trabajar contenidos 
+de cinemática integrando el uso de Modellus. Los contenidos que se abordan en cada 
+actividad sugerida son los que en general se desarrollan en la materia, por eso se realizan 
+breves introducciones a fin de que el docente emplee una o todas las actividades sugeri
+-das en el momento de la clase que considere oportuno.
+Las propuestas plantean el uso de conceptos abordados en el área de Matemática 
+Œcomo por ejemplo el de vectoresŒ que son fundamentales para la Física y permiten un 
+tratamiento más riguroso de la nomenclatura y una innovadora manera de abordar pro
+-blemas de Física. Esto permitirá que el docente muestre a los alumnos Œcon un propósito 
+concretoŒ contenidos aprendidos en otras áreas y cómo estos se vinculan entre sí. 
+Utilizar el programa Modellus para resolver problemas de cinemática posibilitará al 
+docente concentrarse en la interpretación, comparación, construcción de hipótesis y con
+-
+clusiones, y aprovechar la capacidad de cálculo del programa para resolver las operacio
+-nes de Matemática avanzada que están por detrás de las experiencias.
+Secuencia didáctica n.º 1
+Movimiento rectilíneo 
+Actividad 1. Altura máxima en un tiro vertical
+1.
+ Resolver el siguiente problema utilizando el software Modellus: un jugador de fútbol 
+profesional puede arrojar una pelota de fútbol en dirección vertical, con una veloci
+-dad inicial de               m/s.a) Utilizar las ecuaciones para el movimiento rectilíneo uniformemente variado. Para 
+ello, en la ventana de modelo matemático escribir las ecuaciones del
+ MRUV para las 
+variables x1 y v1, en las que se ha tomado un sistema de referencia con origen en la 
+
+posición inicial de la pelota, positivo hacia arriba y para un valor del módulo de la 
+aceleración de la gravedad de 10 m/s
+2. El modelo matemático tendrá una 
+ expresión 
+ similar a la siguiente:
+11500
+vv
+at
+msmstxx
+vt
+a10
+210
+01500
+10
+12=+
+=˜
+=+
++ttmstmst2221500
+5=˜Modelo MatemáticoSolución analíticavtxtt22150010150052=˜
+×=×
+˜×
+11
+bloque 1
+ Word
+, procesador de textos de 
+Microsoft Of˜ce.
+ Writer
+, procesador de textos de 
+OpenOf˜ce.
+b) Se agregará en el fondo blanco del espacio de trabajo una partícula 
+a la que se le asignará la variable 
+x1 en la coordenada vertical, tam
+-bién se cambiará la escala vertical a 4 píxeles por cada unidad. En 
+
+la variable independiente se dará un paso de 0.1 entre un valor mí
+-nimo de 0 y máximo de 8. Por último, se agregará un nuevo objeto 
+en el espacio de trabajo: un vector. Para ello, con el botón derecho 
+seleccionar ﬁcrear vectorﬂ, y ubicar este objeto en la coordenada 
+horizontal 0; en la vertical se le asignará el valor de la velocidad 
+v1 y, finalmente, más a la derecha, se le pondrá ﬁunir objeto aﬂ, ﬁselec
+-
+cionar Partícula 1ﬂ. De esta forma se podrá ver el objeto subiendo y, 
+junto con su movimiento en cada paso, cómo va variando el vector 
+velocidad.c) Apretando el botón verde de abajo a la izquierda, se podrá visuali
+-
+zar la solución del problema. 
+ ¿Cuál es la altura máxima y cuánto tiempo tarda en alcanzarla? 
+
+Comparar este resultado con el que se obtuvo analíticamente 
+Œlápiz y papelŒ. La solución debe resultar similar a la que se ve 
+en el siguiente video: 
+ http://youtu.be/9vxVm16k4tk
+. d) En un 
+procesador de textos
+, realizar un informe detallado de todos 
+los pasos realizados en esta actividad, incluyendo programas utili
+-
+zados, gráficos, a través de capturas de pantalla.
 Actividad 2. Tiro oblicuo y caída libre con Modellus
-    Sobre un cuerpo que se mueve en el aire, en las cercanías de la super-
-ficie de la Tierra, actúa solamente la fuerza peso en la dirección vertical
-(despreciando el rozamiento con el aire).
-    Como la fuerza peso es una fuerza uniforme, es decir que tiene en to-
-das las posiciones la misma dirección, módulo y sentido, en la dirección
-vertical existe una aceleración constante y el movimiento será un mruv. En
-la dirección horizontal no hay fuerzas, con lo cual el movimiento horizon-
-tal será un mru. La velocidad en esa dirección será constante con un valor
-igual a la componente inicial de la velocidad en la dirección horizontal.
-Por esta razón el movimiento termina resultando estar limitado a un pla-
-no, definido por la vertical y la componente de la velocidad inicial en la
-                                                                                                                  bloque 1
+Sobre un cuerpo que se mueve en el aire, en las cercanías de la super
+-ficie de la Tierra, actúa solamente la fuerza peso en la dirección vertical 
+(despreciando el rozamiento con el aire). 
+Como la fuerza peso es una fuerza uniforme, es decir que tiene en to
+-das las posiciones la misma dirección, módulo y sentido, en la dirección 
+vertical existe una aceleración constante y el movimiento será un 
+MRUV. En 
+la dirección horizontal no hay fuerzas, con lo cual el movimiento horizon
+-tal será un 
+MRU. La velocidad en esa dirección será constante con un valor 
+igual a la componente inicial de la velocidad en la dirección horizontal. 
+
+Por esta razón el movimiento termina resultando estar limitado a un pla
+-no, definido por la vertical y la componente de la velocidad inicial en la 
 dirección horizontal.
-    Tomando un sistema de coordenadas con un eje x en la dirección hori-
-zontal y un eje y en la dirección vertical, tendremos en el eje x un mru, con
+Tomando un sistema de coordenadas con un eje 
+x en la dirección hori
+-zontal y un eje 
+y en la dirección vertical, tendremos en el eje 
+x un 
+MRU, con 
 las relaciones:
-      x = x 0 + v x . (t − t0 ) con v x = constante                                                               11
-                                        y en el eje y, considerando la aceleración de la gravedad hacia abajo, de
-                                      módulo igual a 10 m/s2, resulta:
-                                                                     1             2
-                                        y = y 0 + v y 0 . (t − t0 ) + a. (t − t0 )
-                                                                     2
-                                                                       m              2
-                                        y = y 0 + v y 0 . (t − t0 ) − 5 2 . (t − t0 )
-                                                                       s
-                                         para la coordenada y mientras que la velocidad en esta dirección es:
-                                         v y = v y 0 + a y . (t − t0 )
-                                                             m
-                                         v y = v y 0 − 10       . (t − t0 )
-                                                             s2
-                                          El siguiente es un clásico problema de encuentro entre un tiro oblicuo
-                                      y una caída libre: si un proyectil es lanzado contra un blanco que se deja
-                                      caer libremente, apuntado en la dirección en la que lo impactaría en au-
-                           V0p2 = 0
-                                      sencia de la gravedad, el mismo lo impactará independientemente de la
-                                      velocidad inicial. Esto será así porque tanto el tiro oblicuo como la caída
-                            H         libre se desplazarán hacia abajo la misma cantidad debido a la gravedad.
-                                          Ambos cuerpos comienzan sus movimientos en el mismo momento t = 0
-         V0p1
-                                      segundos, estando la partícula 1 en el origen de coordenadas elegido y la
-         α
-                L                x
-                                      partícula 2 a una distancia horizontal L y a una altura H, comenzando una
-                                      caída libre, o sea, desde el reposo.
-                                          a) Construir el modelo matemático con el programa Modellus para
-                                              cada partícula, considerando el sistema de referencia mostrado en
-                                              la figura.
-                                              La componente horizontal y vertical de la velocidad inicial puede
-                                              obtenerse por trigonometría utilizando las distancias L y H.
-                                          b) Realizar en forma individual la visualización en Modellus para
-                                              distintos valores del módulo de la velocidad inicial de la partícula
-                    docs.google.com           1. Colocar en un documento compartido los resultados obteni-
-                                              dos y verificar que, independientemente de la velocidad inicial,
+ xx
+vt
+tx=+
+˜()
+00. con vx= constante 
 Física
 12
-      las partículas siempre se encuentran. Considerar que la partícula 2
-      está a 10 metros de altura y a una distancia de 15 metros en la direc-
-      ción horizontal.
-   c) En grupos de cuatro o cinco alumnos, analizar y construir el modelo
-      matemático para que la velocidad inicial sea seleccionada al azar,
-      utilizando el comando rnd().
-   d) Utilizando un procesador de textos, redactar un informe detallado
-      de todos los pasos realizados en esta actividad. Se pueden incluir
-      programas realizados y gráficos.
-Actividad de cierre. Tiro oblicuo, aceleración centrípeta
+y en el eje 
+y, considerando la aceleración de la gravedad hacia abajo, de 
+módulo igual a 10 m/s2, resulta:
+para la coordenada 
+y mientras que la velocidad en esta dirección es: 
+El siguiente es un clásico problema de encuentro entre un tiro oblicuo 
+y una caída libre: si un proyectil es lanzado contra un blanco que se deja 
+caer libremente, apuntado en la dirección en la que lo impactaría en au
+-sencia de la gravedad, el mismo lo impactará independientemente de la 
+velocidad inicial. Esto será así porque tanto el tiro oblicuo como la caída 
+libre se desplazarán hacia abajo la misma cantidad debido a la gravedad.
+Ambos cuerpos comienzan sus movimientos en el mismo momento 
+t = 0 
+segundos, estando la partícula 1 en el origen de coordenadas elegido y la 
+
+partícula 2 a una distancia horizontal 
+L y a una altura 
+H, comenzando una 
+caída libre, o sea, desde el reposo.
+a) Construir el modelo matemático con el programa Modellus para 
+cada partícula, considerando el sistema de referencia mostrado en 
+la figura.
+ La componente horizontal y vertical de la velocidad inicial puede 
+
+obtenerse por trigonometría utilizando las distancias 
+L y H.b) Realizar en forma individual la visualización en Modellus para 
+
+distintos valores del módulo de la velocidad inicial de la partícula 
+1. Colocar en un 
+documento compartido
+ los resultados obteni
+-dos y verificar que, independientemente de la velocidad inicial, 
+ docs.google.com yy
+vt
+ta
+tt
+yy
+vt
+tmsyy=+
+˜()
++˜
+()
+=+
+˜()
+˜00
+00200
+02125..
+.˜()
+.tt
+02vv
+at
+tvv
+mstt
+yy
+yyy
+=+
+˜()
+=˜
+˜()
+0002010
+..V0p1V0p2 = 0LxH13
+bloque 1
+las partículas 
+siempre se encuentran. Considerar que la partícula 2 
+está a 10 metros de altura y a una distancia de 15 metros en la direc
+-ción horizontal.
+c) En grupos de cuatro o cinco alumnos, analizar y construir el modelo 
+matemático para que la velocidad inicial sea seleccionada al azar, 
+utilizando el comando rnd().d) Utilizando un procesador de textos, redactar un informe detallado 
+
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Actividad de cierre. 
+Tiro oblicuo, aceleración centrípeta 
 y aceleración tangencial
-  Resolver el siguiente problema de tiro oblicuo: se arroja un cuerpo for-
-mando un ángulo de 30 grados con una velocidad inicial de módulo 3 m/s.
-  a) Visualizar el problema utilizando el programa Modellus. Agregar
-     un vector correspondiente a la velocidad del cuerpo durante el tiro
-     oblicuo.
-  b) Sabiendo que la aceleración es vertical e igual a la aceleración de
-     la gravedad, descomponerla en aceleración tangencial y centrípeta,
-     recordando que la primera está en la dirección de la velocidad y la
-     segunda es perpendicular a esta. Agregar dos vectores que muestren
-     estas aceleraciones siguiendo a la partícula.
-  c) Considerar la relación entre la aceleración centrípeta y el cuadrado
-     del módulo de la velocidad para obtener la curvatura de la trayec-
-     toria del tiro oblicuo. Para ello, graficar el módulo de la aceleración
-     centrípeta en función del cuadrado del módulo de la velocidad.
-  d) Utilizando un procesador de textos, redactar un informe detallado
-     de todos los pasos realizados en esta actividad. Se pueden incluir
-     programas realizados y gráficos.
-                                                                               bloque 1
-                                                                               13
-         2   Dinámica
-                 A continuación se presentan contenidos de Dinámica integrando el uso de los pro-
-             gramas Modellus y Scilab. Los contenidos que se abordan en cada actividad sugerida son
-             los que habitualmente se desarrollan en la materia, por este motivo se realizan breves
-             introducciones a fin de que el docente emplee una o todas las actividades sugeridas en el
-             momento de la clase que considere oportuno.
-                 Las propuestas plantean el uso de fuerzas conocidas, como la gravitatoria, la elástica
-             y las de vínculo, utilizando su correcta descripción vectorial con un tratamiento más rigu-
-             roso de la nomenclatura y una forma innovadora de abordar problemas de Física. Esto
-             permitirá que el docente muestre a los alumnos –con un propósito concreto– contenidos
-             aprendidos en otras áreas y cómo estos se vinculan entre sí.
-                 El uso de los programas Modellus y Scilab para resolver problemas de dinámica posi-
-             bilitará al docente concentrarse en la interpretación, comparación, construcción de hipó-
-Física       tesis y conclusiones, y aprovechar la capacidad de cálculo de la netbook para que resuelva
-             problemas que en algunos casos requieren de matemáticas avanzadas, difíciles de resolver
-             con papel y lápiz. La posibilidad de graficar los problemas planteados para poder visua-
-             lizar sus soluciones en tiempo real permitirá a los alumnos una mayor comprensión de los
-14           temas propuestos en este bloque.
+Resolver el siguiente problema de tiro oblicuo: se arroja un cuerpo for
+-mando un ángulo de 30 grados con una velocidad inicial de módulo 3 m/s.
+a) Visualizar el problema utilizando el programa Modellus. Agregar 
+un vector correspondiente a la velocidad del cuerpo durante el tiro 
+oblicuo.
+b) Sabiendo que la aceleración es vertical e igual a la aceleración de 
+
+la gravedad, descomponerla en aceleración tangencial y centrípeta, 
+recordando que la primera está en la dirección de la velocidad y la 
+segunda es perpendicular a esta. Agregar dos vectores que muestren 
+estas aceleraciones siguiendo a la partícula.
+c) Considerar la relación entre la aceleración centrípeta y el cuadrado 
+
+del módulo de la velocidad para obtener la curvatura de la trayec
+-
+toria del tiro oblicuo. Para ello, graficar el módulo de la aceleración 
+centrípeta en función del cuadrado del módulo de la velocidad. 
+d) Utilizando un procesador de textos, redactar un informe detallado 
+
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Física
+14
+DinámicaA continuación se presentan contenidos de Dinámica integrando el uso de los pro
+-gramas Modellus y Scilab. Los contenidos que se abordan en cada actividad sugerida son 
+los que habitualmente se desarrollan en la materia, por este motivo se realizan breves 
+introducciones a fin de que el docente emplee una o todas las actividades sugeridas en el 
+momento de la clase que considere oportuno. 
+Las propuestas plantean el uso de fuerzas conocidas, como la gravitatoria, la elástica 
+y las de vínculo, utilizando su correcta descripción vectorial con un tratamiento más rigu
+-roso de la nomenclatura y una forma innovadora de abordar problemas de Física. Esto 
+permitirá que el docente muestre a los alumnos Œcon un propósito concretoŒ contenidos 
+aprendidos en otras áreas y cómo estos se vinculan entre sí. 
+El uso de los programas Modellus y Scilab para resolver problemas de dinámica posi
+-bilitará al docente concentrarse en la interpretación, comparación, construcción de hipó
+-
+tesis y conclusiones, y aprovechar la capacidad de cálculo de la netbook para que resuelva 
+problemas que en algunos casos requieren de matemáticas avanzadas, difíciles de resolver 
+con papel y lápiz. La posibilidad de graficar los problemas planteados  para poder visua
+-lizar sus soluciones en tiempo real permitirá a los alumnos una mayor comprensión de los 
+temas propuestos en este bloque.
+215
+bloque 2
 Secuencia didáctica n.º 2
-Fuerzas y Dinámica / Modelado numérico
-Modelado numérico
-    El objetivo de la Dinámica es el estudio de las fuerzas que actúan so-
-bre un cuerpo para luego, con la relación a través de la masa (inercia del
-cuerpo), vincular la resultante de todas las fuerzas con la aceleración. Una
-vez obtenida la aceleración, puede calcularse la velocidad, y con esta últi-
-ma, la posición. Aunque en la escuela media todavía no se dispone de las
-herramientas matemáticas para realizar esto, a continuación se verá cómo
-resolver estos problemas con la ayuda de una computadora, a través del
-modelado numérico. Esta forma de trabajo permitirá resolver innumera-
-bles problemas sin necesidad de hacerlo analíticamente.
-    El concepto fundamental que está detrás del modelado numérico es el
-siguiente: cualquier función, si la vemos desde muy cerca, se va a parecer
-a una recta. Esta aproximación de una función por un comportamiento
-lineal (recta) se puede realizar dividiendo el intervalo sobre el que se quiere
-hallar la solución del problema en un número grande de intervalos peque-
-ños. En cada intervalo se va a suponer que la velocidad varía linealmente,
-es decir, tomar la aceleración constante en ese intervalo pequeño de tiem-
-po, lo que dará un cambio lineal para la velocidad. Aplicando el mismo
-principio para la posición, se supone la velocidad constante durante el
+Fuerzas y Dinámica / Modelado numérico 
+Modelado numérico 
+El objetivo de la Dinámica es el estudio de las fuerzas que actúan so
+-bre un cuerpo para luego, con la relación a través de la masa (inercia del 
+cuerpo), vincular la resultante de todas las fuerzas con la aceleración. Una 
+vez obtenida la aceleración, puede calcularse la velocidad, y con esta últi
+-ma, la posición. Aunque en la escuela media todavía no se dispone de las 
+herramientas matemáticas para realizar esto, a continuación se verá cómo 
+resolver estos problemas con la ayuda de una computadora, a través del 
+modelado numérico. Esta forma de trabajo permitirá resolver innumera
+-bles problemas sin necesidad de hacerlo analíticamente.
+El concepto fundamental que está detrás del modelado numérico es el 
+siguiente: cualquier función, si la vemos desde muy cerca, se va a parecer 
+a una recta. Esta aproximación de una función por un comportamiento 
+
+lineal (recta) se puede realizar dividiendo el intervalo sobre el que se quiere 
+hallar la solución del problema en un número grande de intervalos peque
+-ños. En cada intervalo se va a suponer que la velocidad varía linealmente, 
+es decir, tomar la aceleración constante en ese intervalo pequeño de tiem
+-po, lo que dará un cambio lineal para la velocidad. Aplicando el mismo 
+
+principio para la posición, se supone la velocidad constante durante el 
 pequeño intervalo de tiempo para así calcular el cambio en la posición.
-    Para comenzar, se propone repasar conocimientos de Cinemática y
+Para comenzar, se propone repasar conocimientos de Cinemática y 
 cómo se definen la posición, la velocidad y la aceleración medias.
-    La definición vista para la velocidad
-                                       media está dada por:
-           x o vectorialmente        x
-    v=                          v=
-           t                          t
-   A continuación se verá el planteo para el caso rectilíneo (en una sola
+La definición vista para la velocidad media está dada por:
+vxt= o vectorialmente 
+vxt=A continuación se verá el planteo para el caso rectilíneo (en una sola 
 dimensión) y más adelante se retomará la problemática vectorial:
-        x ( x f − xi )
-   v=     =
-        t (t f − t i )
-   Despejando de esa definición de velocidad media, se puede obtener:
-    x f = x i + v (t f − t i )
-   Esta relación permite, al conocer la posición inicial, x i , la velocidad
-                                                                                  bloque 2
-media, v y el pequeño intervalo de tiempo, (t f − ti ) , calcular la posición
-que tendrá luego de ese intervalo de tiempo, lo que se llama posición
-final, x f .
-   Considerando esta posición final como la posición inicial para el si-
-guiente pequeño intervalo, se puede calcular cómo varía la posición en el         15
-                                               siguiente intervalo de tiempo. Sin embargo, habrá que ver cuánto vale la
-                                               velocidad en este nuevo intervalo. Para ello se desarrolla de forma análoga
-                                               a lo realizado con la velocidad y la posición, esta vez con la aceleración y
-                                               la velocidad.
-                                                   La definición para la aceleración media está dada por:
-                                                          v (v f − v i )
-                                                   a=      =
-                                                          t (t f − t i )
-                                                     Despejando de esa definición de aceleración media, se puede obtener:
-                                                      v f = v i + a (t f − t i )
-                                                     Igual que antes, esta relación permite, conociendo la velocidad inicial,
-                                                v i , la aceleración media, a y el pequeño intervalo de tiempo, (t f − ti ) ,
-                                               calcular la velocidad que tendrá luego de ese intervalo de tiempo, lo que se
-                                               llama velocidad final, v f .
-                                                     Finalmente aquí entran los conceptos de fuerza que se desarrollan al
-                                               estudiar la Dinámica, que dirá cómo cambia la fuerza a lo largo de los
-                                               distintos intervalos de tiempo y así se podrá utilizar la correspondiente
-                                               aceleración, como la fuerza sobre la masa, en cada pequeño intervalo.
-                                               Actividad 1. Resolver el movimiento horizontal de un
-                                               cuerpo con y sin rozamiento
-                                                  Un cuerpo se mueve sobre una superficie horizontal en línea recta por
-                                               regiones donde se puede despreciar el rozamiento entre el cuerpo y la su-
-                                               perficie, y por otras donde no.
-                                                  a) Suponer que inicialmente tiene una velocidad de 80 m/s y una acele-
-                                                      ración constante igual a 4 m/s2 en dirección contraria a la velocidad
-                                                      (desaceleración). En los primeros 300 metros del movimiento lineal,
-                                                      el cuerpo y la superficie no presentan una fuerza de rozamiento apre-
-                                                      ciable. Luego, entre los 300 y 500 metros, y sólo en esta región de la
-                                                      recta, se observa un coeficiente de rozamiento dinámico de 0,3.
-         La solución al problema se puede         b) Si la masa del cuerpo es de 1 kg, resolver analíticamente el movi-
-            consultar en el siguiente video:          miento del cuerpo realizando los diagramas de cuerpo libre en las
-           http://youtu.be/nSxxAPc1Dzc.
-                                                      diferentes regiones por donde se mueve el cuerpo.
-                                                  c) Con el programa Modellus, realizar la visualización del problema y
-                                                      comparar el movimiento si no existiera rozamiento.
-Física                                                 Luego de pasar dos veces por la región con rozamiento, ¿la velo-
-                                                           cidad del cuerpo con rozamiento es igual a la del que no presen-
-                                                           ta rozamiento?
-                                                      Mirar el gráfico en Modellus. Explicar la respuesta con argumentos
-16                                                    de cinemática y también de energía.
-   d) Utilizando un procesador de textos, redactar un informe detallado
-      de todos los pasos realizados en esta actividad. Se pueden incluir
-      programas realizados y gráficos.
-Actividad 2. Movimiento en un plano inclinado
+vxtxx
+tt
+fi
+fi
+==
+˜()
+˜()
+Despejando de esa definición de velocidad media, se puede obtener:
+xx
+vt
+tfi
+fi
+=+
+˜()
+Esta relación permite, al conocer la posición inicial, 
+xi, la velocidad 
+media, 
+v y el pequeño intervalo de tiempo, 
+tt
+fi
+˜()
+, calcular la posición 
+que tendrá luego de ese intervalo de tiempo, lo que se llama posición 
+final, 
+xf.Considerando esta posición final como la posición inicial para el si
+-guiente pequeño intervalo, se puede calcular cómo varía la posición en el 
+Física
+16
+siguiente intervalo de tiempo. Sin embargo, habrá que ver cuánto vale la 
+velocidad en este nuevo intervalo. Para ello se desarrolla de forma análoga 
+a lo realizado con la velocidad y la posición, esta vez con la aceleración y 
+la velocidad.La definición para la aceleración media está dada por:
+avtvv
+tt
+fi
+fi
+==
+˜()
+˜()
+Despejando de esa definición de aceleración media, se puede obtener:
+vv
+at
+tfi
+fi
+=+
+˜()
+Igual que antes, esta relación permite, conociendo la velocidad inicial, 
+vi, la aceleración media, 
+a y el pequeño intervalo de tiempo, 
+tt
+fi
+˜()
+, calcular la velocidad que tendrá luego de ese intervalo de tiempo, lo que se 
+llama velocidad final, 
+vf.Finalmente aquí entran los conceptos de fuerza que se desarrollan al 
+estudiar la Dinámica, que dirá cómo cambia la fuerza a lo largo de los 
+distintos intervalos de tiempo y así se podrá utilizar la correspondiente 
+aceleración, como la fuerza sobre la masa, en cada pequeño intervalo.
+Actividad 1. Resolver el movimiento horizontal de un 
+cuerpo con y sin rozamiento
+Un cuerpo se mueve sobre una superficie horizontal en línea recta por 
+regiones donde se puede despreciar el rozamiento entre el cuerpo y la su
+-perficie, y por otras donde no.
+a)
+ Suponer que inicialmente tiene una velocidad de 80 m/s y una acele
+-ración constante igual a 4 m/s
+2 en dirección contraria a la velocidad 
+(desaceleración). En los primeros 300 metros del movimiento lineal, 
+
+el cuerpo y la superficie no presentan una fuerza de rozamiento apre
+-ciable. Luego, entre los 300 y 500 metros, y sólo en esta región de la 
+
+recta, se observa un coeficiente de rozamiento dinámico de 0,3. 
+b) Si la masa del cuerpo es de 1 kg, resolver analíticamente el movi
+-miento del cuerpo realizando los diagramas de cuerpo libre en las 
+diferentes regiones por donde se mueve el cuerpo.
+c) Con el programa Modellus, realizar la visualización del problema y 
+
+comparar el movimiento si no existiera rozamiento.
+ Luego de pasar dos veces por la región con rozamiento, ¿la velo
+-cidad del cuerpo con rozamiento es igual a la del que no presen
+-ta rozamiento? 
+ Mirar el gráfico en Modellus. Explicar la respuesta con argumentos 
+
+de cinemática y también de energía.
+La solución al problema se puede 
+consultar en el siguiente video:
+  http://youtu.be/nSxxAPc1Dzc
+.17
+bloque 2
+d) Utilizando un procesador de textos, redactar un informe detallado 
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Actividad 2. Movimiento en un plano inclinado 
 con rozamiento
-    Cuando dos cuerpos sólidos están en contacto, aparecen fuerzas entre
-los átomos de los cuerpos que no le permiten a uno atravesar al otro. A
-estas fuerzas se las llama fuerzas de contacto. Un caso particular de estas
-fuerzas aparece al apoyar un cuerpo sobre una mesa o en un plano incli-
-nado, nombrando a esta fuerza de vínculo como la “normal”, anula las
-fuerzas perpendiculares a la mesa o al plano de tal forma que el cuerpo
-tiene restringido su movimiento a estos planos.
-    Por su parte, y debido a este contacto y en función de la rugosidad de
-las superficies en contacto, aparecerán fuerzas disipativas que llamamos
-fuerzas de rozamiento, que son proporcionales a la fuerza normal. La
-constante de proporcionalidad entre estas fuerzas se llama coeficiente de
-rozamiento. Estas fuerzas de rozamiento se oponen al desplazamiento del
-cuerpo, por lo tanto serán contrarias al vector velocidad.
-    a) Utilizar el software Modellus para resolver el siguiente problema:
-       un cuerpo se mueve sobre una superficie horizontal sin rozamiento,
-       con una velocidad de 80 m/s, hasta llegar a la base de un plano in-
-                                                                              bloque 2
-       clinado. Debido a que la superficie del plano inclinado genera una
-       fricción con el cuerpo, aparece una fuerza de rozamiento con un
-       coeficiente de rozamiento igual a 0,3.
-       Resolver el movimiento del cuerpo sabiendo que el plano inclinado
-       tiene una altura de 300 m y una base de 400.                           17
-                                               b) ¿Qué tipo de movimiento tiene el cuerpo cuando no está sobre el
-                                                  plano inclinado?
-                                                   Cuando está sobre el plano inclinado, plantear un diagrama de
-                                                      cuerpo libre para cuando el cuerpo sube y otro para cuando el
-                                                      cuerpo baja. ¿Qué tipo de movimiento tiene en cada uno de
-                                                      estos casos?
-                                               c) Plantear un sistema de coordenadas con un eje paralelo al plano
-                                                  inclinado y resolver el problema analíticamente.
-                                                  Utilizando el Modellus, resolver el problema, planteando como mode-
-                                                  lo la aceleración en las distintas etapas analizadas en los puntos a y b.
-                                                   Para visualizar el problema y el movimiento sobre el plano incli-
-                                                      nado, hay que realizar la proyección del movimiento en las com-
-                                                      ponentes horizontal y vertical, ya que el Modellus sólo puede
-                                                      manejar cambios en estas direcciones.
-                                                   Agregar un lápiz para graficar la posición del cuerpo sobre el
-                                                      plano inclinado en función del tiempo. ¿Qué tipo de funciones
-                                                      se tiene que ver en cada región?
-                                                   Agregar otro lápiz para ver la velocidad del cuerpo en las dis-
-                                                      tintas regiones y analizar si corresponden con las dependencias
-                                                      temporales esperadas.
-                                               d) Utilizando un procesador de textos, redactar un informe detallado
-                                                  de todos los pasos realizados en esta actividad. Se pueden incluir
-                                                  programas realizados y gráficos.
-         Captura de pantalla del problema
-                     utilizando Modellus.
-                                            Secuencia didáctica n.º 3
-                                            Fuerzas de vínculo y fuerzas elásticas
-                                            (movimiento oscilatorio)
+Cuando dos cuerpos sólidos están en contacto, aparecen fuerzas entre 
+los átomos de los cuerpos que no le permiten a uno atravesar al otro. A 
+estas fuerzas se las llama fuerzas de contacto. Un caso particular de estas 
+fuerzas aparece al apoyar un cuerpo sobre una mesa o en un plano incli
+-nado, nombrando a esta fuerza de vínculo como la ﬁnormalﬂ, anula las 
+
+fuerzas perpendiculares a la mesa o al plano de tal forma que el cuerpo 
+tiene restringido su movimiento a estos planos. 
+Por su parte, y debido a este contacto y en función de la rugosidad de 
+las superficies en contacto, aparecerán fuerzas disipativas que llamamos 
+fuerzas de rozamiento, que son proporcionales a la fuerza normal. La 
+constante de proporcionalidad entre estas fuerzas se llama coeficiente de 
+rozamiento. Estas fuerzas de rozamiento se oponen al desplazamiento del 
+cuerpo, por lo tanto serán contrarias al vector velocidad. 
+a) Utilizar el software Modellus para resolver el siguiente problema: 
+
+un cuerpo se mueve sobre una superficie horizontal sin rozamiento, 
+con una velocidad de 80 m/s, hasta llegar a la base de un plano in
+-clinado. Debido a que la superficie del plano inclinado genera una 
+fricción con el cuerpo, aparece una fuerza de rozamiento con un 
+
+coeficiente de rozamiento igual a 0,3.
+ Resolver el movimiento del cuerpo sabiendo que el plano inclinado 
+
+tiene una altura de 300 m y una base de 400.
 Física
-                                                En el movimiento de un péndulo, el cuerpo está sujeto por el extremo
-                                            de una soga, hilo, cadena o un vínculo en general, por lo que describe un
-                                            movimiento acotado sobre parte de una circunferencia, cuyo radio será
-18                                          la longitud del vínculo.
-     Al igual que en el caso del movimiento circular, al tener un movimien-
-to sobre una circunferencia tendremos una aceleración centrípeta que
-será igual al módulo de la velocidad al cuadrado dividido por el radio de                       y
-curvatura. El vínculo generará una fuerza de reacción que será perpendi-
-cular al desplazamiento, siendo entonces una fuerza centrípeta. La otra
-fuerza involucrada será la fuerza peso, siempre en dirección vertical.
-     Este razonamiento es el que se utiliza para calcular la tensión o fuerza
-                                                                                        r           x
-que realiza el vínculo, que junto con la componente de la fuerza peso en la
-                                                                                            T
-dirección radial dará como resultado una aceleración centrípeta.                  m
-     De esta forma, el módulo de la tensión en el vínculo menos la pro-
-                                                                                      P = mg
-yección de la fuerza peso en la dirección radial será igual al módulo de la
-velocidad al cuadrado sobre la longitud del péndulo.
-     Observando el gráfico de la derecha y el sistema de referencia plan-
-teado, la componente del peso en la dirección radial estará dada      por un
-                    ^        y
-módulo igual a P r = −mg y estará en la dirección de r =  = x , y
-                                                             ^   r
-                              R                                  r     R R
-por lo que las fuerzas serán:
-              
-     el peso P = (0, −mg ) y la tensión, sumadas serán igual a la aceleración
-centrípeta:             2
-       ^ ^ m v
-       ( )              ( )
-                            ^
-     T + Pr r =            −r
-                      R
-                               2
-                  mgy ^ m v
-      ( )                       ( )
-          ^                         ^
-     T −r + −            r=        −r
-                   R          R
-              2
-           mv            y
-     T=          − mg
-             R           R
-     Una vez obtenido el módulo de la tensión, es posible descomponer-
-la en sus componentes en x y en y, dado que estará en la dirección de
-   ^       r      x      y por lo que las fuerzas serán:
- −r = −  = − ,−
-           r      R R
-    
-    P = (0, −mg )
-        2                             2
-    m v
-   T=      − mg
-                y            x  y
-                            − ,− = −
-                                           (
-                                     m v − mgy           ) ( x, y )
-       R        R            R R        R2
-Actividad 1. Movimiento oscilatorio
-                                                                                                        bloque 2
-    Dado un péndulo cuya longitud es de 50 cm, se lo deja caer desde el
-reposo con un ángulo inicial de 30º respecto de la vertical. La posición
-inicial será por lo tanto ( R.sen (θ ) , R.cos (θ )) . Si la masa en el extremo
-del péndulo es de 1 kg, resolver el problema numéricamente.                                             19
-            a) Graficar la coordenada x y la coordenada y en función del tiempo.
-               Graficar la coordenada y en función de la coordenada x.
-            b) Encontrar la altura máxima que alcanza el péndulo en su movimien-
-               to y confirmar que la velocidad en ese instante de tiempo es nula.
-            c) Calcular el ángulo del vector posición en función del tiempo y graficarlo.
-            d) Utilizando un procesador de textos, redactar un informe detallado
-               de todos los pasos realizados en esta actividad. Se pueden incluir
-               programas realizados y gráficos.
-         Actividad 2. Movimiento oscilatorio
-             Dado un péndulo cuya longitud es de 70 cm, se sabe que cuando pasa por
-         la parte más baja de su trayectoria tiene una velocidad de 2,5 m/s. Si la masa
-         en el extremo del péndulo es de 1,5 kg, resolver el problema numéricamente.
-             a) Graficar la coordenada x y la coordenada y en función del tiempo.
-                 Graficar la coordenada y en función de la coordenada x.
-             b) Encontrar la altura máxima que alcanza el péndulo en su movimien-
-                 to y confirmar que la velocidad en ese instante de tiempo es nula.
-             c) Calcular el ángulo del vector posición en función del tiempo y gra-
-                 ficarlo.
-             d) Utilizando un procesador de textos, redactar un informe detallado
-                 de todos los pasos realizados en esta actividad. Se pueden incluir
-                 programas realizados y gráficos.
-         Actividad 3. Período de un péndulo y su dependencia con
-         la longitud del péndulo (con Scilab o Modellus)
-            a) Trabajando en forma individual, resolver numéricamente el movi-
-               miento de péndulos de distintas longitudes, por ejemplo, 10, 20,
-               30… hasta 100 cm de longitud.
-            b) En todos los casos, calcular el período de oscilación de cada pén-
-               dulo, esto es el tiempo que tarda en ir y volver desde un extremo del
-               movimiento hasta la misma posición del extremo.
-            c) En un documento compartido reunir los resultados obtenidos indi-
-Física         vidualmente para graficar los períodos encontrados en función de
-               la longitud de cada péndulo.
-            d) Realizar el gráfico del logaritmo del período en función del logarit-
-               mo de la longitud del péndulo. Con ello, tratar de concluir la rela-
-20             ción entre el período de oscilación y la longitud del péndulo.
-       Si un péndulo tarda un segundo en ir y volver a la posición ex-
-          trema, ¿cuánto hay que aumentar su longitud en relación con el
-          péndulo inicial para que el período sea de 2 segundos?
-   e) Utilizando un procesador de textos, redactar un informe detallado
-      de todos los pasos realizados en esta actividad. Se pueden incluir
-      programas realizados y gráficos.
+18
+b) ¿Qué tipo de movimiento tiene el cuerpo cuando no está sobre el 
+plano inclinado? Cuando está sobre el plano inclinado, plantear un diagrama de 
+cuerpo libre para cuando el cuerpo sube y otro para cuando el 
+cuerpo baja. ¿Qué tipo de movimiento tiene en cada uno de 
+estos casos? c) Plantear un sistema de coordenadas con un eje paralelo al plano 
+
+inclinado y resolver el problema analíticamente.
+ Utilizando el Modellus, resolver el problema, planteando como mode
+-lo la aceleración en las distintas etapas analizadas en los puntos 
+a y 
+b.  Para visualizar el problema y el movimiento sobre el plano incli
+-
+nado, hay que realizar la proyección del movimiento en las com
+-
+ponentes horizontal y vertical, ya que el Modellus sólo puede 
+manejar cambios en estas direcciones. 
+ Agregar un lápiz para graficar la posición del cuerpo sobre el 
+
+plano inclinado en función del tiempo. ¿Qué tipo de funciones 
+se tiene que ver en cada región?
+ Agregar otro lápiz para ver la velocidad del cuerpo en las dis
+-tintas regiones y analizar si corresponden con las dependencias 
+temporales esperadas.
+d) Utilizando un procesador de textos, redactar un informe detallado 
+
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Secuencia didáctica n.º 3
+Fuerzas de vínculo y fuerzas elásticas 
+(movimiento oscilatorio) 
+En el movimiento de un péndulo, el cuerpo está sujeto por el extremo 
+de una soga, hilo, cadena o un vínculo en general, por lo que describe un 
+movimiento acotado sobre parte de una circunferencia, cuyo radio será 
+la longitud del vínculo.
+Captura de pantalla del problema 
+utilizando Modellus.
+19
+bloque 2
+Al igual que en el caso del movimiento circular, al tener un movimien
+-to sobre una circunferencia tendremos una aceleración centrípeta que 
+será igual al módulo de la velocidad al cuadrado dividido por el radio de 
+curvatura. El vínculo generará una fuerza de reacción que será perpendi
+-cular al desplazamiento, siendo entonces una fuerza centrípeta. La otra 
+
+fuerza involucrada será la fuerza peso, siempre en dirección vertical. 
+Este razonamiento es el que se utiliza para calcular la tensión o fuerza 
+que realiza el vínculo, que junto con la componente de la fuerza peso en la 
+dirección radial dará como resultado una aceleración centrípeta.
+De esta forma, el módulo de la tensión en el vínculo menos la pro
+-yección de la fuerza peso en la dirección radial será igual al módulo de la 
+velocidad al cuadrado sobre la longitud del péndulo. 
+Observando el gráfico de la derecha y el sistema de referencia plan
+-teado, la componente del peso en la dirección radial estará dada por un 
+
+módulo igual a
+ Pr
+mg
+yR˜˚^=˜
+ y estará en la dirección de
+ rrrxRyR^,==
+ por lo que las fuerzas serán:
+el peso 
+Pm
+g˜˚=˜
+()
+0,
+ y la tensión, sumadas serán igual a la aceleración 
+centrípeta:  
+TP
+rr
+mv
+RrTr
+mg
+yRrmv
+˜˚
+˜˚˚+()
+=˜
+()
+˜()
++˜
+=^^
+^^^2˚˚˚22RrTmv
+Rmg
+yR˜()
+=˜
+^Una vez obtenido el módulo de la tensión, es posible descomponer
+-la en sus componentes en x y en y, dado que estará en la dirección de 
+˜=
+˜=
+˜˜
+rrrxRyR^, por lo que las fuerzas serán:
+Pm
+g˜˚=˜
+()
+0,
+Tmv
+Rmg
+yRxRyRmv
+˜˚
+˚˚=˜
+˜˜
+=˜
+22,˜˜()
+()
+mg
+yRxy
+2,Actividad 1. Movimiento oscilatorio
+Dado un péndulo cuya longitud es de 50 cm, se lo deja caer desde el 
+reposo con un ángulo inicial de 30º respecto de la vertical. La posición 
+inicial será por lo tanto 
+Rs
+en
+R.,
+.c
+os
+˜˜
+()
+()
+(). Si la masa en el extremo 
+del péndulo es de 1 kg, resolver el problema numéricamente. 
+yP = mgmxrTFísica
+20
+a) Graficar la coordenada 
+x y la coordenada 
+y en función del tiempo. 
+Graficar la coordenada 
+y en función de la coordenada x.b) Encontrar la altura máxima que alcanza el péndulo en su movimien
+-to y confirmar que la velocidad en ese instante de tiempo es nula.
+c) Calcular el ángulo del vector posición en función del tiempo y graficarlo.
+d) Utilizando un procesador de textos, redactar un informe detallado 
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Actividad 2. Movimiento oscilatorio
+Dado un péndulo cuya longitud es de 70 cm, se sabe que cuando pasa por 
+la parte más baja de su trayectoria tiene una velocidad de 2,5 m/s. Si la masa 
+en el extremo del péndulo es de 1,5 kg, resolver el problema numéricamente.  
+a) Graficar la coordenada 
+x y la coordenada 
+y en función del tiempo. 
+Graficar la coordenada 
+y en función de la coordenada x.b) Encontrar la altura máxima que alcanza el péndulo en su movimien
+-
+to y confirmar que la velocidad en ese instante de tiempo es nula.
+c) Calcular el ángulo del vector posición en función del tiempo y gra
+-ficarlo.
+d) Utilizando un procesador de textos, redactar un informe detallado 
+
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Actividad 3. Período de un péndulo y su dependencia con 
+la longitud del péndulo (con Scilab o Modellus)
+a) Trabajando en forma individual, resolver numéricamente el movi
+-miento de péndulos de distintas longitudes, por ejemplo, 10, 20, 
+30– hasta 100 cm de longitud. 
+b) En todos los casos, calcular el período de oscilación de cada pén
+-dulo, esto es el tiempo que tarda en ir y volver desde un extremo del 
+movimiento hasta la misma posición del extremo. 
+c) En un documento compartido reunir los resultados obtenidos indi
+-vidualmente para graficar los períodos encontrados en función de 
+la longitud de cada péndulo.
+d) Realizar el gráfico del logaritmo del período en función del logarit
+-
+mo de la longitud del péndulo. Con ello, tratar de concluir la rela
+-ción entre el período de oscilación y la longitud del péndulo.
+21
+bloque 2
+ Si un péndulo tarda un segundo en ir y volver a la posición ex
+-trema, ¿cuánto hay que aumentar su longitud en relación con el 
+péndulo inicial para que el período sea de 2 segundos?
+e) Utilizando un procesador de textos, redactar un informe detallado 
+
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
 Actividad 4. Péndulo con Modellus
-   Para el problema enunciado en la actividad 2, el modelo matemático
-en el Modellus quedará de la siguiente manera:
-       Modelo Matemático
-            vx = last(vx) + last(ax) × t
-            vy = last(vy) + last(ay) × t
-            x = last(x) + last(vx) × t
-            y = last(y) + last(vy) × t
-                  0,t = 0
-            ax = − last(x)
-                            × last(vx)2 + last(vy)2 − g × last(y)
-                             (                                   )
-                     R2
-                  8.92857,t = 0
-            ay =        last(y)
-                  −g −          × last(vx)2 + last(vy)2 − g × last(y)
-                                 (                                      )
-                          R2
-            Ty = ay + 10
-   a) Ingresar estas expresiones en la ventana de modelo matemático.
-      Luego, en la variable independiente, seleccionar un valor de 0.01
-      para el paso del tiempo entre valores 0 y 3. En los parámetros, co-
-      locar el valor de 0.7 para el radio y de 10 para la aceleración de la
-      gravedad. En las condiciones iniciales, colocar el valor 0 para x, 2.5
-      para la componente x de la velocidad, vx, 0 para la componente y de
-      la velocidad, vy y (-0.7) para y. En el espacio de trabajo, colocar una
-      partícula y asignarle las coordenadas x e y para horizontal y vertical.
-   b) Correr la visualización con el botón verde de abajo a la izquierda. Se
-      verá un video como el siguiente http://youtu.be/QY3PPmREy2g,
-      en el cual se agregó un vector que muestra la aceleración en cada
-      instante de tiempo.
-                                                                                bloque 2
-   c) Agregar una definición para la componente de la tensión en dirección
-      radial, para luego agregar un vector que muestre la tensión y el peso
-      en función del tiempo. Con paciencia, correr la visualización con in-
-      tervalos de tiempos de 0.001 para evitar los errores que aparecen si el
-      paso del tiempo es demasiado grande, como en el caso anterior.            21
-                La siguiente imagen muestra la solución final. El movimiento es el
-                correspondiente a una oscilación armónica, con el cuerpo movién-
-                dose siempre a una distancia igual a la longitud de la cuerda que
-                forma el péndulo:
-            d) Utilizando un procesador de textos, redactar un informe detallado
-               de todos los pasos realizados en esta actividad. Se pueden incluir
-               programas realizados y gráficos.
-         Actividad 5. Fuerzas elásticas. Movimiento oscilatorio
-         armónico
-             Se denomina fuerza elástica a toda interacción en la cual la fuerza
-         sobre un cuerpo es proporcional a la posición del mismo. Un ejemplo de
-         este tipo de fuerza aparece al unir un cuerpo a un resorte. Si considera-
-         mos un sistema de referencia con su origen en la posición de equilibrio
-         del cuerpo en el extremo de un resorte, y considerando el movimiento en
-         una sola dimensión, podemos describir la posición del cuerpo en función
-         de su coordenada sobre un eje x. Luego, la fuerza que aparecerá, será de
-                              
-         la forma F = −kr = −k x . Se tratará de una fuerza constitutiva, que hará
-         que el cuerpo vuelva a su posición de equilibrio cuando se lo desplace de
-         esa posición.
-             a) Considerar un cuerpo de masa 2,3 kg, unido al extremo de un resor-
-                te de constante k = 7 N/m. Si se desplaza el cuerpo 30 cm desde su
-                posición de equilibrio y se lo suelta partiendo del reposo, resolver el
-                problema numéricamente.
-Física       b) Graficar la posición, velocidad y aceleración en función del tiempo.
-                 ¿En qué posición la velocidad del cuerpo es máxima? ¿Cuánto
-                    vale en ese momento la fuerza elástica?
-             c) Calcular el período de oscilación de este problema.
-22           d) Utilizando un procesador de textos, redactar un informe detallado
-     de todos los pasos realizados en esta actividad. Se pueden incluir
-     programas realizados y gráficos.
-                                                                        Imagen con la solución utilizando
-                                                                        Modellus.
-Actividad 6. Período de un cuerpo unido a un resorte
+Para el problema enunciado en la actividad 2, el modelo matemático 
+en el Modellus quedará de la siguiente manera:  
+a) Ingresar estas expresiones en la ventana de modelo matemático. 
+Luego, en la variable independiente, seleccionar un valor de 0.01 
+para el paso del tiempo entre valores 0 y 3. En los parámetros, co
+-
+locar el valor de 0.7 para el radio y de 10 para la aceleración de la 
+gravedad. En las condiciones iniciales, colocar el valor 0 para x, 2.5 
+para la componente 
+x de la velocidad, 
+vx, 0 para la componente y de 
+la velocidad, 
+vy y (-0.7) para 
+y. En el espacio de trabajo, colocar una 
+partícula y asignarle las coordenadas 
+x e 
+y para horizontal y vertical. 
+b) Correr la visualización con el botón verde de abajo a la izquierda. Se 
+
+verá un video como el siguiente 
+ http://youtu.be/QY3PPmREy2g, en el cual se agregó un vector que muestra la aceleración en cada 
+instante de tiempo.
+c) Agregar una definición para la componente de la tensión en dirección 
+
+radial, para luego agregar un vector que muestre la tensión y el peso 
+en función del tiempo. Con paciencia, correr la visualización con in
+-tervalos de tiempos de 0.001 para evitar los errores que aparecen si el 
+
+paso del tiempo es demasiado grande, como en el caso anterior.
+Modelo Matemáticovxvxax
+tvyvyay
+last
+last
+last
+last
+()
+()
+  
+()
+()
+ =+
+×=+
+×  
+()
+()
+  
+()
+()
+ txx
+vxtyy
+vylast
+last
+last
+last
+=+
+×=+
+×  
+()
+()
+()
+tax
+xvxvyglast
+last
+last
+la
+==˜×+
+˜×
+00
+222,tRsst
+last
+last
+()
+()
+()
+yay
+gyvx()==˜˜
+×89285702.,tR2
+2+˜
+×()last
+last
+()
+()
+ =  
++ 
+vygy
+Ty
+ay
+102Física
+22
+ La siguiente imagen muestra la solución final. El movimiento es el 
+correspondiente a una oscilación armónica, con el cuerpo movién
+-dose siempre a una distancia igual a la longitud de la cuerda que 
+
+forma el péndulo:
+d) Utilizando un procesador de textos, redactar un informe detallado 
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Actividad 5. Fuerzas elásticas. Movimiento oscilatorio 
+armónico
+Se denomina fuerza elástica a toda interacción en la cual la fuerza 
+sobre un cuerpo es proporcional a la posición del mismo. Un ejemplo de 
+este tipo de fuerza aparece al unir un cuerpo a un resorte. Si considera
+-mos un sistema de referencia con su origen en la posición de equilibrio 
+
+del cuerpo en el extremo de un resorte, y considerando el movimiento en 
+una sola dimensión, podemos describir la posición del cuerpo en función 
+de su coordenada sobre un eje 
+x. Luego, la fuerza que aparecerá, será de 
+la forma 
+Fk
+rk
+x˜˚˚
+˚=˜
+=˜
+. Se tratará de una fuerza constitutiva, que hará 
+que el cuerpo vuelva a su posición de equilibrio cuando se lo desplace de 
+
+esa posición.  
+a) Considerar un cuerpo de masa 2,3 kg, unido al extremo de un resor
+-te de constante 
+k = 7 N/m. Si se desplaza el cuerpo 30 cm desde su 
+posición de equilibrio y se lo suelta partiendo del reposo, resolver el 
+problema numéricamente. 
+b) Graficar la posición, velocidad y aceleración en función del tiempo. 
+
+ ¿En qué posición la velocidad del cuerpo es máxima? ¿Cuánto 
+vale en ese momento la fuerza elástica? 
+c) Calcular el período de oscilación de este problema.
+d) Utilizando un procesador de textos, redactar un informe detallado 
+23
+bloque 2
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Actividad 6. Período de un cuerpo unido a un resorte 
 y su dependencia con la masa del cuerpo
-  a) Resolver numéricamente el movimiento de cuerpos de distintas ma-
-     sas (1, 2, 5, 10, 20 50, 100 500 y 1000 gramos) unidos al extremo
-     de resorte con constante elástica k = 1 N/m.
-  b) En cada caso, calcular –leyendo de la tabla de valores correspon-
-     diente– el período de oscilación de cada masa, o sea, el tiempo
-     que tarda en ir y volver desde un extremo del movimiento hasta la
-     misma posición del extremo.
-  c) Graficar los períodos encontrados en función de las masas de los
-     cuerpos. Realizar el gráfico del logaritmo del período en función
-     del logaritmo de la masa del cuerpo. Con ello, intentar concluir la
-     relación entre el período de oscilación y la masa del cuerpo unido al
-     extremo del resorte.
-  d) Utilizando un procesador de textos, redactar un informe detallado
-     de todos los pasos realizados en esta actividad. Se pueden incluir
-     programas realizados y gráficos.
-                                                                        Resolución utilizando Modellus      bloque 2
-                                                                        para masas de 100, 200, 500 y
-                                                                        1000 gramos.
-                                                                                                            23
-         Actividad 7. Período de un cuerpo unido a un resorte y su
-         dependencia con la constante del resorte
-            a) Resolver numéricamente el movimiento de un cuerpo de masa 1 kg
-               unido al extremo de diversos resortes con constantes elásticas (1, 2,
-               5, 10, 20 50, 100 500 y 1000 N/m).
-            b) En cada caso, calcular el período de oscilación de masa para cada
-               resorte, esto es el tiempo que tarda en ir y volver desde un extremo
-               del movimiento hasta la misma posición del extremo.
-            c) Graficar los períodos encontrados en función de las constantes
-               elásticas de los resortes. Realizar el gráfico del logaritmo del pe-
-               ríodo en función del logaritmo de las constantes elásticas de los
-               resortes. Con ello, intentar concluir la relación entre el período de
-               oscilación y la constante elástica del resorte.
-            d) Utilizando un procesador de textos redactar un informe detallado
-               de todos los pasos realizados en esta actividad. Se pueden incluir
-               programas realizados y gráficos.
-         Secuencia didáctica n.º 4
-         Fuerzas de rozamiento
-         Actividad 1. Caída libre considerando el rozamiento
-         con el aire
-             Si se considera la interacción de un cuerpo con el medio en el cual se
-         mueve, sea este un líquido o un gas, aparecerá una fuerza de resistencia que
-         se opondrá al movimiento del cuerpo. Esta fuerza irá en dirección contraria
-         al movimiento y aumentará al aumentar la velocidad del cuerpo. La forma
-         en que varía la magnitud de esta fuerza puede ser complicada por lo que se
-         considerarán dos casos: uno en el que varíe linealmente con la velocidad, y
-         otro que lo haga como el cuadrado de la velocidad. El primer caso se ob-
-         serva en cuerpos que caen en un líquido o cuerpos pequeños que caen en
-         el aire. El segundo caso aparece en cuerpos más grandes moviéndose en el
-         aire a velocidades mayores, como puede ser un paracaidista en caída libre
-         antes de abrir su paracaídas.
-Física       a) Considerar una esfera de metal inmersa en un líquido, por ejemplo,
-                 en aceite. Sobre el cuerpo no actuará solamente la fuerza peso (no
-                 se considera aquí la fuerza de empuje) sino que habrá una fuerza
-                 adicional de rozamiento con el aceite, contraria al desplazamiento.
-24               Se observa que la fuerza es proporcional a la velocidad, por lo que
-                                                 
-     podemos escribir esta fuerza como F R = −bv con b una constante
-     de proporcionalidad, por lo que para una caída libre la fuerza peso
-     tendrá sentido hacia abajo mientras que la fuerza de rozamiento
-     será hacia arriba. Luego la segunda ley de Newton nos permitirá
-     calcular la aceleración.
-                     
-      P + F R = mg − bv = ma
-     La variación más importante de la velocidad tendiendo asintética-
-     mente a una velocidad límite se da en los primeros centímetros del
-     movimiento. Estimar el tiempo en el que alcanza aproximadamente
-     la velocidad límite suponiendo una caída libre desde el reposo que
-     recorra unos 20 cm. Con ese tiempo realizar la simulación.
-  b) Resolver numéricamente la caída de una esfera de metal de 2 g en
-     un recipiente lleno de aceite, sabiendo que el coeficiente de la fuer-
-     za rozamiento b = 390 g/s.
-  c) Graficar la posición, velocidad y aceleración en función del tiempo.
-     ¿Cuál es la velocidad final que alcanza la esfera en su caída?
-  d) Utilizando un procesador de textos, redactar un informe detallado
-     de todos los pasos realizados
-Actividad 2. Movimiento oscilatorio amortiguado
-  a) Considerar un cuerpo de masa 2,3 kg, unido al extremo de un re-
-     sorte de constante k = 7 N/m. Se desplaza el cuerpo 30 cm desde su
-     posición de equilibrio y se lo suelta partiendo del reposo. Conside-
-     rar una fuerza de rozamiento con el aire proporcional a la velocidad
-     con un coeficiente de la fuerza rozamiento b = 0,35 kg/s.
-  b) Resolver el problema numéricamente utilizando el programa Scilab.
-  c) Graficar la posición, velocidad y aceleración en función del tiempo.
-                          posición en función del tiempo
-        0.3
-        0.2
-        0.1
-                                                                         Ejemplo de problema
-        0.0                                                              graficado en el
-                                                                                               bloque 2
-                                                                         programa Scilab.
-        -0.1
-        -0.2
-        -0.3
-               0   10      20           30          40     50   60                             25
-           d) Calcular el período de oscilación de este problema considerando
-              cuánto tiempo tarda en pasar dos veces por la posición de equilibrio.
-              Por su parte, resolviendo el problema numéricamente utilizando
-              el software Modellus se pueden obtener los siguientes resultados,
-              agregando lápices en el entorno de trabajo para graficar la posi-
-              ción, velocidad y aceleración en función del tiempo.
-           e) Calcular el período de oscilación de este problema considerando
-              cuánto tiempo tarda en pasar dos veces por la posición de equili-
-              brio.
-           f) Utilizando un procesador de textos, redactar un informe detallado
-              de todos los pasos realizados en esta actividad. Se pueden incluir
-              programas realizados y gráficos.
-         Actividad 3. Caída libre considerando el rozamiento con el
-         aire a altas velocidades
-           a) Considerar un paracaidista en caída libre, con una tabla de surf, en lo
-              que se llama un surfista de nubes. En este caso, la fuerza de rozamien-
-              to es proporcional al cuadrado de la velocidad y tiene un coeficiente
-              que depende de la densidad del aire, el área que presenta el cuerpo
-              que cae y un coeficiente de arrastre. La fuerza resistiva se escribirá
-                            
-              como F R = −u v v con u, una constante de proporcionalidad, por lo
-              que para la caída la fuerza peso tendrá sentido hacia abajo mientras
-Física        que la fuerza de rozamiento será hacia arriba. Luego la segunda ley de
-                                                                         
-              Newton permitirá calcular la aceleración P + F R = mg − uv v = ma
-           b) Considerar un surfista de nubes con una masa de 75 kg, teniendo
-              en cuenta también su tabla, que salta desde una altura de 3000 m.
-26            Considerando un movimiento vertical, su velocidad inicial será nula.
-     Resolver numéricamente el movimiento sabiendo que el coeficiente
-     de la fuerza de rozamiento u = 0,2 kg m.
-  c) Utilizando el programa Scilab, graficar la posición, velocidad y ace-
-     leración en función del tiempo. ¿Cuál es la velocidad final que el
-     surfista alcanza en su caída?
-                               aceleración en función del tiempo
-                  0
-                  -1
-                  -2
-                  -3
-                  -4
-                  -5
-                  -6
-                  -7
-                  -8
-                  -9
-                 -10
-                       0   2    4    6     8     10   12    14     16   18   20
-  d) Utilizando un procesador de textos, redactar un informe detallado
-     de todos los pasos realizados en esta actividad. Se pueden incluir
-     programas realizados y gráficos.
-Actividad 4. Tiro oblicuo considerando el rozamiento
-con el aire
-  a) Considerar a un jugador de fútbol pateando una pelota, la cual co-
-     mienza a moverse con una velocidad inicial de 45 m/s. Si el coefi-
-     ciente de la fuerza de rozamiento para este cuerpo es de 33 g/s y su
-     masa es de 140 g, resulta una fuerza de arrastre inicial de 1,485 N
-     contraria a la dirección de la velocidad, mientras que la fuerza peso
-     para la pelota tiene un valor constante de 1,4 N, con lo cual la fuerza
-     de rozamiento no es despreciable frente a la fuerza peso y debe ser
-     considerada en el movimiento.
-                      
-      P + F R = mg − bv = ma
-  b) Primero, visualizar el problema con el Modellus sin considerar el ro-
-     zamiento utilizando las ecuaciones de movimiento para un ángulo
-                                                                                  bloque 2
-     inicial de 30 grados y otro con el complementario.
-      ¿Cómo son los alcances horizontales para los ángulos comple-
-         mentarios?
-      ¿Qué valor del ángulo inicial da como resultado un mayor al-
-         cance horizontal?                                                        27
-               Para considerar el rozamiento, hay que utilizar el modelado numé-
-               rico. Escribir las ecuaciones en el modelo matemático y visualizar el
-               problema para un valor del coeficiente de la fuerza de rozamiento
-               igual a 0, con lo que se debería recuperar los resultados del punto a
-               y luego tomar b = 33 g/s.
-            c) Identificar la altura máxima y el alcance horizontal y comparar estos
-               valores con y sin rozamiento.
-               Visualizar el problema con rozamiento para distintos ángulos ini-
-               ciales del vector velocidad e identificar para qué ángulo el alcance
-               horizontal es máximo. Comparar este resultado con el del ítem a,
-               sin rozamiento.
-               En la siguiente imagen se puede observar el resultado con Modellus,
-               en azul la solución analítica sin rozamiento, en rojo el modelado
-               numérico que coincide con el anterior, ambos para un ángulo de
-               30º y 60º. Finalmente, en verde se muestra el movimiento conside-
-               rando el rozamiento (en la ventana se pueden observar las ecuacio-
-               nes para el modelo matemático).
-            d) Utilizando un procesador de textos, redactar un informe detallado
-               de todos los pasos realizados en esta actividad. Se pueden incluir
-               programas realizados y gráficos.
-         Secuencia didáctica n.º 5
-         Fuerza de gravitación universal
-Física      La fuerza gravitatoria es una fuerza atractiva que aparece entre todo
-         par de cuerpos con una masa dada. A través de observaciones, se pudo
-         concluir que cuanto mayor es la masa de los cuerpos, mayor es la fuerza de
-         atracción entre ellos y que cuanto menor es la distancia entre los cuerpos,
-28       mayor es la fuerza. Newton descubrió este principio fundamental de la
-Física y lo expresó en su ley de la gravitación universal: “Todos los cuerpos
-del universo se atraen mutuamente con una fuerza que es directamente
-proporcional al producto de sus masas e inversamente proporcional al cua-
-                                               Gm1m2
-drado de la distancia que los separa”, F G =            , donde el valor de G,
-                                                   d2
-la constante de gravitación universal, está dado por 6,67 10-11 m3/ (kg s2).
-Esta fuerza atractiva aparece en la dirección de la recta de acción que de-
-terminan ambos cuerpos.
-    Si se considera una de las masas fijas en el espacio (la que le correspon-
-da a una masa mucho mayor que la otra) y allí se toma el origen del sistema
-de referencia utilizado, la fuerza de atracción que aparecerá en la otra masa
-que orbite alrededor de esta estará siempre apuntando a la primera masa
-fija en el origen (a esta fuerza que apunta siempre a un punto fijo se la lla-
-ma fuerza central, como es el caso de la fuerza en un movimiento circular
-uniforme o la tensión en un péndulo). La fuerza gravitatoria tendrá el mó-
-dulo mencionado arriba y estará en la dirección − r = − r = − x , − y .
-                                                      ^
-                                                            r       R R
-                                    y
-                       m
-                           Fg   r
-                                                    x
-   Por su parte, la distancia entre ambos cuerpos queda determinada por
-el módulo del vector que marca la posición del cuerpo del que queremos
-describir su movimiento.
-   Por lo que la fuerza gravitatoria sobre el cuerpo será
-                                    
-    
-    FG =
-            d 2  ( )
-          Gm1m2 ^ Gm1m2
-                           r
-                                    r
-                                    r
-                                            Gm m
-                  − r =  2 −  = − 13 2 ( x , y ) = −
-                                               r
-                                                             Gm1m2
-                                                              (
-                                                             x2 + y2
-                                                                     3 (
-                                                                         x, y )
-                                                                         )
-    Las leyes de Kepler fueron enunciadas por Johannes Kepler para descri-
-bir matemáticamente el movimiento de los planetas en sus órbitas alrede-
-dor del Sol.
-    Primera ley (1609). Todos los planetas se desplazan alrededor del Sol
-                                                                                  bloque 2
-describiendo órbitas elípticas, estando el Sol situado en uno de los focos.
-    Segunda ley (1609). El radio vector que une un planeta y el Sol barre
-áreas iguales en tiempos iguales. Así cuando el planeta está más alejado
-del Sol (afelio) su velocidad es menor que cuando está más cercano al Sol
-(perihelio).                                                                      29
-                                                  Tercera ley (1618). Para cualquier planeta, el cuadrado de su período
-                                               orbital es directamente proporcional al cubo de la longitud del semieje ma-
-                                               yor a de su órbita elíptica.
-                                                   T2
-                                                      = constante
-                                                   a3
-                                                  Donde T es el período orbital (tiempo que tarda en dar una vuelta alre-
-                                               dedor del Sol) y a la distancia media del planeta con el Sol.
-                                               Actividad 1. Movimiento de Venus alrededor del Sol.
-                                               Órbita circular. Modellus
-                                                  Para resolver el movimiento de Venus alrededor del Sol suponiendo una
-                                               órbita circular, se utilizará la expresión para la fuerza gravitatoria:
-                                                                                   
-                                               
-                                               FG =
-                                                        d 2  ( )
-                                                     Gm1m2 ^ Gm1m2
-                                                                         r
-                                                                                   r
-                                                                                   r
-                                                                                          Gm m
-                                                              − r =  2 −  = − 13 2 ( x , y ) = −
-                                                                                            r                (
-                                                                                                               Gm1m2
-                                                                                                                x2 + y2
-                                                                                                                        3 (
-                                                                                                                        )
-                                                                                                                            x, y )
-                                                   En el caso particular de una órbita circular, la fuerza gravitatoria será
-                                               siempre sólo centrípeta y su módulo como en el caso del movimiento circu-
-                                               lar será igual al módulo de la velocidad al cuadrado, dividido por el radio
-                                               de la órbita. De esta forma el radio de la órbita determina el módulo de la
-                                               velocidad, dado que la aceleración está dada por la ley de gravitación:
-                                                                          2
-                                                      Gm1               v
-                                                 a G = 2 = a centrípeta =     con lo cual el módulo de la velocidad será
-                                                        R                 R
-                                                      Gm1
-                                                v =         y constante como tiene que ser en un movimiento circular
-                                                         R
-                                  * nota       uniforme.*
-         Para el caso circular, la velocidad
-               inicial es perpendicular a la
-                                                   Tomando la masa del Sol 1,99 1030 kg y el radio de la órbita de Venus
-          fuerza gravitatoria. No imponer
-                la condición de módulo de      igual a 108 106 km, y recordando que la constante de gravitación universal
-              la velocidad constante dado      es igual a 6,67 10-11 m3/(kg s2), se pueden encontrar las expresiones para
-            que esto es algo que tiene que     la aceleración, velocidad inicial y posición inicial. Para que la órbita sea
-             obtenerse como solución del
-                                               circular, sólo considerar la velocidad inicial perpendicular a la posición y
-                                 modelado.
-                                               por ende a la aceleración.
-                                                   a) Resolver el problema numéricamente. Para trabajar con valores ra-
-Física                                                zonables, hay que expresar las posiciones en miles de kilómetros y
-                                                      los tiempos en horas. De esta forma se obtiene que la posición ini-
-                                                      cial será de 108.000, la velocidad inicial, cuyo cuadrado dividido el
-                                                      radio será igual a la aceleración centrípeta y esta será la fuerza gravi-
-30                                                    tatoria sobre la masa de Venus, dando un módulo para la velocidad
-   de 35058 m/s o bien 126,2 (miles de km/h). Este será el valor inicial
-   para la componente y de la velocidad, suponiendo a Venus en la
-   posición inicial (x, y) = (108.000, 0). Por último, para la aceleración
-   tendremos en miles de kilómetros por horas cuadradas, -1,72 109
-   (miles km/h2) (x, y) / (módulo vector posición)3, o bien poniendo el
-   109 dentro de la raíz cuadrada del módulo y el cubo, resulta: -1,72
-   (miles km/h2) (x, y) / (sqrt((x/1000)2 + (y/1000)2))3.
-b) Escribir en Modellus el modelo matemático:
-    Modelo Matemático
-         vx = last(vx) + last(ax) × t
-         vy = last(vy) + last(ay) × t
-         x = last(x) + last(vx) × t
-         y = last(y) + last(vy) × t
-                 −1.14746, t = 0
-                                          last(x)
-                 −1.72 ×
-         ax =                              2                 2
-                                                                 3
-                                last(x)          last(y)
-                                               +
-                                 1000             1000
-                 0, t = 0
-                                          last(y)
-                 −1.72 ×
-         ay =                              2                 2
-                                                                 3
-                                last(x)            last(y)
-                                               +
-                                 1000               1000
-c) Graficar la coordenada x y la coordenada y en función del tiempo.
-   Graficar la coordenada y en función de la coordenada x (este gráfi-
-   co corresponde a la órbita de Venus con el Sol en el centro del siste-
-   ma de referencia). Ingresar en Modellus una partícula en el espacio
-   de trabajo y asignarle las coordenadas x e y respectivamente. Como
-   estarán en valores de los 100.000, colocar en la escala que 1 unidad
-   corresponda a 0.002 píxeles y dejar una marca cada 1000 pasos.
-d) Calcular el período del movimiento (cuánto tiempo tarda en dar
-   una vuelta alrededor del Sol). Recordar que Venus está más cerca
-                                                                             bloque 2
-   del Sol, por lo que su período será menor a un año.
-   • ¿El problema depende de la masa del planeta? Confirmar que el
-       módulo de la velocidad permanece constante.
-   Por último, resolver el problema numérico de a pasos de una décima
-   de hora para un tiempo de un año, u 8760 horas, colocando estos           31
-               valores en el menú de variable independiente. En la imagen se pue-
-               den ver los valores iniciales y la solución para el problema, donde
-               se agregó un vector en rojo que marca la aceleración en distintas
-               etapas del problema.
-            e) Verificar la segunda y la tercera ley de Kepler. Utilizar un acumula-
-               dor para calcular el área que barre el vector posición en la segunda
-               ley de Kepler, realizando en cada paso el producto entre el módulo
-               del vector posición y el desplazamiento sobre dos (considerando
-               esa área como el área de un triángulo con lados en el módulo del
-               vector posición y el desplazamiento).
-            f) Utilizando un procesador de textos, redactar un informe detallado
-               de todos los pasos realizados en esta actividad. Se pueden incluir
-               programas realizados y gráficos.
-         Actividad 2. Movimiento planetario. Órbita elíptica
-             En esta actividad se cambiarán las condiciones iniciales del problema,
-         tal que la velocidad inicial no sea perpendicular a la posición y la acele-
-         ración. Para ello se considerará el mismo módulo para la velocidad de la
-         actividad anterior, pero descompuesta en partes iguales en ambas compo-
-         nentes, resultando un valor de 89,24 miles de km por hora para cada com-
-         ponente. En este caso, el resultado de la simulación da una órbita elíptica.
+a) Resolver numéricamente el movimiento de cuerpos de distintas ma
+-sas (1, 2, 5, 10, 20 50, 100 500 y 1000 gramos) unidos al extremo 
+de resorte con constante elástica 
+k = 1 N/m.b) En cada caso, calcular Œleyendo de la tabla de valores correspon
+-
+dienteŒ el período de oscilación de cada masa, o sea, el tiempo 
+que tarda en ir y volver desde un extremo del movimiento hasta la 
+misma posición del extremo. 
+c) Graficar los períodos encontrados en función de las masas de los 
+
+cuerpos. Realizar el gráfico del logaritmo del período en función 
+del logaritmo de la masa del cuerpo. Con ello, intentar concluir la 
+relación entre el período de oscilación y la masa del cuerpo unido al 
+extremo del resorte.
+d) Utilizando un procesador de textos, redactar un informe detallado 
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Imagen con la solución utilizando 
+Modellus.
+Resolución utilizando Modellus 
+para masas de 100, 200, 500 y 
+
+1000 gramos.
 Física
+24
+Actividad 7. Período de un cuerpo unido a un resorte y su 
+dependencia con la constante del resorte
+a) Resolver numéricamente el movimiento de un cuerpo de masa 1 kg 
+unido al extremo de diversos resortes con constantes elásticas (1, 2, 
+5, 10, 20 50, 100 500 y 1000 N/m).b) En cada caso, calcular el período de oscilación de masa para cada 
+
+resorte, esto es el tiempo que tarda en ir y volver desde un extremo 
+del movimiento hasta la misma posición del extremo.
+c) Graficar los períodos encontrados en función de las constantes 
+elásticas de los resortes. Realizar el gráfico del logaritmo del pe
+-ríodo en función del logaritmo de las constantes elásticas de los 
+resortes. Con ello, intentar concluir la relación entre el período de 
+oscilación y la constante elástica del resorte.
+d) Utilizando un procesador de textos redactar un informe detallado 
+
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Secuencia didáctica n.º 4
+Fuerzas de rozamiento 
+Actividad 1. Caída libre considerando el rozamiento 
+con el aire
+Si se considera la interacción de un cuerpo con el medio en el cual se 
+mueve, sea este un líquido o un gas, aparecerá una fuerza de resistencia que 
+se opondrá al movimiento del cuerpo. Esta fuerza irá en dirección contraria 
+al movimiento y aumentará al aumentar la velocidad del cuerpo. La forma 
+en que varía la magnitud de esta fuerza puede ser complicada por lo que se 
+considerarán dos casos: uno en el que varíe linealmente con la velocidad, y 
+otro que lo haga como el cuadrado de la velocidad. El primer caso se ob
+-serva en cuerpos que caen en un líquido o cuerpos pequeños que caen en 
+
+el aire. El segundo caso aparece en cuerpos más grandes moviéndose en el 
+aire a velocidades mayores, como puede ser un paracaidista en caída libre 
+antes de abrir su paracaídas. 
+a) Considerar una esfera de metal inmersa en un líquido, por ejemplo, 
+
+en aceite. Sobre el cuerpo no actuará solamente la fuerza peso (no 
+se considera aquí la fuerza de empuje) sino que habrá una fuerza 
+adicional de rozamiento con el aceite, contraria al desplazamiento. 
+Se observa que la fuerza es proporcional a la velocidad, por lo que 
+25
+bloque 2
+podemos escribir esta fuerza como 
+Fb
+vR˜˚˚
+=˜
+ con b una constante 
+de proporcionalidad, por lo que para una caída libre la fuerza peso 
+tendrá sentido hacia abajo mientras que la fuerza de rozamiento 
+será hacia arriba. Luego la segunda ley de Newton nos permitirá 
+calcular la aceleración.
+ PF
+mg
+bv
+ma
+R˜˚˜
+˚˜
+˚˚
+˚+=
+˜=
+ La variación más importante de la velocidad tendiendo asintética
+-mente a una velocidad límite se da en los primeros centímetros del 
+movimiento. Estimar el tiempo en el que alcanza aproximadamente 
+la velocidad límite suponiendo una caída libre desde el reposo que 
+recorra unos 20 cm. Con ese tiempo realizar la simulación.
+b) Resolver numéricamente la caída de una esfera de metal de 2 g en 
+
+un recipiente lleno de aceite, sabiendo que el coeficiente de la fuer
+-za rozamiento 
+b = 390 g/s.c) Graficar la posición, velocidad y aceleración en función del tiempo. 
+¿Cuál es la velocidad final que alcanza la esfera en su caída?
+d) Utilizando un procesador de textos, redactar un informe detallado 
+
+de todos los pasos realizados
+Actividad 2. Movimiento oscilatorio amortiguado
+a) Considerar un cuerpo de masa 2,3 kg, unido al extremo de un re
+-
+sorte de constante 
+k = 7 N/m. Se desplaza el cuerpo 30 cm desde su 
+posición de equilibrio y se lo suelta partiendo del reposo. Conside
+-
+rar una fuerza de rozamiento con el aire proporcional a la velocidad 
+con un coeficiente de la fuerza rozamiento 
+b =  0,35 kg/s.b) Resolver el problema numéricamente utilizando el programa Scilab.
+c) Graficar la posición, velocidad y aceleración en función del tiempo.
+Ejemplo de problema 
+gra˜cado en el 
+
+programa Scilab.
+posición en función del tiempo-0.3-0.2-0.1
+0.00.1
+0.20.30102030405060Física
+26
+d) Calcular el período de oscilación de este problema considerando 
+cuánto tiempo tarda en pasar dos veces por la posición de equilibrio.
+ Por su parte, resolviendo el problema numéricamente utilizando 
+
+el software Modellus se pueden obtener los siguientes resultados, 
+agregando lápices en el entorno de trabajo para graficar la posi
+-ción, velocidad y aceleración en función del tiempo.
+e) Calcular el período de oscilación de este problema considerando 
+
+cuánto tiempo tarda en pasar dos veces por la posición de equili
+-brio.
+f) Utilizando un procesador de textos, redactar un informe detallado 
+
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Actividad 3. Caída libre considerando el rozamiento con el 
+aire a altas velocidades
+a) Considerar un paracaidista en caída libre, con una tabla de surf, en lo 
+que se llama un surfista de nubes. En este caso, la fuerza de rozamien
+-to es proporcional al cuadrado de la velocidad y tiene un coeficiente 
+que depende de la densidad del aire, el área que presenta el cuerpo 
+que cae y un coeficiente de arrastre. La fuerza resistiva se escribirá 
+como 
+Fu
+vv
+R˜˚˚
+˚=˜
+ con 
+u, una constante de proporcionalidad, por lo 
+que para la caída la fuerza peso tendrá sentido hacia abajo mientras 
+que la fuerza de rozamiento será hacia arriba. Luego la segunda ley de 
+Newton permitirá calcular la aceleración
+PF
+mg
+uv
+vm
+aR˜˚˜
+˚˜
+˚˚
+˚˚
++=
+˜=
+b) Considerar un surfista de nubes con una masa de 75 kg, teniendo 
+en cuenta también su tabla, que salta desde una altura de 3000 m. 
+Considerando un movimiento vertical, su velocidad inicial será nula. 
+27
+Resolver numéricamente el movimiento sabiendo que el coeficiente 
+de la fuerza de rozamiento 
+u = 0,2 kg m.c) Utilizando el programa Scilab, graficar la posición, velocidad y ace
+-
+leración en función del tiempo. ¿Cuál es la velocidad final que el 
+surfista alcanza en su caída?
+d) Utilizando un procesador de textos, redactar un informe detallado 
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Actividad 4. Tiro oblicuo considerando el rozamiento 
+con el aire
+a) Considerar a un jugador de fútbol pateando una pelota, la cual co
+-mienza a moverse con una velocidad inicial de 45 m/s. Si el coefi
+-ciente de la fuerza de rozamiento para este cuerpo es de 33 g/s y su 
+masa es de 140 g, resulta una fuerza de arrastre inicial de 1,485 N 
+contraria a la dirección de la velocidad, mientras que la fuerza peso 
+para la pelota tiene un valor constante de 1,4 N, con lo cual la fuerza 
+de rozamiento no es despreciable frente a la fuerza peso y debe ser 
+considerada en el movimiento.
+ PF
+mg
+bv
+ma
+R˜˚˜
+˚˜
+˚˚
+˚+=
+˜=
+b) Primero, visualizar el problema con el Modellus sin considerar el ro
+-
+zamiento utilizando las ecuaciones de movimiento para un ángulo 
+inicial de 30 grados y otro con el complementario. 
+ ¿Cómo son los alcances horizontales para los ángulos comple
+-mentarios?
+ ¿Qué valor del ángulo inicial da como resultado un mayor al
+-
+cance horizontal?
+bloque 2
+aceleración en función del tiempo
+-10-9-8
+-7
+-6-5-4-3-2-1002468101214161820Física
+28
+ Para considerar el rozamiento, hay que utilizar el modelado numé
+-rico. Escribir las ecuaciones en el modelo matemático y visualizar el 
+problema para un valor del coeficiente de la fuerza de rozamiento 
+igual a 0, con lo que se debería recuperar los resultados del punto 
+a y luego tomar b = 33 g/s.c) Identificar la altura máxima y el alcance horizontal y comparar estos 
+valores con y sin rozamiento.
+ Visualizar el problema con rozamiento para distintos ángulos ini
+-ciales del vector velocidad e identificar para qué ángulo el alcance 
+horizontal es máximo. Comparar este resultado con el del ítem a, 
+sin rozamiento.
+ En la siguiente imagen se puede observar el resultado con Modellus, 
+en azul la solución analítica sin rozamiento, en rojo el modelado 
+
+numérico que coincide con el anterior, ambos para un ángulo de 
+30º y 60º. Finalmente, en verde se muestra el movimiento conside
+-rando el rozamiento (en la ventana se pueden observar las ecuacio
+-nes para el modelo matemático).
+d) Utilizando un procesador de textos, redactar un informe detallado 
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Secuencia didáctica n.º 5
+Fuerza de gravitación universal 
+ La fuerza gravitatoria es una fuerza atractiva que aparece entre todo 
+par de cuerpos con una masa dada. A través de observaciones, se pudo 
+concluir que cuanto mayor es la masa de los cuerpos, mayor es la fuerza de 
+atracción entre ellos y que cuanto menor es la distancia entre los cuerpos, 
+mayor es la fuerza. Newton descubrió este principio fundamental de la 
+29
+bloque 2
+Física y lo expresó en su ley de la gravitación universal: ﬁTodos los cuerpos 
+del universo se atraen mutuamente con una fuerza que es directamente 
+proporcional al producto de sus masas e inversamente proporcional al cua
+-drado de la distancia que los separaﬂ, 
+FGm
+mdG˜˚=12
+2, donde el valor de 
+G, la constante de gravitación universal, está dado por 6,67 10
+-11
+ m
+3/ (kg s
+2). 
+Esta fuerza atractiva aparece en la dirección de la recta de acción que de
+-
+terminan ambos cuerpos.
+Si se considera una de las masas fijas en el espacio (la que le correspon
+-da a una masa mucho mayor que la otra) y allí se toma el origen del sistema 
+de referencia utilizado, la fuerza de atracción que aparecerá en la otra masa 
+que orbite alrededor de esta estará siempre apuntando a la primera masa 
+fija en el origen (a esta fuerza que apunta siempre a un punto fijo se la lla
+-ma fuerza central, como es el caso de la fuerza en un movimiento circular 
+uniforme o la tensión en un péndulo). La fuerza gravitatoria tendrá el mó
+-dulo mencionado arriba y estará en la dirección
+ ˜=
+˜=
+˜˜
+rrrxRyR^,.Por su parte, la distancia entre ambos cuerpos queda determinada por 
+el módulo del vector que marca la posición del cuerpo del que queremos 
+describir su movimiento.
+Por lo que la fuerza gravitatoria sobre el cuerpo será
+FGm
+mdrGm
+mrrrGm
+mrG˜˚˚˚˚=˜
+()
+=˜
+=˜
+12
+212
+212
+^˚˚312
+22
+3xy
+Gm
+mxy
+xy
+,,()
+=˜
++()
+()
+Las leyes de Kepler fueron enunciadas por Johannes Kepler para descri
+-bir matemáticamente el movimiento de los planetas en sus órbitas alrede
+-dor del Sol.
+Primera ley (1609).
+ Todos los planetas se desplazan alrededor del Sol 
+describiendo órbitas elípticas, estando el Sol situado en uno de los focos.
+Segunda ley (1609).
+ El radio vector que une un planeta y el Sol barre 
+áreas iguales en tiempos iguales. Así cuando el planeta está más alejado 
+del Sol (afelio) su velocidad es menor que cuando está más cercano al Sol 
+(perihelio). 
+FGymxrFísica
+30
+Tercera ley (1618).
+ Para cualquier planeta, el cuadrado de su período 
+orbital es directamente proporcional al cubo de la longitud del semieje ma
+-yor a de su órbita elíptica.  
+Ta23= constante
+Donde 
+T es el período orbital (tiempo que tarda en dar una vuelta alre
+-dedor del Sol) y 
+a la distancia media del planeta con el Sol.
+Actividad 1. Movimiento de Venus alrededor del Sol. 
+Órbita circular. Modellus
+Para resolver el movimiento de Venus alrededor del Sol suponiendo una 
+órbita circular, se utilizará la expresión para la fuerza gravitatoria:
+FGm
+mdrGm
+mrrrGm
+mrG˜˚˚˚˚=˜
+()
+=˜
+=˜
+12
+212
+212
+^˚˚312
+22
+3xy
+Gm
+mxy
+xy
+,,()
+=˜
++()
+()
+En el caso particular de una órbita circular, la fuerza gravitatoria será 
+siempre sólo centrípeta y su módulo como en el caso del movimiento circu
+-lar será igual al módulo de la velocidad al cuadrado, dividido por el radio 
+de la órbita. De esta forma el radio de la órbita determina el módulo de la 
+velocidad, dado que la aceleración está dada por la ley de gravitación:
+ aGm
+RavRGcentrípet
+a
+==
+=122 con lo cual el módulo de la velocidad será
+vGm
+R=1y constante como tiene que ser en un movimiento circular 
+uniforme.*
+Tomando la masa del Sol 1,99 10
+30 
+kg y el radio de la órbita de Venus 
+igual a 108 10
+6 km, y recordando que la constante de gravitación universal 
+es igual a 6,67 10
+-11
+ m
+3/(kg s
+2), se pueden encontrar las expresiones para 
+la aceleración, velocidad inicial y posición inicial. Para que la órbita sea 
+circular, sólo considerar la velocidad inicial perpendicular a la posición y 
+por ende a la aceleración. 
+a) Resolver el problema numéricamente. Para trabajar con valores ra
+-
+zonables, hay que expresar las posiciones en miles de kilómetros y 
+los tiempos en horas. De esta forma se obtiene que la posición ini
+-
+cial será de 108.000, la velocidad inicial, cuyo cuadrado dividido el 
+radio será igual a la aceleración centrípeta y esta será la fuerza gravi
+-tatoria sobre la masa de Venus, dando un módulo para la velocidad 
+* notaPara el caso circular, la velocidad 
+inicial es perpendicular a la 
+fuerza gravitatoria. No imponer 
+la condición de módulo de la velocidad constante dado 
+que esto es algo que tiene que obtenerse como solución del 
+modelado.
+31
+bloque 2
+de 35058 m/s o bien 126,2 (miles de km/h). Este será el valor inicial 
+para la componente y de la velocidad, suponiendo a Venus en la 
+posición inicial (
+x, y) = (108.000, 0). Por último, para la aceleración 
+tendremos en miles de kilómetros por horas cuadradas, -1,72 10
+9 (miles km/h
+2) (
+x, y) / (módulo vector posición)
+3, o bien poniendo el 
+109 dentro de la raíz cuadrada del módulo y el cubo, resulta: -1,72 
+(miles km/h2) (x, y) / (sqrt
+((x/1000)2 + (y/1000)2))3.b) Escribir en Modellus el modelo matemático:
+c) Graficar la coordenada 
+x y la coordenada 
+y en función del tiempo. 
+Graficar la coordenada 
+y en función de la coordenada 
+x (este gráfi
+-co corresponde a la órbita de Venus con el Sol en el centro del siste
+-
+ma de referencia). Ingresar en Modellus una partícula en el espacio 
+de trabajo y asignarle las coordenadas 
+x e 
+y respectivamente. Como 
+estarán en valores de los 100.000, colocar en la escala que 1 unidad 
+
+corresponda a 0.002 píxeles y dejar una marca cada 1000 pasos.
+d) Calcular el período del movimiento (cuánto tiempo tarda en dar 
+
+una vuelta alrededor del Sol). Recordar que Venus está más cerca 
+del Sol, por lo que su período será menor a un año. 
+ ¿El problema depende de la masa del planeta? Confirmar que el 
+módulo de la velocidad permanece constante.
+ Por último, resolver el problema numérico de a pasos de una décima 
+
+de hora para un tiempo de un año, u 8760 horas, colocando estos 
+Modelo Matemáticovxvxax
+tvyvyay
+last
+last
+last
+last
+()
+()
+  
+()
+()
+ =+
+×=+
+×  
+()
+()
+  
+()
+()
+ txx
+vxtyy
+vylast
+last
+last
+last
+=+
+×=+
+×  
+()
+()
+tax
+txxlast
+last
+1000=˜=
+˜×
+114746017
+2..,+==22300
+last
+()
+yay
+t1000,˜˜×
++17
+22.last
+last
+last
+()
+()
+()
+yxy
+1000100023Física
 32
-                                                                  Órbita elíptica con Modellus.
-    Sin embargo, se puede observar que luego de una vuelta la órbita no
-se cierra. Para tener un resultado mejor de la órbita en este caso, dismi-
-nuir a 0.01 el paso para la variable independiente, el tiempo en horas,
-manteniendo el tiempo máximo en un año, 8760 horas. También varía
-cada cuántos pasos dejar una marca para la partícula y los vectores y
-agregar, además del vector aceleración, el vector velocidad. Eliminar la
-tabla de valores para que el programa Modellus no utilice toda la memo-
-ria disponible.
-    a) Verificar la segunda y la tercera ley de Kepler. Utilizar un acumula-
-       dor para calcular el área que barre el vector posición en la segunda
-       ley de Kepler, realizando en cada paso el producto entre el módulo
-       del vector posición y el desplazamiento sobre dos (considerando
-       esa área como el área de un triángulo con lados el módulo del vec-
-       tor posición y el desplazamiento).
-    b) Utilizando un procesador de textos, redactar un informe detallado
-       de todos los pasos realizados en esta actividad. Se pueden incluir
-       programas realizados y gráficos.
-                                                                                                  bloque 2
-                                                                                                  33
-         3   Trabajo y energía
-                 En este último bloque se presentan contenidos relacionados con el trabajo que reali-
-             zan las fuerzas y su relación con la energía. Los contenidos que se abordan en cada activi-
-             dad sugerida son los que habitualmente se desarrollan en la materia; por este motivo, se
-             realizan breves introducciones a fin de que el docente incluya una o todas las actividades
-             sugeridas en el momento de la clase que considere oportuno.
-                 Las propuestas plantean el uso de fuerzas conocidas como la fuerza gravitatoria, elás-
-             tica y fuerzas de vínculo, utilizando su correcta descripción vectorial con un tratamiento
-             más riguroso de la nomenclatura y una forma innovadora de abordar problemas de Físi-
-             ca. Utilizando los programas Modellus o Scilab, se realiza el cálculo del trabajo realizado,
-             sumando los aportes realizados por las fuerzas en cada pequeño desplazamiento que se
-             produce al realizar el modelado numérico en la forma en que se resolvieron en las activi-
-             dades de Dinámica del bloque 2.
-                 El uso de los programas Modellus y Scilab para resolver problemas de trabajo y ener-
-             gía permitirá al docente concentrarse en la interpretación, comparación, construcción
-             de hipótesis y conclusiones, y aprovechar la capacidad de cálculo de la netbook para que
-             resuelva problemas que no pueden resolverse con papel y lápiz con las matemáticas del
-             nivel medio, en el caso del trabajo de las fuerzas. La posibilidad de visualizar la solución
-             de los problemas planteados en tiempo real permitirá a los alumnos una mayor compren-
-             sión de los temas desarrollados.
-             Secuencia didáctica n.º 6
-             Trabajo de una fuerza. Energía cinética
-                 En Mecánica clásica, el trabajo que realiza una fuerza constante se define como el pro-
-             ducto del módulo de la fuerza por el módulo del desplazamiento que recorre su punto de
-             aplicación, por el coseno del ángulo que forman la fuerza y el desplazamiento. Esto también
-                                                                                   
-             se conoce como el producto escalar entre estos dos vectores: W = F         x cos (α )
-Física                                            F
-                                                  α      ∆x
-                                                                             x
+valores en el menú de variable independiente. En la imagen se pue
+-den ver los valores iniciales y la solución para el problema, donde 
+se agregó un vector en rojo que marca la aceleración en distintas 
+etapas del problema.
+e) Verificar la segunda y la tercera ley de Kepler. Utilizar un acumula
+-
+dor para calcular el área que barre el vector posición en la segunda 
+ley de Kepler, realizando en cada paso el producto entre el módulo 
+del vector posición y el desplazamiento sobre dos (considerando 
+
+esa área como el área de un triángulo con lados en el módulo del 
+vector posición y el desplazamiento).f) Utilizando un procesador de textos, redactar un informe detallado 
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Actividad 2. Movimiento planetario. Órbita elíptica 
+En esta actividad se cambiarán las condiciones iniciales del problema, 
+tal que la velocidad inicial no sea perpendicular a la posición y la acele
+-ración. Para ello se considerará el mismo módulo para la velocidad de la 
+
+actividad anterior, pero descompuesta en partes iguales en ambas compo
+-nentes, resultando un valor de 89,24 miles de km por hora para cada com
+-ponente. En este caso, el resultado de la simulación da una órbita elíptica.
+33
+bloque 2
+Sin embargo, se puede observar que luego de una vuelta la órbita no 
+se cierra. Para tener un resultado mejor de la órbita en este caso, dismi
+-nuir a 0.01 el paso para la variable independiente, el tiempo en horas, 
+manteniendo el tiempo máximo en un año, 8760 horas. También varía 
+cada cuántos pasos dejar una marca para la partícula y los vectores y 
+agregar, además del vector aceleración, el vector velocidad. Eliminar la 
+tabla de valores para que el programa Modellus no utilice toda la memo
+-ria disponible.
+a) Verificar la segunda y la tercera ley de Kepler. Utilizar un acumula
+-dor para calcular el área que barre el vector posición en la segunda 
+ley de Kepler, realizando en cada paso el producto entre el módulo 
+del vector posición y 
+el desplazamiento sobre dos (considerando 
+esa área como el área de un triángulo con lados el módulo del vec
+-tor posición y el desplazamiento).b) Utilizando un procesador de textos, redactar un informe detallado 
+
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Órbita elíptica con Modellus.
+Física
 34
-                                                                   
-donde W es el trabajo mecánico, F es el módulo de la fuerza, x es
-el módulo del vector desplazamiento y α es el ángulo que forman entre
-sí el vector fuerza y el vector desplazamiento. Cuando el vector fuerza es
-perpendicular al vector desplazamiento del cuerpo sobre el que se aplica,
-dicha fuerza no realiza trabajo alguno. El trabajo es una magnitud física
-escalar (representado por un número) y se expresa en unidades de ener-
-gía, Joules.
-    Si la fuerza no es constante, el trabajo se puede calcular como la suma
-de los pequeños trabajos que realiza la fuerza en un desplazamiento muy
-pequeño, tal que se puede considerar a la fuerza constante durante ese
+Trabajo y energía
+En este último bloque se presentan contenidos relacionados con el trabajo que reali
+-zan las fuerzas y su relación con la energía. Los contenidos que se abordan en cada activi
+-dad sugerida son los que habitualmente se desarrollan en la materia; por este motivo, se 
+realizan breves introducciones a fin de que el docente incluya una o todas las actividades 
+sugeridas en el momento de la clase que considere oportuno. 
+Las propuestas plantean el uso de fuerzas conocidas como la fuerza gravitatoria, elás
+-tica y fuerzas de vínculo, utilizando su correcta descripción vectorial con un tratamiento 
+más riguroso de la nomenclatura y una forma innovadora de abordar problemas de Físi
+-ca. Utilizando los programas Modellus o Scilab, se realiza el cálculo del trabajo realizado, 
+sumando los aportes realizados por las fuerzas en cada pequeño desplazamiento que se 
+produce al realizar el modelado numérico en la forma en que se resolvieron en las activi
+-dades de Dinámica del bloque 2.El uso de los programas Modellus y Scilab para resolver problemas de trabajo y ener
+-gía permitirá al docente concentrarse en la interpretación, comparación, construcción 
+
+de hipótesis y conclusiones, y aprovechar la capacidad de cálculo de la netbook para que 
+resuelva problemas que no pueden resolverse con papel y lápiz con las matemáticas del 
+nivel medio, en el caso del trabajo de las fuerzas. La posibilidad de visualizar la solución 
+de los problemas planteados en tiempo real permitirá a los alumnos una mayor compren
+-sión de los temas desarrollados.
+Secuencia didáctica n.º 6
+Trabajo de una fuerza. Energía cinética 
+En Mecánica clásica, el trabajo que realiza una fuerza constante se define como el pro
+-ducto del módulo de la fuerza por el módulo del desplazamiento que recorre su punto de 
+aplicación, por el coseno del ángulo que forman la fuerza y el desplazamiento. Esto también 
+se conoce como el producto escalar entre estos dos vectores: 
+WF
+x=()
+˜˚˜
+˚˜co
+s˜3Fx˚x35
+bloque 3
+donde W es el trabajo mecánico, 
+F˜˚ es el módulo de la fuerza, 
+x˜˚
+˜ es 
+el módulo del vector desplazamiento y 
+ es el ángulo que forman entre 
+sí el vector fuerza y el vector desplazamiento. Cuando el vector fuerza es 
+perpendicular al vector desplazamiento del cuerpo sobre el que se aplica, 
+dicha fuerza no realiza trabajo alguno. El trabajo es una magnitud física 
+escalar (representado por un número) y se expresa en unidades de ener
+-gía, Joules.
+Si la fuerza no es constante, el trabajo se puede calcular como la suma 
+de los pequeños trabajos que realiza la fuerza en un desplazamiento muy 
+pequeño, tal que se puede considerar a la fuerza constante durante ese 
 pequeño desplazamiento.
-    Por último, considerando que se trabaja con vectores, se puede utilizar
-el producto escalar entre vectores, que es igual al producto de los módulos
-de los vectores por el coseno del ángulo que forman, que es precisamente
+Por último, considerando que se trabaja con vectores, se puede utilizar 
+el producto escalar entre vectores, que es igual al producto de los módulos 
+
+de los vectores por el coseno del ángulo que forman, que es precisamente 
+
 lo que se hace al calcular el trabajo.
-                                                               
-    Así, en el producto de dos vectores A = (Ax, Ay, Az) por B = (Bx, By,
-                                             
-Bz), el producto escalar viene dado por A · B = (Ax, Ay, Az) · (Bx, By, Bz)
-= Ax Bx + Ay By + Az Bz
-    O en el caso de vectores en dos dimensiones se tiene
-      
-     A · B = (Ax, Ay) · (Bx, By) = Ax Bx + Ay By
-                                   
-    En cualquiera de los casos, A · B = A B cos (α ) por lo que el traba-
-                                            
-jo de una fuerza constante será igual a W = F x .
-Energía cinética
-   Se define como la capacidad de realizar un trabajo asociada al movi-
-miento de un cuerpo y es igual a la mitad del producto de la masa por el
-cuadrado del módulo de la velocidad (que es igual al producto escalar del
-vector velocidad por sí mismo).
-         1 2 1 
-    E c = m v = mv .v
-         2        2
-Teorema de las fuerzas vivas
-                                                                                bloque 3
-    El teorema de las fuerzas vivas establece que el trabajo realizado por la
-fuerza neta o resultante sobre un cuerpo es igual a la variación en la ener-
-gía cinética del cuerpo sobre la que actúa.
-                                                                                35
-         Actividad 1. Trabajo de la fuerza peso en una caída libre
-            Considerar el siguiente problema: una piedra de 25 g se deja caer
-         partiendo del reposo desde lo alto de un edificio, a una altura de 75
-         metros.
-            a) Resolver el problema numéricamente para tener las variables, posi-
-               ción, velocidad y aceleración.
-            b) Calcular el trabajo de la fuerza resultante (sólo actúa la fuerza peso,
-               que es constante y siempre forma un ángulo de 0º con el desplaza-
-               miento, por lo que su coseno es igual a 1) como suma de pequeños
-               trabajos en cada pequeño desplazamiento.
-            c) Calcular la energía cinética en función del tiempo y la variación
-               durante el movimiento. Comparar esta variación y el trabajo de la
-               fuerza resultante.
-            d) Utilizando un procesador de textos, redactar un informe detallado
-               de todos los pasos realizados en esta actividad. Se pueden incluir
-               programas realizados y gráficos.
-         Actividad 2. Trabajo en el movimiento oscilatorio.
-         Péndulo
-             Considerar el siguiente ejercicio: dado un péndulo cuya longitud es de
-         70 cm, se sabe que cuando pasa por la parte más baja de su trayectoria
-         tiene una velocidad de 2,5 m/s. Si la masa en el extremo del péndulo es
-         de 1,5 kg:
-             a) Resolver el problema numéricamente para tener las variables, posi-
-                ción, velocidad y aceleración.
-             b) Calcular el trabajo de la fuerza resultante. Para ello, resolver el pro-
-                ducto escalar entre la fuerza resultante (que por la segunda ley de
-                Newton es igual a la masa por la aceleración) y el vector desplaza-
-                miento dado por la posición final menos la posición inicial en un
-                pequeño intervalo de tiempo. Luego, sumar estos valores a lo largo
-                del movimiento (utilizando un acumulador) como suma de peque-
-                ños trabajos en cada pequeño desplazamiento.
-             c) Calcular la energía cinética en función del tiempo y la variación
-Física          durante el movimiento. Comparar esta variación y el trabajo de la
-                fuerza resultante.
-             d) Utilizando un procesador de textos, redactar un informe detallado
-                de todos los pasos realizados en esta actividad. Se pueden incluir
-36              programas realizados y gráficos.
-Actividad 3. Trabajo en el movimiento oscilatorio
-amortiguado. Resorte con resistencia
-    Un cuerpo de masa 2,3 kg, unido al extremo de un resorte de cons-
-tante k = 7 N/m, se desplaza 30 cm desde su posición de equilibrio y se
-lo suelta partiendo del reposo. Considerar una fuerza de rozamiento con
-el aire proporcional a la velocidad, con un coeficiente de la fuerza roza-
-miento b = 0,35 kg/s.
-    a) Resolver el problema numéricamente para tener las variables, posi-
-        ción, velocidad y aceleración.
-    b) Realizar un diagrama de cuerpo libre con las fuerzas involucradas
-        en las cuatro etapas que conforman un período.
-    c) Utilizando el programa Scilab, calcular el trabajo de la fuerza re-
-        sultante. Para ello, resolver el producto escalar entre la fuerza re-
-        sultante (que por la segunda ley de Newton es igual a la masa por
-        la aceleración) y el vector desplazamiento dado por la posición
-        final menos la posición inicial en un pequeño intervalo de tiempo.
-        Luego, sumar estos valores a lo largo del movimiento (utilizando
-        un acumulador) como suma de pequeños trabajos en cada peque-
-        ño desplazamiento.
-    d) Calcular la energía cinética en función del tiempo y la variación
-        durante el movimiento. Comparar esta variación y el trabajo de la
-        fuerza resultante.
-                       Trabajo y variación de Energía Cinética en función del tiempo
-           0.30
-           0.25
-           0.20
-           0.15
-           0.10
-           0.05
-           0.00
-           -0.05
-                   0           5           10          15           20          25     30
-                                                                                            bloque 3
-   e) Utilizando un procesador de textos, redactar un informe detallado
-      de todos los pasos realizados en esta actividad. Se pueden incluir
-      programas realizados y gráficos.                                                      37
-         Actividad 4. Trabajo de las fuerzas en un tiro oblicuo
-         con rozamiento
-             Una pelota comienza su movimiento con una velocidad inicial de 45 m/s
-         y forma un ángulo de 30 grados con la horizontal. Si el coeficiente de
-         la fuerza de rozamiento para este cuerpo es de 33 g/s y su masa es de
-         140 g:
-              Resolver el problema numéricamente con el Modellus para así tener
-                las variables, posición, velocidad y aceleración.
-              Calcular el trabajo de la fuerza resultante. Para ello, resolver el pro-
-                ducto escalar entre la fuerza resultante (que por la segunda ley de
-                Newton es igual a la masa por la aceleración) y el vector desplaza-
-                miento dado por la posición final menos la posición inicial en un
-                pequeño intervalo de tiempo. Luego, sumar estos valores a lo largo
-                del movimiento (utilizando un acumulador) como suma de peque-
-                ños trabajos en cada pequeño desplazamiento.
-              Calcular la energía cinética en función del tiempo y la variación
-                durante el movimiento. Comparar esta variación y el trabajo de la
-                fuerza resultante utilizando dos lápices en el área de trabajo.
-              Con un procesador de textos, realizar un informe detallado de to-
-                dos los pasos realizados en esta actividad, incluyendo programas
-                realizados y gráficos.
-         Actividad 5. Trabajo en el movimiento oscilatorio
-Física   amortiguado. Resorte con resistencia con Modellus
-            Un cuerpo de masa 2,3 kg está unido al extremo de un resorte de
-         constante k = 7 N/m. El cuerpo se desplaza 30 cm desde su posición de
-38       equilibrio y se lo suelta partiendo del reposo.
-    Considerar una fuerza de rozamiento con el aire proporcional a la
-     velocidad, con un coeficiente de la fuerza rozamiento b = 0,35 kg/s.
-    Resolver el problema numéricamente con el software Modellus
-     para tener las variables, posición, velocidad y aceleración.
-    Realizar un diagrama de cuerpo libre con las fuerzas involucradas
-     en las cuatro etapas que conforman un período.
-    Calcular el trabajo de la fuerza resultante. Para ello, resolver el pro-
-     ducto escalar entre la fuerza resultante (que por la segunda ley de
-     Newton es igual a la masa por la aceleración) y el vector desplaza-
-     miento dado por la posición final menos la posición inicial en un
-     pequeño intervalo de tiempo. Luego, sumar estos valores a lo largo
-     del movimiento (utilizando un acumulador) como suma de peque-
-     ños trabajos en cada pequeño desplazamiento.
-    Graficar el trabajo de cada fuerza en función de la coordenada x y
-     de la velocidad y.
-    Calcular la energía cinética en función del tiempo y la variación
-     durante el movimiento. Comparar esta variación y el trabajo de la
-     fuerza resultante.
-    Realizar un informe detallado de todos los pasos realizados en esta
-     actividad con un procesador de textos, incluyendo programas rea-
-     lizados y gráficos.
+Así, en el producto de dos vectores 
+A˜˚
+ = (Ax, Ay, Az) por 
+B = (Bx, By, 
+Bz), el producto escalar viene dado por 
+A˜˚
+ · 
+B = (Ax, Ay, Az) · (Bx, By, Bz) 
+= Ax Bx + Ay By + Az BzO en el caso de vectores en dos dimensiones se tiene 
+A˜˚
+ · B = (Ax, Ay) · (Bx, By) = Ax Bx + Ay ByEn cualquiera de los casos, 
+A˜˚
+ · 
+B= AB
+˜˚
+˚co
+s˜()
+ por lo que el traba
+-jo de una fuerza constante será igual a
+ WF
+x=˜˚˜
+˚˜. Energía cinética
+Se define como la capacidad de realizar un trabajo asociada al movi
+-miento de un cuerpo y es igual a la mitad del producto de la masa por el 
+cuadrado del módulo de la velocidad (que es igual al producto escalar del 
+vector velocidad por sí mismo).Em
+vm
+vv
+c==
+12122
+.Teorema de las fuerzas vivas
+El teorema de las fuerzas vivas establece que el trabajo realizado por la 
+fuerza neta o resultante sobre un cuerpo es igual a la variación en la ener
+-gía cinética del cuerpo sobre la que actúa.
+Física
+36
+Actividad 1. Trabajo de la fuerza peso en una caída libre 
+Considerar el siguiente problema: una piedra de 25 g se deja caer 
+partiendo del reposo desde lo alto de un edificio, a una altura de 75 
+metros. 
+a) Resolver el problema numéricamente para tener las variables, posi
+-
+ción, velocidad y aceleración.
+b) Calcular el trabajo de la fuerza resultante (sólo actúa la fuerza peso, 
+que es constante y siempre forma un ángulo de 0º con el desplaza
+-miento, por lo que su coseno es igual a 1) como suma de pequeños 
+trabajos en cada pequeño desplazamiento.
+c) Calcular la energía cinética en función del tiempo y la variación 
+
+durante el movimiento. Comparar esta variación y el trabajo de la 
+fuerza resultante.
+d) Utilizando un procesador de textos, redactar un informe detallado 
+
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Actividad 2. Trabajo en el movimiento oscilatorio. 
+Péndulo 
+Considerar el siguiente ejercicio: dado un péndulo cuya longitud es de 
+70 cm, se sabe que cuando pasa por la parte más baja de su trayectoria 
+tiene una velocidad de 2,5 m/s. Si la masa en el extremo del péndulo es 
+de 1,5 kg: 
+a) Resolver el problema numéricamente para tener las variables, posi
+-
+ción, velocidad y aceleración.
+b) Calcular el trabajo de la fuerza resultante. Para ello, resolver el pro
+-
+ducto escalar entre la fuerza resultante (que por la segunda ley de 
+Newton es igual a la masa por la aceleración) y el vector desplaza
+-miento dado por la posición final menos la posición inicial en un 
+pequeño intervalo de tiempo. Luego, sumar estos valores a lo largo 
+del movimiento (utilizando un acumulador) como suma de peque
+-ños trabajos en cada pequeño desplazamiento.
+c) Calcular la energía cinética en función del tiempo y la variación 
+
+durante el movimiento. Comparar esta variación y el trabajo de la 
+fuerza resultante.
+d) Utilizando un procesador de textos, redactar un informe detallado 
+
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+
+programas realizados y gráficos.
+37
+bloque 3
+Actividad 3. Trabajo en el movimiento oscilatorio 
+amortiguado. Resorte con resistencia 
+Un cuerpo de masa 2,3 kg, unido al extremo de un resorte de cons
+-tante 
+k = 7 N/m, se desplaza 30 cm desde su posición de equilibrio y se 
+lo suelta partiendo del reposo. Considerar una fuerza de rozamiento con 
+el aire proporcional a la velocidad, con un coeficiente de la fuerza roza
+-miento 
+b = 0,35 kg/s. 
+a) Resolver el problema numéricamente para tener las variables, posi
+-ción, velocidad y aceleración.
+b) Realizar un diagrama de cuerpo libre con las fuerzas involucradas 
+
+en las cuatro etapas que conforman un período.
+c) Utilizando el programa Scilab, calcular el trabajo de la fuerza re
+-sultante. Para ello, resolver el producto escalar entre la fuerza re
+-sultante (que por la segunda ley de Newton es igual a la masa por 
+
+la aceleración) y el vector desplazamiento dado por la posición 
+final menos la posición inicial en un pequeño intervalo de tiempo. 
+Luego, sumar estos valores a lo largo del movimiento (utilizando 
+un acumulador) como suma de pequeños trabajos en cada peque
+-ño desplazamiento.
+d) Calcular la energía cinética en función del tiempo y la variación 
+
+durante el movimiento. Comparar esta variación y el trabajo de la 
+fuerza resultante.
+e) Utilizando un procesador de textos, redactar un informe detallado 
+de todos los pasos realizados en esta actividad. Se pueden incluir 
+programas realizados y gráficos.
+Trabajo y variación de Energía Cinética en función del tiempo
+-0.050.000.050.10
+
+0.15
+0.20
+0.25
+0.30051015202530Física
+38
+Actividad 4. Trabajo de las fuerzas en un tiro oblicuo 
+con rozamiento 
+Una pelota comienza su movimiento con una velocidad inicial de 45 m/s 
+y forma un ángulo de 30 grados con la horizontal. Si el coeficiente de 
+la fuerza de rozamiento para este cuerpo es de 33 g/s y su masa es de 
+140 g:
+ Resolver el problema numéricamente con el Modellus para así tener 
+
+las variables, posición, velocidad y aceleración.
+ Calcular el trabajo de la fuerza resultante. Para ello, resolver el pro
+-
+ducto escalar entre la fuerza resultante (que por la segunda ley de 
+Newton es igual a la masa por la aceleración) y el vector desplaza
+-
+miento dado por la posición final menos la posición inicial en un 
+pequeño intervalo de tiempo. Luego, sumar estos valores a lo largo 
+del movimiento (utilizando un acumulador) como suma de peque
+-ños trabajos en cada pequeño desplazamiento.
+ Calcular la energía cinética en función del tiempo y la variación 
+
+durante el movimiento. Comparar esta variación y el trabajo de la 
+fuerza resultante utilizando dos lápices en el área de trabajo.
+ Con un procesador de textos, realizar un informe detallado de to
+-dos los pasos realizados en esta actividad, incluyendo programas 
+realizados y gráficos.
+Actividad 5. Trabajo en el movimiento oscilatorio 
+amortiguado. Resorte con resistencia con Modellus 
+Un cuerpo de masa 2,3 kg está unido al extremo de un resorte de 
+constante 
+k = 7 N/m. El cuerpo se desplaza 30 cm desde su posición de 
+equilibrio y se lo suelta partiendo del reposo.
+39
+bloque 3
+ Considerar una fuerza de rozamiento con el aire proporcional a la 
+velocidad, con un coeficiente de la fuerza rozamiento 
+b = 0,35 kg/s.
+ Resolver el problema numéricamente con el software Modellus 
+
+para tener las variables, posición, velocidad y aceleración.
+ Realizar un diagrama de cuerpo libre con las fuerzas involucradas 
+
+en las cuatro etapas que conforman un período.
+ Calcular el trabajo de la fuerza resultante. Para ello, resolver el pro
+-ducto escalar entre la fuerza resultante (que por la segunda ley de 
+Newton es igual a la masa por la aceleración) y el vector desplaza
+-miento dado por la posición final menos la posición inicial en un 
+
+pequeño intervalo de tiempo. Luego, sumar estos valores a lo largo 
+del movimiento (utilizando un acumulador) como suma de peque
+-ños trabajos en cada pequeño desplazamiento.
+ Graficar el trabajo de cada fuerza en función de la coordenada 
+x y 
+de la velocidad 
+y. Calcular la energía cinética en función del tiempo y la variación 
+
+durante el movimiento. Comparar esta variación y el trabajo de la 
+fuerza resultante.
+ Realizar un informe detallado de todos los pasos realizados en esta 
+actividad con un procesador de textos, incluyendo programas rea
+-lizados y gráficos.
 Secuencia didáctica n.º 7
 Energía potencial
-                                                                                bloque 3
-    Las fuerzas pueden ser divididas en dos grupos: fuerzas conservativas
-y fuerzas no conservativas. La diferencia entre ellas es cómo es el trabajo
-en cada caso al ir desde un punto inicial (A) a otro final (B). Mientras
-que para las fuerzas conservativas el trabajo es independiente del camino       39
-         que se toma para ir de A a B, en el caso de las no conservativas el valor
-         del trabajo sí depende del camino seleccionado.
-             En particular para las fuerzas conservativas, como el trabajo sólo de-
-         pende de la posición inicial y final y no del camino, este trabajo puede
-         asociarse a la variación de una función que depende de la posición inicial
-         y final. A esta función se la llama energía potencial o de posición.
-         Actividad 1. Trabajo de la fuerza gravitatoria en una órbita
-         elíptica
-             Calcular el trabajo de la fuerza peso es algo sencillo de hacer, ya que
-         se trata de una fuerza cuyo módulo, dirección y sentido permanecen
-         constantes. De esta forma, tomando dos caminos diferentes que vayan
-         entre dos puntos cualesquiera por caminos que sean paralelos y per-
-         pendiculares a la fuerza peso, el trabajo será fácil de calcular, ya que si
-         el camino es paralelo al peso, el trabajo será el peso por la longitud del
-         camino por el coseno del ángulo, que podrá ser 0º o 180º, por lo que el
-         coseno dará 1 o -1. En los tramos de camino que sean perpendiculares
-         al peso, el trabajo será 0 pues el ángulo que formarán será de 90º y su
-         coseno es 0.
-             Sin embargo, en el caso más general de la fuerza gravitatoria para un
-         cuerpo en órbita elíptica, la fuerza varía al cambiar la distancia entre los
-         cuerpos, por lo que calcular el trabajo ya no será una tarea sencilla. Sí se
-         lo puede hacer numéricamente, como en la actividad 2 de la secuencia 5,
-         donde se observó una órbita elipsoidal.
-             Hay muchas formas de calcular el trabajo entre dos puntos. En esta
-         oportunidad se hará de la siguiente forma: se tomará un camino entre dos
-         puntos cualesquiera y se evaluará el trabajo de la fuerza gravitatoria por
-         ese camino; luego, se calculará el trabajo entre los mismos puntos invir-
-         tiendo el sentido de la velocidad, con lo cual el camino a recorrer será por
-         la órbita en sentido contrario. Nótese que si estos dos trabajos son iguales,
-         entonces el trabajo sobre un camino cerrado deberá ser nulo en el caso
-         de una fuerza conservativa, y esta es otra forma verificar el tipo de fuerza.
-              Calcular el trabajo de la fuerza gravitatoria a lo largo de un camino
-                cerrado (una vuelta a lo largo de su órbita).
-Física        Utilizando Scilab, graficar el trabajo en función del tiempo.
-              Graficar el trabajo en función de la coordenada x y de la coordena-
-                da y; verificar que cuando el cuerpo vuelve a su posición inicial, el
-                trabajo acumulado a lo largo del recorrido sea nulo.
-40            Graficar el trabajo en función de la distancia de Venus al Sol. ¿Pue-
-     de inferir la dependencia del trabajo respecto de la posición? Esa
-     dependencia, correspondiente en este caso a la fuerza de gravita-
-     ción universal, es lo que se llama energía potencial gravitacional.
-    Realizar un informe detallado de todos los pasos realizados en esta
-     actividad en un procesador de textos, incluyendo programas reali-
-     zados y gráficos.
-                                    Energía potencial en función de la distancia entre el Sol y Venus
-            -0.0e+000
-            -5.0e+028
-            -1.0e+029
-            -1.5e+029
-            -2.0e+029
-            -2.5e+029
-                    20000   40000   60000       80000     100000     120000      140000     160000      180000   200000
-Actividad 2. Trabajo de la fuerza elástica
-   Considerar el enunciado de la actividad 5 de la secuencia 3 un cuerpo de
-masa 2,3 kg está unido al extremo de un resorte de constante k = 7 N/m. Si
-ese cuerpo se desplaza 30 cm desde su posición de equilibrio y se lo suelta
-partiendo del reposo:
-    Calcular el trabajo realizado por la fuerza elástica a lo largo del
-       recorrido que realiza en un período.
-    Graficar el trabajo en función del tiempo utilizando Scilab o Mo-
-       dellus. ¿Qué se puede decir del signo del trabajo en los distintos
-       momentos? Si está acumulando el trabajo desde el momento ini-
-       cial, entonces un trabajo positivo hará que el trabajo acumulado
-                                                                                                                          bloque 3
-       aumente, mientras que uno negativo hará que disminuya.
-    Graficar el trabajo en función de la coordenada x y de la velocidad
-       y, y verificar que cuando el cuerpo vuelva a su posición y velocidad
-       inicial, el trabajo acumulado a lo largo del recorrido sea nulo. ¿Qué
-       tipo de fuerza es la fuerza elástica?                                                                              41
-               ¿Es posible inferir la dependencia del trabajo respecto de la posición?
-                Esa dependencia es lo que se llama la energía potencial elástica.
-               Realizar un informe detallado de todos los pasos realizados en esta
-                actividad en un procesador de textos, incluyendo programas reali-
-                zados y gráficos.
-         Secuencia didáctica n.º 8
-         Energía mecánica. Conservación de la energía
-             El trabajo de todas las fuerzas que actúan sobre un cuerpo es igual a la
-         variación de la energía cinética:
-             WRe sul tan te = E cinética = (E C _ final − E C _ inicial )
-             Además, a todas las fuerzas se las puede separar en conservativas y no
-         conservativas. Hasta aquí se ha visto que la fuerza elástica y la gravitato-
-         ria, con el peso como un caso particular, son conservativas. Su trabajo no
-         depende del camino sino de la posición final e inicial, por lo que el trabajo
-         de las fuerzas conservativas puede escribirse como menos la variación de
-         una función que depende de las posiciones finales e iniciales y que se llama
-         energía potencial:
-              WF _ Conservativas = − E potencial = − (E P _ final − E P _ inicial )
-            De esta forma, separando el trabajo de todas las fuerzas en la suma del
-         trabajo de cada tipo de fuerza, se tiene:
-             WRe sul tan te = WF _ No _ Conservativas + WF _ Conservativas = E cinética
-              WRe sul tan te = WF _ No _ Conservativas − E potencial = E cinética
-             De la última igualdad se puede despejar el trabajo de las fuerzas no
-         conservativas y ver que es igual a la variación de la energía cinética más la
-         variación de energía potencial:
-             WF _ No _ Conservativas = E cinética + E potencial
-             Así, si se define una nueva energía, la energía mecánica, igual a la ener-
-         gía cinética más la energía potencial, el trabajo de las fuerzas no conserva-
-         tivas será igual a la variación de la energía mecánica:
-         WF _ No _ Conservativas = E cinética + E potencial = (E C _ final − E C _ inicial ) + (E P _ final − E P _ inicial ) =
-         WF _ No _ Conservativas = (E C _ final + E P _ final ) − (E C _ inicial + E P _ inicia ) = E Mecánica
-            De esta última relación se desprende el principio de conservación de la
-         energía cuando el trabajo de las fuerzas no conservativas es cero:
-Física        WF _ No _ Conservativas = E Mecánica = 0
-             (E   M _ final   − E M _ inicial = 0
-                                              )
-              E M _ final = E M _ inicial
-42            La energía mecánica se mantiene constante en el tiempo si el trabajo
-de las fuerzas no conservativas es cero. En estos casos, los cambios en la
-energía potencial deben ser complementarios a los de la energía cinética,
-por lo que si la energía potencial disminuye, la cinética deberá aumentar
-en forma proporcional tal que la suma de ambas, la energía mecánica, se
-mantenga constante.
-Actividad 1. Energía mecánica en el tiro vertical
-   En el caso del tiro vertical y la caída libre, la fuerza que actúa sobre el
-cuerpo es el peso, por lo que la energía mecánica deberá ser constante en
-función del tiempo. Para el problema del tiro vertical de la actividad 1 de la
-secuencia 1: un jugador de fútbol profesional arroja una pelota de fútbol de
-masa 0,5 kg, en dirección vertical con una velocidad inicial de 1500 m/s.
-    Calcular la energía cinética y el trabajo de la fuerza gravitatoria (la
-      fuerza peso, conservativa) a lo largo del movimiento.
-    Utilizando Scilab, graficar el trabajo –cambiado de signo– en función
-      de la posición. Obtener una expresión para la energía potencial.
-    Graficar la energía cinética, potencial y mecánica en función del
-      tiempo, verificando que una disminución en la energía potencial es
-      proporcional al aumento en la energía cinética, de tal forma que la
-      energía mecánica permanezca constante.
-                     Energía Cinética. Potencial y Mecánica en función del tiempo
-               140
-               120
-               100
-                80
-                60
-                40
-                20
-                 0
-               -20
-                     0      1       2        3       4       5       6        7     8
-                                                                                        bloque 3
-Actividad 2. Variación de energía mecánica y trabajo de las
-fuerzas no conservativas
-   Trabajar con el enunciado de la actividad 2 de la secuencia 4: con-
-siderar un cuerpo de masa 2,3 kg, unido al extremo de un resorte de                     43
-         constante k = 7 N/m. Si el cuerpo se desplaza 30 cm desde su posición de
-         equilibrio y se lo suelta partiendo del reposo:
-             Considerar una fuerza de rozamiento con el aire proporcional a la
-                velocidad con un coeficiente de la fuerza rozamiento b = 0,35 kg/s.
-             Calcular la energía cinética y el trabajo de la fuerza elástica y el tra-
-                bajo de la fuerza de rozamiento a lo largo del movimiento.
-             Utilizando el programa Scilab, graficar el trabajo de la fuerza de ro-
-                zamiento, la energía cinética, potencial y mecánica en función del
-                tiempo, verificando que la variación de la energía mecánica sea igual
-                al trabajo de la fuerza de rozamiento, una fuerza no conservativa.
-             Realizar un informe detallado de todos los pasos realizados en esta
-                actividad en un procesador de textos, incluyendo programas reali-
-                zados y gráficos.
-                Trabajo fuerza de rozamiento. Energía Cinética. Potencial y Mecánica en función del tiempo
-                     0.3
-                     0.2
-                     0.1
-                     0.0
-                    -0.1
-                    -0.3
-                    -0.4
-                    -0.4
-                           0         5           10          15          20           25          30
-         Actividad 3. Resolver el movimiento horizontal
-         de un cuerpo con rozamiento
-             Un cuerpo se mueve sobre una superficie horizontal en línea recta por
-         regiones donde se puede despreciar el rozamiento entre el cuerpo y la su-
-         perficie, y por otras donde no.
-             En los primeros 300 metros del movimiento lineal, el cuerpo y la super-
-         ficie no presentan una fuerza de rozamiento apreciable. Luego, entre los
-Física   300 y 500 metros –y sólo en esta región de la recta–, se observa un coefi-
-         ciente de rozamiento dinámico de 0.3. Si la masa del cuerpo es de 1,5 kg:
-              Resolver analíticamente el movimiento del cuerpo con los diagra-
-                mas de cuerpo libre en las diferentes regiones por donde se mueve
-44              el cuerpo. Para distintas velocidades iniciales, ¿qué velocidad debe
-     tener el cuerpo para detenerse a 1, 1 y 3 de la longitud de la región
-                                      4 2 4
-     con rozamiento medidas desde el lado por el cual el cuerpo entra a
-     esta región?
-    Utilizando el software Modellus, realizar la visualización del proble-
-     ma y confirmar los resultados obtenidos analíticamente.
-    Agregar varios lápices en el entorno de trabajo, graficar el trabajo
-     de la fuerza de rozamiento y la variación de la energía mecánica en
-     función del tiempo.
-    Realizar un informe detallado de todos los pasos realizados en esta
-     actividad con un procesador de textos, incluyendo programas reali-
-     zados y gráficos.
-Actividad 4. Resolver el movimiento horizontal
-de un cuerpo unido a un resorte con rozamiento
-    Un cuerpo de 1,5 kg unido a un resorte de constante elástica igual
-a 15 N/m se mueve sobre una superficie horizontal en línea recta por
-regiones donde se puede despreciar el rozamiento entre el cuerpo y la
-superficie y por otras donde no.
-    Tomando un sistema de coordenadas con origen en la posición en la
-que el cuerpo unido al resorte está en equilibrio, en los primeros 15 cm, en
-ambas direcciones, se observa un coeficiente de rozamiento dinámico de
-0.3. Más allá de esos 15 cm no se observa rozamiento entre las superficies.
-Si en el instante inicial el cuerpo se encuentra en el origen de coordenadas
-con una velocidad de 4 m/s:
-     ¿Cuánta energía pierde el cuerpo cada vez que pasa por la región
-       con rozamiento?
-     ¿Cuál es la máxima distancia que se aleja el cuerpo de la posición de
-       equilibrio?
-     ¿Cuántas veces pasa el cuerpo por la región con rozamiento antes
-       de detenerse?
-     Resolver el problema con Modellus y comparar los resultados con
-       los obtenidos analíticamente.
-     Agregar los lápices necesarios para graficar la posición, la velocidad
-       y la aceleración en función del tiempo. También graficar el trabajo
-                                                                               bloque 3
-       de la fuerza de rozamiento como la energía mecánica en función del
-       tiempo.
-     Realizar un informe detallado de todos los pasos realizados en esta
-       actividad con un procesador de textos, incluyendo programas reali-
-       zados y gráficos.                                                       45
-         Actividad 5. Movimiento en un plano inclinado
-         con rozamiento
-            Utilizar el software Modellus para resolver el siguiente problema: un
-         cuerpo de 2,4 kg se mueve sobre una superficie horizontal sin rozamiento
-         hasta llegar a la base de un plano inclinado. Debido a que la superficie del
-         plano inclinado genera una fricción con el cuerpo, aparece una fuerza de
-         rozamiento, con un coeficiente de rozamiento igual a 0.3.
-             Resolver el movimiento del cuerpo sabiendo que el plano inclinado
-                tiene una altura de 300 m y una base de 400.
-             ¿Qué tipo de movimiento tiene el cuerpo cuando no está sobre el
-                plano inclinado?
-             Cuando está sobre el plano inclinado, plantear un diagrama de
-                cuerpo libre para cuando el cuerpo sube y otro para cuando el
-                cuerpo baja. ¿Qué tipo de movimiento tiene en cada uno de estos
-                casos?
-             Plantear un sistema de coordenadas con un eje paralelo al plano
-                inclinado y resolver el problema analíticamente.
+ Las fuerzas pueden ser divididas en dos grupos: fuerzas conservativas 
+y fuerzas no conservativas. La diferencia entre ellas es cómo es el trabajo 
+en cada caso al ir desde un punto inicial (A) a otro final (B). Mientras 
+que para las fuerzas conservativas el trabajo es independiente del camino 
 Física
+40
+que se toma para ir de A a B, en el caso de las no conservativas el valor 
+del trabajo sí depende del camino seleccionado.
+En particular para las fuerzas conservativas, como el trabajo sólo de
+-pende de la posición inicial y final y no del camino, este trabajo puede 
+asociarse a la variación de una función que depende de la posición inicial 
+y final. A esta función se la llama energía potencial o de posición.
+Actividad 1. Trabajo de la fuerza gravitatoria en una órbita 
+elíptica 
+Calcular el trabajo de la fuerza peso es algo sencillo de hacer, ya que 
+se trata de una fuerza cuyo módulo, dirección y sentido permanecen 
+constantes. De esta forma, tomando dos caminos diferentes que vayan 
+entre dos puntos cualesquiera por caminos que sean paralelos y per
+-pendiculares a la fuerza peso, el trabajo será fácil de calcular, ya que si 
+
+el camino es paralelo al peso, el trabajo será el peso por la longitud del 
+camino por el coseno del ángulo, que podrá ser 0º o 180º, por lo que el 
+
+coseno dará 1 o -1. En los tramos de camino que sean perpendiculares 
+al peso, el trabajo será 0 pues el ángulo que formarán será de 90º y su 
+coseno es 0.
+Sin embargo, en el caso más general de la fuerza gravitatoria para un 
+cuerpo en órbita elíptica, la fuerza varía al cambiar la distancia entre los 
+cuerpos, por lo que calcular el trabajo ya no será una tarea sencilla. Sí se 
+lo puede hacer numéricamente, como en la actividad 2 de la secuencia 5, 
+donde se observó una órbita elipsoidal.
+Hay muchas formas de calcular el trabajo entre dos puntos. En esta 
+oportunidad se hará de la siguiente forma: se tomará un camino entre dos 
+puntos cualesquiera y se evaluará el trabajo de la fuerza gravitatoria por 
+
+ese camino; luego, se calculará el trabajo entre los mismos puntos invir
+-tiendo el sentido de la velocidad, con lo cual el camino a recorrer será por 
+
+la órbita en sentido contrario. Nótese que si estos dos trabajos son iguales, 
+entonces el trabajo sobre un camino cerrado deberá ser nulo en el caso 
+
+de una fuerza conservativa, y esta es otra forma verificar el tipo de fuerza. 
+ Calcular el trabajo de la fuerza gravitatoria a lo largo de un camino 
+cerrado (una vuelta a lo largo de su órbita).
+ Utilizando Scilab, graficar el trabajo en función del tiempo.
+ Graficar el trabajo en función de la coordenada 
+x y de la coordena
+-da y; verificar que cuando el cuerpo vuelve a su posición inicial, el 
+trabajo acumulado a lo largo del recorrido sea nulo.
+ Graficar el trabajo en función de la distancia de Venus al Sol. ¿Pue
+-41
+bloque 3
+de inferir la dependencia del trabajo respecto de la posición? Esa 
+dependencia, correspondiente en este caso a la fuerza de gravita
+-ción universal, es lo que se llama energía potencial gravitacional.
+ Realizar un informe detallado de todos los pasos realizados en esta 
+actividad en un procesador de textos, incluyendo programas reali
+-zados y gráficos.
+Actividad 2. Trabajo de la fuerza elástica 
+Considerar el enunciado de la actividad 5 de la secuencia 3 un cuerpo de 
+masa 2,3 kg está unido al extremo de un resorte de constante 
+k = 7 N/m. Si 
+ese cuerpo se desplaza 30 cm desde su posición de equilibrio y se lo suelta 
+partiendo del reposo:
+ Calcular el trabajo realizado por la fuerza elástica a lo largo del 
+
+recorrido que realiza en un período.
+ Graficar el trabajo en función del tiempo utilizando Scilab o Mo
+-
+dellus. ¿Qué se puede decir del signo del trabajo en los distintos 
+momentos? Si está acumulando el trabajo desde el momento ini
+-cial, entonces un trabajo positivo hará que el trabajo acumulado 
+aumente, mientras que uno negativo hará que disminuya.
+ Graficar el trabajo en función de la coordenada 
+x y de la velocidad 
+y, y verificar que cuando el cuerpo vuelva a su posición y velocidad 
+
+inicial, el trabajo acumulado a lo largo del recorrido sea nulo. ¿Qué 
+tipo de fuerza es la fuerza elástica?
+Energía potencial en función de la distancia entre el Sol y Venus
+-2.5e+029-2.0e+029-1.5e+029
+-1.0e+029
+-5.0e+028-0.0e+00040000200006000080000100000120000140000160000180000200000Física
+42
+ ¿Es posible inferir la dependencia del trabajo respecto de la posición? 
+Esa dependencia es lo que se llama la energía potencial elástica.
+ Realizar un informe detallado de todos los pasos realizados en esta 
+
+actividad en un procesador de textos, incluyendo programas reali
+-zados y gráficos.
+Secuencia didáctica n.º 8
+Energía mecánica. Conservación de la energía
+
+ El trabajo de todas las fuerzas que actúan sobre un cuerpo es igual a la 
+variación de la energía cinética:
+WE
+EE
+su
+lt
+ec
+inét
+ic
+aC
+fina
+lC
+inicia
+lRe
+ta
+n__==
+˜()Además, a todas las fuerzas se las puede separar en conservativas y no 
+conservativas. Hasta aquí se ha visto que la fuerza elástica y la gravitato
+-ria, con el peso como un caso particular, son conservativas. Su trabajo no 
+depende del camino sino de la posición final e inicial, por lo que el trabajo 
+de las fuerzas conservativas puede escribirse como menos la variación de 
+una función que depende de las posiciones finales e iniciales y que se llama 
+energía potencial:
+WEEE
+FC
+onservat
+ivas
+po
+tenc
+ia
+lP
+fina
+lP
+inic
+___=˜
+=˜
+˜ii
+al
+()De esta forma, separando el trabajo de todas las fuerzas en la suma del 
+trabajo de cada tipo de fuerza, se tiene:
+WW
+Wsu
+lt
+eF
+No
+Conser
+va
+ti
+va
+sF
+Conser
+va
+ti
+va
+Re
+ta
+n_
+__=+ssc
+inét
+ic
+asu
+lt
+eF
+No
+Conser
+va
+ti
+va
+sEWW
+E==˜Re
+ta
+n_
+_p
+po
+tenc
+ia
+lc
+inét
+ic
+aE=De la última igualdad se puede despejar el trabajo de las fuerzas no 
+conservativas y ver que es igual a la variación de la energía cinética más la 
+variación de energía potencial:
+WEEFN
+oC
+onservat
+ivas
+cinética
+po
+tenc
+ia
+l__
+=+
+Así, si se define una nueva energía, la energía mecánica, igual a la ener
+-gía cinética más la energía potencial, el trabajo de las fuerzas no conserva
+-
+tivas será igual a la variación de la energía mecánica:
+WEEE
+FN
+oC
+onservat
+ivas
+cinética
+po
+tenc
+ia
+lC
+f__
+_=+
+=ii
+na
+lC
+inicia
+lP
+fina
+lP
+inicia
+lFN
+oEE
+EW˜()+˜
+()=_____
+CConser
+va
+ti
+va
+sC
+fina
+lP
+fina
+lC
+inicia
+lEE
+EE
+=+
+()˜+
+___P
+Pi
+nici
+aM
+ecánic
+aE_()=De esta última relación se desprende el principio de conservación de la 
+energía cuando el trabajo de las fuerzas no conservativas es cero:
+WEFN
+oC
+onservat
+ivas
+Mecá
+nica
+__
+==
+0EE
+Mf
+inal
+Mi
+nici
+al
+__=La energía mecánica se mantiene constante en el tiempo si el trabajo 
+EE
+Mfinal
+Mi
+nicial
+__˜()=043
+bloque 3
+de las fuerzas no conservativas es cero. En estos casos, los cambios en la 
+energía potencial deben ser complementarios a los de la energía cinética, 
+por lo que si la energía potencial disminuye, la cinética deberá aumentar 
+en forma proporcional tal que la suma de ambas, la energía mecánica, se 
+mantenga constante.
+Actividad 1. Energía mecánica en el tiro vertical 
+En el caso del tiro vertical y la caída libre, la fuerza que actúa sobre el 
+cuerpo es el peso, por lo que la energía mecánica deberá ser constante en 
+
+función del tiempo. Para el problema del tiro vertical de la actividad 1 de la 
+secuencia 1: un jugador de fútbol profesional arroja una pelota de fútbol de 
+masa 0,5 kg, en dirección vertical con una velocidad inicial de               m/s.
+ Calcular la energía cinética y el trabajo de la fuerza gravitatoria (la 
+
+fuerza peso, conservativa) a lo largo del movimiento.
+ Utilizando Scilab, graficar el trabajo Œcambiado de signoŒ en función 
+de la posición. Obtener una expresión para la energía potencial.
+ Graficar la energía cinética, potencial y mecánica en función del 
+
+tiempo, verificando que una disminución en la energía potencial es 
+proporcional al aumento en la energía cinética, de tal forma que la 
+energía mecánica permanezca constante.
+Actividad 2. Variación de energía mecánica y trabajo de las 
+fuerzas no conservativas
+Trabajar con el enunciado de la actividad 2 de la secuencia 4: con
+-siderar un cuerpo de masa 2,3 kg, unido al extremo de un resorte de 
+Energía Cinética. Potencial y Mecánica en función del tiempo
+1500
+-20020406080100120140012345678Física
+44
+constante 
+k = 7 N/m. Si el cuerpo se desplaza 30 cm desde su posición de 
+equilibrio y se lo suelta partiendo del reposo:
+ Considerar una fuerza de rozamiento con el aire proporcional a la 
+velocidad con un coeficiente de la fuerza rozamiento 
+b = 0,35 kg/s. Calcular la energía cinética y el trabajo de la fuerza elástica y el tra
+-
+bajo de la fuerza de rozamiento a lo largo del movimiento.
+ Utilizando el programa Scilab, graficar el trabajo de la fuerza de ro
+-zamiento, la energía cinética, potencial y mecánica en función del 
+
+tiempo, verificando que la variación de la energía mecánica sea igual 
+al trabajo de la fuerza de rozamiento, una fuerza no conservativa.
+ Realizar un informe detallado de todos los pasos realizados en esta 
+actividad en un procesador de textos, incluyendo programas reali
+-zados y gráficos.
+Actividad 3. Resolver el movimiento horizontal 
+de un cuerpo con rozamiento 
+Un cuerpo se mueve sobre una superficie horizontal en línea recta por 
+regiones donde se puede despreciar el rozamiento entre el cuerpo y la su
+-perficie, y por otras donde no.
+En los primeros 300 metros del movimiento lineal, el cuerpo y la super
+-ficie no presentan una fuerza de rozamiento apreciable. Luego, entre los 
+300 y 500 metros Œy sólo en esta región de la rectaŒ, se observa un coefi
+-ciente de rozamiento dinámico de 0.3. Si la masa del cuerpo es de 1,5 kg: 
+ Resolver analíticamente el movimiento del cuerpo con los diagra
+-
+mas de cuerpo libre en las diferentes regiones por donde se mueve 
+el cuerpo. Para distintas velocidades iniciales, ¿qué velocidad debe 
+Trabajo fuerza de rozamiento. Energía Cinética. Potencial y Mecánica en función del tiempo
+-0.4-0.4-0.3-0.1
+0.00.1
+0.20.305101520253045
+bloque 3
+tener el cuerpo para detenerse a   ,     y    de la longitud de la región 
+con rozamiento medidas desde el lado por el cual el cuerpo entra a 
+esta región?
+ Utilizando el software Modellus, realizar la visualización del proble
+-ma y confirmar los resultados obtenidos analíticamente.
+ Agregar varios lápices en el entorno de trabajo, graficar el trabajo 
+
+de la fuerza de rozamiento y la variación de la energía mecánica en 
+función del tiempo.
+ Realizar un informe detallado de todos los pasos realizados en esta 
+actividad con un procesador de textos, incluyendo programas reali
+-zados y gráficos.
+Actividad 4. Resolver el movimiento horizontal 
+de un cuerpo unido a un resorte con rozamiento 
+Un cuerpo de 1,5 kg unido a un resorte de constante elástica igual 
+a 15 N/m se mueve sobre una superficie horizontal en línea recta por 
+regiones donde se puede despreciar el rozamiento entre el cuerpo y la 
+superficie y por otras donde no.
+Tomando un sistema de coordenadas con origen en la posición en la 
+que el cuerpo unido al resorte está en equilibrio, en los primeros 15 cm, en 
+ambas direcciones, se observa un coeficiente de rozamiento dinámico de 
+0.3. Más allá de esos 15 cm no se observa rozamiento entre las superficies. 
+Si en el instante inicial el cuerpo se encuentra en el origen de coordenadas 
+con una velocidad de 4 m/s:  ¿Cuánta energía pierde el cuerpo cada vez que pasa por la región 
+
+con rozamiento?
+ ¿Cuál es la máxima distancia que se aleja el cuerpo de la posición de 
+
+equilibrio? ¿Cuántas veces pasa el cuerpo por la región con rozamiento antes 
+
+de detenerse?
+ Resolver el problema con Modellus y comparar los resultados con 
+
+los obtenidos analíticamente.
+ Agregar los lápices necesarios para graficar la posición, la velocidad 
+
+y la aceleración en función del tiempo. También graficar el trabajo 
+de la fuerza de rozamiento como la energía mecánica en función del 
+tiempo.
+ Realizar un informe detallado de todos los pasos realizados en esta 
+
+actividad con un procesador de textos, incluyendo programas reali
+-zados y gráficos.
+141
+23
+4Física
 46
- Calcular utilizando la energía mecánica y el trabajo de las fuerzas
-  no conservativas para que velocidades iniciales el cuerpo llega has-
-  ta la mitad del plano inclinado y qué velocidad necesita para llegar
-  hasta la parte superior del mismo.
- Utilizando el Modellus resolver el problema, planteando como mo-
-  delo la aceleración en las distintas etapas analizadas en los puntos
-  a), b) y c). Para visualizar el problema y el movimiento sobre el pla-
-  no inclinado, hay que realizar la proyección del movimiento en las
-  componentes horizontal y vertical, ya que el Modellus sólo puede
-  manejar cambios en estas direcciones.
- Agregar un lápiz para graficar la posición del cuerpo sobre el plano
-  inclinado en función del tiempo. ¿Qué tipo de funciones se tiene
-  que ver en cada región?
- Graficar el trabajo de las fuerzas no conservativas y la variación de
-  la energía mecánica, y confirmar que se corresponden.
- Realizar un informe detallado de todos los pasos realizados en esta
-  actividad con un procesador de textos, incluyendo programas rea-
-  lizados y gráficos.
-                                                                           bloque 3
-                                                                           47
-                Serie para la enseñanza en el modelo 1 a 1
-   Este libro se terminó de imprimir
-    en el mes de octubre de 2011,
-en Gráfica Pinter, Diógenes Taborda 48,
-       Ciudad de Buenos Aires.
-material de distribución gratuita
+Actividad 5. Movimiento en un plano inclinado 
+con rozamiento 
+Utilizar el software Modellus para resolver el siguiente problema: un 
+cuerpo de 2,4 kg se mueve sobre una superficie horizontal sin rozamiento 
+hasta llegar a la base de un plano inclinado. Debido a que la superficie del 
+plano inclinado genera una fricción con el cuerpo, aparece una fuerza de 
+rozamiento, con un coeficiente de rozamiento igual a 0.3. 
+ Resolver el movimiento del cuerpo sabiendo que el plano inclinado 
+tiene una altura de 300 m y una base de 400.
+ ¿Qué tipo de movimiento tiene el cuerpo cuando no está sobre el 
+
+plano inclinado?
+ Cuando está sobre el plano inclinado, plantear un diagrama de 
+
+cuerpo libre para cuando el cuerpo sube y otro para cuando el 
+cuerpo baja. ¿Qué tipo de movimiento tiene en cada uno de estos 
+casos? 
+ Plantear un sistema de coordenadas con un eje paralelo al plano 
+
+inclinado y resolver el problema analíticamente.
+47
+bloque 3
+ Calcular utilizando la energía mecánica y el trabajo de las fuerzas 
+no conservativas para que velocidades iniciales el cuerpo llega has
+-ta la mitad del plano inclinado y qué velocidad necesita para llegar 
+
+hasta la parte superior del mismo.
+ Utilizando el Modellus resolver el problema, planteando como mo
+-delo la aceleración en las distintas etapas analizadas en los puntos 
+a), b) y c). Para visualizar el problema y el movimiento sobre el pla
+-no inclinado, hay que realizar la proyección del movimiento en las 
+componentes horizontal y vertical, ya que el Modellus sólo puede 
+manejar cambios en estas direcciones. 
+ Agregar un lápiz para graficar la posición del cuerpo sobre el plano 
+inclinado en función del tiempo. ¿Qué tipo de funciones se tiene 
+que ver en cada región?
+ Graficar el trabajo de las fuerzas no conservativas y la variación de 
+la energía mecánica, y confirmar que se corresponden.
+ Realizar un informe detallado de todos los pasos realizados en esta 
+
+actividad con un procesador de textos, incluyendo programas rea
+-lizados y gráficos.
+Serie para la enseñanza en el modelo 1 a 1
+Este libro se terminó de imprimir 
+en el mes de octubre de 2011,
+ en Gráfica Pinter, Diógenes Taborda 48, 
+Ciudad de Buenos Aires.
+Serie para la enseñanza en el modelo 1 a 1
+Físicamaterial de distribución gratuita
