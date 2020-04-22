@@ -20,7 +20,7 @@ async def convert_pdf_to_txt(pdf_path: str, save_dir: str) -> None:
             text = ''.join((page.extractText() for page in reader.pages))
 
             async with AIOFile(save_dir, 'w') as text_file:
-                await text_file.write(text)
+                await text_file.write(text.encode('utf-8').decode('utf-8'))
 
     except Exception as e:
         raise e
