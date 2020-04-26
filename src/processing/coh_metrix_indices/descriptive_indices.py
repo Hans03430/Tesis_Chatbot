@@ -8,6 +8,7 @@ from spacy.lang.es import Spanish
 from spacy.util import get_lang_class
 from typing import List
 
+from src.processing.constants import ACCEPTED_LANGUAGES
 
 def split_text_into_paragraphs(text: str) -> List[str]:
     """
@@ -32,6 +33,8 @@ def split_text_into_sentences(text: str, language: str='es') -> List[str]:
     Returns:
     List[str]: A list of sentences
     """
+    if not language in ACCEPTED_LANGUAGES:
+        raise ValueError(f'Language {language} is not supported yet')
     cls = get_lang_class(language)
     nlp = cls()
     nlp.add_pipe(nlp.create_pipe('sentencizer'))
@@ -46,6 +49,8 @@ def split_sentence_into_words(sentence:str, language: str='es') -> List[str]:
     Parameters:
     sentence(str): The sentence to be split
     """
+    if not language in ACCEPTED_LANGUAGES:
+        raise ValueError(f'Language {language} is not supported yet')
     cls = get_lang_class(language)
     nlp = cls()
     nlp.add_pipe(nlp.create_pipe('sentencizer'))
@@ -77,6 +82,8 @@ def get_sentence_count_from_text(text: str, language: str = 'es') -> int:
     Returns:
     int: The amount of sentences
     """
+    if not language in ACCEPTED_LANGUAGES:
+        raise ValueError(f'Language {language} is not supported yet')
     sentences = split_text_into_sentences(text, language)
     return len(sentences)
 
@@ -92,6 +99,8 @@ def get_word_count_from_text(text: str, language: str='es') -> int:
     Returns:
     int: The amount of words
     """
+    if not language in ACCEPTED_LANGUAGES:
+        raise ValueError(f'Language {language} is not supported yet')
     text_without_punctuation = text.translate(str.maketrans('', '', string.punctuation))
     sentences = split_text_into_sentences(text_without_punctuation, language)
     words_per_sentence = np.array([len(split_sentence_into_words(sentence, language)) for sentence in sentences])
@@ -112,6 +121,8 @@ def get_mean_of_length_of_paragraphs(text: str, language: str='es', workers: int
     """
     if len(text) == 0:
         raise ValueError('The text is empty.')
+    elif not language in ACCEPTED_LANGUAGES:
+        raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
     elif workers == 1:
@@ -140,6 +151,8 @@ def get_std_of_length_of_paragraphs(text: str, language: str='es', workers: int=
     """
     if len(text) == 0:
         raise ValueError('The text is empty.')
+    elif not language in ACCEPTED_LANGUAGES:
+        raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
     elif workers == 1:
@@ -170,6 +183,8 @@ def get_mean_of_length_of_sentences(text: str, language: str='es', workers: int=
     """
     if len(text) == 0:
         raise ValueError('The text is empty.')
+    elif not language in ACCEPTED_LANGUAGES:
+        raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
     elif workers == 1:
@@ -201,6 +216,8 @@ def get_std_of_length_of_sentences(text: str, language: str='es', workers: int=-
     """
     if len(text) == 0:
         raise ValueError('The text is empty.')
+    elif not language in ACCEPTED_LANGUAGES:
+        raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
     elif workers == 1:
@@ -232,6 +249,8 @@ def get_mean_of_length_of_words(text: str, language: str='es', workers: int=-1) 
     """
     if len(text) == 0:
         raise ValueError('The text is empty.')
+    elif not language in ACCEPTED_LANGUAGES:
+        raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
     elif workers == 1:
@@ -263,6 +282,8 @@ def get_std_of_length_of_words(text: str, language: str='es', workers=-1) -> flo
     """
     if len(text) == 0:
         raise ValueError('The text is empty.')
+    elif not language in ACCEPTED_LANGUAGES:
+        raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
     elif workers == 1:

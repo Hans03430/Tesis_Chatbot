@@ -1,0 +1,3 @@
+ACCEPTED_LANGUAGES = [
+    'es'
+]
