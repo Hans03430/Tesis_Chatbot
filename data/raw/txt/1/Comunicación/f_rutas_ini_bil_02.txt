@@ -1,1080 +1,5590 @@
-1INDICEYachachiq masillay
-31.  Antimanta wawakuna
-52.  Calendario comunal nisqa
-73.  Ayllupa kawsaynin: ﬁpapa hasp™iyﬂ
-111- Papa hasp™iypi yanapakusunchik
-122- Papa mamaman qillqasunchik
-163- Papata waqaychananchikpaq 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1Quechua
+
+INDICE
+
+Yachachiq masillay 3
+
+1.  Antimanta wawakuna 5
+
+2.  Calendario comunal nisqa 7
+
+3.  Ayllupa kawsaynin: “papa hasp’iy” 11
+
+1- Papa hasp’iypi yanapakusunchik 12
+
+2- Papa mamaman qillqasunchik 16
+
+3- Papata waqaychananchikpaq 
 akllasunchik
-204- Wathiyata rurasunchik
-245- Papa hasp™iypi yanapakusqanchikmanta 
+
+20
+
+4- Wathiyata rurasunchik 24
+
+5- Papa hasp’iypi yanapakusqanchikmanta 
 rimarisunchik
-293Yachachiq masillay
+
+29
+
+
+
+
+
+3Quechua
+
+Yachachiq masillay
+
 3, 4, 5 watayuq wawanchikkuna Educación primaria 
 nisqaman chayanankupaq allinta yuyayninkuta, 
 rimayninkuta, yachayninkuta pukllaspa, takispa, tususpa 
-
 ima qispichinanku.
+
 Wawanchikkunaqa kawsayninkupi, siminkupi ima  allinta 
 rimanku, munasqankuta mañakunku, pukllankupas. 
-
 Chay raykun siminkupi, paykunawan rimananchik, 
-
 kawsayninkumantapacha yachaykunata uqarispa allin 
-
 runa kanankupaq hinallataq allin kawsayta aypanankupaq 
-
 yachachinanchik.
-Kay qillqa mayt™uqa llamk™aykunata 
+
+Kay qillqa mayt’uqa llamk’aykunata 
 haywarisunki chayman hina qampas, 
-
 calendario comunal nisqa 
-
 aylluykiman hina, wawakunaq 
-
 munasqanman hina  
-llamk™anaykipaq.
+llamk’anaykipaq.
+
 ¡Qanpas munaychata 
-llamk™allawaqmi!.
-5ANTIMANTA 
+llamk’allawaqmi!.
+
+
+
+
+
+5Quechua
+
+ANTIMANTA 
 WAWAKUNA
+
 ¿ Antimanta wawakunari imaynan kanku?
- Wawakunaqa, ima ruraykunatapas qhawachkallanku, chay 
+
+•	  Wawakunaqa, ima ruraykunatapas qhawachkallanku, chay 
 raykun qhawaspalla yachanku
- Wasinkumanta imaymana yachaykunata apamunku, chay 
 
+•	  Wasinkumanta imaymana yachaykunata apamunku, chay 
 yachaykunatan yachay wasipi allinta qispichinanchik.
- Yanapakuytan yachanku, ayllunkuman hina allin kawsaypi 
 
+•	  Yanapakuytan yachanku, ayllunkuman hina allin kawsaypi 
 tiyanku.
- Llaqtankupa kawsayninkupi yachaykunata, chaskispa 
 
+•	  Llaqtankupa kawsayninkupi yachaykunata, chaskispa 
 yachanku, hinallataq huk llaqtakunaq yachayninkutapas 
-
 yachanku.
- Iskay simipi rimanku, runa simipi hinallataq castilla simipipas, 
 
+•	  Iskay simipi rimanku, runa simipi hinallataq castilla simipipas, 
 chay simikunapin munasqankuta rimanku hinallataq 
-
 hukkuna munasqankutapas yachanku.
+
 ¿Imaynatam antimanta wawakuna yachanku?
- Paykunaqa qhawaspa, takispa, pukllaspa, ruraspa, 
 
+•	  Paykunaqa qhawaspa, takispa, pukllaspa, ruraspa, 
 yanapakuspa, tapupakuspa ima yachanku.
- Tayta mamankuwan, kuraqninkuwan, sullk™ankuwan, pacha 
 
+•	  Tayta mamankuwan, kuraqninkuwan, sullk’ankuwan, pacha 
 mamawan rimaspa, pukllaspa ima yachanku.
- Ayllunpa imaymana ruraykunapi, imaymana yachaykunata 
 
+•	  Ayllunpa imaymana ruraykunapi, imaymana yachaykunata 
 kawasayninkumanhina yachanku.
- Pukllaspa, pukllayqa allinpuni wawakunapaqqa, 
 
+•	  Pukllaspa, pukllayqa allinpuni wawakunapaqqa, 
 pukllaspan imaymanata yachanku, imaymana ruraykunata 
-
 yachapayanku, kawasyninkutapas astawan riqsipayanku.
-1.6     
+
+1.
+
+
+
+6     Quechua
+
 ¿Imakumatam yachay wasipi 
-llamk™ananchikpaq yachananchik?
- Wawakunaq kawsayninkuta, rimayninkuta ima riqsiyta
- Ayllupa allin ruraykunata, hinallataq sasachakuykunata.
- Pacha mamanchikpa kawsayninkunata.
- Calendario comunal nisqapi ruraykunata, kawsaykunata 
-ima. Tayta mamakunaq mañakuyninkuta.
- Wawakunaq munasqankuta.
-7CALENDARIO 
+llamk’ananchikpaq yachananchik?
+
+•	  Wawakunaq kawsayninkuta, rimayninkuta ima riqsiyta
+
+•	  Ayllupa allin ruraykunata, hinallataq sasachakuykunata.
+
+•	  Pacha mamanchikpa kawsayninkunata.
+
+•	  Calendario comunal nisqapi ruraykunata, kawsaykunata 
+ima.
+
+•	  Tayta mamakunaq mañakuyninkuta.
+
+•	  Wawakunaq munasqankuta.
+
+
+
+7Quechua
+
+CALENDARIO 
 COMUNAL NISQA
-Kay calendario comunal nisqapin paray ukhu, ch™akiy 
-ukhu pachakunapi imaymana llamk™aykuna, yachaykuna 
 
+Kay calendario comunal nisqapin paray ukhu, ch’akiy 
+ukhu pachakunapi imaymana llamk’aykuna, yachaykuna 
 kachkan, chaymanhina anti runaqa kawsayninta qhawarin. 
-
-Kaypin chakrata, uywata, imaymana t™ikakunata  uywanchik, 
-
+Kaypin chakrata, uywata, imaymana t’ikakunata  uywanchik, 
 paykunapas ñuqanchikta uywawanchik, hinallatqmi takinchik, 
-
 tusunchik, yachanchik ima. 
+
 Kay Calendario comunal nisqa  rurananchispaqqa 
 tayta mamakunawan, hinallataq yachaqkunawan 
-
 yanapachikunanchik, paykunan allinta yachanku. Chayqa, 
-
 yachay wasipi kay kawsaykunata, yachaykunata uqarispa allin 
-
 kawsay kananpaq qispichinanchik.
+
 Kay calendario comunal nisqaqa kayhinatan yanapakun:
 
- Yachay wasi llamk™anapaq pacha qhawariyta
- Llaqtakunapa yachayninta qispichin.
- Yachay wasipi, pacha mamawan hinallataq runakunawan 
-allin kawsayta.
- Yachay wasikunawan, ayllukunawan ima allin kawsaypi, 
+•	  Yachay wasi llamk’anapaq pacha qhawariyta
 
-llamk™ayta.
- Yachay wasipi wawakunawan sumaq llamk™ayta.
-2.8     
+•	  Llaqtakunapa yachayninta qispichin.
+
+•	  Yachay wasipi, pacha mamawan hinallataq runakunawan 
+allin kawsayta.
+
+•	  Yachay wasikunawan, ayllukunawan ima allin kawsaypi, 
+llamk’ayta.
+
+•	  Yachay wasipi wawakunawan sumaq llamk’ayta.
+
+2.
+
+
+
+8     Quechua
+
 ¿Imakunatan calendario comunal nisqa 
 rurananchikpaq qhawarinanchik?
- Paray ukhupi hinallataq ch™akiy ukhupi rurakuykunata.
- T™ikakunapi, uywakunapi, unupi, hanaqpachapi 
+•	  Paray ukhupi hinallataq ch’akiy ukhupi rurakuykunata.
+•	  T’ikakunapi, uywakunapi, unupi, hanaqpachapi 
+
 sananpankunamanta.
- Haywakuykunamanta.
- Musquykunamanta.
- Chakrapi llamk™aykunamanta.
- Raymikunamanta.
- Mikhuykunamanta.
- Tusuykunamanta.
- Killamanta, intimanta.
- Paramanta, phuyumanta, chikchimanta.
- Pukllaykunamanta.
+•	  Haywakuykunamanta.
+•	  Musquykunamanta.
+•	  Chakrapi llamk’aykunamanta.
+•	  Raymikunamanta.
+•	  Mikhuykunamanta.
+•	  Tusuykunamanta.
+•	  Killamanta, intimanta.
+•	  Paramanta, phuyumanta, chikchimanta.
+•	  Pukllaykunamanta.
+
 ¿Imaynatataq yachay wasipi wawakunawan 
-llamk™arisunchik?
-Wawakunawan llamk™ananchispaqqa allintan qhawarinanchik, 
+llamk’arisunchik?
+Wawakunawan llamk’ananchispaqqa allintan qhawarinanchik, 
 allchapakunanchik ima, chayqa allintan yachaykunatapas 
-
-qatipasunchik. Llamk™aykunataqa tayta mamakunawan 
-
+qatipasunchik. Llamk’aykunataqa tayta mamakunawan 
 rurasunchikmanmi, ayllupi umalliqkunawanpas 
-
 chaykunapaqqa kaykunatan rurasunman:
- Wawakunawan, tayta mamakunawan kuska chakrapi 
+
+•	  Wawakunawan, tayta mamakunawan kuska chakrapi 
 yanapakuyta
- Yachay wasipi, wawakunawan tayta mamakunawan chakra 
 
+•	  Yachay wasipi, wawakunawan tayta mamakunawan chakra 
 rurayta.
- Material educativo nisqata tayta mamakunawan, 
 
+•	  Material educativo nisqata tayta mamakunawan, 
 wawakunawan ayllupi kawsayninkunawan rurayta
- Yachachiq yachay wasipi yachayninkunata wawakunaman 
 
+•	  Yachachiq yachay wasipi yachayninkunata wawakunaman 
 riqsichiyta.
- Pacha mamapi sananpankuna ñawinchayta; t™ikakunapi, 
 
+•	  Pacha mamapi sananpankuna ñawinchayta; t’ikakunapi, 
 unupi, hanaqpachapi, uywakunapi, phuyupi, parapi, 
-
-wayrapi, uywakunaq waqyninpi, p™achakunapi, 
-
+wayrapi, uywakunaq waqyninpi, p’achakunapi, 
 mikhunakunapi ima.
-9Concresión curricular
+
+
+
+9Quechua
+
+Concresión curricular
+
 Programación 
 Anual
-Unidades Didácticas
-Ne-cesidades e 
-intereses de apren
--dizaje de niñas y niños                         CALENDARIO    COMUNALProgramas 
+
+Unidades 
+Didácticas
+
+Ne-
+cesidades e 
+
+intereses de apren-
+dizaje de niñas y 
+
+niños
+
+    
+     
+
+     
+      
+
+     C
+ALEN
+
+DARIO    COMUNAL
+
+Programas 
 Curriculares 
-Diversi˜cados 
+
+Diversificados 
 de I.E. o Red
-en L1 y L2Sesiones de 
+
+en L1 y L2
+
+Sesiones de 
 Aprendizaje
+
 (Desarrollo de 
 actividades)
+
 Potencialidades 
 y problemas de la 
+
 comunidad
+
 Demandas 
 y expectativas 
 de las MM.PP.FF. y 
+
 comunidad
-Situación  lingüística  de la comunidad, y de los 
-niños y niñas cosmovisión
-113.Papa hasp™iyqa, yaqa abril, mayo, junio  killakaman rurakun, 
-kay llamk™aykunaqa sapanka ayllukunaq  kawsayninman hina  
 
+Situación  
+lingüística  de la 
+
+comunidad, y de los 
+niños y niñas 
+
+cosmovisión
+
+
+
+
+
+11Quechua
+
+3.
+
+Papa hasp’iyqa, yaqa abril, mayo, junio  killakaman rurakun, 
+kay llamk’aykunaqa sapanka ayllukunaq  kawsayninman hina  
 rurakun. Chayqa, ñuqanchikpas hinatan yachay wasinchikkunapi 
-
-wawanchikkunawan llamk™arisunman. Kay ruraykunapin 
-
+wawanchikkunawan llamk’arisunman. Kay ruraykunapin 
 imaymanata wawakuna yachanku.
-NºLLAMK™AYKUNA
+
+Nº LLAMK’AYKUNA
 YACHAY TAQIPI ASWAN 
+
 YACHAYKUNA
-1Papa hasp™iypi 
+
+1
+Papa hasp’iypi 
+
 yanapakusunchik
 Personal Social nisqa
-2Papa mamaman 
-qillqasunchikComunicación escrita nisqa
-3Papata 
+
+2
+Papa mamaman 
+
+qillqasunchik
+Comunicación escrita nisqa
+
+3
+Papata 
+
 waqaychananchikpaq 
 akllasunchik
-Matemáticas nisqa
-4Wathiyata rurasunchik
-Ciencia y Ambiente nisqa
-5Papa hasp™iypi yana
--pakusqanchikmanta 
-rimarisunchik
-Comunicación oral nisqa
-AYLLUPA KAWSAYNIN: 
-ﬁPAPA HASP™IYﬂ
-12     Nº 1  LLAMK™AY :
-ﬁPAPA HASP™IYPI YANAPAKUSUNCHIKﬂ
-Kay llamk™ayqa allinmi wawakunapaq, chaypin imaymana 
-yachaykunata yachanku; papa haspi™yta, wathiya rurayta, papa 
 
+Matemáticas nisqa
+
+4 Wathiyata rurasunchik Ciencia y Ambiente nisqa
+
+5
+Papa hasp’iypi yana-
+
+pakusqanchikmanta 
+rimarisunchik
+
+Comunicación oral nisqa
+
+AYLLUPA KAWSAYNIN: 
+“PAPA HASP’IY”
+
+
+
+12     Quechua
+
+Nº 1  LLAMK’AY : “PAPA HASP’IYPI YANAPAKUSUNCHIK”
+
+Kay llamk’ayqa allinmi wawakunapaq, chaypin imaymana 
+yachaykunata yachanku; papa haspi’yta, wathiya rurayta, papa 
 akllayta, papa wachaychaymanta ima.
+
 Yachay/Atina
 Yachay /Atina qatipanapaq 
-3 wata
-4 wata
-5 wata
-Ayllunpa hina
--llataq wasinpa 
-rurayninkuna
--pi yanapakun.
-Papa hasp™iy 
 
+3 wata 4 wata 5 wata
+
+Ayllunpa hina-
+llataq wasinpa 
+rurayninkuna-
+pi yanapakun.
+
+Papa hasp’iy 
 qallarinapaq 
-pacha mamaman 
+pacha 
+mamaman 
 haywakuyta 
 qhawan.
-Hasp™isqa 
+
+Hasp’isqa 
 papakunata 
 huñuspa 
 yanapakun.
-Papa hasp™iy 
 
+Papa hasp’iy 
 qallarinapaq 
-pacha mamaman 
+pacha 
+mamaman 
 haywakuyta 
 qhawan.
-Hasp™isqa 
+
+Hasp’isqa 
 papakunata 
 huñuspa 
 yanapakun.
-Papa hasp™iy 
 
+Papa hasp’iy 
 qallarinapaq 
-pacha mamaman 
+pacha 
+mamaman 
 haywakuypi 
 allinta uyarin.
+
 Papata 
-hasp™ispa 
+hasp’ispa 
 yanapakun.
-Runa kaynin
-Llaqtanpa  kawsayninkunta, yachayninkunata ima 
-chaninchan..Ruranapaq wakichikuy
- Chakrayuqkunata papa hasp™iypi yanapakunanchispaq 
-mink™akamusunchik.
- Wawakunawan chakraman purinanchikpaq rimanakusuchik.
- Pachata chakrapi yanapakunanchikpaq qhawarikusunchik 
- Wasinkumanta rawk™anankunata apamunankupaq 
 
+Runa kaynin Llaqtanpa  kawsayninkunta, yachayninkunata ima 
+chaninchan..
+
+Ruranapaq wakichikuy
+
+•	  Chakrayuqkunata papa hasp’iypi yanapakunanchispaq 
+mink’akamusunchik.
+
+•	  Wawakunawan chakraman purinanchikpaq rimanakusuchik.
+
+•	  Pachata chakrapi yanapakunanchikpaq qhawarikusunchik 
+
+•	  Wasinkumanta rawk’anankunata apamunankupaq 
 wawakunaman mañasunchik.
-13Ruranapiña llamk™ay
- Wawakunawan tapuykunata ruraspa  rimarisunchik:
- ¿Chakrata riqsinkichik? ¿Chaqraykichik kanchu? ¿Imakunatataq 
-chakrapiri  rurakun? ¿Chakraman yanapakuq risunmanchu? 
-Runa kaynin:Llaqtanpa kawsayninta, 
-yachayninkunatawan 
-chaninchan. Chakraman purispa, Pacha Mamaq sanapankunata 
 
+
+
+13Quechua
+
+Ruranapiña llamk’ay
+
+•	  Wawakunawan tapuykunata ruraspa  rimarisunchik:
+ ¿Chakrata riqsinkichik? ¿Chaqraykichik kanchu? ¿Imakunatataq 
+
+chakrapiri  rurakun? ¿Chakraman yanapakuq risunmanchu? 
+
+Runa kaynin:
+Llaqtanpa kawsayninta, 
+
+yachayninkunatawan 
+chaninchan.
+
+•	  Chakraman purispa, Pacha Mamaq sanapankunata 
 ñawinchasunchik.
+
 ¿Imaynataq chakrapa yurankuna kachkan? ¿Imarayku? 
+
 ¿Imatataq willakamuchkanku? ¿Imaraykutaq yuraq unanchata 
-chakrapi churanku? ¿Imaraykutaq chakrapi q™unyachinku? 
+
+chakrapi churanku? ¿Imaraykutaq chakrapi q’unyachinku? 
 
 ¿Imatataq willakamuchkanku?
- Chakraman chayaspa, chakrayuqkunata napaykuspa 
+
+•	  Chakraman chayaspa, chakrayuqkunata napaykuspa 
 tapurisunchik: 
+
 ¿Ima killapin tarpuranki? ¿Imaynatataq chakraykita 
 uywarqanki? ¿Imakunatataq chakraykiman sumaq 
 wiñananpaq haywarqanki?.
- Papa hasp™iy qallarinanchikpaq Pacha Mamaman 
+
+•	  Papa hasp’iy qallarinanchikpaq Pacha Mamaman 
 chaqrayuqkunawan kuska  haywarikusunchik.
- Chakrayuqmanta wachuta hasp™inanchikpaq chaskikusunchik.
+
+•	  Chakrayuqmanta wachuta hasp’inanchikpaq chaskikusunchik.
+
 Imaynatas purisunchik, ima pachakaman chakrapi 
 kasunchik, chaykunamanta wawakunawan 
-
 yuyarisunchik.
-14     Imaynatas chakrayuqkuna hasp™iyta qallarinku 
-hinaman, wawakunawan kuska rawk™anakunata 
-hap™ispa, papa hasp™iyta qallarisunchik. 5 watayuq 
-wawakunaqa papata  hasp™inqaku, 3, 4 watayuq 
+
+
+
+14     Quechua
+
+•	 Imaynatas chakrayuqkuna hasp’iyta qallarinku 
+hinaman, wawakunawan kuska rawk’anakunata 
+hap’ispa, papa hasp’iyta qallarisunchik. 5 watayuq 
+wawakunaqa papata  hasp’inqaku, 3, 4 watayuq 
 wawakunataq yanapakunqaku.
-Yachaykuna qhawarinapaq:  Papa hasp™iypi 
+
+Yachaykuna 
+qhawarinapaq:  
+Papa hasp’iypi 
 yanapakun.
- Hasp™iyta  tukuspataq , chakrayuqta añanchayninchikta 
-haywarikusunchik, hinallataq papa hasp™iypi  
 
+•	  Hasp’iyta  tukuspataq , chakrayuqta añanchayninchikta 
+haywarikusunchik, hinallataq papa hasp’iypi  
 yanapakusqanchikmanta , chakrayuqpa munayninta papapi 
-
 chaskikusunchik. 
- Samarispa,  quqawinchikta mikhusunchik 
- Chakrayuqkunaman añayninchikta haywarispa, papanchikta 
 
-q™ipirikuspa yachay wasinchikman kutiripusunchik.
- Yachay wasipi chakraman purisqanchikmanta rimarisunchik.
+•	  Samarispa,  quqawinchikta mikhusunchik 
+
+•	  Chakrayuqkunaman añayninchikta haywarispa, papanchikta 
+q’ipirikuspa yachay wasinchikman kutiripusunchik.
+
+•	  Yachay wasipi chakraman purisqanchikmanta rimarisunchik.
+
 ¿Maytam purirqanchik? ¿imatan rurarqanchik? ¿imaraykutaq 
 Pacha Mamanchikman haywakurqanchik?
- Chakrapi yanapakusqankumanta: 3. watayuq wawakuna 
 
-siq™inqaku; 4,5 watayuq wawakunataq siq™inqaku chaymanta 
-
+•	  Chakrapi yanapakusqankumanta: 3. watayuq wawakuna 
+siq’inqaku; 4,5 watayuq wawakunataq siq’inqaku chaymanta 
 atisqankuman hina qillqanqaku.
-15Rurayta tukuspaña
+
+
+
+15Quechua
+
+Rurayta tukuspaña
+
  Wasinkupi tayta mamankuman ayllunkuman ima chakrapi 
 yanapakusqankumanta willakunqaku.
-Papa hasp™iy yanapakuypi, yachaykunata qhawarispa
+
+Papa hasp’iy yanapakuypi, yachaykunata qhawarispa
+
 ¿Ima yachaykunatan 
 qhawarisunchik?
+
 ¿Imaynatataq 
 qhawarisunchik?
+
 Yachay/ 
 Atina
+
 Yachay/ Atina 
 qatipanapaq
-Tapuykuna
-Qhawaykuna
+
+Tapuykuna Qhawaykuna
+
 Ayllunpa 
 hinallataq 
 wasinpa 
 rurayninkunapi 
-
 yanapakun.
-Papa hasp™iy 
 
+Papa hasp’iy 
 qallarinapaq 
 Pacha 
 Mamaman 
-
 haywakuyta 
 allinta uyarin.
+
 Papata 
-hasp™ispa 
+hasp’ispa 
 yanapakun.
+
 Chakrapi 
 qhawarinchik 
 sichus wawakuna:
--  
-Napaykunku
+
+-  Napaykunku
+
 - Ripunankupaq 
 willakunku
--  
-Chakrayuqman 
+
+-  Chakrayuqman 
 tapuykunata 
 ruranku:
+
   ¿Ima pachapin 
 tarpurqanki? 
-
 ¿Imaynatataq 
 chakraykita 
-
 uywarqanki? 
 ¿Imakunatataq 
 rurarqanki 
 chakrayki sumaq 
 kananpaq?
--  
-Papa hasp™iypi 
 
+-  Papa hasp’iypi 
 yanapakun.
-16     PAPA MAMAMAN QILLQASUNCHIK
-Nº 2  LLAMK™AY :
+
+
+
+16     Quechua
+
+PAPA MAMAMAN QILLQASUNCHIKNº 2  LLAMK’AY :
+
 Yachay/Atina
 Yachay /Atina qatipanapaq 
-3 wata
-4 wata
-5 wata
+
+3 wata 4 wata 5 wata
+
 Munasqanta, 
 rurasqanta 
-ima siminpi willakun.
-Rurasqanmanta 
+ima siminpi 
+willakun.
 
+Rurasqanmanta 
 atisqanmanhina 
 tapuykunata 
 kutichin.
+
 Rurasqanmanhina 
 willakun.
-Tapuykunata 
 
+Tapuykunata 
 kutichispa riman
+
 Ayllunpi 
 ruraykunata 
 ruraspa willakun
+
 Tukuy 
 runakunawan 
 riman.
+
 Alyllunpi 
 ruraykunata 
 ruraspa (ñawpaq 
 rurasqata, qhipa 
-
 rurasqata willakun) 
-Tukuy qillqa
--
-ykunata atis
--qanmanhina qillqan.Pimanmi 
 
+Tukuy qillqa-
+ykunata atis-
+qanmanhina 
+qillqan.
+
+Pimanmi 
 qillqanqa chayta 
-nin.Atisqanmanhina 
-papaman qillqanqa.Imatan, pimantaq 
+nin.
 
+Atisqanmanhina 
+papaman 
+qillqanqa.
+
+Imatan, pimantaq 
 qillqanqa chayta 
 willakun.
+
 Papaman 
 imatas niyta 
 munan chayta 
-
 yachachiqninman 
-qillqananpaq nin. Imatan, piman, 
+qillqananpaq nin. 
+
+Imatan, piman, 
 hinallataq 
-imapaq qillqanqa chaymanta nin.
-
-Huñupi, papaman qillqaykunata, 
+imapaq qillqanqa 
+chaymanta nin.
+Huñupi, papaman 
+qillqaykunata, 
 yachachiqninwan 
+qillqachin.
 
-qillqachin.Runa kaynin
-Llaqtanpa  kawsayninkunta, yachayninkunata ima 
+Runa kaynin Llaqtanpa  kawsayninkunta, yachayninkunata ima 
+chaninchan.
 
-chaninchan.Ruranapaq wakichikuy
- Yachay wasipi llamk™ananchikpaq materialkunata qhawarikusunchik 
-(rapi, qillqana, siq™ina, k™askachina).
- Yachay wasiman hamunanpaq tayta mamata mink™arikusunchik, 
+Ruranapaq wakichikuy
 
+•	  Yachay wasipi llamk’ananchikpaq materialkunata qhawarikusunchik 
+(rapi, qillqana, siq’ina, k’askachina).
+
+•	  Yachay wasiman hamunanpaq tayta mamata mink’arikusunchik, 
 Imaynatas papaman rimarinku chaymanta  willawananchikpaq.
- llamk™ananchikpaq pachata qhawarikusunchik.
-17Ruranapiña llamk™ay
- Wawakunawan rimarisunchik:
+
+•	  llamk’ananchikpaq pachata qhawarikusunchik.
+
+
+
+17Quechua
+
+Ruranapiña llamk’ay
+
+•	  Wawakunawan rimarisunchik:
+
 ¿Qamkuna papa mamaman rimariyta uyarirqankichikchu? 
 ¿Ima nispataq papa mamawanri rimanku? ¿Ñuqanchikpaq 
 imataq papa mamari? ¿Imatataq quwanchik? ¿Papa 
-
 mamanchikman qillqasunmanchu? ¿Pitaq papa mamaman 
-
 rimaytari yachachiwasunman?
- Mama, utaq tayta chayarqamuqtin sumaqta chaskisunchik, 
 
-ñawpaq p™unchaypi rurasqanchikta willasunchik.
- Muyuchapi churakuspa  tayta mamaman, papa mamamanta  
+•	  Mama, utaq tayta chayarqamuqtin sumaqta chaskisunchik, 
+ñawpaq p’unchaypi rurasqanchikta willasunchik.
 
+•	  Muyuchapi churakuspa  tayta mamaman, papa mamamanta  
 rimasqankuta  uyarisunchik wawakuna tapuykunatapas 
-
 rurallankumanmi.
- Chaymanta, uyarisqanchikta wawakunawan rapipi 
 
-qillqasunchik Qillqananchikpaqtaq  tapuykunata ruraspa  
+•	  Chaymanta, uyarisqanchikta wawakunawan rapipi 
+qillqasunchik 
+
+Qillqananchikpaqtaq  tapuykunata ruraspa  
 yanapakusunchik: 
+
 ¿Pimanmi qillqasunchik? ¿Imakunatataq papa 
 mamaman nisunman?  ¿Imaraykutaq papa 
+mamaman qillqasunman? 
 
-mamaman qillqasunman? Kayhinata qillqasunman.
-Atinakunapa  qhawariynin.Imatan, piman, 
+Kayhinata qillqasunman.
+
+Atinakunapa  
+qhawariynin.
+
+Imatan, piman, 
 hinallataq imapaq 
+
 qillqanqa chaymanta 
 riman.
-Papa mamaman rimarisunchik (siq™iy)
+
+Papa mamaman rimarisunchik (siq’iy)
+
 Papa mamallay qammi kanki uywaqniyku, qanmi 
 yarqayniykuta saqsachiwankiku.
+
 Pacha Mamaq sunqunpi wiñanki, wiñanaykipaq 
 parata mañakusaqku, muñawan allchasaykiku, 
-
-ichhuwantaq p™istusaykiku. Hinallan 
-
+ichhuwantaq p’istusaykiku. Hinallan 
 mirakunki kawsakunki ima kay wawaykikunata 
-
 uywawanaykikupaq.
-Atinakunapa  qhawariynin.Huñupi papaman qillqaykunata, 
+
+Atinakunapa  
+qhawariynin.
+
+Huñupi papaman 
+qillqaykunata, 
+
 yachachiqninwan 
-qillqachin.18     Atinakunapa qhawariynin: Imata, piman, imapaq 
+qillqachin.
+
+
+
+18     Quechua
+
+Atinakunapa 
+qhawariynin: 
+Imata, piman, imapaq 
 qillqaykunata qillqan 
 chaymanta riman.
-   Qillqayta tukuspataq, wawakunawan  kuska 
+
+•	    Qillqayta tukuspataq, wawakunawan  kuska 
 ñawinchasunchik.
+
 Tapusunchik:
+
 ¿Pikunamanmi qillqarqanchik? ¿imakunatataq 
 nirqanchik? ¿imapaqtaq qillqarqanchik?
- Wawakunawan, tapuykunata ruraspa rimasunchik: 
+
+•	  Wawakunawan, tapuykunata ruraspa rimasunchik: 
+
 ¿Huk runakuna qillqasqanchikta  qhawanankupaq, 
 ñawinchanankupaq ima, maypitaq churasunman?
- Hinaqa llamk™asqanchikta llapanku ñawinchanankupaq 
-pirqapi k™askachisunchik.
+
+•	  Hinaqa llamk’asqanchikta llapanku ñawinchanankupaq 
+pirqapi k’askachisunchik.
+
 Rurayta tukuspaña
- Wasinkupi, tayta mamankuman, kuraqninkunaman 
 
+•	  Wasinkupi, tayta mamankuman, kuraqninkunaman 
 ima, llapa ayllunkunaman yachay wasipi rurasqankuta 
-
 willanqaku.
- Huk runakunta qillqasqanchikta qhawanankupaq 
 
-mink™akamusunchik.
-19Papa maman qillqasqanchikta qatipanaspa
+•	  Huk runakunta qillqasqanchikta qhawanankupaq 
+mink’akamusunchik.
+
+
+
+19Quechua
+
+Papa maman qillqasqanchikta qatipanaspa
+
 ¿Ima yachaykunatam 
 qhawarisunchik?
+
 ¿Imaynatam qhawasunchik?
+
 Yachay/Atina
 Yachay/Atina 
 qatipanapaq
-Tapuykuna
-Qhawarinapaq
+
+Tapuykuna Qhawarinapaq
+
 Tukuy 
 qillqaykunata 
 atisqanmanhina 
-qillqan.Imatan, piman, 
+qillqan.
 
-imapaq qillqanqa chaymanta nin.
-¿Pimanmi qillqasun
--
+Imatan, piman, 
+imapaq 
+qillqanqa 
+chaymanta nin.
+
+¿Pimanmi qillqasun-
 chik? ¿Imakunatataq 
-papa mamaman ni-sunman?  ¿Imarayku
--
-taq papa mamaman qillqasunman? Huñupi, papa-
-man qillqayku
--nata, yacha
--
+papa mamaman ni-
+sunman?  ¿Imarayku-
+taq papa mamaman 
+qillqasunman? 
+
+Huñupi, papa-
+man qillqayku-
+nata, yacha-
 chiqninwan 
-qillqachin..¿Pitaq papa ma
--
+qillqachin..
+
+¿Pitaq papa ma-
 maman wiñayta 
 yanapan? ¿Maypitaq 
-
 wiñan? ¿Imatataq 
-papa mama quwan
--chik? ¿Maypitaq 
-
+papa mama quwan-
+chik? ¿Maypitaq 
 waqaychanchik? 
-¿Imawantaq allcha
--panchik? ¿Imawantaq 
-p™istunchik?, etc.
-Wawakuna papa 
+¿Imawantaq allcha-
+panchik? ¿Imawantaq 
+p’istunchik?, etc.
 
+Wawakuna papa 
 mamaman imatas 
 niyta munan chayta 
-
 yachachiqninman 
 qillqananpaq ninku.
+
 Munasqanta, 
 rurasqanta ima 
+siminpi wi-
+llakun.
 
-siminpi wi-llakun.
-Tukuy runaku
--nawan riman.
-
-Alyllunpi rura
--ykunata ruras
--pa (ñawpaq 
+Tukuy runaku-
+nawan riman.
+Alyllunpi rura-
+ykunata ruras-
+pa (ñawpaq 
 rurasqata, 
-qhipa rurasqa
--
+qhipa rurasqa-
 ta willakun).
-Tayta mamaman, 
 
+Tayta mamaman, 
 papa mamaman  
 rimasqanmanta 
 allinta uyarin, 
 tapuykunatapas 
 ruran. 
-20     PAPATA WAQAYCHANANCHIKPAQ 
+
+
+
+20     Quechua
+
+PAPATA WAQAYCHANANCHIKPAQ 
 AKLLASUNCHIK
+
 Yachay/
 Atina
+
 Yachay /Atina qatipanapaq 
-3 wata
-4 wata
-5 wata
-Papa ma
--makunata, 
+3 wata 4 wata 5 wata
 
+Papa ma-
+makunata, 
 ayllunkupi 
-kawsaynin
--manhina 
+kawsaynin-
+manhina 
 akllan.
-Papa mamata  
 
-huk mikhuykuna
--
+Papa mamata  
+huk mikhuykuna-
 manta akllan.
-Papa mamaku
--
-nata munay
--ninmanhina akllan
+
+Papa mamaku-
+nata munay-
+ninmanhina 
+akllan
+
 Papa mamakunata 
 mikhunapaq, 
-
-ch™uñupaq, 
+ch’uñupaq, 
 muhupaq, 
 raymipaq ima 
-
 akllan
-Imatas 
 
+Imatas 
 akllachkan 
 chayta willakun.
-Imaynatas 
-papa mamakunata 
-akllan 
 
+Imaynatas 
+papa 
+mamakunata 
+akllan 
 chaymanta 
 willakun.
+
 Imaynatas papa 
 mamakunata 
 akllan, hinallataq 
 imarayku akllan 
-
 chaykunamanta 
 willakun.
+
 Rapipi papa 
 mamata 
 atisqanmanhina 
-siq™in..
+siq’in..
+
 Rapipi papa 
+mama akllas-
+qanmanhina 
+siq’in,
 
-mama akllas
--qanmanhina siq™in,
 Rapipi papa mama 
-
 akllasqanmanhina 
-siq™in, qillqan ima.
-Runa kaynin
+siq’in, qillqan ima.
+
+Runa 
+kaynin
+
 Llaqtanpa kawsayninta, yachayninta ima chaninchan.
+
 Ruranapaq wakichikuy
-Ñawpaq p™unchawta tayta mamaman mink™akusunchik 
+
+•	 Ñawpaq p’unchawta tayta mamaman mink’akusunchik 
 papa waqaychaypi yanapakunanchikpaq, chaypaqqa 
-
 wawakunawan rimanakuspa tayta mamaman kukachata 
-
 aparisunchik.
-Materialkunata (rapi, siq™ikuna, qillqanakuna, llimp™inakuna) 
 
-yachay wasipi llamk™ananchikpaq qhawarisunchik.
-Nº 3  LLAMK™AY :
-21Ruranapiña llamk™ay
- Tapuykunata ruraspa wawakunawan rimanakusunchik.
+•	 Materialkunata (rapi, siq’ikuna, qillqanakuna, llimp’inakuna) 
+yachay wasipi llamk’ananchikpaq qhawarisunchik.
+
+Nº 3  LLAMK’AY :
+
+
+
+21Quechua
+
+Ruranapiña llamk’ay
+
+•	  Tapuykunata ruraspa wawakunawan rimanakusunchik.
+
 ¿Wasinchikpi papa mamanchikta waqaychanchikchu? 
 ¿Imaynatataq waqaychanchik? ¿Qamkuna wasiykichikpi, papa 
 mama waqaychaypi yanapakurqankichikchu? ¿Kunan papa 
-
 mama waqaychaq yanapakuq risunmanchu?
+
 Yachay/Atinakuna  
-qhawariyniy: Papa mamakunata 
-mikhunapaq, ch™uñupaq, 
+qhawariyniy: 
+
+Papa mamakunata 
+mikhunapaq, ch’uñupaq, 
 muhupaq, raymipaq ima 
+
 akllan
+
 Ama qunqaychu kay 
 haywarikuytaqa rurakun 
-papa mamanchik mana unqunanpaq hinallataq  
+papa mamanchik mana 
+unqunanpaq hinallataq  
+
 kusisqa kawsananpapqmi.
- Papa mama akllaypi, wasiyuq akllasqanmanhina 
 
-yanapakuyta qallarisunchik (wayk™unapaq, 
+•	  Papa mama akllaypi, wasiyuq akllasqanmanhina 
+yanapakuyta qallarisunchik (wayk’unapaq, 
+raymipaq, ch’uñupaq, murayapaq, qhatunapaq 
+ima)
 
-raymipaq, ch™uñupaq, murayapaq, qhatunapaq 
-
-ima) Wawakunawan papa 
-
+•	  Wawakunawan papa 
 akllanaman risunchik, 
-
 chaypi taytawan, mamawan  
-
 kuska papaq muyuriqninpi 
-
 churakuspa Pacha Mamaman 
-
 haywarikuyta  rurasunchik.
-22      Akllayta tukuspataq imaynatas akllarqanchik, imaraykus 
+
+
+
+22     Quechua
+
+•	  Akllayta tukuspataq imaynatas akllarqanchik, imaraykus 
 akllarqanchik , imaynatas waqaycharqanchik, maypis 
+
 waqaycharqanchik chaykunata tapuykunaman 
 kutichispa riqsichisunchik.
-¿Imaraykutaq ch™uñupaq papata akllarqanchik? 
+
+¿Imaraykutaq ch’uñupaq papata akllarqanchik? 
 ¿ Imaraykutaq murayapaq papata akllarqanchik? 
-¿Raymipaqri? ¿Wayk™unapaqri? ¿Maypitaq 
+
+¿Raymipaqri? ¿Wayk’unapaqri? ¿Maypitaq 
 waqaycharqanchik? ¿Imaraykutaq hinatari 
+
 waqaycharqanchik?
- Chaymanta, papa mama akllayta tukuspataq tayta 
+
+•	  Chaymanta, papa mama akllayta tukuspataq tayta 
 nimusqanmanhina taqikunapi waqaychasunchik.
- Tukuspataq tayta mamata añayninchikta haywarisunchik.
+
+•	  Tukuspataq tayta mamata añayninchikta haywarisunchik.
+
 Rurayta tukuspaña
- Wasinkupi  imaynatas papa mamankuta akllanku 
+•	  Wasinkupi  imaynatas papa mamankuta akllanku 
 
 waqaychananku ima,  chaykunata qhawanqaku, yachay 
-
 wasiman kutispataq qhawasqankuta willakunqaku.
+
 Ama qunqaychu, sapanka wasipin kawsayninkumanhina 
-
 papata waqaychanku, chaymanhina wawakuna 
-
 willakunqaku.
+
 Wakin ayllukunapiqa papa waqaychanataqa taqi ninku, 
 huk kunataq truhi. Icha aylluykipi huk sutin kan chayqa 
+chayta uqarispa llamk’anayki.
 
-chayta uqarispa llamk™anayki.
-Yachay/Atina qhawarinapaq.  Imaynatas, imaraykus 
+Yachay/Atina 
+qhawarinapaq.  
+Imaynatas, imaraykus 
 papa mamakunata akllan 
 chaymanta willakun.
-Yachay qhawarinapaq  Rapipi papa mama 
+
+Yachay 
+qhawarinapaq  
+Rapipi papa mama 
 akllasqanmanhina 
-siq™in, qillqan ima.
- Yachay wasiman kutispa rapipi, 3 watayuq  
+siq’in, qillqan ima.
+
+•	  Yachay wasiman kutispa rapipi, 3 watayuq  
 wawakuna papa mama akllasqankumanhina 
+siq’inqaku; 4, 5 watayuq wawakunataq 
+siq’inqaku, qillqanqaku ima.
 
-siq™inqaku; 4, 5 watayuq wawakunataq 
 
-siq™inqaku, qillqanqaku ima.
-23Papa mama waqaychasqanchikta qhawarisunchik
+
+23Quechua
+
+Papa mama waqaychasqanchikta qhawarisunchik
+
 ¿Ima yachaykunatam 
 qhawarisunchik?
+
 ¿Imaynatam qhawasunchik?
+
 Yachay/Atina
 Yachay/Atina 
 qatipanapaq
-Tapuykuna.
-Qhawarinapaq.
-Papa mamaku
--nata, ayllunkupi 
-kawsayninman
--hina akllan. 
 
+Tapuykuna. Qhawarinapaq.
+
+Papa mamaku-
+nata, ayllunkupi 
+kawsayninman-
+hina akllan. 
 Hinaspa rapipi 
-akllasqanman
--hina siq™in, 
+akllasqanman-
+hina siq’in, 
 chaymanta 
 willakun.
-Papa 
 
+Papa 
 mamakunata 
 mikhunapaq, 
-ch™uñupaq, 
-
+ch’uñupaq, 
 muhupaq, 
 raymipaq ima 
 akllan
+
 ¿Imaraykun 
+ch’uñupaq papa 
+mamata akllar-
+qanku? ¿Mura-
+yapaqri? ¿Ray-
+mikunapaqri?  
+¿Wayk’unapaqri?.
 
-ch™uñupaq papa 
-mamata akllar
--qanku? ¿Mura
--yapaqri? ¿Ray
--mikunapaqri?  
-
-¿Wayk™unapaqri?.
 Imaynatas 
-
-papa mamaku
--
+papa mamaku-
 nata akllan, 
-hinallataq ima
--rayku akllan 
+hinallataq ima-
+rayku akllan 
+chaykunaman-
+ta willakun.
 
-chaykunaman
--ta willakun.
 ¿Imaraykutaq kay 
 papakunatari kay 
+hukkunawan chu-
+rarqanki?.
 
-hukkunawan chu
--rarqanki?.
 Rapipi papa 
-mama akllas
--qanmanhina siq™in, qillqan 
+mama akllas-
+qanmanhina 
+siq’in, qillqan 
+ima.
 
-ima.Rapipi, 3 watayuq  
-
+Rapipi, 3 watayuq  
 wawakuna papa 
-mama akllas
--qankumanhina 
-
-siq™inqaku; 4, 5 
-watayuq wawaku
--nataq siq™inqaku, 
+mama akllas-
+qankumanhina 
+siq’inqaku; 4, 5 
+watayuq wawaku-
+nataq siq’inqaku, 
 qillqanqaku ima
-24     WATHIYATA RURASUNCHIK
+
+
+
+24     Quechua
+
+WATHIYATA RURASUNCHIK
+
 Atina
 Atinakunapa qhawariynin.
-3 wata
-4 wata
-5 wata
-Llaqtanpa yurankunaq 
 
+3 wata 4 wata 5 wata
+Llaqtanpa 
+yurankunaq 
 kayninta 
 riqsipan.
+
 Papata 
 mamatahina 
-
 riqsipan.
+
 Papa mamata, 
-
 uywakuq, 
-
 mikhuchikuq, 
 hinallataq 
 hanpikuq 
-
 mamatahina 
 riqsipan.
+
 Papa mamata, 
 uywakuq, 
-
 mikhuchikuq, 
 hinallataq 
 hanpikuq 
-
 mamatahina 
 riqsipan.
-Runa kaynin
-Papa mamata sumaqta chaninchan.
+
+Runa kaynin Papa mamata sumaqta chaninchan.
+
 Ruranapaq wakichikuy
- Tayta mamata, wathiya rurayta yanapawananchikpaq 
-mink™akusunchik.
- Wathiya rurananchispaq hallp™ata qhawamusunchik 
 
+•	  Tayta mamata, wathiya rurayta yanapawananchikpaq 
+mink’akusunchik.
+
+•	  Wathiya rurananchispaq hallp’ata qhawamusunchik 
 (maypi,chakrapi, yachay wasi hawapi, ima)
- Imakunan wathiya rurananchikpaq kanan chaykunata 
 
+•	  Imakunan wathiya rurananchikpaq kanan chaykunata 
 qhawarikusunchik.
- Wawakunawan wathiya rurananchikpaq rimanakusunchik
-Ruranapiña llamk™ay
- Wawakunawan tapuykunata ruraspa rimarisunchik
-¿Imatan  kunan p™unchaw  rurasunchik? ¿Pitaq  
+
+•	  Wawakunawan wathiya rurananchikpaq rimanakusunchik
+
+Ruranapiña llamk’ay
+
+•	  Wawakunawan tapuykunata ruraspa rimarisunchik
+¿Imatan  kunan p’unchaw  rurasunchik? ¿Pitaq  
 yanapawasunchik? ¿Maypitaq rurasunchik? ¿Imaynatataq 
-
 yanapakusunri?
- Mink™akusqanchik mamata sumaqta chaskisunchik.
- Wawakunawan, mamawan ima wathiyaq rinanchikpaq 
 
+•	  Mink’akusqanchik mamata sumaqta chaskisunchik.
+
+•	  Wawakunawan, mamawan ima wathiyaq rinanchikpaq 
 rimanakusunchik.
-Nº 4  LLAMK™AY :
-25 Hurnuq q™uñichkanankama, mamawan papakunamanta 
+
+Nº 4  LLAMK’AY :
+
+
+
+25Quechua
+
+•	  Hurnuq q’uñichkanankama, mamawan papakunamanta 
 rimarisunchikman.
+
 Tapuykunata rurasunman:
+¿Imaynataq papakunari?  (taksakuna, huch’uykuna, hatunkuna, 
+munaychakuna, ñawisapakuna, sumaqkuna, misk’ikuna)
 
-¿Imaynataq papakunari?  (taksakuna, huch™uykuna, hatunkuna, 
-munaychakuna, ñawisapakuna, sumaqkuna, misk™ikuna)
 ¿Paykunahinari huk papakuna kanchu? ¿Imaynataq kanku  
-(hak™usapa, unusapa, , muyukuna, chuntakuna, wayk™unapaq, 
+(hak’usapa, unusapa, , muyukuna, chuntakuna, wayk’unapaq, 
+ch’uñupaq, murayapaq, raymipaq).
 
-ch™uñupaq, murayapaq, raymipaq).
 ¿Imatataq papari quwanchik? (mikhunawan uywawanchik, 
 hampiwanchik ima) 
- Ñanta purispa q™awata, utaq llant™ata pallaspa, huñuspa ima  
 
+•	  Ñanta purispa q’awata, utaq llant’ata pallaspa, huñuspa ima  
 wathiya rurananchikpaq apasunchik.
- Wathiyana pataman chayaspa mamaman hurnu ruranapaq  
 
-k™urpakunata haywaspa yanapasunchik.
- Imaynatas mama hurnuta ruran, chayta qhawasunchik. 
-26      Hurnu  papa churanapaqña kachkan chayqa, mama 
+•	  Wathiyana pataman chayaspa mamaman hurnu ruranapaq  
+k’urpakunata haywaspa yanapasunchik.
+
+•	  Imaynatas mama hurnuta ruran, chayta qhawasunchik. 
+
+
+
+26     Quechua
+
+•	  Hurnu  papa churanapaqña kachkan chayqa, mama 
 papakunata churanqa.
- Imaynatas papata hurnupi p™ampan chaytan makilla 
 
+•	  Imaynatas papata hurnupi p’ampan chaytan makilla 
 qhawasunchik.
- Ña papa chayaqtin;  mama hurnumanta papa urqusqanta. 
 
+•	  Ña papa chayaqtin;  mama hurnumanta papa urqusqanta. 
 maki qhawasunchik,.
  
 Wawakunata  tapusunchik:
+
 ¿Imaynataq ñawpaq  papari qarqan? ¿Kunanri  imaynataq 
 kachkan? ¿Imarayku?
- Muyupi churakuspa llapanchik wathiyata kisuyuqta, utaq 
-aychayuqta, ch™aquyuqta ima mikhusunchik.
- Hurnupi papa wayk™ukunankama 
+
+•	  Muyupi churakuspa llapanchik wathiyata kisuyuqta, utaq 
+aychayuqta, ch’aquyuqta ima mikhusunchik.
+
+•	  Hurnupi papa wayk’ukunankama 
 mamawan tapuykunata ruraspa rimasunchik.
-¿Imaynatataq papari wayk™ukunqa? ¿Ima 
 
+¿Imaynatataq papari wayk’ukunqa? ¿Ima 
 sananpakunapas chayta yachakunapaq 
+karqanchu? ¿Imaraykutaq q’usñimuptin hallp’awan 
 
-karqanchu? ¿Imaraykutaq q™usñimuptin hallp™awan 
-p™amparanchik? ¿Wathiyatari mayqin killapipas 
+p’amparanchik? ¿Wathiyatari mayqin killapipas 
 rurasunmanchu?, ima.
-Yachay/Atinakunapaq qhawariyninPapa mamata, uywakuq, 
+
+Yachay/Atinakunapaq 
+qhawariynin
+Papa mamata, uywakuq, 
 mikhuchikuq, hinallataq 
 hampikuq mamatahina 
 riqsipan
+
 ¿Sichus pampaman urmachisun chayri iman kanman? ¿Papa 
 mamanchikri imaynatataq churakunman? 
-27Yachay/Atinakunapaq qhawariynin.Papa mamata, uywakuq, 
+
+
+
+27Quechua
+
+Yachay/Atinakunapaq 
+qhawariynin.
+
+Papa mamata, uywakuq, 
 mikhuchikuq, hinallataq 
+
 hanpikuq mamatahina 
 riqsipan
- Yachay wasipi wathiya rurasqanchikmanta rimarisunchik.
-Wawakuna, rapipi kay tapuykunamanhina siq™inqaku:
-¿Imaynataq papacha churakun wikch™urayasqa 
+
+•	  Yachay wasipi wathiya rurasqanchikmanta rimarisunchik.
+
+Wawakuna, rapipi kay tapuykunamanhina siq’inqaku:
+
+¿Imaynataq papacha churakun wikch’urayasqa 
 kaptin? ¿Mikhuchiwaqtinchikri? 
 ¿Hampiwaqtinchikri? 
- Llapanku qhawanankupaq pirqapi, rapipi 
 
-rurasqankuta k™askachinqaku.
+•	  Llapanku qhawanankupaq pirqapi, rapipi 
+rurasqankuta k’askachinqaku.
+
 Rurayta tukuspaña
- Wasiman chayaspa wathiya mikhusqankuta tayta mamankuman 
 
+•	  Wasiman chayaspa wathiya mikhusqankuta tayta mamankuman 
 willakunqaku.
- Tukuspataq, mamata  añayninchikta haywarisunchik, 
 
+•	  Tukuspataq, mamata  añayninchikta haywarisunchik, 
 hinallataq papa mamata mikhuna quwasqanchikmanta 
-
 añaychakusunchik.
-28     Wathiya rurasqanchikta qhawarispa
+
+
+
+28     Quechua
+
+Wathiya rurasqanchikta qhawarispa
+
 ¿Ima yachaykunatam 
 qhawarisunchik?
+
 ¿Imaynatam qhawasunchik?
+
 Yachay/
 Atina
+
 Yachay/Atina 
 qatipanapaq
-Tapuykuna
-qhawariykuna 
-Llaqtanpa yurankunaq 
-kayninta riqsi
--pan.Papa mamata, 
 
+Tapuykuna qhawariykuna 
+
+Llaqtanpa 
+yurankunaq 
+kayninta riqsi-
+pan.
+
+Papa mamata, 
 uywakuq, 
 mikhuchikuq, 
 hinallataq 
-
 hampikuq 
 mamatahina 
 riqsipan.
+
 ¿Imarayku papa 
+mamata mikhun-
+chik?
 
-mamata mikhun
--chik?¿Ima mikhu
--nakunatan papa 
-
+¿Ima mikhu-
+nakunatan papa 
 mamamanta 
 rurakun? 
+
 ¿Imakunatataq 
-papa mama-tawan ruranchik?
+papa mama-
+tawan ruranchik?
+
 ¿Imam kanman 
 sichus papa ma-
 mata urmachisun 
 chayqa?
+
 ¿Papa mamata 
-mikhullanchik
--chu, icha ima
--paqwan ñuqan
--chikpaq kan? 
-¿Payri, uwawan
--chikchu, ham
--piwanchikchu?.
+mikhullanchik-
+chu, icha ima-
+paqwan ñuqan-
+chikpaq kan? 
+
+¿Payri, uwawan-
+chikchu, ham-
+piwanchikchu?.
+
 Rapikunapi papa 
-mamaman siq™inkunata.
-29Yachay/Atinakunapaq qhawariyninPapa hasp™iy 
-p™unchawkunapi 
-ruraykunamanta ch™uyata 
+mamaman 
+siq’inkunata.
+
+
+
+29Quechua
+
+Yachay/Atinakunapaq 
+qhawariynin
+Papa hasp’iy 
+
+p’unchawkunapi 
+ruraykunamanta ch’uyata 
+
 willakun
-PAPA HASP™IYPI 
+
+PAPA HASP’IYPI 
 YANAPAKUSQANCHIKMANTA 
+RIMARISUNCHIK
 
-RIMARISUNCHIKAtina
+Atina
 Atinakunapa qhawariynin
-3 wata
-4 wata
-5 wata
-Tukuy ruras
--qanmanta 
 
+3 wata 4 wata 5 wata
+Tukuy ruras-
+qanmanta 
 willakun
+
 Papa 
-
-hasp™iypipi  
-
+hasp’iypipi  
 rurasqanmanta 
 willakun
-Papa hasp™iy 
-p™unchawkunapi 
 
+Papa hasp’iy 
+p’unchawkunapi 
 ruraykunamanta 
 willakun
-Papa hasp™iy 
-p™unchawkunapi 
 
+Papa hasp’iy 
+p’unchawkunapi 
 ruraykunamanta 
-ch™uyata willakun
+ch’uyata willakun
+
 Ruranapaq wakichikuy
- Ñawpaq p™unchawkunapi  llamk™aykunata tukuspa, 
+
+•	  Ñawpaq p’unchawkunapi  llamk’aykunata tukuspa, 
 wawakunaq yanapayninwan papaman qillqasqakunata, 
+siq’ikunata ima huñusunchik .
 
-siq™ikunata ima huñusunchik .
- Material nisqata qhawarikusunchik (rumichakunata, 
+•	  Material nisqata qhawarikusunchik (rumichakunata, 
+k’aspichakunata)
 
-k™aspichakunata)
-Ruranapiña llamk™ay
- Ñawpaq p™unchawkunapi rurasqanchikta  wawakunawan 
+Ruranapiña llamk’ay
 
+•	  Ñawpaq p’unchawkunapi rurasqanchikta  wawakunawan 
 kuchka yuyarisunchik, icha kay tapuykunata ruraspa 
-
 rimasunman:
-Nº 5  LLAMK™AY :
-¿Imakunatan ñawpaq p™unchawkunapi rurarqanchik?, 
-¿Maytan rirqanchik? ¿Pikunataq papata hasp™irqanku?, 
 
+Nº 5  LLAMK’AY :
+
+¿Imakunatan ñawpaq p’unchawkunapi rurarqanchik?, 
+¿Maytan rirqanchik? ¿Pikunataq papata hasp’irqanku?, 
 ¿Warmikunari imatataq rurarqan?, ¿Qharikunari?, 
-
 ¿wawakunari imatataq rurarqanku? ¿Imawantaq 
-
-llamk™arqanku? ¿Imakunatan mikhurqanchik? 
-
+llamk’arqanku? ¿Imakunatan mikhurqanchik? 
 ¿Imakunatan upyarqanchik? ¿Imaynatataq pacha 
-
 mamaman mañakurqanchik? ¿Imaynatataq 
-
 papa mamaman rimarqanchik?  ¿Achkhatachu 
+papata hasp’irqanchik? ¿Imakunatataq, siq’irqanchik, 
+llimp’irqanchik, qillqarqanchik ima?
 
-papata hasp™irqanchik? ¿Imakunatataq, siq™irqanchik, 
 
-llimp™irqanchik, qillqarqanchik ima?
-30     Yachay/Atinakunapaq 
-qhawariynin  Papa hasp™iy 
-p™unchawkunapi 
+
+30     Quechua
+
+Yachay/
+Atinakunapaq 
+qhawariynin  
+Papa hasp’iy 
+p’unchawkunapi 
 ruraykunamanta 
-ch™uyata willakun
+ch’uyata willakun
+
 Wawakunatan munaychata rimarisunchik, hinaspataq 
 paykuna willakusqankuta, rimaqtinku ima allinta 
-
 uyarisunchik.
- Pizarra nisqapi wawakunaq rimasqanta qillqasunchik.
- Wawakunata tapurisunchik:
+
+•	  Pizarra nisqapi wawakunaq rimasqanta qillqasunchik.
+
+•	  Wawakunata tapurisunchik:
+
 ¿Imaynatataq tukuy rurasqanchikta riqsichisunman? ¿Icha 
 mural hinatachu rurasunman?.
+
 ¿Imatataq ñawpaqta rurarqanchik? ¿Chaymantari? 
 ¿Qhipamanri?
- Sichus mana hunt™asqachu chayqa, wawakuna siqíspa 
 
-hunt™achinqaku.
- Mural nisqata rurayta tukuspa, llapanku qhawanqaku,  
+•	  Sichus mana hunt’asqachu chayqa, wawakuna siqíspa 
+hunt’achinqaku.
 
+•	  Mural nisqata rurayta tukuspa, llapanku qhawanqaku,  
 ñawinchanqaku ima. 
- Wawakunawan kuchka mural nisqapi tukuy 
 
-ruraykunata k™askachisunchik.
- Wawakuna qhawarinqaku, hunt™asqachu 
+•	  Wawakunawan kuchka mural nisqapi tukuy 
+ruraykunata k’askachisunchik.
 
+•	 Wawakuna qhawarinqaku, hunt’asqachu 
 kachkan manachu.
-31Rurayta tukuspaña
+
+
+
+31Quechua
+
+Rurayta tukuspaña
+
 Wasinkupi tayta mamankuwan, hinallataq kuraqninkuta ima mural 
-nisqata yachay wasipi qhawanakupaq mink™akunqaku.
-Papa hasp™iy yanapakuypi rimarisqanchikmanta 
+nisqata yachay wasipi qhawanakupaq mink’akunqaku.
+
+Papa hasp’iy yanapakuypi rimarisqanchikmanta 
 qhawarisunchik
+
 ¿Ima yachaykunatam 
 qhawarisunchik?
+
 ¿Imaynatan qhawasunchik?
+
 Yachay/
 Atina
+
 Yachay/ Atina 
 qatipanapaq
+
 Yachay/ 
 Atina
+
 Yachay/ Atina 
 qatipanapaq
-Tukuy ruras
--qanmanta 
+
+Tukuy ruras-
+qanmanta 
 willakun
-Papa hasp™iy 
-p™unchawkunapi 
+
+Papa hasp’iy 
+p’unchawkunapi 
 ruraykunamata 
-ch™uyata willakun
+ch’uyata willakun
+
 ¿Imawanmi 
-
-qallarir
--qanchik?, 
+qallarir-
+qanchik?, 
 ¿Imataq 
-
 qatiparqan? 
-¿Chayman
--tari?
+¿Chayman-
+tari?
+
  Wawakuna tukuy 
-
-rurasqankuta yuya
--rinku. Tukuy rikus
--qankumanta ima 
-
+rurasqankuta yuya-
+rinku. Tukuy rikus-
+qankumanta ima 
 rimarinku.
+
 Mural nisqa 
 wawakunaq 
-llamk™ayninkunawan.
+llamk’ayninkunawan.
+
+
+
+
+
+
+
+

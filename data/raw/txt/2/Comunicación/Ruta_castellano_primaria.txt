@@ -1,2374 +1,6952 @@
-1ÍNDICEPresentación
-3Introducción
-5¿Qué competencias deben desarrollar los niños y niñas?
-9¿Cómo podemos facilitar el aprendizaje de los niños y 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1Castellano Primaria
+
+ÍNDICE
+
+Presentación 3
+
+Introducción 5
+
+¿Qué competencias deben desarrollar los niños y niñas? 9
+
+¿Cómo podemos facilitar el aprendizaje de los niños y 
 niñas de primer y segundo grados en Comunicación y 
-
 Matemáticas?
-11Situación de aprendizaje N° 1:
 
+11
+
+Situación de aprendizaje N° 1:
 ¡Aprendamos a pescar como el tío Inkaniteri!
-13Situación de aprendizaje N° 2:
 
+13
+
+Situación de aprendizaje N° 2:
 Sembremos maní en la playa
-31Situación de aprendizaje N° 3:
 
+31
+
+Situación de aprendizaje N° 3:
 Cosecha de productos
-502     
+
+50
+
+
+
+2     Castellano Primaria
+
 Estimada (o) docente:
+
 Queremos saludarte y reiterar el aprecio que tenemos por tu labor. Es por ello 
 que en el Ministerio de Educación estamos haciendo esfuerzos para comenzar 
-
 a mejorar tus condiciones laborales y de ejercicio profesional.  Esta publicación 
-
 es una muestra de ello.
-Te presentamos las Rutas del Aprendizaje, un material que proporciona orien
--taciones para apoyar tu trabajo pedagógico en el aula. Esperamos que sean 
 
+Te presentamos las Rutas del Aprendizaje, un material que proporciona orien-
+taciones para apoyar tu trabajo pedagógico en el aula. Esperamos que sean 
 útiles para que puedas seguir desarrollando tu creatividad pedagógica. Somos 
-
-conscientes que tú eres uno de los principales actores para que todos los estu
--
+conscientes que tú eres uno de los principales actores para que todos los estu-
 diantes puedan aprender y que nuestra responsabilidad es respaldarte en esa 
-
 importante misión.
+
 Esta es una primera versión, a través del estudio y uso que hagas de ellas, así 
 como de tus aportes y sugerencias, podremos mejorarlas para contribuir cada 
-
 vez mejor en tu trabajo pedagógico. Te animamos entonces a caminar por las 
-
 rutas del aprendizaje. Nosotros ponemos a tu disposición la Web de Perú Educa 
-
-para que nos envíes tus comentarios, aportes y creaciones; nos compromete
--mos a reconocer tus aportes, realizar seguimiento y sistematizarlos. A partir de 
-
+para que nos envíes tus comentarios, aportes y creaciones; nos compromete-
+mos a reconocer tus aportes, realizar seguimiento y sistematizarlos. A partir de 
 ello, mejorar el apoyo del Ministerio de Educación a la labor de los maestros y 
-
 maestras del Perú.
+
 Sabemos de tu compromiso para hacer posible que cambiemos la educación 
 y cambiemos todos en el país. Tú eres parte del equipo de la transformación, 
+junto al director y con los padres y madres de familia, eres parte de la gran Mo-
+vilización Nacional por la Mejora de los Aprendizajes.
 
-junto al director y con los padres y madres de familia, eres parte de la gran Mo
--vilización Nacional por la Mejora de los Aprendizajes.
 Te invitamos a ser protagonista en este momento ciudadano y a compartir el 
-compromiso de lograr que todos los niños, niñas y adolescentes puedan apren
--
+compromiso de lograr que todos los niños, niñas y adolescentes puedan apren-
 der y nadie se quede atrás.
+
 Patricia Salas O´Brien
 Ministra de Educación
-3Presentación
-Las Rutas del Aprendizaje para las instituciones educativas de Educación Inter
--cultural Bilingüe escritas en lenguas originarias constituyen un complemento 
+
+
+
+3Castellano Primaria
+
+Presentación
+
+Las Rutas del Aprendizaje para las instituciones educativas de Educación Inter-
+cultural Bilingüe escritas en lenguas originarias constituyen un complemento 
 a las Rutas del Aprendizaje en castellano, que nos dan el marco general de los 
-
 enfoques de cada área, las competencias y capacidades a desarrollar, así como 
-
 las estrategias que se deben usar para lograrlas. Las rutas de EIB, ofrecen un 
-
 soporte adicional a los maestros bilingües pues se les presenta un conjunto de 
-
 actividades de aprendizaje que recogen algunos conocimientos y prácticas de 
-
 los pueblos a los que pertenecen los estudiantes de las escuelas EIB. 
-Así mismo, están escritas en la lengua originaria con la ˜nalidad de que los 
+
+Así mismo, están escritas en la lengua originaria con la finalidad de que los 
 maestros bilingües vayan desarrollando capacidades para construir un discurso 
-
 pedagógico en estas lenguas, en las que además deben desarrollar procesos 
-
 de enseñanza aprendizaje. Durante décadas los docentes bilingües han tenido 
-
-que plani˜car y desarrollar su trabajo educativo con documentos pedagógicos 
-
+que planificar y desarrollar su trabajo educativo con documentos pedagógicos 
 escritos en castellano, que es su segunda lengua. Es importante que además 
-
 de estos materiales en castellano, puedan contar con guías didácticas escritas 
-
 en la lengua materna. El Ministerio de Educación ha asumido, por ello, el reto 
-
 de elaborar no solo materiales en lenguas originarias para los niños y niñas de 
-
 inicial y primaria, sino también para los maestros que desarrollan los procesos 
-
 de aprendizaje en estas lenguas y en castellano. 
-En estas Rutas del Aprendizaje para la Educación Intercultural Bilingüe las acti
--vidades pedagógicas están relacionadas con las actividades socioproductivas 
 
-que se desarrollan en las comunidades de los niños y niñas, y que se sistema
--
+En estas Rutas del Aprendizaje para la Educación Intercultural Bilingüe las acti-
+vidades pedagógicas están relacionadas con las actividades socioproductivas 
+que se desarrollan en las comunidades de los niños y niñas, y que se sistema-
 tizan en el Calendario Comunal. Estas actividades permiten articular las áreas 
-
 de Comunicación y Matemáticas, vinculándolos con su vida diaria y dándole el 
-
 sentido práctico y la pertinencia que se requiere para que todo proceso educa-
-
 tivo sea exitoso y los estudiantes aprendan. 
+
 Ponemos este material a disposición de los maestros y maestras bilingües de las 
 más de 18 mil IIEE que deben desarrollar una educación intercultural bilingüe 
-
 de calidad.
+
 Dirección General de Educación
 Intercultural Bilingüe y Rural 
-5Introducción
+
+
+
+
+
+5Castellano Primaria
+
+Introducción
+
 En nuestro país tenemos el gran desafío de propiciar que los 
 estudiantes de los pueblos indígenas logren aprendizajes 
-
-signi˜cativos que les aseguren que, al término de la educación 
-
+significativos que les aseguren que, al término de la educación 
 básica, hayan fortalecido su autoestima e identidad cultural 
-
 y sean capaces de desenvolverse con una mirada y práctica 
-
 intercultural en su comunidad, región, país y en cualquier 
-
 contexto mundial.
+
 Desde esta perspectiva, las propuestas pedagógicas deben 
 considerar aspectos fundamentales de la cultura y lengua 
-
 originaria, que nos darán el marco para el trabajo en todos 
-
 los niveles y áreas en toda la educación básica. El partir del 
-
 reconocimiento de la realidad sociocultural y lingüística de los 
-
 educandos nos permitirá incorporar, desde una mirada crítica y 
+reflexiva, el enfoque intercultural.
 
-re˚exiva, el enfoque intercultural.
 Las áreas de Comunicación y Matemáticas constituyen, 
 dentro del sistema educativo, el espacio donde se logran 
-
 determinados aprendizajes fundamentales; sin embargo, y 
-
 más aun en contextos indígenas, consideramos que ambas 
-
 deben estar vinculadas con el desarrollo de la vida misma de 
-
 la comunidad, de ahí la necesidad de presentarlas de manera 
-
 integrada teniendo como marco referencial las actividades 
-
 sociales y productivas que los pueblos originarios realizan 
-
 para vivir y que se materializan en el calendario comunal, 
-
 organizador que nos permite registrar estas actividades para 
-
 trabajarlas pedagógicamente.
-6     
+
+
+
+6     Castellano Primaria
+
 La ventaja de partir de una actividad concreta no solo nos 
 ayuda a trabajar las áreas de comunicación y matemáticas, sino 
-
 que nos abre la puerta para el logro de distintos aprendizajes 
-
 ligados al desarrollo de la persona como miembro de un pueblo 
-
 originario: el aprender rituales, conocer relatos de origen, 
-
-identi˜car y aplicar valores centrales para relacionarse con las 
-
+identificar y aplicar valores centrales para relacionarse con las 
 personas y los seres espirituales que habitan en su pueblo, 
-
 entre otros. 
-
 Todo esto y más nos da indicios para considerar que el trabajo 
-
 en la educación básica debe ir más allá del logro de aprendizajes 
-
 cognitivos de comunicación y matemáticas. El pensar con el 
-
 corazón, el que las manos o los ojos se puedan curar y logren 
-
 aprender, pueden ser ideas complejas que denotan una forma 
-
 particular de ver el mundo, y será la escuela intercultural 
-
 bilingüe la que las recoja, las aborde y las desarrolle. De ahí la 
-
 necesidad de incorporar los conocimientos, prácticas, valores 
-
 y estrategias que se encuentran inmersas en las actividades 
-
 socioproductivas de la comunidades andinas y amazónicas.
+
 El desafío de trabajar Comunicación y Matemáticas desde 
 un enfoque intercultural
+
 En el fascículo 1 de las Rutas del Aprendizaje en Educación 
 Intercultural Bilingüe dedicado a la comprensión lectora, 
-
 dimos cuenta del reto que tenemos en la EIB respecto del 
-
-desarrollo de la lectura y escritura con el código alfabético
-1. La práctica escrita en lenguas originarias requiere de 
-
-un esfuerzo mancomunado entre el Estado
- Šque debe 
-
+desarrollo de la lectura y escritura con el código alfabético1. 
+La práctica escrita en lenguas originarias requiere de 
+un esfuerzo mancomunado entre el Estado —que debe 
 implementar políticas y acciones para garantizar el desarrollo 
-
-de estas lenguasŠ, la sociedad civil
- Šque tendrá que 
-
+de estas lenguas—, la sociedad civil —que tendrá que 
 romper prejuicios y abrir los espacios para que estas lenguas se 
-
-practiquenŠ y l
-os hablantes
-, que deben persistir y, a pesar de 
-
+practiquen— y los hablantes, que deben persistir y, a pesar de 
 todos los esfuerzos que demande la creación de alfabetos y la 
-
 normalización de sus lenguas, llegar a consensos, aun cuando 
-
 reconozcan que serán las generaciones futuras las que podrán 
-
 disfrutar de este nuevo mundo escrito.
+
 1 Se reconoce que en los pueblos originarios existe un conjunto de códigos escritos 
-llenos de signi˜cados que se pueden encontrar en telares, vestimentas, cerámicas, 
+llenos de significados que se pueden encontrar en telares, vestimentas, cerámicas, 
 pinturas faciales y corporales o en la naturaleza misma, que exigirá a los niños y 
-
 niñas aprender a leerlos y a escribirlos, según sea el caso; sin embargo, cuando 
-
 hablamos en este texto del aprendizaje de la lectura y escritura, nos estamos 
+refiriendo al trabajo de leer y escribir con el código alfabético.
 
-re˜riendo al trabajo de leer y escribir con el código alfabético.
-7Para el desarrollo de la lectura y escritura en 
-lengua originaria es fundamental que exista una etapa de familiarización con 
 
-el mundo escrito y con el código alfabético
-, considerando 
 
+7Castellano Primaria
+
+Para el desarrollo de la lectura y escritura en lengua originaria 
+es fundamental que exista una etapa de familiarización con 
+el mundo escrito y con el código alfabético, considerando 
 que los educandos provienen de sociedades donde prima 
-
 la oralidad y no existe  acceso a diversos textos en la lengua 
+indígena. 
 
-indígena. El construir en el aula, escuela y comunidad un mundo escrito 
+El construir en el aula, escuela y comunidad un mundo escrito 
 será una de las acciones que el docente y la comunidad deben 
-
 realizar. Los sectores del salón de clases, la implementación 
-
 de bibliotecas de aula o de la escuela, carteles de bienvenida, 
-
 avisos, letreros que señalen el nombre del pueblo o de las 
-
 instituciones, mapas indicando lugares para visitar, algunas 
-
 señales de seguridad o advertencia, entre otros tipos de textos, 
-
 deberán ser expuestos en diferentes lugares.
+
 Sabemos que los pobladores de las comunidades no suelen 
 escribir textos en su lengua originaria. Ellos están habituados 
-
 a redactar cartas, memoriales u actas en castellano y que esta 
-
 lengua básicamente tiene la función de ser un puente entre 
-
 el mundo mestizo castellano hablante y ellos, de ahí que la  
-
 escritura en lengua originaria como práctica social no existe. En 
-
 este contexto, la escuela demandará a los niños y niñas escribir 
-
 diferentes tipos de textos en su lengua y darles un sentido 
-
-comunicativo real. Lo que implicará para el 
-docente crear 
-
+comunicativo real. Lo que implicará para el docente crear 
 situaciones comunicativas nuevas, para los padres, madres 
-
 de familia y comuneros el esfuerzo de aceptar estos escritos 
-
 y propiciar su práctica.
+
 En una perspectiva intercultural, es evidente la importancia 
 de la vivencia, comprensión y valoración de los 
-
 conocimientos matemáticos que los pueblos han desarrollado 
-
-(etnomatemática), y que se mani˜estan en la participación 
-
+(etnomatemática), y que se manifiestan en la participación 
 de los niños y niñas en situaciones cotidianas en las que se 
-
-realizan actividades que implican la cuanti˜cación, la medición, 
-
+realizan actividades que implican la cuantificación, la medición, 
 la ubicación en el espacio, entre otras, utilizando la lengua 
-
 originaria y dentro del marco de sus propias actividades: 
-
 rituales, tejido en telares, elaboración de objetos de cerámica, 
-
 construcción de una canoa, entre otras. Ello permitirá que el niño 
-
 o niña valore y se apropie de los conocimientos matemáticos 
-
 propios de su pueblo, que posteriormente se articularán, en 
-
 gran parte, con los aprendizajes de la matemática de la cultura 
-
 mayoritaria.
-8     
+
+
+
+8     Castellano Primaria
+
 En coherencia con nuestro compromiso de educadores 
 tenemos que ayudar a que los niños de EIB vayan estructurando 
-
 su pensamiento matemático desde los primeros grados 
-
 escolares en forma gradual y sistemática, dándoles también la 
-
 oportunidad de observar y explorar su entorno inmediato y los 
-
-objetos que lo con˜guran, estableciendo relaciones entre ellos 
-
+objetos que lo configuran, estableciendo relaciones entre ellos 
 cuando realizan actividades concretas de diferentes maneras: 
-
 utilizando materiales, participando en juegos y en actividades 
-
-productivas familiares, elaborando esquemas, grá˜cos, 
-
+productivas familiares, elaborando esquemas, gráficos, 
 dibujos, entre otros. Estas interacciones les permite plantear 
-
 hipótesis, encontrar regularidades, hacer transferencias, 
-
 establecer generalizaciones, representar y evocar aspectos 
-
 diferentes de la realidad vivida, interiorizarlos en operaciones 
-
 mentales y comunicarlos de forma verbal o simbólicamente. 
-
 De esta manera, el estudiante va desarrollando su 
-
 pensamiento matemático y su razonamiento lógico, pasando 
-
 progresivamente de las operaciones concretas a mayores 
-
 niveles de abstracción; lo que le permite desarrollar la 
-
 capacidad de plantear y resolver los problemas de su realidad 
-
 con creatividad y con actitud crítica. 
-Con el ˜n de lograr que los niños y niñas desarrollen sus 
+
+Con el fin de lograr que los niños y niñas desarrollen sus 
 competencias de comunicación y matemáticas, te invitamos a 
-
 desarrollar las situaciones de aprendizajes planteadas en este 
-
 fascículo, y te invocamos que las mejores y propongas otras.
-9Comunicación
+
+
+
+9Castellano Primaria
+
+Comunicación
+
 En comunicación oral
- ˛Produce de forma coherente diversos tipos de textos 
+
+ √ Produce de forma coherente diversos tipos de textos 
 orales según su propósito comunicativo, de manera 
-espontánea o plani˜cada, usando variados recursos 
-
+espontánea o planificada, usando variados recursos 
 expresivos.
- ˛Comprende críticamente diversos tipos de textos orales 
+
+ √ Comprende críticamente diversos tipos de textos orales 
 en diferentes situaciones comunicativas, mediante 
+procesos de escucha activa, interpretación y reflexión.
 
-procesos de escucha activa, interpretación y re˚exión.
 En producción de textos
- ˛Produce re˚exivamente diversos tipos de textos escritos 
+
+ √ Produce reflexivamente diversos tipos de textos escritos 
 en variadas situaciones comunicativas, con coherencia 
-
 y cohesión, utilizando vocabulario pertinente y las 
-
 convenciones del lenguaje escrito, mediante procesos 
+de planificación, textualización y revisión.
 
-de plani˜cación, textualización y revisión.
 En comprensión de textos
- ˛Comprende críticamente diversos tipos de textos 
+
+ √ Comprende críticamente diversos tipos de textos 
 escritos en variadas situaciones comunicativas 
-
 según su propósito de lectura, mediante procesos de 
+interpretación y reflexión.
 
-interpretación y re˚exión.
 ¿Qué competencias 
 deben desarrollar 
-los niños y niñas?10     En Matemáticas
+los niños y niñas?
+
+
+
+10     Castellano Primaria
+
+En Matemáticas
+
 Números y Operaciones:
- ˛Resuelve situaciones problemáticas de contexto real y 
-matemático que implican la construcción del signi˜cado 
+
+ √ Resuelve situaciones problemáticas de contexto real y 
+matemático que implican la construcción del significado 
 y uso de los números y sus operaciones, empleando 
-
-diversas estrategias de solución, justi˜cando y  valorando 
-
+diversas estrategias de solución, justificando y  valorando 
 sus procedimientos y resultados.
+
  
 Cambio y Relaciones:
- ˛Resuelve situaciones problemáticas de contexto real y 
-matemático que implican la construcción del signi˜cado 
 
+ √ Resuelve situaciones problemáticas de contexto real y 
+matemático que implican la construcción del significado 
 y uso de los patrones, igualdades, desigualdades, 
-
 relaciones y funciones, utilizando diversas estrategias de 
+solución y justificando sus procedimientos y resultados.
 
-solución y justi˜cando sus procedimientos y resultados.
  
 Geometría:
- ˛Resuelve situaciones problemáticas de contexto real 
+
+ √ Resuelve situaciones problemáticas de contexto real 
 y matemático que implican el uso de propiedades y   
-
 relaciones geométricas, su construcción y movimiento      
-
 en el plano y el espacio, utilizando diversas estrategias 
-
-de solución y justi˜cando sus procedimientos y              
-
+de solución y justificando sus procedimientos y              
 resultados.
+
 Estadística y Probabilidad:
- ˛Resuelve situaciones problemáticas de contexto real y 
+
+ √ Resuelve situaciones problemáticas de contexto real y 
 matemático que implican la recopilación, procesamiento 
-
 y valoración de los datos y la exploración de situaciones 
-
 de incertidumbre para elaborar conclusiones y tomar 
-
 decisiones adecuadas.
-11¿Cómo podemos 
+
+
+
+11Castellano Primaria
+
+¿Cómo podemos 
 facilitar el aprendizaje 
 de los niños y niñas 
 de primer y segundo 
 grados en comunicación 
-
 y matemáticas?
-12     PRIMER GRADOEjemplo extraído de las Rutas del 
+
+
+
+12     Castellano Primaria
+
+PRIMER GRADO
+
+Ejemplo extraído de las Rutas del 
 Aprendizaje para el pueblo
+
 Asháninka
+
 ¿Qué aprenderemos?
+
 COMUNICACIÓN
-Producción escrita
-Comprensión lectora
+Producción escrita Comprensión lectora
+
 Capacidad 
+
 Textualiza experiencias, ideas, sentimientos, empleando las 
 convenciones del lenguaje escrito.
 Indicadores:
- ˛Escribe, solo o por medio del adulto, textos diversos 
+
+ √ Escribe, solo o por medio del adulto, textos diversos 
 según sus conocimientos de escritura de acuerdo a 
-
 la situación comunicativa considerando el tema, el 
-
 propósito, tipo de textos y destinatario.
-Usa recursos ortográ˜cos básicos de puntuación para dar 
 
+Usa recursos ortográficos básicos de puntuación para dar 
 claridad y sentido al texto que produce. 
- ˛Escribe textos diversos, según su nivel de escritura, en 
+
+ √ Escribe textos diversos, según su nivel de escritura, en 
 situaciones comunicativas.
- ˛Capacidad ˛Re˚exiona el proceso de producción de su texto para 
+
+ √ Capacidad
+ √ Reflexiona el proceso de producción de su texto para 
+
 mejorar su práctica como escritor.
- ˛Indicadores
- ˛Revisa el contenido del texto en relación a lo plani˜cado
-.Capacidad
+ √ Indicadores
+ √ Revisa el contenido del texto en relación a lo planificado.
+
+Capacidad
+
 Se apropia del sistema de escritura. 
 Indicadores:
- ˛Reconoce, en un texto escrito, palabras 
+
+ √ Reconoce, en un texto escrito, palabras 
 conocidas que forman parte de su 
+vocabulario visual. 
 
-vocabulario visua
-l. 
- ˛Reconoce palabras mediante la 
+ √ Reconoce palabras mediante la 
 asociación con otras palabras conocidas. 
+
 Capacidad
-In˜ere el signi˜cado del texto. 
+
+Infiere el significado del texto. 
 Indicador:
- ˛Predice el tipo de texto y su contenido a 
+
+ √ Predice el tipo de texto y su contenido a 
 partir de los indicios que le ofrece el texto 
-
 (imágenes, palabras conocidas, silueta 
-
 del texto, índice, título) para predecir su 
-
 contenido (formular hipótesis). 
+
 MATEMÁTICAS
+
 Capacidades:
- ˛Matematiza 
-situaciones que involucran cantidades y magnitudes en diversos contextos.
- ˛Representa 
-situaciones que involucran cantidades y magnitudes.
- ˛Elabora diversas estrategias de resolución haciendo uso de los números y sus operaciones.
- ˛Utiliza expresiones
- simbólicas, técnicas y formales de los números y las operaciones en la resolución de 
+
+ √ Matematiza situaciones que involucran cantidades y magnitudes en diversos contextos.
+ √ Representa situaciones que involucran cantidades y magnitudes.
+ √ Elabora diversas estrategias de resolución haciendo uso de los números y sus operaciones.
+ √ Utiliza expresiones simbólicas, técnicas y formales de los números y las operaciones en la resolución de 
+
 problemas.
- ˛Comunica 
-situaciones que involucren cantidades y magnitudes en diversos contextos.
- ˛Argumenta el uso de los números y sus operaciones.
+ √ Comunica situaciones que involucren cantidades y magnitudes en diversos contextos.
+ √ Argumenta el uso de los números y sus operaciones.
+
 Indicadores:
- ˛Describe situaciones cotidianas que impliquen clasi˜car una colección de objetos de acuerdo a un criterio 
+
+ √ Describe situaciones cotidianas que impliquen clasificar una colección de objetos de acuerdo a un criterio 
 perceptual.
- ˛Expresa con material concreto, dibujos o grá˜cos, la clasi˜cación de una colección de objetos de acuerdo 
+
+ √ Expresa con material concreto, dibujos o gráficos, la clasificación de una colección de objetos de acuerdo 
 a un criterio perceptual.
- ˛Explica los criterios de clasi˜cación de una o más colecciones de objetos, usando los cuanti˜cadores: 
+
+ √ Explica los criterios de clasificación de una o más colecciones de objetos, usando los cuantificadores: 
 todos, algunos, ninguno.
-13¡APRENDAMOS A PESCAR 
-COMO EL TÍO INKANITERI!
-Nº 1SITUACIÓN DE
+
+
+
+13Castellano Primaria
+
+¡APRENDAMOS A PESCAR 
+COMO EL TÍO INKANITERI!Nº 1
+
+SITUACIÓN DE
 APRENDIZAJE
+
 Escribimos el relato de origen de los peces 
 carachama y boquichico
-   Situación cultural y comunicativa
+
+   
+Situación cultural y comunicativa
+
 La pesca es una de las actividades más importantes del 
 pueblo asháninka. Ellos han desarrollado un conjunto de 
-
 conocimientos, procedimientos y técnicas para pescar con 
-
-diferentes instrumentos: ˚echa, tarrafa, arpón, trampa y 
-
+diferentes instrumentos: flecha, tarrafa, arpón, trampa y 
 anzuelo, cada uno de éstos será utilizado dependiendo de los 
-
 peces que se quiere  atrapar, el lugar dónde se desarrollará la 
-
 pesca y el tiempo que se utilizará. 
+
 Las conductas adecuadas que deben seguir tanto hombres 
 como mujeres asháninkas para, pescar y realizar otras prácticas, 
-
 son aprendidas en diferentes momentos de sus vidas. Lo mismo 
-
 ocurre con los conocimientos sobre el río, el comportamiento 
-
 y hábitat de los peces y los momentos adecuados para pescar 
-
 según las épocas del calendario natural de este ecosistema. 
-
 Estos aprendizajes lo adquieren los asháninkas a través de la 
-
 observación, imitación, curación, escucha de relatos, entre 
-
 otras formas de aprendizaje que esta sociedad ha desarrollado.
+
 Los relatos permiten a los hombres y mujeres remitirse a 
 tiempos antiguos cuando los animales, las plantas y astros eran 
-
 seres humanos y convivían con las personas. Estos relatos dan 
-
 a conocer el origen de algunos poderes espirituales que hoy 
-
 poseen ciertos seres y cuentan cómo algunos animales y plantas 
-
 pueden transformarse en otros seres. Los relatos explican que 
-
 no existen fronteras entre personas, animales y plantas, ya que 
+todos estos seres, al compartir una misma humanidad –en un 
+determinado tiempo– poseen la misma esencia que les permite 
 
-todos estos seres, al compartir una misma humanidad Œen un 
-
-determinado tiempoŒ poseen la misma esencia que les permite 
 COMUNICACIÓN
-14     establecer relaciones e interactuar, de ahí la importancia de 
-conocer y aplicar ciertas conductas y determinados discursos 
 
+
+
+14     Castellano Primaria
+
+establecer relaciones e interactuar, de ahí la importancia de 
+conocer y aplicar ciertas conductas y determinados discursos 
 que harán posible esta comunicación.
+
 Es a partir de estos relatos que los niños y niñas del pueblo 
 asháninka reconoce la existencia de todo cuanto les rodea, 
-
 entienden su mundo y aprenden a relacionarse en él y con él. 
+
 Hoy en día, debido a una fuerte presencia de la televisión y la 
 radio, se han roto espacios de diálogo y transmisión oral de 
-
 saberes. Esto sumado a la desvalorización de los conocimientos 
-
 y prácticas que los mismos pobladores tienen como resultado 
-
 de la discriminación y del pensamiento colonizador que 
-
 experimentan, los niños, niñas y jóvenes ya no se sientan en las 
-
 madrugadas, tardes y noches a escuchar los relatos narrados 
-
 por los adultos y ancianos, los mismos que despertaban interés 
-
 por aprenderlos y seguir sus recomendaciones y consejos que 
-
 en ellos se encontraban. Este desinterés ha generado hoy que 
-
 las nuevas generaciones desconozcan estos relatos, los que 
-
 corren el riesgo de ser olvidados, de ahí la necesidad de seguir 
-
 narrándolos, de dar espacio, oportunidades y facilidades para 
-
 que los  conocedores los cuenten y los niños, niñas y jóvenes 
+los escuchen.
 
-los escuchen.15Los niños y niñas mencionan los nombres de los buenos 
+
+
+15Castellano Primaria
+
+Los niños y niñas mencionan los nombres de los buenos 
 pescadores adultos que hay en la comunidad. Este es un buen 
 espacio para valorar las habilidades y destrezas de hombres 
-
 y mujeres que conocen y viven en su comunidad, además se 
-
 podrá conversar sobre las diferentes conductas y discursos que 
-
 se hacen para pescar.
+
 a. Preparando la actividad
- Dialoga con los niños y niñas sobre las actividades que realizan 
+
+•	  Dialoga con los niños y niñas sobre las actividades que realizan 
 sus familiares y haz que nombren las diferentes actividades que 
-
 se realizan en la comunidad.  Direcciona la conversación hacia 
-
 la actividad de la pesca. 
+
 ¿Alguien sabe pescar?, ¿con qué instrumentos pescas?, ¿con 
-anzuelo?, ¿tarrafa?, ¿trampa?, ¿˚echa?, ¿arpón?, ¿qué peces has 
-
+anzuelo?, ¿tarrafa?, ¿trampa?, ¿flecha?, ¿arpón?, ¿qué peces has 
 atrapado con esos instrumentos?, ¿te curaron para que seas 
-
 buen pescador?, ¿cómo?, ¿a quién o quiénes has acompañado 
-
 a pescar?, ¿cómo fue tu primera pesca?, ¿a quiénes invitas 
-
 lo que pescas?, ¿qué sientes cuando regresas a tu casa con 
+muchos pescados?
 
-muchos pescados?SABÍAS QUE:En la cultura asháninka, cuando un niño tiene 
+SABÍAS QUE:
 
+En la cultura asháninka, cuando un niño tiene 
 entre ocho y diez años de edad, el padre o el 
-
 abuelo sopla las manos del menor con tabaco 
-
 y  algún piripiri especial para pescar como el 
-
-kitotsabenki, meretobenki
- u otros. Después de la 
-
-curación, el niño no debe comer peces ˚emosos 
-
+kitotsabenki, meretobenki u otros. Después de la 
+curación, el niño no debe comer peces flemosos 
 como el zúngaro, chiripira, cunchi, bagre, anguilla, 
-
 etc., tampoco debe tomar ni comer alimentos 
-
 dulces o salados durante dos o tres días.
+
 Cuando un niño asháninka atrapa peces por 
 primera vez, deberá entregarlos a su madre 
-
 y demás parientes y no podrá comerlos. Así 
-
 garantizará una buena pesca en otros momentos.
-16      Entre todos comentan sobre la necesidad de ser buenos 
+
+
+
+16     Castellano Primaria
+
+•	  Entre todos comentan sobre la necesidad de ser buenos 
 pescadores porque permite que las personas puedan 
 alimentarse bien, con recursos propios y de buena calidad 
-
 sin necesidad de comprarlos. Asimismo, y en coherencia 
-SABÍAS QUE:En la cultura asháninka, cuando se va a pescar 
 
-con ˚echas, se busca algunas plantitas de hojas 
+SABÍAS QUE:
 
+En la cultura asháninka, cuando se va a pescar 
+con flechas, se busca algunas plantitas de hojas 
 menudas que crecen en las orillas de los ríos y con 
-
 ellas se frotan las manos. Al soplar se menciona 
-
-un discurso: ﬁ
-madre de los peces, quiero que me des 
-
+un discurso: “madre de los peces, quiero que me des 
 tu cría para poder alimentar a mi familia, solo lo 
+suficiente, no voy a fallar”.
 
-su˜ciente, no voy a fallar
-ﬂ.Si la pesca es con tarrafa, frótala con el excremento 
-de la nutria Œporque este mamífero es un buen 
-
-pescadorŒ y su olor ayudará a que los peces 
-
+Si la pesca es con tarrafa, frótala con el excremento 
+de la nutria –porque este mamífero es un buen 
+pescador– y su olor ayudará a que los peces 
 caigan fácilmente en la tarrafa.
+
 Durante la pesca con barbasco, todos deben 
-trabajar y para eso tienen tareas especí˜cas. 
-
+trabajar y para eso tienen tareas específicas. 
 Los abuelos ayudan a juntar las hojas secas del 
-
 bosque, los jóvenes y adultos tapan el brazo 
-
 del río utilizando grandes piedras y troncos. Las 
-
 mujeres y las niñas tapan la desembocadura 
-
 del brazo. El machacado del barbasco lo hacen 
-
 todos los varones y los que echan el barbasco al 
-
 río son personas escogidas por tener una mano 
-
 fuerte que hace que el barbasco cause efecto. 
-
 Al momento de echar el barbasco al agua, ellos 
-
-tienen que dar un discurso: ﬁ
-Sapo, sapo, sapo, tú 
-
+tienen que dar un discurso: “Sapo, sapo, sapo, tú 
 tienes veneno fuerte. Haz que mueran los peces para 
+poder comer todos”.
 
-poder comer todos
-ﬂ.En la pesca con barbasco, cuando una mujer 
+En la pesca con barbasco, cuando una mujer 
 está embarazada o menstruando no debe entrar 
-
 al agua porque debilita la fuerza del barbasco y 
-
 muchos peces no morirán. Si ella quiere entrar 
-
 deberá ponerse una piedrita en la boca y entrar al 
-
 agua después de que hayan echado el  barbasco.
-17SABÍAS QUE:Cuando los niños y niñas hablan con personas 
+
+
+
+17Castellano Primaria
+
+SABÍAS QUE:
+
+Cuando los niños y niñas hablan con personas 
 mayores, y sobre todo durante la narración de un 
-
 relato, deben escuchar con respeto y no deben 
-
 interrumpir al narrador hasta que haya terminado 
-
 de contar la historia. Solo cuando él termina, los 
-
 infantes podrán hacer algunas preguntas; sin 
-
 embargo, el conocedor aprovechará este espacio 
-
 para hacer recomendaciones que les permitirán 
-
 ser buenos pescadores. Él les aconsejará que 
-
-solo deben pescar lo su˜ciente para no molestar 
-
+solo deben pescar lo suficiente para no molestar 
 a la madre de los peces, de lo contrario ella saldrá 
-
 del agua, los asustará y no les dará más sus crías. 
+
 Asimismo, el sabio les dará consejos para que 
 sean buenas personas, trabajadoras y que 
-
 ayuden a los demás.
+
 con su cosmovisión, permite a los hombres y mujeres 
-
 asháninkas relacionarse con el mundo del agua y los seres 
-
 espirituales que habitan en ella, en una perspectiva de 
-
 diálogo e intercambio con la naturaleza, bases que permite 
-
 a los asháninkas convivir en armonía con su medio natural. 
- En el aula acuerdan visitar al tío Inkaniteri para que les cuente 
+
+•	  En el aula acuerdan visitar al tío Inkaniteri para que les cuente 
 cómo aprendió a pescar, quién le enseñó, qué curaciones 
-
 le hicieron, qué conductas sigue para ir de pesca. También 
-
 le pueden pedir que narre algunas anécdotas que le hayan 
-
 sucedido cuando fue a pescar. Aprovechan esa visita para 
-
 invitarlo a la escuela.
-b.
- Desarrollo de la actividad
- Una vez en la escuela, pedimos a los niños y niñas sentarse 
+
+b. Desarrollo de la actividad
+
+•	  Una vez en la escuela, pedimos a los niños y niñas sentarse 
 en círculo para escuchar al tío Inkaniteri relatarnos sobre el 
-
 origen de la carachama y boquichico desde la cosmovisión 
-
 asháninka.
-18     Relato asháninka sobre el origen 
+
+
+
+18     Castellano Primaria
+
+Relato asháninka sobre el origen 
 del Boquichico y la Carachama
-Antiguamente,  los peces que conocemos hoy como el boquichico y la carachama eran personas. 
+
+Antiguamente,  los peces que conocemos hoy como 
+el boquichico y la carachama eran personas. 
 Hace mucho tiempo atrás los jóvenes Boquichico 
 y Carachama vivían con su abuelo, y aunque 
 el anciano siempre les pedía apoyo para traer 
 leña, trabajar en la chacra y otras obligaciones, 
 Boquichico y Carachama siempre se escapaban del 
-trabajo para ir al río a bañarse.El abuelo se molestaba mucho cuando lo desobedecían y les advertía que Nabireri los 
+trabajo para ir al río a bañarse.
+
+El abuelo se molestaba mucho cuando lo 
+desobedecían y les advertía que Nabireri los 
 castigaría convirtiéndolos en peces. Pese a las 
 advertencias del abuelo, un día los jóvenes 
 decidieron dejar sus quehaceres e ir al río a 
 bañarse. Ya en el agua, estaban disfrutando del 
-calor cuando se encontraron con Nabireri. El Boquichico, asustado, se lanzó al  fondo del agua sin saber que allí había una gran piedra y con 
+calor cuando se encontraron con Nabireri. 
+
+El Boquichico, asustado, se lanzó al  fondo del agua 
+sin saber que allí había una gran piedra y con 
 ella se golpeó los labios. Eso explica por qué este pez 
 tiene esa forma de boca. La Carachama también se 
 tiró al río cayéndose de barriga, de ahí la panza 
 achatada que posee este pez. Ya en el agua, ambos 
-jóvenes fueron convertidos por Nabireri en peces.19 Una vez terminado el relato, el docente formula algunas 
+jóvenes fueron convertidos por Nabireri en peces.
+
+
+
+19Castellano Primaria
+
+•	  Una vez terminado el relato, el docente formula algunas 
 preguntas sobre el relato escuchado para comprobar si lo 
 entendieron: 
 ¿Quiénes eran personas antiguamente?
-
 Si los niños no hubieran desobedecido al abuelo, ¿qué 
 hubiera pasado?
 ¿Será bueno desobedecer?, ¿por qué? 
-
 ¿Conocían este relato?, ¿quién o quiénes se lo contaron?
-
 ¿Qué creen que pasaría si los padres o abuelos dejan de 
 contar los relatos de nuestro pueblo?
 ¿Qué debemos hacer para que los relatos no se pierdan?
- El docente escucha atentamente las respuestas de los niños y 
+
+•	  El docente escucha atentamente las respuestas de los niños y 
 explica otras maneras de conocer los relatos de nuestro pueblo, 
-
 además de escucharlos narrar y propiciar que los conocedores 
-
 las cuenten y por ejemplo, escribirlos para que otras personas los 
+lean.
 
-lean. Los niños y niñas acuerdan escribir el relato como otra forma de 
+•	  Los niños y niñas acuerdan escribir el relato como otra forma de 
 conocerlo. Sin embargo, antes de escribir el relato se recomienda  
-
 acordar sobre lo que se hará una vez que el relato sea escrito, 
-
 para garantizar que lo lean, lo comprendan y reconozcan. 
-
 ¿Quiénes leerán este relato?  ¿dónde lo colocaremos para que 
-
 puedan leerlo? ¿qué podemos hacer para motivar a la gente a 
-
 que lea nuestro relato y conversen sobre lo que entendieron?
- Organizamos todos los materiales para iniciar la escritura 
+
+•	  Organizamos todos los materiales para iniciar la escritura 
 colectiva deI relato. 
+
 Primer momento
- Una vez establecido el propósito de escribir el relato, 
+
+•	  Una vez establecido el propósito de escribir el relato, 
 tienes que conversar con los niños y niñas sobre lo 
-
 que escribirán, para ello deberán narrar el relato 
-
 como lo recuerdan. Pídeles que ordenen sus ideas 
-
 y las digan con claridad y en voz alta. El profesor 
-
 las escribe en la pizarra o en un papelógrafo tal y 
-
 como ellos las dictan. 
- Expresa en voz alta lo que escribes y pide que 
+
+•	  Expresa en voz alta lo que escribes y pide que 
 te dicten otra idea cuando hayas terminado de 
-
 escribir la anterior. Coloca los signos de puntuación 
-
 necesarios en el texto y evidencia que los estás 
-
 colocando para que los niños y niñas reconozcan 
-
 su utilidad en la producción escrita.
-Indicador: Escribe, solo o por medio del 
+
+Indicador: 
+Escribe, solo o por medio del 
+
 adulto, textos diversos según sus 
+
 conocimientos de escritura de 
+
 acuerdo a la situación comunicativa 
+
 considerando el tema, el propósito, 
+
 tipo de textos y destinatario. 
-Indicador: Usa recursos ortográ˜cos básicos 
+
+Indicador: 
+Usa recursos ortográficos básicos 
+
 de puntuación para dar claridad y 
+
 sentido al texto que produce.
-20      Pide a los niños que copien en sus cuadernos 
+
+
+
+20     Castellano Primaria
+
+•	  Pide a los niños que copien en sus cuadernos 
 el relato dictado. Ayúdalos a darse cuenta de 
 los trazos, que reconozcan cómo se trazan las 
-
 letras altas, las bajas, los espacios entre una 
-
 palabra y otra, etc. Es probable que al principio 
-
 tengan algunos errores, deberás tener paciencia 
-
-y ayudarlos a que se den cuenta de esos ﬁerroresﬂ. 
-
+y ayudarlos a que se den cuenta de esos “errores”. 
 Para ello puedes proponer que en parejas o en 
-
 grupos de tres o cuatro integrantes revisen los 
-
 escritos de cada uno. No olvides estar pendiente 
-
 de este proceso de revisión grupal. Observa a los 
-
-estudiantes, y cuando veas que hay di˜cultades 
-
+estudiantes, y cuando veas que hay dificultades 
 en el grupo, debes intervenir.
+
 Indicador: 
 Revisa el contenido del 
-
 texto en relación a lo     
+planificado.
 
-plani˜cado.
 Shima jeri jetari
 Perani yatiribeitani Shima jeri Jetari.
-
 Aparoni kitaiteri ipiakeri Nabireri ipiyatsatari icharine.
-
 Irotake itimantajari meka shimape nijaki kemperi yora 
-
 shima, jetari, mereto, mamori, kobiri, chenkori...
- Escucha con atención el intercambio de ideas que se dan 
+
+•	  Escucha con atención el intercambio de ideas que se dan 
 en el aula respecto a cómo tiene que continuar el escrito. 
-
 Sé prudente cuando surge un problema, no des la solución, 
-
 sino plantea bien la situación de tal manera que sean los 
-
 estudiantes quienes lo resuelvan. Escribe el texto hasta 
-
 que los niños y niñas terminen de dictar y lee el relato 
-
-nuevamente. Al ˜nalizar tu lectura, pregunta a los estudiantes 
-
+nuevamente. Al finalizar tu lectura, pregunta a los estudiantes 
 si así era el relato que nos narró el tío Inkaniteri, escucha sus 
-
 opiniones y arréglalo en caso ellos y ellas lo consideren. En 
-
-este proceso, debes re˚exionar con los estudiantes sobre las 
-
+este proceso, debes reflexionar con los estudiantes sobre las 
 características del texto y su contenido; debes preguntar si 
-
 escribiéndolo de esa forma se entiende o no. El análisis del 
-
 texto les permitirá ser conscientes de que están escribiendo 
-
 el relato para que otras personas lo conozcan, por lo tanto 
-
 la forma de escribirlo deberá ser clara y precisa.
- Vuelve a escribir el texto en un papelógrafo. ¡No olvides 
+
+•	  Vuelve a escribir el texto en un papelógrafo. ¡No olvides 
 hacerlo con letra legible y de regular tamaño!
-21Para el aprendizaje de la 
+
+
+
+21Castellano Primaria
+
+Para el aprendizaje de la 
 lecto escritura, tú como 
+
 docente tienes que conocer el 
 funcionamiento y la gramática 
 de la lengua originaria. A partir 
+
 de las características de tu 
 lengua, si es aglutinante, tonal, 
+
 silábica u otra es que tendrás 
 que diseñar tus ejercicios.
+
 El relato será colocado en 
 un lugar visible para que 
+
 todos en la comunidad 
 lo puedan leer. También 
 puedes pedir a los niños 
 y niñas que, en grupos y 
 en papelotes, dibujen el 
+
 relato. 
+
 Indicador: 
 Predice el tipo de texto y 
+
 su contenido a partir de los 
 indicios que le ofrece el texto 
+
 (imágenes, palabras conocidas, 
 silueta del texto, índice, título) 
+
 para predecir su contenido 
 (formular hipótesis). 
+
 Indicador: 
 Reconoce, en un texto 
+
 escrito, palabras conocidas 
 que forman parte de su 
+
 vocabulario visual.
+
 Segundo  momento
- Con ayuda de diferentes juegos forma  grupos de 
+
+•	  Con ayuda de diferentes juegos forma  grupos de 
 tres integrantes.
- Pega en la pizarra el relato escrito en papelote 
+
+•	  Pega en la pizarra el relato escrito en papelote 
 y pregunta a los niños y niñas:
 ¿Qué escribimos aquí? ¿de qué trata el relato? 
- Los niños y niñas seleccionan tres o cuatro 
+
+•	  Los niños y niñas seleccionan tres o cuatro 
 palabras del texto que ellos consideren son 
 importantes dentro del relato y las subrayan.
- Entrega a cada niño tarjetas de papel o cartulina 
+
+•	  Entrega a cada niño tarjetas de papel o cartulina 
 para que escriban las palabras  subrayadas.
- Pegan sus escritos al lado del papelote.
-Nabireri
-mereto
-shimajetari boquichico    Œ      carachama      Œ      ser espiritual       Œ      anchoveta
- Con las observaciones de los compañeros, pide a los niños y 
+
+•	  Pegan sus escritos al lado del papelote.
+
+N a b i r e r i m e r e t os h i m a j e t a r i
+
+ boquichico    –      carachama      –      ser espiritual       –      anchoveta
+
+•	  Con las observaciones de los compañeros, pide a los niños y 
 niñas que vuelvan a  escribir el relato.
-22     Indicador: 
+
+
+
+22     Castellano Primaria
+
+Indicador: 
 Reconoce palabras 
 mediante la asociación 
-
 con otras palabras 
-
 conocidas.
- En parejas forman las palabras signi˜cativas con tarjetas 
-silábicas  Crean otras palabras a partir de las sílabas 
+
+•	  En parejas forman las palabras significativas con tarjetas 
+silábicas 
+
+•	  Crean otras palabras a partir de las sílabas 
 aprendidas, luego leen y escriben en su 
-
-cuaderno. Por ejemplo: araña Œ hongo 
-
-comestible Œ bagrecito pequeño Œmariposa 
-
+cuaderno. Por ejemplo: araña – hongo 
+comestible – bagrecito pequeño –mariposa 
 nocturna.
-jeriNaremeshimabimetoretarijatemeIndicador: 
+
+je
+
+ri
+
+Na
+
+re
+
+me
+
+shi
+
+ma
+
+bi
+
+me
+
+to
+
+re
+
+ta
+
+rija
+
+te
+
+me
+
+Indicador: 
 Reconoce palabras 
-
 mediante la asociación 
-
 con otras palabras 
-
 conocidas.
- Leen las palabras que han escrito.
- Ayuda a los niños a reconocer las sílabas. Para 
+
+•	  Leen las palabras que han escrito.
+
+•	  Ayuda a los niños a reconocer las sílabas. Para 
 ello trabaja con los sonidos de cada palabra 
-
 usando palmadas, saltos, zapateo, todo el 
-
 cuerpo. Aprovecha este espacio para que los 
-
 estudiantes se muevan y jueguen, pero a la 
-
 vez vayan reconociendo los sonidos de las 
-
 palabras.
-shi Œ ma   
-Na Œ bi Œ re Œ rije Œ ta Œ ri   
- me Œ re Œ to
-23jeribimashimatototorite Dibujan las nuevas palabras formadas, las pegan en el aula y 
+
+shi – ma   Na – bi – re – ri
+je – ta – ri    me – re – to
+
+
+
+23Castellano Primaria
+
+jeri
+
+bi mashi
+
+ma to to
+
+to rite
+
+•	  Dibujan las nuevas palabras formadas, las pegan en el aula y 
 copian en su cuaderno.
- Forman frases sencillas con las tarjetas silábicas, leen en voz alta 
+
+•	  Forman frases sencillas con las tarjetas silábicas, leen en voz alta 
 y luego copian en su cuaderno, por ejemplo:  
-jejeririmajetotatoriJeri jetari  :   Esta carachama.
+
+je
+
+je
+
+ri
+
+ri
+
+ma
+
+je
+
+to
+
+ta
+
+to
+
+ri
+
+Jeri jetari  :   Esta carachama.
+
 Se sugiere tener en el aula un panel donde se registren las 
-palabras signi˜cativas que los niños y niñas van aprendiendo. 
-Esto sirve para ir ˜jando las palabras aprendidas y tenerlas a 
+palabras significativas que los niños y niñas van aprendiendo. 
+Esto sirve para ir fijando las palabras aprendidas y tenerlas a 
 disposición para escribir nuevas palabras. Es una forma de ir 
+
 sistematizando los descubrimientos sobre el sistema de escritura.
+
 Es importante que las actividades de reforzamiento de la palabra 
-signi˜cativa se planteen en el marco del texto completo, que 
+significativa se planteen en el marco del texto completo, que 
+
 lleven a los niños y las niñas a él, porque es en el texto auténtico 
 que cobra sentido el aprendizaje de la lectura y escritura.
-24      Escribe el nombre del dibujo.
-Indicador
-: Escribe textos diversos, 
+
+
+
+24     Castellano Primaria
+
+•	  Escribe el nombre del dibujo.
+
+Indicador: 
+Escribe textos diversos, 
 según su nivel de 
-
 escritura, en situaciones 
-
 comunicativas.
- Los niños crean otras oraciones con las sílabas que 
-ellos conocen.
- Siguiendo este proceso puedes realizar otras 
-actividades de lectura y escritura de las palabras 
 
+•	  Los niños crean otras oraciones con las sílabas que 
+ellos conocen.
+
+•	  Siguiendo este proceso puedes realizar otras 
+actividades de lectura y escritura de las palabras 
 aprendidas:
-25 Relaciona dibujo -  nombre 
-Nabireri
-mereto
-shimajetaric.
- Después de la actividad  Dialogamos con los niños y niñas sobre lo aprendido en las 
+
+
+
+25Castellano Primaria
+
+•	  Relaciona dibujo -  nombre 
+
+N a b i r e r i
+
+m e r e t o
+
+s h i m a
+
+j e t a r i
+
+c. Después de la actividad 
+•	  Dialogamos con los niños y niñas sobre lo aprendido en las 
+
 clases y qué se hizo para escribir el relato sobre el origen de la 
 carachama y el boquichico. 
- Leen de manera general, grupal e individual, el relato, las 
+
+•	  Leen de manera general, grupal e individual, el relato, las 
 palabras seleccionadas y la frase creada.
- Re˚exionamos sobre la importancia de escribir los 
+
+•	  Reflexionamos sobre la importancia de escribir los 
 conocimientos de nuestro pueblo. 
- A partir de la actividad de pesca y aprovechando que los niños 
+
+•	  A partir de la actividad de pesca y aprovechando que los niños 
 y niñas están recolectando caracoles de agua, podrás trabajar 
-
 conocimientos matemáticos. Formula con ellos la siguiente 
-
 interrogante.
-26     Indicadores
-: Describe situaciones cotidianas que 
-impliquen clasi˜car una colección 
 
+
+
+26     Castellano Primaria
+
+Indicadores: 
+Describe situaciones cotidianas que 
+impliquen clasificar una colección 
 de objetos de acuerdo a un criterio 
-
 perceptual.
-
-Explica
- los criterios de clasi˜cación 
-
+Explica los criterios de clasificación 
 de una o más colecciones de objetos, 
-
-usando los cuanti˜cadores: todos, 
-
+usando los cuantificadores: todos, 
 algunos, ninguno.
+
 MATEMÁTICAS
+
 ¿Para qué recolectamos caracoles de agua?
+
 a.  Preparando la actividad
 Durante la actividad de pesca, organiza también a los niños 
 para recolectar en el riachuelo diferentes especies de caracoles. 
-
 Responde a las preguntas que realizan los niños y niñas: ¿por qué 
-
 este caracol es de color amarillo, este de color negro y este tiene 
-
 musgo?, ¿por qué  los caracoles son de diferentes tamaños? 
-b.
- Desarrollo de la actividad
- Primer momento (Laboratorio)
-  Después de haber recolectado los su˜cientes caracoles, pide a los 
+
+b. Desarrollo de la actividad
+ Primer momento (Laboratorio)  
+
+Después de haber recolectado los suficientes caracoles, pide a los 
 niños que agrupen todos los caracoles que recolectaron, según sus 
-
 propios criterios: caracoles por tamaños, por colores, por su forma, 
-
 por el lugar donde viven, si son comestibles o no, por el uso que se 
-
 les da, si ellos pueden comerlos o no, etc. Les pregunta: ¿por qué 
-
 los agrupaste así? 
-Los niños y niñas se re˜eren a las distintas formas con las que 
+
+Los niños y niñas se refieren a las distintas formas con las que 
 agruparon a los caracoles, que podrían ser:
- ˛P
-or el lugar donde viven: 
+
+ √ Por el lugar donde viven: 
+
 - Agua: tontiki y sabanaki.
 - Suelo: mapoto, mamporo, terempiroki, 
+
 tsoiroki, kepishiri.
+
 - Árbol:  chobibinaki.
+
 - Comestibles: No se pueden comer: 
 kepishiri, sankironiro. Sí se pueden 
-
 comer: chobibinaki, mapoto, mamporo, 
-
 terempiroki, etc.
- ˛Porque está prohibido que los niños lo coman para que no sean 
-ociosos: mamporo.
- ˛P
-or el uso que se les da: - adornos en las cushmas de las mujeres, niños y niñas: 
-sakiririnti, terempiroki, tontiki, tsoiroki y kepishiri, 
 
+ √ Porque está prohibido que los niños lo coman para que no sean 
+ociosos: mamporo.
+
+ √ Por el uso que se les da: 
+- adornos en las cushmas de las mujeres, niños y niñas: 
+
+sakiririnti, terempiroki, tontiki, tsoiroki y kepishiri, 
 chobibinaki.
+
 - Sonajas: tontiki y tsoiroki, sakiririnti.
 - Bocina: mamporo, mapoto.
-27Indicadores: 
+
+
+
+27Castellano Primaria
+
+Indicadores: 
 Describe situaciones cotidianas que 
-impliquen clasi˜car una colección 
+
+impliquen clasificar una colección 
 de objetos de acuerdo a un criterio 
+
 perceptual.
-Explica
- los criterios de clasi˜cación 
+Explica los criterios de clasificación 
+
 de una o más colecciones de objetos, 
-usando los cuanti˜cadores: todos, 
+usando los cuantificadores: todos, 
+
 algunos, ninguno
- ˛Por el tamaño: mamporo, mapoto (grandes) 
+
+ √ Por el tamaño: mamporo, mapoto (grandes) 
 tontiki, tsoiroki, sakiririnti  (pequeños). 
- ˛Por los colores: sankiro (que pueden ser negros 
+
+ √ Por los colores: sankiro (que pueden ser negros 
 o amarillentos), mapoto y mamporo  (blancos), 
 chobibinaki, tsoiroki, kepishiri (salpicados).
- ˛Por su forma: sabanaki y tsoiroki (redondos), 
+
+ √ Por su forma: sabanaki y tsoiroki (redondos), 
 mamporo, sabanaki (los de boca ancha), sankiro, 
-
 tsoiroki (los alargados)   sakiririnti (ralladito).
- ˛Para curar: sankiro y tsoiroki (enfermedades 
+
+ √ Para curar: sankiro y tsoiroki (enfermedades 
 respiratorias), sankiro (para la piel). 
- Puedes formular estas preguntas: ¿Por qué has agrupado de esa 
+
+•	  Puedes formular estas preguntas: ¿Por qué has agrupado de esa 
 manera?, ¿por qué este caracol no puede estar en este grupo?,  
-
 ¿por qué tu compañero agrupó de esta forma? conversa con 
-
 los estudiantes sobre el respeto que deben tener frente a los 
-
 criterios establecidos por los otros compañeros. Asimismo 
-
-propicia su re˚exión preguntándoles: ¿Para qué hemos 
-
+propicia su reflexión preguntándoles: ¿Para qué hemos 
 recolectado los caracoles?, ¿todos son comestibles?, ¿algunos 
-
 son medicinales? ¿cuáles?, ¿cómo tenemos que cuidar a los 
-
 caracoles?, ¿debemos dejarlos donde los encontramos? ¿por 
+qué?
 
-qué? Fomenta en los niños que vayan de˜niendo 
+•	  Fomenta en los niños que vayan definiendo 
 algunos criterios que han empleado para 
-
 agrupar a los caracoles: ¿con qué criterios 
-
 hemos organizado a los caracoles? Los niños 
-
 mencionarán: por el lugar donde viven, por 
-
 colores, por su forma, si son comestibles o 
-
 no, por el uso que se les da, para curar, etc.
-Indicador
-: Expresa
- con material concreto, 
-dibujos o grá˜cos (diagramas de 
+
+Indicador: 
+Expresa con material concreto, 
+
+dibujos o gráficos (diagramas de 
 Venn y tablas simples de doble 
-entrada), la clasi˜cación de una 
+
+entrada), la clasificación de una 
 colección de objetos de acuerdo a 
+
 un criterio perceptual.
- Mientras de˜nen los criterios, el profesor les 
+
+•	  Mientras definen los criterios, el profesor les 
 ayuda a escribir en tarjetas los criterios que 
-
 han establecido y las coloca al costado de los 
-
 caracoles que agruparon.
- Gra˜can los grupos de caracoles que 
+
+•	  Grafican los grupos de caracoles que 
 conformaron. 
- Pide a los niños y niñas que averigüen e 
+
+•	  Pide a los niños y niñas que averigüen e 
 investiguen sobre otros criterios que utilizan 
-
 sus padres, abuelos u otros familiares para 
-
 agrupar a los caracoles.
-28     Indicadores: 
+
+
+
+28     Castellano Primaria
+
+Indicadores: 
 Describe situaciones cotidianas que 
-impliquen clasi˜car una colección de objetos 
-
+impliquen clasificar una colección de objetos 
 de acuerdo a un criterio perceptual.
-
-Expresa 
-con material concreto, dibujos o 
-
-grá˜cos (diagramas de Venn y tablas simples 
-
-de doble entrada), la clasi˜cación de una 
-
+Expresa con material concreto, dibujos o 
+gráficos (diagramas de Venn y tablas simples 
+de doble entrada), la clasificación de una 
 colección de objetos de acuerdo a un criterio 
-
 perceptual.
-
-Explica 
-los criterios de clasi˜cación de una 
-
+Explica los criterios de clasificación de una 
 o más colecciones de objetos, usando los 
+cuantificadores: todos, algunos, ninguno.
 
-cuanti˜cadores: todos, algunos, ninguno.
- Después del juego con caracoles, se 
+•	  Después del juego con caracoles, se 
 conforman grupos con tres integrantes 
-
 para que puedan trabajar con los 
-
 bloques lógicos tallados en palo balsa 
-
 (topa). 
- Déjalos jugar con libertad y agrupar 
+
+•	  Déjalos jugar con libertad y agrupar 
 siguiendo sus propios criterios, presta 
-
 atención a los criterios que siguen. 
- Pide a los niños y niñas que salgan fuera del aula y, en el patio, 
+
+•	  Pide a los niños y niñas que salgan fuera del aula y, en el patio, 
 reparte a cada niño una tarjeta con el dibujo de una de estas 
-
 especies de caracoles: sankiro, mapoto, terempiroki y tontiki. 
-
 Pide a los niños y niñas que se los peguen en el pecho.
- Pide a los niños  y niñas que al ritmo del tambor (rápido, lento, 
+
+•	  Pide a los niños  y niñas que al ritmo del tambor (rápido, lento, 
 acelerado, etc.) caminen libremente por todo el espacio.
- Diles que, al dejar de tocar el tambor, deberán escuchar al 
+
+•	  Diles que, al dejar de tocar el tambor, deberán escuchar al 
 profesor decir una consigna para que puedan agruparse: 
- ˛¡A
-grúpense todos los caracoles de la misma especie!
- ˛¡Jún
-tense dos caracoles de diferentes especies!
- ˛¡R
-eúnanse cuatro caracoles de diferentes especies!
- ˛¡Júntense todos los caracoles que viven en el agua y hagan 
+
+ √ ¡Agrúpense todos los caracoles de la misma especie!
+
+ √ ¡Júntense dos caracoles de diferentes especies!
+
+ √ ¡Reúnanse cuatro caracoles de diferentes especies!
+
+ √ ¡Júntense todos los caracoles que viven en el agua y hagan 
 otro grupo los que viven en el suelo!
+
 Segundo momento (Laboratorio)
+
 ¡Aprender a jugar con bloques lógicos!
- Pregunta a  niños y niñas ¿por qué agrupaste los bloques así?, 
+
+•	  Pregunta a  niños y niñas ¿por qué agrupaste los bloques así?, 
 ¿todos los bloques son del mismo color?
- ˛¡Agrupen los bloques que son del mismo color! ¿de qué 
+
+ √ ¡Agrupen los bloques que son del mismo color! ¿de qué 
 colores son?
- ˛¿De qué tamaños son los bloques? ¡Separen los bloques 
+
+ √ ¿De qué tamaños son los bloques? ¡Separen los bloques 
 que son grandes!
-29 ˛Dibuja dos de las agrupaciones que puedes formar con las 
-˜guras observadas. Explica los criterios utilizados.
-Indicadores
-: Describe situaciones cotidianas 
-que impliquen clasi˜car una 
+
+
+
+29Castellano Primaria
+
+ √ Dibuja dos de las agrupaciones que puedes formar con las 
+figuras observadas. Explica los criterios utilizados.
+
+Indicadores: 
+Describe situaciones cotidianas 
+
+que impliquen clasificar una 
 colección de objetos de acuerdo a 
+
 un criterio perceptual.
-Expresa
- con material concreto, 
-dibujos o grá˜cos, la clasi˜cación de 
+
+Expresa con material concreto, 
+dibujos o gráficos, la clasificación de 
 una colección de objetos de acuerdo 
+
 a un criterio perceptual.
-Explica
- los criterios de clasi˜cación 
+
+Explica los criterios de clasificación 
 de una o más colecciones de 
-objetos, usando los cuanti˜cadores: 
+
+objetos, usando los cuantificadores: 
 todos, algunos, ninguno.
- ˛¿De qué formas son los bloques? ¡Agrupen los cuadrados! 
+
+ √ ¿De qué formas son los bloques? ¡Agrupen los cuadrados! 
 ¿Por qué no han puesto el círculo en este grupo de 
 cuadrados?
- ˛Haz preguntas utilizando cuanti˜cadores, por ejemplo: 
-¿Todos los cuadrados son rojos? ¿Algunos cuadrados son 
 
-pequeños? ˛¡A
-grupen todos los que son de color rojo!
- ˛¡Jun
-ten todos los bloques delgados!
-c.
- Después de la actividad Prepara ˜chas de trabajo para cada estudiante, pídeles que 
+ √ Haz preguntas utilizando cuantificadores, por ejemplo: 
+¿Todos los cuadrados son rojos? ¿Algunos cuadrados son 
+pequeños?
+
+ √ ¡Agrupen todos los que son de color rojo!
+ √ ¡Junten todos los bloques delgados!
+
+c. Después de la actividad
+•	  Prepara fichas de trabajo para cada estudiante, pídeles que 
+
 sigan las siguientes indicaciones:
- ˛Observa las ˜guras que se presentan a continuación e 
-identi˜ca sus características. ¿Cómo puedes agruparlas?
-30     SEGUNDO GRADOEjemplo extraído de las 
+
+ √ Observa las figuras que se presentan a continuación e 
+identifica sus características. ¿Cómo puedes agruparlas?
+
+
+
+30     Castellano Primaria
+
+SEGUNDO GRADO
+
+Ejemplo extraído de las 
 Rutas del Aprendizaje para el 
-pueblo Shipibo¿Qué aprenderemos?
+
+pueblo Shipibo
+
+¿Qué aprenderemos?
+
 COMUNICACIÓN
-Producción escrita
-Comprensión lectora
+
+Producción escrita Comprensión lectora
+
 Capacidad  
- ˛P
-lani˜ca la producción de diversos tipos de texto 
+ √ Planifica la producción de diversos tipos de texto 
+
 Indicador:
- ˛M
-enciona, con ayuda del docente y desde sus 
+ √ Menciona, con ayuda del docente y desde sus 
+
 saberes previos, el destinatario, tema y propósito 
 de los textos que producirá. 
+
 Capacidad
- ˛R
-e˚exiona el proceso de producción de su texto 
+ √ Reflexiona el proceso de producción de su texto 
+
 para mejorar su práctica como escritor
 Indicador:
- ˛R
-evisa el contenido del texto en relación a lo     pla-
-ni˜cado.
-Capacidad
 
-In˜ere el signi˜cado del texto. 
+ √ Revisa el contenido del texto en relación a lo     pla-
+nificado.
+
+Capacidad
+Infiere el significado del texto. 
+
 Indicador:
- ˛P
-redice el tipo de texto y 
+ √ Predice el tipo de texto y 
+
 su contenido a partir de 
 los indicios que le ofrece el 
-
 texto (imágenes, palabras 
-
 conocidas, silueta del texto, 
-
 índice, título) para predecir 
-
 su contenido (formular 
-
 hipótesis). 
+
 MATEMÁTICAS
+
 Capacidades:
- ˛Matematiza
- situaciones que involucran cantidades y magnitudes en diversos contextos.
- ˛Representa 
-situaciones que involucran cantidades y magnitudes.
- ˛Elabora 
-diversas estrategias de resolución haciendo uso de los números  y sus operaciones.
- ˛Utiliza expresiones simbólicas, técnicas y formales de los números y las operaciones en la 
+ √ Matematiza situaciones que involucran cantidades y magnitudes en diversos contextos.
+
+ √ Representa situaciones que involucran cantidades y magnitudes.
+
+ √ Elabora diversas estrategias de resolución haciendo uso de los números  y sus operaciones.
+
+ √ Utiliza expresiones simbólicas, técnicas y formales de los números y las operaciones en la 
+
 resolución de problemas.
- ˛Comunica
- situaciones que involucren cantidades y magnitudes en diversos contextos.
- ˛Argumenta
- el uso de los  números y sus operaciones.
+
+ √ Comunica situaciones que involucren cantidades y magnitudes en diversos contextos.
+
+ √ Argumenta el uso de los  números y sus operaciones.
+
 Indicadores:
- ˛Explor
-a el uso de los números naturales hasta 100 para contar, ordenar, comparar, leer 
+ √ Explora el uso de los números naturales hasta 100 para contar, ordenar, comparar, leer 
+
 y escribir a partir de situaciones cotidianas.
- ˛Expr
-esa con material concreto, dibujos o símbolos los números naturales hasta 100, a 
+ √ Expresa con material concreto, dibujos o símbolos los números naturales hasta 100, a 
+
 partir de situaciones cotidianas.
- ˛U
-tiliza  descomposiciones aditivas y el tablero de valor posicional para expresar los 
+ √ Utiliza  descomposiciones aditivas y el tablero de valor posicional para expresar los 
+
 números naturales hasta 100.
- ˛Explica la r
-elación mayor que, menor que o igual que, para expresar la comparación 
+ √ Explica la relación mayor que, menor que o igual que, para expresar la comparación 
+
 de números naturales hasta 100 a partir de situaciones cotidianas.
-31SEMBREMOS MANÍ EN LA PLAYA
-Nº 2SITUACIÓN DE
+
+
+
+31Castellano Primaria
+
+SEMBREMOS MANÍ EN LA PLAYANº 2
+SITUACIÓN DE
 APRENDIZAJE
+
 Escribimos un aviso para el sembrío de 
-maní   Situación cultural y comunicativa
+maní
+
+   
+
+Situación cultural y comunicativa
+
 La actividad de siembra es una de las más importantes que 
-se realizan en el pueblo shipibo. Tener una chacra signi˜ca 
-
+se realizan en el pueblo shipibo. Tener una chacra significa 
 poder contar con alimentos para el autoconsumo y la venta, 
-
 pero sobre todo posibilita a los hombres y mujeres establecer 
-
 relaciones de intercambio y reciprocidad con las personas y 
-
 los seres espirituales que habitan en ella, para continuar con el 
-
 ciclo de vida de este pueblo. 
+
 Los que poseen grandes y variados sembríos como resultado 
 de la puesta en práctica de conocimientos, procedimientos, 
-
 valores y conductas propias del pueblo shipibo, son plenamente 
-
 reconocidos y respetados en la comunidad, de ahí la necesidad 
-
 de darle continuidad a esta actividad que, además, permite una 
-
 siembra coherente con el ecosistema amazónico.
+
 Las relaciones de cooperación se evidencian en las diferentes 
 actividades colectivas que se realizan en la comunidad y es la 
-
 chacra, en sus diferentes fases (rozo, tumba, quema, siembra 
-
 y cosecha), la que convoca a conocedores, adultos, jóvenes y 
-
 niños. 
-La ﬁinvitaciónﬂ a esta actividad se desarrollaba tradicionalmente 
+
+La “invitación” a esta actividad se desarrollaba tradicionalmente 
 de manera oral apoyada con elementos sonoros, como el cuerno 
-
 de vaca, la campana u otros, que marcaban el inicio y término 
+
 COMUNICACIÓN
-32     de la  misma. Hoy en día, aunque se han incorporado nuevos 
+
+
+
+32     Castellano Primaria
+
+de la  misma. Hoy en día, aunque se han incorporado nuevos 
 recursos para convocar, como el megáfono y la radiofonía, los 
-
 avisos e invitaciones no se dan a nivel escrito, menos aún en la 
-
 lengua originaria.
+
 Una educación intercultural y bilingüe que propugna un modelo 
 de mantenimiento y desarrollo de las lenguas, busca también, 
-
 entre otras habilidades, desarrollar en los hablantes una 
-
 práctica lectora y escrita, de ahí la necesidad de incorporarlas 
-
 con creatividad y pertinencia en la escuela y en la vida comunal. 
+
 a. Preparando la actividad
- Conversa con los niños y niñas sobre qué señales o 
+
+•	  Conversa con los niños y niñas sobre qué señales o 
 indicadores nos da la naturaleza para poder sembrar el 
+maní.
 
-maní.¿Cómo reconocemos que es tiempo de siembra del 
+¿Cómo reconocemos que es tiempo de siembra del 
 maní? ¿cómo están las aguas de los ríos? ¿En qué meses 
-
 aproximadamente aparecen las playas en nuestra 
-
 comunidad?
- Dialogan sobre la necesidad de aprender a leer esas señales:
+
+•	  Dialogan sobre la necesidad de aprender a leer esas señales:
 ¿Qué pasaría si no supiéramos reconocer esas señales? 
- Comentan sobre que la naturaleza es como un libro abierto, 
+
+•	  Comentan sobre que la naturaleza es como un libro abierto, 
 y que también hay que aprender a leerla.
-33 Conversan sobre lo que saben de la actividad de siembra de 
-maní:-  ¿Has participado en la actividad de siembra de maní?
+
+
+
+33Castellano Primaria
+
+•	  Conversan sobre lo que saben de la actividad de siembra de 
+maní:
+
+-  ¿Has participado en la actividad de siembra de maní?
 - ¿A quién o quiénes has acompañado a sembrar maní?
 -  ¿Qué hacen los niños y niñas durante la siembra?
 -  ¿Qué hacen las mujeres?, ¿qué hacen los hombres?
 -  ¿Qué discursos se dicen para que crezca bien el maní?
-
 -  ¿Quién o quiénes lo dicen?, ¿qué dicen de las personas 
+
 que no tienen ningún sembrío?, ¿estás de acuerdo 
-
 con que se les llame haragán? ¿por qué?.
- En el aula acuerdan sembrar maní aprovechando el tiempo 
+
+•	  En el aula acuerdan sembrar maní aprovechando el tiempo 
 de playa. Se organizan para la siembra, analizan si ellos lo 
-
 pueden hacer solos y si esta actividad les demandará mucho 
-
 tiempo. Deciden invitar a los padres y madres para que los 
-
 apoyen en esta tarea.
-b.
- Desarrollo de la actividad
- Conversan sobre las diferentes estrategias que pueden 
+
+b. Desarrollo de la actividad
+
+•	  Conversan sobre las diferentes estrategias que pueden 
 utilizar para invitar a los padres y madres.
+
 ¿Cómo vamos a invitar a los papás para que nos 
-
 ayuden?, ¿cómo invitaban antiguamente nuestros 
-
 ancestros?, ¿por qué lo hacían de esa forma?
- Comentan sobre ﬁotras formasﬂ de convocar a la gente que 
+
+•	  Comentan sobre “otras formas” de convocar a la gente que 
 se hace actualmente en la comunidad : el megáfono, la 
-
 radiofonía, entre otras.
- Explica a los niños y niñas que esas formas de convocatoria 
+
+•	  Explica a los niños y niñas que esas formas de convocatoria 
 son orales, pero que también existen formas audiovisuales 
-
 y escritas que se utilizan en otros contextos. 
- Hacen un recuento de avisos escritos que han encontrado 
+
+•	  Hacen un recuento de avisos escritos que han encontrado 
 en la comunidad y ayúdalos a reconocer cuál es el lugar 
-
 donde más se ve esta información.
- Acuerdan que invitarán a sus padres y madres a sembrar 
+
+•	  Acuerdan que invitarán a sus padres y madres a sembrar 
 maní con un aviso como los que leen en la posta, solo que 
-
 ellos escribirán en su lengua originaria y no en castellano 
-
 como están acostumbrados a ver.
-34     Indicador: 
+
+
+
+34     Castellano Primaria
+
+Indicador: 
 Predice el tipo de texto y 
 su contenido a partir de 
-
 los indicios que le ofrece el 
-
 texto (imágenes, palabras 
-
 conocidas, silueta del 
-
 texto, índice, título) para 
-
 predecir su contenido 
-
 (formular hipótesis). 
- También acuerdan que colocarán esas invitaciones en 
-diferentes lugares de la comunidad.
-  Para hacer bien el texto, se propone a niños y niñas conocer 
-más avisos.
- Presenta a los estudiantes algunos avisos que previamente 
-has recolectado o elaborado y pídeles que identi˜quen 
 
+•	  También acuerdan que colocarán esas invitaciones en 
+diferentes lugares de la comunidad.
+
+•	   Para hacer bien el texto, se propone a niños y niñas conocer 
+más avisos.
+
+•	  Presenta a los estudiantes algunos avisos que previamente 
+has recolectado o elaborado y pídeles que identifiquen 
 cuáles son las características de estos. 
- Con la ayuda del profesor, escriben en la pizarra o en un 
+
+•	  Con la ayuda del profesor, escriben en la pizarra o en un 
 papelote las características que tiene un aviso.
+
 Responden estas preguntas:
+
 ¿Para qué fue escrito el texto?
+
 ¿A quién (o quiénes) está dirigido?
 
 ¿Qué es lo que dice?
 
 ¿Menciona la fecha y el lugar?
+
 Siempre debes monitorear el 
 trabajo de los grupos y revisar 
+
 con ellos las características 
 del aviso que está escrito en el 
+
 papelote.
 Ayúdalos a darse cuenta de lo 
+
 que están escribiendo.
+
 Para escribir un aviso debemos tener en cuenta:
+
 1. Mencionar a quién va dirigido.
+
 2. El motivo de la reunión o convocatoria.
-3. El lugar y la fecha.4. Para llamar la atención, poner dibujos o fotos.
-35 Colocan este resumen en un lugar visible para que les ayude 
+
+3. El lugar y la fecha.
+
+4. Para llamar la atención, poner dibujos o fotos.
+
+
+
+35Castellano Primaria
+
+•	  Colocan este resumen en un lugar visible para que les ayude 
 a escribir su aviso,
- Los niños y niñas se forman en grupos de dos a cuatro 
+
+•	  Los niños y niñas se forman en grupos de dos a cuatro 
 integrantes para la producción de su aviso.
- Empiezan a escribir su primer borrador con la 
+
+•	  Empiezan a escribir su primer borrador con la 
 ayuda de estas preguntas:
+
 ¿A quiénes vamos a convocar?
+
 ¿Con qué motivo?
 
 ¿Qué día y en qué lugar?
+
 Indicador: 
 Revisa el contenido del 
+
 texto en relación a lo 
-plani˜cado.
- Cada grupo presenta su borrador y con ayuda 
+planificado.
+
+•	  Cada grupo presenta su borrador y con ayuda 
 del profesor revisan si el texto cumple con las 
 características de un aviso. Puedes dirigir el 
-
 proceso de revisión del texto preguntándoles:
+
 ¿Dicen con claridad a quiénes va dirigido?
+
 ¿Se entiende el motivo de la reunión?
 
 ¿Cómo podemos escribirlo para que se 
 entienda?
+
 ¿Han escrito el lugar y la fecha? 
 
 ¿Algunas sugerencias para las ilustraciones?
- Vuelven a sus grupos para reescribir sus avisos 
+
+•	  Vuelven a sus grupos para reescribir sus avisos 
 y para que los ilustren. 
- Se organizan para pegar sus avisos en diferentes 
+
+•	  Se organizan para pegar sus avisos en diferentes 
 lugares de la comunidad: posta, local comunal, 
 escuela, iglesia, etc.
+
 Indicador: 
 Menciona, con ayuda del 
+
 docente y desde sus saberes 
 previos, el destinatario, 
 tema y propósito de los 
+
 textos que producirá.
-36     ¿Para qué aprendemos a leer, escribir y ordenar 
+
+
+
+36     Castellano Primaria
+
+¿Para qué aprendemos a leer, escribir y ordenar 
 números?
+
 a. Preparando la actividad
- Conversan acerca de la cantidad de maní que cosecharán y 
+•	  Conversan acerca de la cantidad de maní que cosecharán y 
+
 qué es lo que harán con este producto.
- Acuerdan que una parte será para enriquecer sus desayunos 
+
+•	  Acuerdan que una parte será para enriquecer sus desayunos 
 escolares, otra para llevar a la casa y compartir con los 
 miembros de la familia y lo restante les puede servir para 
-
 venderlo y así comprar algunos materiales que la escuela 
-
 necesita.
- Conversan sobre el dinero y cómo éste es un medio para 
+
+•	  Conversan sobre el dinero y cómo éste es un medio para 
 comprar y vender objetos y recursos. 
- Cuentan anécdotas que les hayan sucedido referidas al 
+
+•	  Cuentan anécdotas que les hayan sucedido referidas al 
 manejo de dinero.
- Re˚exiona sobre la necesidad de conocer el valor del dinero 
+
+•	  Reflexiona sobre la necesidad de conocer el valor del dinero 
 y las cantidades, para evitar que nos engañen al momento 
-
 de vender el maní. 
+
 MATEMÁTICAS
-CHANIARama axeaibakebaonra, nato oxe 
 
+CHANIA
+
+Rama axeaibakebaonra, nato oxe 
 martes, 15 netenmashintamabanakanai, 
-
 yowakaiamanoxon.
+
 Jakopira non mato chaniaipapaboitantitabo, 
 noapariakinibekanwe. Mekenmenianankira 
-
 jatibí jaweki non ishtonakai.
+
 Jaskarai, matonbakebo.
-37b.
- Desarrollo de la actividad
+
+
+
+37Castellano Primaria
+
+b. Desarrollo de la actividad
 Primer momento (Laboratorio)
+
 Reconocemos monedas y billetes 
- Salen al patio para participar en un juego de rapidez visual, 
+
+•	  Salen al patio para participar en un juego de rapidez visual, 
 auditiva y motora, que consistirá en correr hacia los papeles 
 dibujados con las monedas de S/.1, S/.5, y billetes de 
-
 S/10, S/.50 y S/.100 que previamente el profesor pegó en 
-
 diferentes lugares. 
- El docente pide a los niños y niñas que se organicen en 
+
+•	  El docente pide a los niños y niñas que se organicen en 
 grupos de cuatro integrantes. Cada grupo se pone un 
-
 nombre y por turnos participan en el juego, que consiste 
-
 en cumplir con la consigna que da el docente o uno de los 
-
 niños.
+
 Instrucciones: 
+
 - Supongamos que los niños forman tres grupos, entonces 
 sus nombres se escriben en una tabla como la siguiente:
-Nombre del grupoPuntaje
+
+Nombre del grupo Puntaje
+
 Los tucanes
 
 Los venados
 
 Los tigres
-- Si el turno le corresponde al grupo ﬁLos tucanesﬂ, cuando 
-el profesor  ordena ﬁQuiero S/.10ﬂ solamente los niños y 
-las niñas del grupo ﬁLos tucanesﬂ  correrán para agruparse 
 
+- Si el turno le corresponde al grupo “Los tucanes”, cuando 
+el profesor  ordena “Quiero S/.10” solamente los niños y 
+las niñas del grupo “Los tucanes”  correrán para agruparse 
 cerca del papel dibujado con el billete de S/.10. 
-- Si todos los niños y niñas del grupo ﬁlos tucanesﬂ acertaron 
+
+- Si todos los niños y niñas del grupo “los tucanes” acertaron 
 en acercarse al billete de S/.10, los niños ganan un punto; 
-
 si hay algún niño o niña del grupo que se equivocó, no se 
-
 anota ningún punto al grupo. 
-- De esa manera participarán los diferentes grupos. 
-- Gana el grupo que tiene más puntos.
- En el salón, los mismos grupos formados trabajarán con las 
-monedas y billetes dibujados que el maestro les repartirá, 
 
+- De esa manera participarán los diferentes grupos. 
+
+- Gana el grupo que tiene más puntos.
+
+•	  En el salón, los mismos grupos formados trabajarán con las 
+monedas y billetes dibujados que el maestro les repartirá, 
 estos serán solamente de S/.1, S/.10, S/.100.
-38     Indicadores: 
+
+
+
+38     Castellano Primaria
+
+Indicadores: 
 Explora el uso de los números 
 naturales hasta 100 para contar, 
-
 ordenar, comparar, leer y escribir a 
-
 partir de situaciones cotidianas.
-
-Expresa
- con material concreto, 
-
+Expresa con material concreto, 
 dibujos o símbolos los números 
-
 naturales hasta 100, a partir de 
-
 situaciones cotidianas.
-
 Utiliza descomposiciones aditivas 
-
 y el tablero de valor posicional 
-
 para expresar los números 
-
 naturales hasta 100. 
-
-Explica
- la relación mayor que, 
-
+Explica la relación mayor que, 
 menor que o igual que, para 
-
 expresar la comparación de 
-
 números naturales hasta 100 a 
-
 partir de situaciones cotidianas.
- Los niños y niñas jugarán libremente con el dinero, para 
+
+•	  Los niños y niñas jugarán libremente con el dinero, para 
 luego conversar sobre la cantidad de dinero que posee cada 
-
 grupo, por ejemplo: S/.12, S/.23, S/.56.
- Escuchan una situación contada por el profesor:
-ﬁJosé compra una balsa que cuesta S/.43 para poder
 
+•	  Escuchan una situación contada por el profesor:
+
+“José compra una balsa que cuesta S/.43 para poder
 transportar los productos que cosecha en su chacra. ¿De
-
 qué modo puede pagar la balsa utilizando billetes de S/.20,
+S/.10 y monedas de un nuevo sol?”
 
-S/.10 y monedas de un nuevo sol?ﬂ
 A partir de lo que escucharon, cada grupo completa en una 
-hoja de papel esta tabla:CantidadS/. 20S/. 10S/. 1
-43 Les cuenta otras situaciones cuya respuesta implique 
+hoja de papel esta tabla:
+
+Cantidad S/. 20 S/. 10 S/. 1
+
+43
+
+•	  Les cuenta otras situaciones cuya respuesta implique 
 comparar cantidades de dinero, como por ejemplo :
+
 Jacinta tiene 6 billetes de S/. 10 y 9 monedas de S/. 1. Raúl 
 tiene 2 billetes de S/.10, y 9 billetes de S/. 10. ¿Quién tiene 
 más dinero? ¿Por qué?
-CantidadS/. 20S/. 10S/. 1
-431 billete2 billetes3 monedas
+
+Cantidad S/. 20 S/. 10 S/. 1
+
+43 1 billete 2 billetes 3 monedas
+
 Otra respuesta que pueden dar es:
-CantidadS/. 20S/. 10S/. 1
-433 billetes13 monedas
+
+Cantidad S/. 20 S/. 10 S/. 1
+
+43 3 billetes 13 monedas
+
 El docente pregunta a los estudiantes si son correctas 
 las respuestas dadas por sus compañeros y les pide que 
-
 expliquen por qué.
+
 Los grupos escriben sus respuestas en la pizarra. 
+
 Por ejemplo, una respuesta posible es:
-39Segundo momento (Laboratorio)
+
+
+
+39Castellano Primaria
+
+Segundo momento (Laboratorio)
 Representemos cantidades utilizando el material Base diez
- Los estudiantes se organizan en grupos de tres o cuatro. A cada 
+
+•	  Los estudiantes se organizan en grupos de tres o cuatro. A cada 
 grupo se le entrega cubitos, barritas y placas del material Base 
-diez.  Manipulan libremente el material para encontrar relaciones 
+diez. 
+
+•	  Manipulan libremente el material para encontrar relaciones 
 entre las piezas del mismo: cubitos, barras y placas. El docente 
-
 les pregunta: ¿con cuántas unidades (cubitos) pueden formar 
-
 una decena (barra)? ¿por qué?, ¿con cuántas barras pueden 
-
 formar una placa (centena)? ¿por qué?.
- Pide a los estudiantes que, por grupos, y utilizando las piezas 
+
+•	  Pide a los estudiantes que, por grupos, y utilizando las piezas 
 del material Base diez, representen los billetes y la moneda 
-
 que se indica en la tabla siguiente, dibujada en un papelote o 
-
 también en el suelo.
+
 DINERO: 
 Billetes, 
-monedaBillete de
-S/. 100Billete de
-S/. 10Moneda de
-S/. 1Piezas de 
+moneda
+
+Billete de
+S/. 100
+
+Billete de
+S/. 10
+
+Moneda de
+S/. 1
+
+Piezas de 
 material Base 
-diezNombre en el 
+
+diez
+
+Nombre en el 
 tablero de valor 
-posicionalCentena
-( C )Decena
-( D )Unidad( U)1 centena
-1 decena1 unidad
-Indicador
-: Expresa 
-con material 
+
+posicional
+
+Centena
+( C )
+
+Decena
+( D )
+
+Unidad
+( U)
+
+1 centena 1 decena 1 unidad
+
+Indicador: 
+Expresa con material 
+
+concreto, dibujos o 
+símbolos los números 
+naturales hasta 100, a 
+
+partir de situaciones 
+cotidianas.
+
+
+
+40     Castellano Primaria
+
+Indicador: 
+Expresa con material 
 concreto, dibujos o 
 símbolos los números 
 naturales hasta 100, a 
 partir de situaciones 
 cotidianas.
-40     Indicador
-: Expresa
- con material 
-concreto, dibujos o 
 
-símbolos los números 
-
-naturales hasta 100, a 
-
-partir de situaciones 
-
-cotidianas.
- La respuesta de los estudiantes debe ser como la que se presenta a 
-continuación, de modo que en la ˜la correspondiente a las piezas 
-
+•	  La respuesta de los estudiantes debe ser como la que se presenta a 
+continuación, de modo que en la fila correspondiente a las piezas 
 del material Base diez hayan colocado la placa, barra y cubito, que 
-
 representan la centena, la decena y unidad respectivamente.
+
 DINERO: 
 Billetes, 
-monedaBillete de
-S/. 100Billete de
-S/. 10Moneda 
-deS/. 1Piezas de 
+moneda
 
+Billete de
+S/. 100
+
+Billete de
+S/. 10
+
+Moneda 
+de
+
+S/. 1
+
+Piezas de 
 material 
+Base diez
 
-Base diezPlaca
-Barra
-Cubito
+Placa Barra Cubito
+
 Nombre en 
-
 el tablero 
-
 de valor 
+posicional
 
-posicionalCentena
-( C )Decena
-( D )Unidad( U) El docente pide a los estudiantes que, constatando en las piezas 
-del material Base diez, representen grá˜camente a qué es igual una   
+Centena
+( C )
 
+Decena
+( D )
+
+Unidad
+( U)
+
+•	  El docente pide a los estudiantes que, constatando en las piezas 
+del material Base diez, representen gráficamente a qué es igual una   
 decena en unidades, a qué es igual una centena en decenas, a qué es   
-
 igual una centena en unidades.
- Los niños y niñas deben descubrir, ellos mismos, con el material Base 
+
+•	  Los niños y niñas deben descubrir, ellos mismos, con el material Base 
 diez las equivalencias correspondientes.
-=1 decena=
- ...............  unidadesEs decir:    
-1 D=
-...............  U41=1 Centena= ...............  Decenas  
-O sea :   1 C=
-...............  D=1 Centena= ...............  Unidades  
-Es decir:  
-   1 C=
-...............  U Los niños y niñas representan con el material Base diez, a   
-nivel concreto y luego grá˜camente, y en el tablero de valor  
+
+=
+
+1 decena =  ...............  unidades
+
+Es decir:    
+
+1 D = ...............  U
+
+
+
+41Castellano Primaria
+
+=
+
+1 Centena =  ...............  Decenas  
+O sea :   
+
+1 C = ...............  D
+
+=
+
+1 Centena =  ...............  Unidades  
+Es decir:     
+
+1 C = ...............  U
+
+•	  Los niños y niñas representan con el material Base diez, a   
+nivel concreto y luego gráficamente, y en el tablero de valor  
 posicional, por ejemplo 25.
-La representación grá˜ca de 25 es:
-42     Indicador: 
+
+La representación gráfica de 25 es:
+
+
+
+42     Castellano Primaria
+
+Indicador: 
 Explora el uso de los números 
 naturales hasta 100 para 
 contar, ordenar, comparar, 
-
 leer y escribir a partir de 
-
 situaciones cotidianas.
-Indicador
-: Utiliza descomposiciones 
 
+Indicador: 
+Utiliza descomposiciones 
 aditivas y el tablero de valor 
-
 posicional para expresar los 
-
 números naturales hasta 100.
- Y que representen este número en el TVP (Tablero de Valor 
+
+•	  Y que representen este número en el TVP (Tablero de Valor 
 Posicional):
-CDU
-25
- Mediante preguntas, el docente debe averiguar si los estudiantes 
-han comprendido que 25 signi˜ca, 2 decenas y 5 unidades. Y 
 
+C D U
+
+2 5
+
+•	  Mediante preguntas, el docente debe averiguar si los estudiantes 
+han comprendido que 25 significa, 2 decenas y 5 unidades. Y 
 también si han entendido que 25 se puede escribir así:
-25=2D+5U
-25=20+5
- Asimismo, los estudiantes pueden proponer otros números, 
+
+25 = 2D + 5U
+
+25 = 20 + 5
+
+•	  Asimismo, los estudiantes pueden proponer otros números, 
 hasta 100, para que sus compañeros los representen tanto 
-
-grá˜ca como simbólicamente en el TVP, y los escriban 
-
+gráfica como simbólicamente en el TVP, y los escriban 
 descomponiéndolos. 
+
 Tercer momento (Taller)
+•	  El maestro propone a los estudiantes tareas como las siguientes, 
 
- El maestro propone a los estudiantes tareas como las siguientes, 
 para que las realicen primero individualmente y luego 
-
 contrasten sus resultados por grupos.  
- ˛Encier
-ra el número que corresponde a la cantidad:
-Diez loros. 
-201001
-Cincuenta y dos cocos.
-255255
-Veinticuatro plátanos.
-424324
- ˛Indica el valor que ocupa cada cifra en el tablero 
+
+ √ Encierra el número que corresponde a la cantidad:
+
+Diez loros. 20 10 01
+
+Cincuenta y dos cocos. 25 52 55
+
+Veinticuatro plátanos. 42 43 24
+
+ √ Indica el valor que ocupa cada cifra en el tablero 
 de valor posicional:
-433 ocupa el lugar de las unidades.
-4 ocupa el lugar de las––––––
-577 ocupa el lugar de las––––––
 
-5 ocupa el lugar de las––––––
-Indicador
-: Utiliza descomposiciones 
+43
+3 ocupa el lugar de las unidades.
+
+4 ocupa el lugar de las………………
+
+57
+7 ocupa el lugar de las………………
+
+5 ocupa el lugar de las………………
+
+Indicador: 
+Utiliza descomposiciones 
 aditivas y el tablero de valor 
-
 posicional para expresar los 
-
 números naturales hasta 100.
-1001 ocupa el lugar de las––––––
-0 ocupa el lugar de las––––––
 
-0 ocupa el lugar de las––––––
-43 ˛Escr
-ibe el número que corresponde:
-2D   4U3U   2D8D   3U 24 ˛C
-ompleta el cuadro:
-NúmeroSe descomponeSe lee
-4D   7UTreinta y dos
-48 ˛Encuen
-tra el número que corresponde. Utiliza cifras y letras.
-              70  +  2  =  72 .Se lee: Setenta y dos.
-              90  +  8  =–––––––..              40  +  5  =–––––––..              50  +  3  =–––––––..              80  +  1  =–––––––..100  +  00  +  0  =–––––––..              10  +  4  =–––––––..              99  +  9  =–––––––.. ˛Escr
-ibe el número que corresponde:
-Se descompone
-CDU
-5 decenas, 3 unidades.
-53
+100
+
+1 ocupa el lugar de las………………
+
+0 ocupa el lugar de las………………
+
+0 ocupa el lugar de las………………
+
+
+
+43Castellano Primaria
+
+ √ Escribe el número que corresponde:
+
+2D   4U 3U   2D 8D   3U 
+
+24
+
+ √ Completa el cuadro:
+
+Número Se descompone Se lee
+
+4D   7U
+
+Treinta y dos
+
+48
+
+ √ Encuentra el número que corresponde. Utiliza cifras y letras.
+
+•	               70  +  2  =  72 .Se lee: Setenta y dos.
+
+•	               90  +  8  =…………………..
+
+•	               40  +  5  =…………………..
+
+•	               50  +  3  =…………………..
+
+•	               80  +  1  =…………………..
+
+•	 100  +  00  +  0  =…………………..
+
+•	               10  +  4  =…………………..
+
+•	               99  +  9  =…………………..
+
+ √ Escribe el número que corresponde:
+
+Se descompone C D U
+
+5 decenas, 3 unidades. 5 3
+
 5 unidades, 2 decenas.
+
 4 decenas, 8 unidades.
- ˛C
-ompleta:24: Se descompone en  2D   4U
-75: Se descompone en –––––––..
-37: Se descompone en –––––––..
-78: Se descompone en –––––––..
-Indicador: Utiliza descomposiciones 
+
+ √ Completa:
+
+•	 24: Se descompone en  2D   4U
+
+•	 75: Se descompone en …………………..
+
+•	 37: Se descompone en …………………..
+
+•	 78: Se descompone en …………………..
+
+Indicador: 
+Utiliza descomposiciones 
+
 aditivas y el tablero de 
 valor posicional para 
+
 expresar los números 
 naturales hasta 100.
-44      ˛¿Q
-ue representa  3 en cada posición?, ¿y 1?
-CDU
-Valor   relativo
-343 Decenas  =  30   Unidades.
-100
-1 Centena  =     .....Unidades.
-233
- Unidades  =   .....Unidades.
+
+
+
+44     Castellano Primaria
+
+ √ ¿Que representa  3 en cada posición?, ¿y 1?
+
+C D U Valor   relativo
+
+3 4 3 Decenas  =  30   Unidades.
+
+1 0 0 1 Centena  =     .....Unidades.
+
+2 3 3 Unidades  =   .....Unidades.
+
 Cuarto momento (Taller)
+
 FICHA DE TRABAJO
+
 Responde individualmente:
+
 Cuatro amigos tienen las cantidades de nuevos soles que se 
 indica en la siguiente tabla:
+
 Indicadores: 
 Explora el uso de los números naturales 
 hasta 100 para contar, ordenar, comparar, 
-
 leer y escribir a partir de situaciones 
-
 cotidianas.
-
-Explica
- la relación mayor que, menor que 
-
+Explica la relación mayor que, menor que 
 o igual que, para expresar la comparación 
-
 de números naturales hasta 100 a partir 
-
 de situaciones cotidianas.
-NombresCantidad de dinero
-Ana
-80Francisco
-35Moisés
-69Leo
-90Ordena en forma ascendente las cantidades de dinero que 
 
+Nombres Cantidad de dinero
+
+Ana 80
+
+Francisco 35
+
+Moisés 69
+
+Leo 90
+
+Ordena en forma ascendente las cantidades de dinero que 
 tienen los cuatro amigos.
+
 a) ¿Quién tiene más dinero?, explica por qué.
-b)
- ¿Quién tiene menos dinero?, explica por qué.
-c) ¿Cuánto más dinero tiene Leo que Ana?, justi˜ca tu 
+b) ¿Quién tiene menos dinero?, explica por qué.
+c) ¿Cuánto más dinero tiene Leo que Ana?, justifica tu 
+
 respuesta.
-d) ¿Cuánto menos dinero tiene Moisés que Leo?, justi˜ca tu 
+d) ¿Cuánto menos dinero tiene Moisés que Leo?, justifica tu 
+
 respuesta.
-45 ˛En la siguiente tabla ˜guran los precios de dos bolsas de 
+
+
+
+45Castellano Primaria
+
+ √ En la siguiente tabla figuran los precios de dos bolsas de 
 maní y el nombre de cada uno de los cinco vendedores en 
 la feria de una comunidad.
+
 Nombres de
  los vendedores
+
 Precio de dos bolsas de 
 maní: Nuevos soles
-Laman47Lener
-46Raúl
-43Sandra
-49Sofía
-44a)  Ordena en forma descendente los 
+
+Laman 47
+
+Lener 46
+
+Raúl 43
+
+Sandra 49
+
+Sofía 44
+
+a)  Ordena en forma descendente los 
 precios.
+
 b)  ¿Quién vende más caro el maní?
 c)  ¿Quién vende menos caro el maní?
 d)  Si compras 4 bolsas de maní a Sandra, 
-¿cuánto debes pagarle? Justi˜ca tu 
+
+¿cuánto debes pagarle? Justifica tu 
 respuesta.
+
 e)  ¿Cuál es la diferencia entre los precios 
 del maní que venden Sandra y Raúl? 
-
 ¿Por qué?
+
 Compara tus respuestas con las de dos de tus compañeros.
+
 Quinto momento (Taller)
+
 Comparemos números hasta 100.
-Indicador:
- Utiliza los signos >, < o = para 
+
+Indicador: 
+Utiliza los signos >, < o = para 
+
 expresar los resultados de la 
 comparación   de números naturales 
+
 hasta 100 a partir de situaciones 
 cotidianas.
+
 El docente propondrá a los estudiantes 
-una ˜cha de trabajo como la siguiente. 
-
-Les recuerda el signi˜cado de los signos: 
-
-ﬁmayor queﬂ (>), ﬁmenor queﬂ (<), ﬁigual aﬂ 
-
+una ficha de trabajo como la siguiente. 
+Les recuerda el significado de los signos: 
+“mayor que” (>), “menor que” (<), “igual a” 
 (=). 
 Pueden utilizar el material Base diez. 
+
 Indicadores: 
 Explora el uso de los números 
+
 naturales hasta 100 para contar, medir 
 (usando la cinta métrica), ordenar, 
 comparar, leer y escribir a partir de 
+
 situaciones cotidianas.
-Explica
- la relación mayor que, menor 
+Explica la relación mayor que, menor 
+
 que o igual que, para expresar la 
 comparación de números naturales 
+
 hasta 100 a partir de situaciones 
 cotidianas.
-Ejemplo:6D   4U>3D   8U64>3846     FICHA DE TRABAJO
+
+Ejemplo:
+
+6D   4U > 3D   8U
+
+64 > 38
+
+
+
+46     Castellano Primaria
+
+FICHA DE TRABAJO
+
 Responde individualmente.
- ˛Escribe las palabras: mayor que, menor que o igual a, según 
+
+ √ Escribe las palabras: mayor que, menor que o igual a, según 
 corresponda.
-35    <    53 35 es menor que 5357   –––.     27 57 es –––––––––   2773   –––.     87 73 es –––––––––.   8775   –––.      57 75 es –––––––––.  57 ˛C
-ompleta el siguiente cuadro:
-48       >     28Se lee: 48 es 
-mayor que
- 28.25   .........    17Se lee:
-67   .........   76Se lee:
- ˛Si la ˚echa se lee: es 
-ﬁmenor queﬂ, traza todas las ˚echas.
-327253 ˛Escribe dentro del paréntesis v si la a˜rmación es verdadera y f 
-si es falsa.86    >     32     (         )24    >     14     (         )32    >     35     (         )47Otros ejercicios a proponer son:
- ˛Escr
-ibe números de dos cifras y ordénalos en forma 
+
+•	 35    <    53
+ 35 es menor que 53
+
+•	 57   ……….     27
+ 57 es ………………………   27
+
+•	 73   ……….     87
+ 73 es ……………………….   87
+
+•	 75   ……….      57
+ 75 es ……………………….  57
+
+ √ Completa el siguiente cuadro:
+
+48       >     28 Se lee: 48 es mayor que 28.
+
+25   .........    17 Se lee:
+
+67   .........   76 Se lee:
+
+ √ Si la flecha se lee: es “menor que”, traza todas las flechas.
+
+32
+
+72
+
+53
+
+ √ Escribe dentro del paréntesis v si la afirmación es verdadera y f 
+si es falsa.
+
+•	 86    >     32     (         )
+
+•	 24    >     14     (         )
+
+•	 32    >     35     (         )
+
+
+
+47Castellano Primaria
+
+Otros ejercicios a proponer son:
+
+ √ Escribe números de dos cifras y ordénalos en forma 
 decreciente:
-2D   4U2D   8U7D  5U9D   3U
-       –––––––––––––––––––––––– ˛Completa la tabla escribiendo números menores que 100, 
+
+2D   4U 2D   8U 7D  5U 9D   3U
+
+       ………………………………………………………………
+
+ √ Completa la tabla escribiendo números menores que 100, 
 sin que las cifras se repitan:
-Cifras
-Número menor
-Número mayor
-3, 2235, 14, 6
-7, 9El maestro, durante la realización de los talleres revisará 
-las ˜chas que respondan los estudiantes para que pueda 
+
+Cifras Número menor Número mayor
+
+3, 2 23
+
+5, 1
+
+4, 6
+
+7, 9
+
+El maestro, durante la realización de los talleres revisará 
+las fichas que respondan los estudiantes para que pueda 
 evaluar de modo permanente su aprendizaje, considerando 
-
 los indicadores formulados inicialmente. De este modo 
-
 podrá darse cuenta de aquellos que necesitan de su apoyo.
-c.
- Después de la actividad El docente promueve el comentario de los niños y niñas 
+
+c. Después de la actividad 
+
+El docente promueve el comentario de los niños y niñas 
 planteándoles preguntas como las siguientes:
 ¿Todos ya saben contar dinero?
-
 ¿Para qué es importante saber leer, escribir y comparar 
 números?
 ¿Qué tareas les hicieron demorar?
-
 ¿Qué les resultó difícil?
-
 ¿Hasta qué número saben leer, escribir, comparar y ordenar?
-
 ¿Saben escribir cualquier número de dos cifras?
-
 ¿Saben comparar números hasta 100 y decir cuál es el 
-menor?¿Saben utilizar los signos ﬁ<ﬂ,ﬂ>ﬂ eﬂ=ﬂ?
-
-¿Cómo identi˜can cuál es el mayor de dos números de dos 
+menor?
+¿Saben utilizar los signos “<”,”>” e”=”?
+¿Cómo identifican cuál es el mayor de dos números de dos 
 cifras?
-¿Les parece importante saber el signi˜cado de  las cifras 
+¿Les parece importante saber el significado de  las cifras 
 de los números para la compra y venta del maní o de otros 
-
 productos? ¿Por qué?¿cifras?
-¡Re˜exionan 
+
+¡Reflexionan 
 sobre sus 
+
 procesos de 
 aprendizaje!
-48     Ejemplo extraído de las Rutas 
+
+
+
+48     Castellano Primaria
+
+Ejemplo extraído de las Rutas 
 del Aprendizaje en lengua 
+
 Quechua Chanca
+
 ¿Qué aprenderemos?
+
 COMUNICACIÓN
-Producción escrita
-Comprensión lectora
-Primer grado
-Capacidad
- Re˚exiona el proceso de 
 
+Producción escrita Comprensión lectora
+
+P
+ri
+
+m
+er
+
+ g
+ra
+
+d
+o
+
+Capacidad 
+Reflexiona el proceso de 
 producción de su texto para 
-
 mejorar su práctica como 
-
 escritor
+
 Indicador:
- ˛R
-evisa el contenido del 
+ √ Revisa el contenido del 
 texto en relación a lo 
-plani˜cado.
- Capacidad
+planificado.
 
+ 
+
+Capacidad
 Se apropia del sistema de 
-
 escritura.
+
 Indicadores:
- ˛R
-econoce, en un texto 
+ √ Reconoce, en un texto 
 escrito, palabras conocidas 
 que forman parte de su 
-
 vocabulario visual. 
- ˛R
-econoce palabras 
+
+ √ Reconoce palabras 
 mediante la asociación con 
-
 otras palabras conocidas.
-Segundo grado
-Capacidad
- 
-Plani˜ca la producción de 
 
+Se
+g
+
+u
+n
+
+d
+o
+
+ g
+ra
+
+d
+o
+
+Capacidad 
+Planifica la producción de 
 diversos tipos de texto.
+
 Indicador:
- ˛S
-elecciona, de manera 
+ √ Selecciona, de manera 
 autónoma desde sus 
 saberes previos, el 
-
 destinatario, tema y 
-
 propósito de los textos que 
-
 producirá. 
+
 Capacidad
-
-Re˚exiona el proceso de 
-
+Reflexiona el proceso de 
 producción de su texto para 
-
 mejorar su práctica como 
-
 escritor
-
 Indicador:
-
 Revisa la adecuación de su 
-
 texto al propósito.
-Capacidad
- 
-Se apropia del sistema de 
 
+Capacidad 
+Se apropia del sistema de 
 escritura. 
+
 Indicador:
- ˛L
-ee con autonomía y 
+ √ Lee con autonomía y 
 seguridad textos de 
 diverso tipo, de estructura 
-
 simple, sintaxis sencilla y 
-
 vocabulario familiar. 
-49MATEMÁTICAS
-Primer grado
+
+
+
+49Castellano Primaria
+
+MATEMÁTICAS
+P
+
+ri
+m
+
+er
+ g
+
+ra
+d
+
+o
+
 Capacidades:
- ˛Matematiza
- situaciones que involucran cantidades y magnitudes en 
+ √ Matematiza situaciones que involucran cantidades y magnitudes en 
+
 diversos contextos.
- ˛Representa 
-situaciones que involucran cantidades y magnitudes.
- ˛Elabora
- diversas estrategias de resolución haciendo uso de los 
+ √ Representa situaciones que involucran cantidades y magnitudes.
+ √ Elabora diversas estrategias de resolución haciendo uso de los 
+
 números y sus operaciones.
- ˛Utiliza expresiones
- simbólicas, técnicas y formales de los números y 
+ √ Utiliza expresiones simbólicas, técnicas y formales de los números y 
+
 las operaciones en la resolución de problemas.
- ˛Comunica
- situaciones que involucren cantidades y magnitudes en 
+ √ Comunica situaciones que involucren cantidades y magnitudes en 
+
 diversos contextos.
- ˛Argumenta
- el uso de los números y sus operaciones.
+ √ Argumenta el uso de los números y sus operaciones.
+
 Indicadores:
- ˛Describe situaciones cotidianas que impliquen clasi˜car una colección 
+ √ Describe situaciones cotidianas que impliquen clasificar una colección 
+
 de objetos de acuerdo a un criterio perceptual.
- ˛Expresa con material concreto, dibujos o grá˜cos (diagramas de Venn 
-y tablas simples de doble entrada), la clasi˜cación de una colección de 
+ √ Expresa con material concreto, dibujos o gráficos (diagramas de Venn 
+
+y tablas simples de doble entrada), la clasificación de una colección de 
 objetos de acuerdo a un criterio perceptual.
- ˛Explica los criterios de clasi˜cación de una o más colecciones de 
-objetos, usando los cuanti˜cadores: todos, algunos, ninguno.
-Segundo  grado
+
+ √ Explica los criterios de clasificación de una o más colecciones de 
+objetos, usando los cuantificadores: todos, algunos, ninguno.
+
+Se
+g
+
+u
+n
+
+d
+o
+
+  g
+ra
+
+d
+o
+
 Capacidades:
- ˛Matematiza
- situaciones que involucran cantidades y 
+ √ Matematiza situaciones que involucran cantidades y 
+
 magnitudes en diversos contextos.
- ˛Representa
- situaciones que involucran cantidades y 
+ √ Representa situaciones que involucran cantidades y 
+
 magnitudes.
- ˛Elabora
- diversas estrategias de resolución haciendo uso 
+ √ Elabora diversas estrategias de resolución haciendo uso 
+
 de los números y sus operaciones.
- ˛Utiliza expresiones
- simbólicas, técnicas y formales de los 
+ √ Utiliza expresiones simbólicas, técnicas y formales de los 
+
 números y las operaciones en la resolución de problemas.
- ˛Comunica
- situaciones que involucren cantidades y 
+ √ Comunica situaciones que involucren cantidades y 
+
 magnitudes en diversos contextos.
- ˛Argumenta
- el uso de los números y sus operaciones.
+ √ Argumenta el uso de los números y sus operaciones.
+
 Indicadores:
- ˛Describe situaciones cotidianas que impliquen clasi˜car objetos de 
+ √ Describe situaciones cotidianas que impliquen clasificar objetos de 
+
 acuerdo a dos criterios formando clases y subclases.
- ˛Expresa con material concreto, dibujos, grá˜cos y tablas de doble 
-entrada la clasi˜cación de objetos de acuerdo a uno o dos criterios a 
+ √ Expresa con material concreto, dibujos, gráficos y tablas de doble 
 
+entrada la clasificación de objetos de acuerdo a uno o dos criterios a 
 partir de situaciones cotidianas.
- ˛Explica los criterios de clasi˜cación de una o más colecciones de
- objetos en clases y subclases, usando los cuanti˜cadores: todos, 
 
+ √ Explica los criterios de clasificación de una o más colecciones de 
+objetos en clases y subclases, usando los cuantificadores: todos, 
 algunos, ninguno.
-50     COSECHA DE PRODUCTOS
-Nº 3SITUACIÓN DE
+
+
+
+50     Castellano Primaria
+
+COSECHA DE PRODUCTOSNº 3
+SITUACIÓN DE
 APRENDIZAJE
+
 Escribimos el discurso para el 
-ﬁtaqi takyachiﬂ
-   Situación cultural y comunicativa
+“taqi takyachi”
+
+   
+Situación cultural y comunicativa
+
 La cosecha se inicia con la limpieza y arreglo de la marca. Se 
 barre bien, se humea con ají para espantar a los insectos y se 
-
 arrinconan los productos de la cosecha anterior, quedando 
-
 así listo para guardar la nueva cosecha. Para el acopio de cada 
-
 producto existen sabidurías exclusivas, iniciando el protocolo 
-
 con el almacenado.
-Para guardar el maíz ﬁsara waqaychayﬂ, mientras este se seca en 
+
+Para guardar el maíz “sara waqaychay”, mientras este se seca en 
 el tendal, se arregla el taqi, se limpia la marca y se humea con ají 
-
 para espantar a la polilla. Cuando el maíz está seco, se inicia el 
-
-guardado con un ritual ﬁtaqi takyachiﬂ, para invocar a la energía 
-
+guardado con un ritual “taqi takyachi”, para invocar a la energía 
 que protege, cría y multiplica al maíz. 
-Se escoge ﬁtaqi saraﬂ y se coloca entre la coca y las ˚ores 
-espolvoreando con llampu al centro del taqi diciendo: -ﬂMama 
 
+Se escoge “taqi sara” y se coloca entre la coca y las flores 
+espolvoreando con llampu al centro del taqi diciendo: -”Mama 
 sara, danos comida a todos, a nosotros y al ratón que no nos 
+falte comida, somos tus hijos.” 
 
-falte comida, somos tus hijos.ﬂ 
 Estas prácticas deben ser fortalecidas en la escuela, según las 
 particularidades de cada ayllu.
+
 a. Preparando la actividad:
- Identi˜ca en la comunidad al mejor criador de maíz y 
+
+•	  Identifica en la comunidad al mejor criador de maíz y 
 visítalo para ver cuándo guardará su cosecha y pídele que 
+te permita participar con tus niños y niñas en su ritual “taqi 
+takyachi”.
 
-te permita participar con tus niños y niñas en su ritual ﬁtaqi 
+•	  Pide al criador de maíz que enseñe a tus niños y niñas cómo 
+hacer el ritual “taqi takyachi”.
 
-takyachiﬂ.
- Pide al criador de maíz que enseñe a tus niños y niñas cómo 
-hacer el ritual ﬁtaqi takyachiﬂ.
 COMUNICACIÓN
-51b.
- Desarrollo de  la actividad:
- Conversan en clase todos  los niños y niñas de primer y segundo 
+
+
+
+51Castellano Primaria
+
+b. Desarrollo de  la actividad:
+
+•	  Conversan en clase todos  los niños y niñas de primer y segundo 
 grados:
+
 ¿Qué trabajos hay en la comunidad en esta época?, ¿han visto 
 guardar maíz?, ¿cómo se guarda maíz?, ¿cómo es el taqi para 
 guardar maíz?, ¿cómo es el taqi sara?, ¿con qué ritual se inicia 
-
 el guardado de maíz?
- En grupos mixtos, conversan sobre  cómo guardan maíz en su 
-casa. Se organizan para visitar la casa del criador de maíz. Contestan 
+
+•	  En grupos mixtos, conversan sobre  cómo guardan maíz en su 
+casa.
+
+•	  Se organizan para visitar la casa del criador de maíz. Contestan 
 estas preguntas: 
+
 ¿Cómo llegaremos a su casa?, ¿qué llevaremos para compartir 
 con él?, ¿qué le diremos?, ¿cómo ayudaremos?
- Durante la visita al criador de maíz participan en el ritual ﬁtaqi 
-takyachiﬂ.
- Los niños y niñas escuchan con atención la conversación entre 
-el docente y el criador de maíz sobre el ritual ﬁtaqi takyachiﬂ.  
+
+•	  Durante la visita al criador de maíz participan en el ritual “taqi 
+takyachi”.
+
+•	  Los niños y niñas escuchan con atención la conversación entre 
+el docente y el criador de maíz sobre el ritual “taqi takyachi”.  
+
 En muchos pueblos originarios, los niños y niñas 
 no deben involucrarse en las conversaciones de los 
 adultos, sobre todo cuando el sabio o especialista 
+
 está enseñando algunos conocimientos tradicionales. 
 Tú, como maestro intercultural, debes tener en 
+
 consideración el rol que cumplen los niños y niñas en 
 este tipo de interacciones  y ser cuidadoso al momento 
 de propiciar la intervención de los estudiantes con los 
+
 adultos mayores de la comunidad.
- En el salón de clases trabaja con los niños y niñas de primer 
+
+•	  En el salón de clases trabaja con los niños y niñas de primer 
 grado:
- En grupo dibujan el ritual ﬁtaqi takyachiﬂ observado.
- Según su nivel escriben los nombres de sus dibujos. Para ello 
+
+•	  En grupo dibujan el ritual “taqi takyachi” observado.
+
+•	  Según su nivel escriben los nombres de sus dibujos. Para ello 
 recuerdan:
+
 ¿Qué elementos se usó en el ritual?, ¿quién hizo el ritual?, 
 ¿cuál fue el discurso principal?
-52     Indicador: 
+
+
+
+52     Castellano Primaria
+
+Indicador: 
 Selecciona, de manera 
 autónoma desde sus 
-
 saberes previos, el 
-
 destinatario, tema y 
-
 propósito de los textos que 
-
 producirá.
- Mientras los de primer grado dibujan, los de 
+
+•	  Mientras los de primer grado dibujan, los de 
 segundo grado en grupo, escriben el discurso del 
-
 ritual. Para ello conversan:
+
 ¿Para qué escribiremos?
-
 ¿Quiénes leerán nuestro texto?
-
 ¿Qué tipo de texto escribiremos?
- Inician su producción teniendo en cuenta el discurso del 
+
+•	  Inician su producción teniendo en cuenta el discurso del 
 criador de maíz.
+
 Madre maíz, críanos siempre llenos, 
-
 y nunca te acabes, al ratón y a 
-
 nosotros, que no nos falte comida.
+
 Somos tus hijos.
+
 Cuando ambos grupos terminan las tareas asignadas, el 
 docente pide que todos se reúnan:
-Los de 
-primer grado
- socializan con sus compañeros el dibujo 
-y lo que escribieron sobre el ritual ﬁtaqi takyachiﬂ.
- Madre maíz danos comida.
-Y los de segundo grado
- socializan el discurso escrito con sus 
+
+Los de primer grado socializan con sus compañeros el dibujo 
+y lo que escribieron sobre el ritual “taqi takyachi”.
+
+•	  Madre maíz danos comida.
+
+Y los de segundo grado socializan el discurso escrito con sus 
 compañeros.
-53Indicador: 
+
+
+
+53Castellano Primaria
+
+Indicador: 
 Reconoce, en un texto 
+
 escrito, palabras conocidas 
 que forman parte de su 
+
 vocabulario visual. 
+
 Indicador: 
 Revisa el contenido del 
+
 texto en relación a lo 
-plani˜cado.
- Aprovecha ese momento para que los niños 
+planificado.
+
+•	  Aprovecha ese momento para que los niños 
 y niñas de primer grado y con la ayuda de 
 sus compañeros aprendan a escribir el texto 
-
 y revisarlo para mejorar el trabajo. Puedes 
-
 ayudarlos a autoevaluarse con estas preguntas:
+
 ¿Está bien dibujado?, ¿el dibujo recoge todo el 
+
 ritual?
+
 ¿Falta algún elemento?, ¿cuál?, ¿está bien 
+
 escrito el texto que resume?
- Los estudiantes de 
-segundo grado 
-también deberán revisar su texto. Una vez que ellos 
 
+•	  Los estudiantes de segundo grado también 
+deberán revisar su texto. Una vez que ellos 
 ayudaron a los de primer grado, pídeles que 
-
 se formen en parejas y que cada quien revise 
-
 el trabajo del otro. Se pueden ayudar en esta 
-
 evaluación con estas interrogantes: ¿está bien 
-
 escrito?, ¿cómo inicia?, ¿cómo termina?, ¿qué 
-
 palabras están mal escritas?, ¿cómo se escriben?, 
-
 ¿está escrito según el discurso del criador de maíz?
+
 Madre maíz, críanos siempre 
-
 llenos, y nunca te acabes, al 
-
 ratón y a nosotros, que no nos 
-
 falte comida.
+
 Somos tus hijos.
+
 Juega a encontrar palabras escritas en el texto.
+
 ¿Dónde dice: maíz?
 ¿Dónde dice: madre, ratón, nosotros, somos?
+
 Indicador: 
-Revisa la adecuación de su 
+Revisa la 
+
+adecuación de su 
 texto al propósito.
- Una vez que han revisado sus escritos, los reescriben y 
+
+•	  Una vez que han revisado sus escritos, los reescriben y 
 adornan sus trabajos con dibujos.
- Los niños y niñas de primer grado
- y con el apoyo de 
+
+•	  Los niños y niñas de primer grado y con el apoyo de 
 segundo grado continúan profundizando el aprendizaje de 
-
 palabras con estas actividades:
-54      Los de primer grado hacen prácticas de silabeo de las palabras:
-Comida:
- Maíz: Nosotros: ratón:
- Madre:
-co Œ mi Œ da.
- ma Œ ízno Œ so Œ trosra Œ tón
 
-ma Œ dre
- Aprenden a escribir las palabras:
+
+
+54     Castellano Primaria
+
+•	  Los de primer grado hacen prácticas de silabeo de las palabras:
+
+Comida: 
+
+Maíz: 
+
+Nosotros: 
+
+ratón: 
+
+Madre:
+
+co – mi – da. 
+
+ma – íz
+
+no – so – tros
+
+ra – tón
+
+ma – dre
+
+•	  Aprenden a escribir las palabras:
+
 Armamos las palabras con letras sueltas:
+
 Comida
 Madre
-
 Ratón
-
 Nosotros
-
 Maíz
-atrnuez
-poysimll
-Maiz
- El docente prepara material escrito para ambos grados.
-1° grado.
-2° grado.
 
+a t r n u e z
 
+p o y s i m ll
 
-dibujos:nosotros
-maízratón
+M a i z
 
+•	  El docente prepara material escrito para ambos grados.
+
+1° grado. 2° grado.
+
+•	 Relacionan	los	nombres	con	los	
+dibujos:
+
+nosotros
+
+maíz
+
+ratón
+
+•	 Recortando	palabras	de	los	libros	y	
 cuadernos de trabajo, reconstruyen 
 el discurso en sus cuadernos:
-madremaíz
+
+madre maíz
+
 Indicador: 
 Lee con autonomía y seguridad 
-
 textos de diverso tipo, de 
-
 estructura simple, sintaxis 
-
 sencilla y vocabulario familiar.
-Y los de segundo grado
- socializan el discurso 
-escrito con sus compañeros.
-551° grado.
-2° grado.
 
-maízmadre
+Y los de segundo grado socializan el discurso 
+escrito con sus compañeros.
+
+
+
+55Castellano Primaria
+
+1° grado. 2° grado.
+
+•	 Completa	la	sílaba	que	falta:
+
+maíz
+
+madre
 
 ratón
 
 nosotros
 
 comida
+
 : __íz
+
 :___dre
 
 :__tón
@@ -2376,68 +6954,90 @@ comida
 :___sotros
 
 : __mida
+
+•	 Repasamos	 las	 palabras	 utilizando	
 lana de colores:
-m a í zm a d r e
-r a t ó n
-n o s o t r o s
-c o m i d a
+
+m  a  í  z
+m  a  d  r  e
+r  a  t  ó  n
+n  o  s  o  t  r  o  s
+c  o  m  i  d  a
+
+•	 Con	 las	 sílabas	 iniciales	 de	 las	 palabras	
 que aparecen en el texto, escriben otras 
 palabras:
-maízmadre
 
+maíz
+madre
 ratón
-
 nosotros
-
 comida
+
 : mala
-: ma–––––..
-: ra––––––.
+: ma……………..
+: ra……………….
+: no……………….
+: co……………….
 
-: no––––––.
+•	 Juegan	 a	 encontrar	 palabras	 en	 el	
+pupiletras:
 
-: co––––––.
-
-
-pupiletras:maízmadre
-
+maíz
+madre
 ratón
+
 nosotros
-
 comida
-hamaizsarsll
-mnrunamadre
-ratontapqrs
-tuwycomidam
-ukunosotros
- Desarrollan otras prácticas de lectura y escritura. En el caso de primer grado, 
-es importante considerar inicialmente las palabras que se están trabajando y, 
 
+h a m a i z s a r s ll
+
+m n r u n a m a d r e
+
+r a t o n t a p q r s
+
+t u w y c o m i d a m
+
+u k u n o s o t r o s
+
+•	  Desarrollan otras prácticas de lectura y escritura. En el caso de primer grado, 
+es importante considerar inicialmente las palabras que se están trabajando y, 
 paulatinamente, se irán integrando nuevas palabras.
+
 Bingo de palabras:
+
 Cada estudiante escoge cuatro de las cinco palabras trabajadas y las escribe en 
 una tarjeta dividida en 4 (los de 2° ayudan a los de 1° grado)
-maízmadremaízmadremaízmadre
-ratón
-nosotros
-ratón
-comidacomidanosotros
+
+maíz madre maíz madre maíz madre
+
+ratón nosotros ratón comida comida nosotros
+
 Escribe todas las palabras, cada palabra en una tarjeta:
-maízmadre
-ratón
-nosotroscomida
-56     Para empezar con el juego,  muestra todas las palabras escritas 
+
+maíz madre ratón nosotros comida
+
+
+
+56     Castellano Primaria
+
+Para empezar con el juego,  muestra todas las palabras escritas 
 y colócalas volteadas sobre la mesa, de ahí saca una a una, lee 
 y muestra a los niños y niñas. Ellos buscarán en su tarjeta, y si la 
-
 encuentran, la encerrarán en un círculo.
-maízmadre
-ratón
-comida
+
+maíz madre
+
+ratón comida
+
 Gana el que ha encerrado primero en círculo todas las palabras 
-de su tarjeta. Juega con los niños y niñas a encontrar sílabas de las palabras 
+de su tarjeta.
+
+•	  Juega con los niños y niñas a encontrar sílabas de las palabras 
 trabajadas en los sectores del aula. 
+
 Maíz
+
 Madre
 
 Ratón
@@ -2445,323 +7045,333 @@ Ratón
 Nosotros
 
 Comida
+
 : ma - la
+
 : ma - dre
 
 : ra - tón
 
-: co Œ mi - da
+: co – mi - da
 
-: no Œ so - tros
- Los niños y niñas escriben en su cuaderno el discurso escrito 
-para el ﬁtaqi takyachiﬂ para leérselos a sus padres.
-c.
- Después de la actividad Todo el grupo de primer y segundo grados reescriben y 
-adornan el texto elaborado (discurso para el ﬁtaqi takyachiﬂ), 
+: no – so - tros
+
+•	  Los niños y niñas escriben en su cuaderno el discurso escrito 
+para el “taqi takyachi” para leérselos a sus padres.
+
+c. Después de la actividad
+
+•	  Todo el grupo de primer y segundo grados reescriben y 
+adornan el texto elaborado (discurso para el “taqi takyachi”), 
 para exponerlo en la entrada principal de la escuela.
- Con el apoyo del docente, todos los niños y niñas participan 
-en el ritual ﬁtaqi takyachiﬂ de su casa, y luego contarán cómo se 
 
+•	  Con el apoyo del docente, todos los niños y niñas participan 
+en el ritual “taqi takyachi” de su casa, y luego contarán cómo se 
 desarrolla ese ritual en su familia.
- Después de terminar con el discurso a la madre del maíz, los 
+
+•	  Después de terminar con el discurso a la madre del maíz, los 
 niños y niñas conversan sobre otros cultivos que se cosechan en 
-
 la comunidad.
-57Con primer grado
+
+
+
+57Castellano Primaria
+
+Con primer grado
 Pide a los niños y niñas que agrupen las papas
-
 según sus propios criterios. Luego les puedes 
-
 preguntar:
-
 ¿Por qué las agrupaste así? Podría ser 
-
 porque estan buenas, porque están 
-
 podridas, por su tamaño, entre otros 
-
 criterios.
-
 ¿Algunas papas son pequeñas?, ¿todas 
-
 son medianas?, ¿cuáles de las papas 
-grandes son ﬁharinosasﬂ?, ¿alguna de las papas 
+grandes son “harinosas”?, ¿alguna de las papas 
+pequeñas son “aguanosas”?
 
-pequeñas son ﬁaguanosasﬂ?
-Indicadores: Describe situaciones cotidianas que 
-impliquen clasi˜car una colección de objetos 
+Indicadores: 
+Describe situaciones cotidianas que 
+
+impliquen clasificar una colección de objetos 
 de acuerdo a un criterio perceptual.
-Expresa
- con material concreto, dibujos o 
-grá˜cos, la clasi˜cación de una colección de 
+
+Expresa con material concreto, dibujos o 
+gráficos, la clasificación de una colección de 
 objetos de acuerdo a un criterio perceptual.
-Explica 
-los criterios de clasi˜cación de una 
+Explica los criterios de clasificación de una 
+
 o más colecciones de objetos, usando los 
-cuanti˜cadores: todos, algunos, ninguno.
+cuantificadores: todos, algunos, ninguno.
+
 MATEMÁTICAS
+
 Saberes en la cosecha de la papa
+
 a. Preparando la actividad
- Previamente, el docente debe visitar y coordinar con una persona 
+•	  Previamente, el docente debe visitar y coordinar con una persona 
+
 que hará el escarbe de papas en la comunidad. Esta persona debe 
-
 solicitar ayuda a los niños y niñas de la escuela. El escarbe de papa 
-
 debe hacerse a la usanza andina heredada de nuestros abuelos. 
- Para el escarbe deben llevar incienso, anís u otro ingrediente para 
+
+•	  Para el escarbe deben llevar incienso, anís u otro ingrediente para 
 sahumar la chacra, pero también deberán llevar chicha u otro 
-
 refresco para compartir en el trabajo.
-b.
- Desarrollo de la actividad 
- Todos los niños y niñas de primer y segundo grado deberán salir 
+
+b. Desarrollo de la actividad 
+•	  Todos los niños y niñas de primer y segundo grado deberán salir 
+
 temprano de la escuela hacia la chacra.
- El dueño de la chacra hará el sahumado y llamará el ánima de la 
+
+•	  El dueño de la chacra hará el sahumado y llamará el ánima de la 
 papa para que vuelva.
- Los niños y niñas recibirán dos surcos (u otro proporcional) para que 
+
+•	  Los niños y niñas recibirán dos surcos (u otro proporcional) para que 
 escarben. El grupo debe de repartirse en dos. Cada grupo escarbará 
-
 un surco. 
- El dueño de la chacra elegirá un qullana (autoridad principal) de 
+
+•	  El dueño de la chacra elegirá un qullana (autoridad principal) de 
 entre los niños y éste, a su vez, su secundante. 
- Antes de empezar a trabajar el qullana de la chacra, invocará la 
+
+•	  Antes de empezar a trabajar el qullana de la chacra, invocará la 
 licencia de los Apu y la Pachamama del lugar. 
- Una vez que los niños y niñas escarben dos o tres matas de papa 
+
+•	  Una vez que los niños y niñas escarben dos o tres matas de papa 
 junto al docente deben hacer lo siguiente:
+
 Primer momento (Laboratorio)
-58     Indicadores: 
-Describe situaciones cotidianas que impliquen 
 
-clasi˜car objetos de acuerdo 
 
+
+58     Castellano Primaria
+
+Indicadores: 
+Describe situaciones 
+cotidianas que impliquen 
+clasificar objetos de acuerdo 
 a dos criterios formando 
-
 clases y subclases.
-
-Expresa
- con material 
-
-concreto, dibujos, grá˜cos y 
-
+Expresa con material 
+concreto, dibujos, gráficos y 
 tablas de doble entrada la 
-
-clasi˜cación de objetos de 
-
+clasificación de objetos de 
 acuerdo a uno o dos criterios 
-
 a partir de situaciones 
-
 cotidianas.
-
-Explica
- los criterios de 
-
-clasi˜cación de una o más 
-
+Explica los criterios de 
+clasificación de una o más 
 colecciones de objetos en 
-
 clases y subclases, usando 
-
-los cuanti˜cadores: todos, 
-
+los cuantificadores: todos, 
 algunos, ninguno.
+
  Con segundo grado
 Puedes formular a los niños y niñas preguntas como las siguientes:
-¿De qué manera podemos clasi˜car las papas?, agrúpenlas de acuerdo a la 
-
+¿De qué manera podemos clasificar las papas?, agrúpenlas de acuerdo a la 
 variedad de papa.
-
 ¿De qué variedades son las papas que han agrupado?
-
 ¿Qué variedades de papa son para sancochar?, encierren con una cuerda 
-
 cada pequeño grupo de una de las variedades de papas para sancochar. 
-
 ¿Qué nombres tienen las variedades para sancochar?
-
 ¿Qué variedades de papa son para hacer chuño?, encierren con una cuerda 
-
 cada pequeño grupo de una de las variedades de papas para hacer chuño. 
+
 ¿Qué nombres tienen las variedades para hacer chuño?
 ¿Todas las papas están buenas para semilla?, ¿por qué?
+
 ¿Qué nombres tienen las papas buenas para semilla?
 ¿Algunas de las papas están rajadas?
-Este trabajo se debe repetir varias veces a medida que se 
+
+•	 Este trabajo se debe repetir varias veces a medida que se 
 va escarbando las papas, pero no en cada mata.
-Luego de cumplir con el ayni se debe volver a la escuela. Pero 
+
+•	 Luego de cumplir con el ayni se debe volver a la escuela. Pero 
 antes deben asearse teniendo cuidado de no mojar la ropa.
-En el aulaCada uno dibuja en sus cuadernos el grupo de papitas que más le haya 
 
-gustado, según el criterio que cada niño o niña de˜na (las papitas no 
+En el aula
+•	 Cada uno dibuja en sus cuadernos el grupo de papitas que más le haya 
 
+gustado, según el criterio que cada niño o niña defina (las papitas no 
 deben estar muy juntas).
-En el caso de los niños de segundo grado, cada uno de ellos considerando 
 
-otro criterio vuelve a clasi˜car las papas en la agrupación que dibujó.
+•	 En el caso de los niños de segundo grado, cada uno de ellos considerando 
+otro criterio vuelve a clasificar las papas en la agrupación que dibujó.
+
 Finalmente, tanto los niños de primer grado como los de segundo grado 
+deben compartir con sus compañeros los criterios de clasificación elegidos.
 
-deben compartir con sus compañeros los criterios de clasi˜cación elegidos.
 Segundo momento (Laboratorio)
- Se organizan para realizar la actividad ¡jugando a las clasi˜caciones 
+•	  Se organizan para realizar la actividad ¡jugando a las clasificaciones 
+
 con los bloques lógicos!
- Previamente, en un papelógrafo se puede diseñar el siguiente 
+
+•	  Previamente, en un papelógrafo se puede diseñar el siguiente 
 cuadro de doble entrada para trabajar con los niños y niñas de 
+
 Figuras
+
 Colores
+
 segundo grado. 
 También se 
-
 debe preparar 
-
 el mismo 
 cuadro en hojas 
-
 pequeñas para 
-
 el trabajo de 
-
 autoevaluación.
-59Indicadores
-: Expresa
- con material concreto, 
-dibujos o grá˜cos, la clasi˜cación 
+
+
+
+59Castellano Primaria
+
+Indicadores: 
+Expresa con material concreto, 
+
+dibujos o gráficos, la clasificación 
 de una colección de  objetos de 
+
 acuerdo a un criterio perceptual.
-Explica
- los criterios de 
-clasi˜cación de una o más 
+Explica los criterios de 
+
+clasificación de una o más 
 colecciones  de objetos usando 
-los cuanti˜cadores, todos, 
+
+los cuantificadores, todos, 
 algunos ninguno.
- Los niños y niñas de primer y segundo grado se organizan en 
+
+•	  Los niños y niñas de primer y segundo grado se organizan en 
 dos grupos.
- A cada grupo se le entrega un juego de bloques lógicos y una 
+
+•	  A cada grupo se le entrega un juego de bloques lógicos y una 
 bolsa negra.
- A los niños y niñas del segundo grado también se les entrega el 
+
+•	  A los niños y niñas del segundo grado también se les entrega el 
 cuadro de  doble entrada.
- Luego se sugiere seguir lo siguiente:
+
+•	  Luego se sugiere seguir lo siguiente:
+
 Figuras
+
 Colores
 Indicadores:
-Expresa
- con material concreto dibujos, 
-grá˜cos y tablas de doble entrada, la 
-clasi˜cación de objetos de acuerdo a uno y 
+
+Expresa con material concreto dibujos, 
+gráficos y tablas de doble entrada, la 
+
+clasificación de objetos de acuerdo a uno y 
 dos criterios.
-Explica
- los criterios de clasi˜cación de una 
+
+Explica los criterios de clasificación de una 
 colección de objetos en clases y sub clases, 
-usando los cuanti˜cadores, todos, algunos 
+usando los cuantificadores, todos, algunos 
+
 ninguno.
+
 Con segundo grado
- Los niños y niñas se sientan alrededor de una mesa.
- Se pone los bloques lógicos en la bolsa negra.
- Luego, uno de los niños o niñas sostienen la bolsa y otro saca 
+•	  Los niños y niñas se sientan alrededor de una mesa.
+
+•	  Se pone los bloques lógicos en la bolsa negra.
+
+•	  Luego, uno de los niños o niñas sostienen la bolsa y otro saca 
 un bloque.
- El bloque que le tocó, lo ubica en el cuadro de doble entrada y 
+
+•	  El bloque que le tocó, lo ubica en el cuadro de doble entrada y 
 luego lo dibuja en el casillero respectivo. Se debe cuidar que el 
-
 primer dibujo no sea demasiado grande. Se juega dos rondas.
+
 Con primer grado
+•	  Los niños se sientan alrededor de una mesa.
 
- Los niños se sientan alrededor de una mesa.
- Sobre la mesa hay un papelote en el que se ha dibujado 
+•	  Sobre la mesa hay un papelote en el que se ha dibujado 
 cuatro círculos. En cada círculo un niño o niña por turno 
+colocará un bloque de acuerdo a un criterio de clasificación.
 
-colocará un bloque de acuerdo a un criterio de clasi˜cación.
- Se pone los bloques lógicos en la bolsa negra.
- Luego uno de los niños o niñas sostienen la bolsa y otro saca un bloque y describe sus características. Sus 
+•	  Se pone los bloques lógicos en la bolsa negra.
 
+•	  Luego uno de los niños o niñas sostienen la bolsa y 
+otro saca un bloque y describe sus características. Sus 
 compañeros le ayudan haciéndole algunas preguntas 
-
 referidas a sus características.
- El niño o niña ubica el bloque lógico dentro de uno de 
-los círculos del papelote teniendo en cuenta un criterio de 
 
-clasi˜cación. Después de una primera ronda se cambia la regla de juego, 
-variando el criterio de clasi˜cación.
-60      Los niños y niñas de 
-1er grado
- eligen cinco bloques al azar. 
+•	  El niño o niña ubica el bloque lógico dentro de uno de 
+los círculos del papelote teniendo en cuenta un criterio de 
+clasificación.
+
+•	  Después de una primera ronda se cambia la regla de juego, 
+variando el criterio de clasificación.
+
+
+
+60     Castellano Primaria
+
+•	  Los niños y niñas de 1er grado eligen cinco bloques al azar. 
 Los dibujan en sus cuadernos. Luego, el docente les hace 
 unas preguntas teniendo en cuenta que las respuestas 
-
 deben ser: todos, algunos y ninguno.
- Los de 2do grado,
- y de manera individual, dibujan el 
+
+•	  Los de 2do grado, y de manera individual, dibujan el 
 cuadro de doble entrada en sus cuadernos para tomar 
-
 cinco bloques lógicos de la bolsa y ubicarlos en el casillero 
-
 respectivo. 
+
 Indicadores: 
-Expresa 
-con material 
-
-concreto, dibujos o grá˜cos, 
-
-la clasi˜cación de una 
-
+Expresa con material 
+concreto, dibujos o gráficos, 
+la clasificación de una 
 colección de  objetos 
-
 de acuerdo a un criterio 
-
 perceptual.
-
-Explica
- los criterios de 
-
-clasi˜cación de una o más 
-
+Explica los criterios de 
+clasificación de una o más 
 colecciones  de objetos 
-
-usando los cuanti˜cadores, 
-
+usando los cuantificadores, 
 todos, algunos ninguno.
+
 Indicadores: 
-Expresa
- con material concreto, 
-
-dibujos, grá˜cos y tablas de doble 
-
-entrada, la clasi˜cación de objetos de 
-
+Expresa con material concreto, 
+dibujos, gráficos y tablas de doble 
+entrada, la clasificación de objetos de 
 acuerdo a uno y dos criterios.
-
-Explica
- los criterios de clasi˜cación de 
-
+Explica los criterios de clasificación de 
 una colección de objetos en clases y 
-
-sub clases, usando los cuanti˜cadores, 
-
+sub clases, usando los cuantificadores, 
 todos, algunos ninguno.
-c.
- Después de la actividad Conversan sobre los aprendizajes que lograron y si estos 
+
+c. Después de la actividad
+•	  Conversan sobre los aprendizajes que lograron y si estos 
+
 son buenos para ellos y ellas como personas y para con la 
-
 Madre Naturaleza.
- Dialogan sobre cómo todo lo que están aprendiendo en 
+
+•	  Dialogan sobre cómo todo lo que están aprendiendo en 
 su casa, en la comunidad y en la escuela, les permitirá 
-
 vivir bien entre todos.
-Figuras
-Colores
-Con segundo grado
 
- Entrega a cada uno el cuadro de doble entrada en papel 
+Figuras
+
+Colores
+
+Con segundo grado
+•	  Entrega a cada uno el cuadro de doble entrada en papel 
+
 pequeño. 
- Luego, unos cuantos bloques al azar y  pide que los ubiquen.
- Como una estrategia para veri˜car algunos 
-aprendizajes con los niños y niñas de 
-primer grado:
+
+•	  Luego, unos cuantos bloques al azar y  pide que los ubiquen.
+
+•	  Como una estrategia para verificar algunos 
+aprendizajes con los niños y niñas de primer grado:
 - A modo de juego, invita a los niños y niñas uno por 
+
 uno.
 - Indica que tome algunos bloques de la bolsa negra 
+
 y los pongan sobre la mesa. 
 - Hazle algunas preguntas, tomando en cuenta ciertas 
+
 características de los bloques, de modo que el niño 
-
 o niña responda con las palabras: todos, algunos y 
-
 ninguno.
+
+

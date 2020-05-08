@@ -45,6 +45,6 @@ async def download_document_and_save(session: ClientSession, url: str, dir: str)
             if response.status == 200: # Document still exists
                 document = await response.read()
                 async with AIOFile(dir, 'wb') as downloaded_file:
-                    await   downloaded_file.write(document)
+                    await downloaded_file.write(document)
         except Exception as e:
             raise e

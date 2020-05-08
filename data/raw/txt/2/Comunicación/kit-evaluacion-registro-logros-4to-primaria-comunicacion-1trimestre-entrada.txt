@@ -1,18 +1,66 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Comunicación
-Escritura
+Escr i tu ra
+
 Comunicación
-Escritura
+Escr i tu ra
+
 ¿En qué 
 criterios los 
 estudiantes 
 tuvieron 
 mayores 
 logros?
+
 ¿En qué 
 criterios los 
 estudiantes 
 tuvieron 
 mayores 
+dificultades?
 
 ¿Qué acciones 
 podrías 
@@ -20,14 +68,12 @@ implementar
 para ayudar a 
 los estudiantes 
 a mejorar?
+
 Nota: Utiliza las siguientes letras para registrar el desempeño de los estudiantes en cada uno de los criterios.
-E = esperado
- 
-P= en proceso
- 
-I= en inicio
-N.º
-Nombres y apellidos del estudiante
+
+E = esperado P= en proceso I= en inicio
+
+N.º Nombres y apellidos del estudiante
 1
 2
 3
@@ -63,329 +109,3041 @@ Nombres y apellidos del estudiante
 33
 34
 35
-¿El texto escrito es un cuento?
-¿El texto trata sobre 
-el tema propuesto?
-¿El texto es coherente?
-¿El texto presenta un 
-buen uso de conectores?
-Puntuación
+
+¿E
+l t
+
+ex
+to
+
+ e
+sc
+
+rit
+o 
+
+es
+ u
+
+n 
+cu
+
+en
+to
+
+?
+
+¿E
+l t
+
+ex
+to
+
+ tr
+at
+
+a 
+so
+
+br
+e 
+
+el
+ te
+
+m
+a 
+
+pr
+op
+
+ue
+st
+
+o?
+
+¿E
+l t
+
+ex
+to
+
+ e
+s 
+
+co
+he
+
+re
+nt
+
+e?
+
+¿E
+l t
+
+ex
+to
+
+ p
+re
+
+se
+nt
+
+a 
+un
+
+ 
+bu
+
+en
+ u
+
+so
+ d
+
+e 
+co
+
+ne
+ct
+
+or
+es
+
+?
+
+Pu
+nt
+
+ua
+ci
+
+ón
+
+C
+on
+
+ve
+nc
+
+io
+ne
+
+s 
+or
+
+to
+gr
+
+áfi
+ca
+
+s
 
 ¿El texto escrito 
 es un cuento?
+
 ¿El texto trata sobre el
 tema propuesto?
+
 ¿El texto presenta un 
 buen
-uso de conectores?
-¿El texto es coherente?
-Puntuación
-Convenciones
 
-1
+uso de conectores?
+
+¿El texto es coherente?
+
+Puntuación
+
+Convenciones
+ortográficas1
+
 El texto es una narración
 que presenta una situación
+
 inicial, un nudo o problema y
 un desenlace.
+
 El texto se ajusta
 completamente a la situación
-propuesta.
-El texto presenta un uso adecuado 
-de conectores de adición
- (y, 
-además)
-, secuencia 
-(primero, 
 
- y contraste 
-(pero)
-.
+propuesta.
+
+El texto presenta un uso adecuado 
+de conectores de adición (y, 
+
+además), secuencia (primero, 
+después, finalmente) y contraste 
+
+(pero).
+
 El texto se mantiene en el tema, no 
 tiene contradicciones ni vacíos de 
+
 información.
+
 El texto no presenta problemas en 
+el uso del punto final y el punto y 
 
-
+aparte. Puede presentar dificultades 
 en el uso del punto y seguido y de la 
+
 coma enumerativa.
+
 El texto presenta pocos errores 
+ortográficos (entre 1 y 5, o 
 
 ninguno).
+
 El texto es una narración
 que no contiene un problema;
+
 o el texto es una narración
 que contiene un problema,
+
 pero no presenta un
 desenlace.
+
 El texto rescata algunos
 elementos de la situación
+
 propuesta, pero no se ajusta
 completamente a ella.
+
 El texto presenta algunos  
 problemas en  el uso de conectores, 
 los que afectan algunas partes del 
+
 texto.
+
 El texto presenta algunas
 inconsistencias menores, que
 no afectan su comprensión.
+
 El texto no presenta problemas en el 
+uso del punto final. Puede presentar 
 
-
+dificultades en el uso del punto 
 y aparte, punto y seguido y de la 
+
 coma enumerativa.
+
 El texto presenta entre 6 y
+10 errores ortográficos.
 
 El texto no es una narración:
 describe, explica o
+
 argumenta.
+
 El texto no trata sobre
 el tema propuesto en la
+
 situación.
+
 El texto presenta problemas en el 
 uso de conectores, los que afectan 
+
 su comprensión global.
+
 El texto presenta serias
 contradicciones o vacíos de
 información que impiden su
-comprensión.
-El texto no presenta problemas 
 
+comprensión.
+
+El texto no presenta problemas 
+en el uso del punto final. Presenta 
+dificultades en el uso del punto y 
 
 aparte, punto y seguido y no utiliza 
 la coma enumerativa.
-El texto presenta más de 
 
-Rúbrica
-Criterio
-Nivel ﬁesperadoﬂ
-Nivel ﬁen procesoﬂ
-Nivel ﬁen inicioﬂ
-1
-  En el proceso de revisión se debe tomar en cuenta la variedad dialectal del estudiante. La introducción del lenguaje estándar debe ser progresiva.
+El texto presenta más de 
+10 errores ortográficos.
+
+Rúbr ica
+
+Criterio Nivel “esperado” Nivel “en proceso” Nivel “en inicio”
+
+1  En el proceso de revisión se debe tomar en cuenta la variedad dialectal del estudiante. La introducción del lenguaje estándar debe ser progresiva.
+
 Institución educativa:
+
 Docente:
+
 DIRECCIÓN GENERAL DE EDUCACIÓN BÁSICA REGULAR
 DIRECCIÓN DE EDUCACIÓN PRIMARIA
+
 Entrada
+
 COMUNICACIÓN
 Primer trimestre
+
 Cuarto grado - Primaria
+
 Kit de evaluación
-MINISTERIO DE EDUCACIÓN Av. De la Arqueología, cuadra 2, San Borja Lima, Perú.
 
-Cimagraf
- S.A.C. Psje. Santa Rosa N° 140, Ate - Lima RUC 20136492277. Hecho el Depósito Legal en la Biblioteca Nacional del Perú N° 2018-15626
-COMPETENCIA
-Lee diversos tipos de textos escritos en su lengua materna.
-CAPACIDAD
-Obtiene información del texto escrito.
+M
+IN
 
+IS
+T
+
+E
+R
+
+IO
+ D
+
+E
+ E
+
+D
+U
+
+C
+A
+
+C
+IÓ
+
+N
+ A
+
+v.
+ D
+
+e 
+la
+
+ A
+rq
+
+ue
+ol
+
+og
+ía
+
+, c
+ua
+
+dr
+a 
+
+2,
+ S
+
+an
+ B
+
+or
+ja
+
+ L
+im
+
+a,
+ P
+
+er
+ú.
+
+Im
+pr
+
+es
+o 
+
+po
+r:
+
+ I
+nd
+
+us
+tr
+
+ia
+ G
+
+rá
+fi
+
+ca
+ C
+
+im
+ag
+
+ra
+f 
+
+S
+.A
+
+.C
+. P
+
+sj
+e.
+
+ S
+an
+
+ta
+ R
+
+os
+a 
+
+N
+° 
+
+14
+0,
+
+ A
+te
+
+ -
+ L
+
+im
+a 
+
+R
+U
+
+C
+ 2
+
+01
+36
+
+49
+22
+
+77
+. H
+
+ec
+ho
+
+ e
+l 
+
+D
+ep
+
+ós
+it
+
+o 
+L
+
+eg
+al
+
+ e
+n 
+
+la
+ B
+
+ib
+li
+
+ot
+ec
+
+a 
+N
+
+ac
+io
+
+na
+l 
+
+de
+l 
+
+P
+er
+
+ú 
+N
+
+° 
+20
+
+18
+-1
+
+56
+26
+
+
+
+COMPETENCIA Lee diversos tipos de textos escritos en su lengua materna.
+
+CAPACIDAD Obtiene información del texto escrito. Infiere e interpreta información del texto. 
+Reflexiona y evalúa la forma, el contenido y contexto 
 
 del texto.
-Obtiene información del texto escrito.
+Obtiene información del texto escrito. Infiere e interpreta información del texto.
 
-
+Reflexiona y evalúa la forma, el 
 contenido y contexto del texto.
-Cantidad de respuestas de cada tipo
-Tipo de apoyo que 
+
+Cantidad de respuestas de cada tipo Tipo de apoyo que 
 requiere el estudiante.
-N.° DE ÍTEM
-6
-8
-9
-11
-12
-16
-1
+
+N.° DE ÍTEM 6 8 9 11 12 16 1 2 7 10 13 14 15 17 18 19 3 5 20 4 26 31 21 22 23 24 28 29 30 32 33 34 35 27 25 Inadecuadas Parciales Adecuadas
+
+N.º APELLIDOS Y NOMBRES DEL ESTUDIANTE
+
+1  
+
 2
-7
-10
-13
-14
-15
-17
-18
-19
+
 3
-5
-20
+
 4
-26
-31
-21
-22
-23
-24
-28
-29
-30
-32
-33
-34
-35
-27
-25
-Inadecuadas
-Parciales
-Adecuadas
-N.º
-APELLIDOS Y NOMBRES DEL ESTUDIANTE
-1
- 
-2
-3
-4
+
 5
+
 6
+
 7
+
 8
+
 9
+
 10
+
 11
+
 12
+
 13
+
 14
+
 15
+
 16
+
 17
+
 18
+
 19
+
 20
+
 21
+
 22
+
 23
+
 24
+
 25
+
 26
+
 27
+
 28
+
 29
+
 30
+
 31
+
 32
+
 33
+
 34
+
 35
+
 Cantidad de respuestas adecuadas
+
 Cantidad de respuestas parciales
+
 Cantidad de respuestas inadecuadas
+
 Desempeño
 
-se encuentra en distintas partes 
-del texto. Distingue información de 
-otra próxima y semejante, en la que 
+Id
+en
 
-ejemplo, el lugar de un hecho en una 
-noticia), en diversos tipos de textos 
-de estructura simple, con algunos 
+tifi
+ca
 
-sin referentes próximos, guiones de 
-diálogo, ilustraciones), con palabras 
-conocidas y, en ocasiones, con 
-vocabulario variado, de acuerdo a las 
+ in
+fo
 
+rm
+ac
 
-que se encuentra en distintas 
-partes del texto. Distingue esta 
-información de otra semejante 
+ió
+n 
 
-características de dos personajes, 
-elige entre dos datos de un 
-animal, etc.) en diversos tipos de 
-textos de estructura simple, con 
-palabras conocidas e ilustraciones. 
-Establece la secuencia de los textos 
+ex
+pl
 
+íc
+ita
 
-Deduce características implícitas 
-de personajes, animales, objetos y 
+ q
+ue
 
-de palabras según el contexto y 
-hace comparaciones; así como 
-el tema y destinatario. Establece 
-relaciones lógicas de causa-efecto, 
-semejanza-diferencia y enseñanza y 
-propósito, a partir de la información 
-explícita e implícita relevante del 
-
-Opina acerca del contenido del 
-texto, explica el sentido de algunos 
-
-
-sus preferencias cuando elige o 
-recomienda textos a partir de su 
-experiencia, necesidades e intereses, 
-
-
-Opina sobre el contenido del 
-texto, la organización textual, la 
-intención de algunos recursos 
-
-el efecto del texto en los lectores, 
-a partir de su experiencia y del 
-contexto sociocultural en que se 
-
-
-se encuentra en distintas partes 
-del texto. Distingue información 
-de otra próxima y semejante, en la 
-
-
-en una noticia), en diversos tipos 
-de textos de estructura simple, con 
-
-ejemplo, sin referentes próximos, 
-guiones de diálogo, ilustraciones), 
-con palabras conocidas y, en 
-ocasiones, con vocabulario 
-variado, de acuerdo a las temáticas 
-
-Deduce características implícitas 
-de personajes, animales, objetos y 
-
-de palabras según el contexto y 
-hace comparaciones; así como 
-el tema y destinatario. Establece 
-relaciones lógicas de causa-efecto, 
-semejanza-diferencia y enseñanza y 
-propósito, a partir de la información 
-explícita e implícita relevante del 
-
-Deduce características implícitas 
-de persona
  
-jes, animales, objetos y 
+se
 
-de palabras y frases según el 
-contexto, así como de expresiones 
+ e
+nc
 
+ue
+nt
 
+ra
+ e
 
-comparaciones, etc.). Establece 
-relaciones lógicas de 
+n 
+di
+
+st
+in
+
+ta
+s 
+
+pa
+rte
+
+s 
+de
+
+l t
+ex
+
+to
+. D
+
+ist
+in
+
+gu
+e 
+
+in
+fo
+
+rm
+ac
+
+ió
+n 
+
+de
  
 
+ot
+ra
 
+ p
+ró
 
-subtema, a partir de infor
+xim
+a 
+
+y 
+se
+
+m
+eja
+
+nt
+e,
+
+ e
+n 
+
+la 
+qu
+
+e 
+se
+
+lec
+ci
+
+on
+a 
+
+da
+to
+
+s 
+es
+
+pe
+cí
+
+fic
+os
+
+ (p
+or
+
  
-mación 
-relevante explícita e implícita. 
+eje
 
-Opina acerca del contenido del 
-texto, explica el sentido de algunos 
+m
+pl
 
+o,
+ e
 
-sus preferencias cuando elige 
-o recomienda textos a partir de 
-su experiencia, necesidades e 
+l lu
+ga
 
+r d
+e 
 
-grado).
-Cuadernillo 1
-Cuadernillo 2
+un
+ h
+
+ec
+ho
+
+ e
+n 
+
+un
+a 
+
+no
+tic
+
+ia)
+, e
+
+n 
+di
+
+ve
+rs
+
+os
+ ti
+
+po
+s 
+
+de
+ te
+
+xto
+s 
+
+de
+ e
+
+st
+ru
+
+ct
+ur
+
+a 
+sim
+
+pl
+e,
+
+ c
+on
+
+ a
+lg
+
+un
+os
+
+ 
+ele
+
+m
+en
+
+to
+s 
+
+co
+m
+
+pl
+ejo
+
+s 
+(p
+
+or
+ e
+
+jem
+pl
+
+o,
+ 
+
+sin
+ re
+
+fe
+re
+
+nt
+es
+
+ p
+ró
+
+xim
+os
+
+, g
+ui
+
+on
+es
+
+ d
+e 
+
+di
+álo
+
+go
+, i
+
+lu
+st
+
+ra
+ci
+
+on
+es
+
+), 
+co
+
+n 
+pa
+
+lab
+ra
+
+s 
+co
+
+no
+ci
+
+da
+s 
+
+y, 
+en
+
+ o
+ca
+
+sio
+ne
+
+s,
+ c
+
+on
+ 
+
+vo
+ca
+
+bu
+lar
+
+io
+ v
+
+ar
+iad
+
+o,
+ d
+
+e 
+ac
+
+ue
+rd
+
+o 
+a 
+
+las
+ 
+
+te
+m
+
+át
+ic
+
+as
+ a
+
+bo
+rd
+
+ad
+as
+
+. (
+Te
+
+rc
+er
+
+ g
+ra
+
+do
+).
+
+Id
+en
+
+tifi
+ca
+
+ in
+fo
+
+rm
+ac
+
+ió
+n 
+
+ex
+pl
+
+íc
+ita
+
+ 
+qu
+
+e 
+se
+
+ e
+nc
+
+ue
+nt
+
+ra
+ e
+
+n 
+di
+
+st
+in
+
+ta
+s 
+
+pa
+rte
+
+s 
+de
+
+l t
+ex
+
+to
+. D
+
+is
+tin
+
+gu
+e 
+
+es
+ta
+
+ 
+in
+
+fo
+rm
+
+ac
+ió
+
+n 
+de
+
+ o
+tra
+
+ s
+em
+
+ej
+an
+
+te
+ 
+
+(p
+or
+
+ e
+je
+
+m
+pl
+
+o,
+ d
+
+is
+tin
+
+gu
+e 
+
+en
+tre
+
+ la
+s 
+
+ca
+ra
+
+ct
+er
+
+ís
+tic
+
+as
+ d
+
+e 
+do
+
+s 
+pe
+
+rs
+on
+
+aj
+es
+
+, 
+el
+
+ig
+e 
+
+en
+tre
+
+ d
+os
+
+ d
+at
+
+os
+ d
+
+e 
+un
+
+ 
+an
+
+im
+al
+
+, e
+tc
+
+.) 
+en
+
+ d
+iv
+
+er
+so
+
+s 
+tip
+
+os
+ d
+
+e 
+te
+
+xt
+os
+
+ d
+e 
+
+es
+tru
+
+ct
+ur
+
+a 
+si
+
+m
+pl
+
+e,
+ c
+
+on
+ 
+
+pa
+la
+
+br
+as
+
+ c
+on
+
+oc
+id
+
+as
+ e
+
+ il
+us
+
+tra
+ci
+
+on
+es
+
+. 
+Es
+
+ta
+bl
+
+ec
+e 
+
+la
+ s
+
+ec
+ue
+
+nc
+ia
+
+ d
+e 
+
+lo
+s 
+
+te
+xt
+
+os
+ 
+
+qu
+e 
+
+le
+e 
+
+ (i
+ns
+
+tru
+cc
+
+io
+ne
+
+s,
+ h
+
+is
+to
+
+ria
+s,
+
+ 
+no
+
+tic
+ia
+
+s)
+. (
+
+Se
+gu
+
+nd
+o 
+
+gr
+ad
+
+o)
+.
+
+De
+du
+
+ce
+ c
+
+ar
+ac
+
+te
+rís
+
+tic
+as
+
+ im
+pl
+
+íc
+ita
+
+s 
+de
+
+ p
+er
+
+so
+na
+
+je
+s,
+
+ a
+ni
+
+m
+al
+
+es
+, o
+
+bj
+et
+
+os
+ y
+
+ 
+lu
+
+ga
+re
+
+s,
+ y
+
+ d
+et
+
+er
+m
+
+in
+a 
+
+el
+ s
+
+ig
+ni
+
+fic
+ad
+
+o 
+de
+
+ p
+al
+
+ab
+ra
+
+s 
+se
+
+gú
+n 
+
+el
+ c
+
+on
+te
+
+xt
+o 
+
+y 
+ha
+
+ce
+ c
+
+om
+pa
+
+ra
+ci
+
+on
+es
+
+; a
+sí
+
+ c
+om
+
+o 
+el
+
+ te
+m
+
+a 
+y 
+
+de
+st
+
+in
+at
+
+ar
+io
+
+. E
+st
+
+ab
+le
+
+ce
+ 
+
+re
+la
+
+ci
+on
+
+es
+ ló
+
+gi
+ca
+
+s 
+de
+
+ c
+au
+
+sa
+-e
+
+fe
+ct
+
+o,
+ 
+
+se
+m
+
+ej
+an
+
+za
+-d
+
+ife
+re
+
+nc
+ia
+
+ y
+ e
+
+ns
+eñ
+
+an
+za
+
+ y
+ 
+
+pr
+op
+
+ós
+ito
+
+, a
+ p
+
+ar
+tir
+
+ d
+e 
+
+la
+ in
+
+fo
+rm
+
+ac
+ió
+
+n 
+ex
+
+pl
+íc
+
+ita
+ e
+
+ im
+pl
+
+íc
+ita
+
+ re
+le
+
+va
+nt
+
+e 
+de
+
+l 
+te
+
+xt
+o.
+
+ (T
+er
+
+ce
+r g
+
+ra
+do
+
+).
+
+Op
+in
+
+a 
+ac
+
+er
+ca
+
+ d
+el
+
+ c
+on
+
+te
+ni
+
+do
+ d
+
+el
+ 
+
+te
+xt
+
+o,
+ e
+
+xp
+lic
+
+a 
+el
+
+ s
+en
+
+tid
+o 
+
+de
+ a
+
+lg
+un
+
+os
+ 
+
+re
+cu
+
+rs
+os
+
+ te
+xt
+
+ua
+le
+
+s 
+(il
+
+us
+tra
+
+ci
+on
+
+es
+, 
+
+ta
+m
+
+añ
+o 
+
+de
+ le
+
+tra
+, e
+
+tc
+.) 
+
+y 
+ju
+
+st
+ifi
+
+ca
+ 
+
+su
+s 
+
+pr
+ef
+
+er
+en
+
+ci
+as
+
+ c
+ua
+
+nd
+o 
+
+eli
+ge
+
+ o
+ 
+
+re
+co
+
+m
+ien
+
+da
+ te
+
+xt
+os
+
+ a
+ p
+
+ar
+tir
+
+ d
+e 
+
+su
+ 
+
+ex
+pe
+
+rie
+nc
+
+ia
+, n
+
+ec
+es
+
+id
+ad
+
+es
+ e
+
+ in
+te
+
+re
+se
+
+s,
+ 
+
+co
+n 
+
+el 
+fin
+
+ d
+e 
+
+re
+fle
+
+xio
+na
+
+r s
+ob
+
+re
+ lo
+
+s 
+te
+
+xt
+os
+
+ q
+ue
+
+ le
+e.
+
+ (T
+er
+
+ce
+r G
+
+ra
+do
+
+).
+
+Op
+in
+
+a 
+so
+
+br
+e 
+
+el
+ c
+
+on
+te
+
+ni
+do
+
+ d
+el
+
+ 
+te
+
+xt
+o,
+
+ la
+ o
+
+rg
+an
+
+iza
+ci
+
+ón
+ te
+
+xt
+ua
+
+l, 
+la
+
+ 
+in
+
+te
+nc
+
+ió
+n 
+
+de
+ a
+
+lg
+un
+
+os
+ re
+
+cu
+rs
+
+os
+ 
+
+te
+xt
+
+ua
+le
+
+s 
+(n
+
+eg
+rit
+
+as
+, e
+
+sq
+ue
+
+m
+as
+
+) y
+ 
+
+el
+ e
+
+fe
+ct
+
+o 
+de
+
+l t
+ex
+
+to
+ e
+
+n 
+lo
+
+s 
+le
+
+ct
+or
+
+es
+, 
+
+a 
+pa
+
+rti
+r d
+
+e 
+su
+
+ e
+xp
+
+er
+ie
+
+nc
+ia
+
+ y
+ d
+
+el
+ 
+
+co
+nt
+
+ex
+to
+
+ s
+oc
+
+io
+cu
+
+ltu
+ra
+
+l e
+n 
+
+qu
+e 
+
+se
+ 
+
+de
+se
+
+nv
+ue
+
+lv
+e.
+
+ (Q
+ui
+
+nt
+o 
+
+gr
+ad
+
+o)
+.
+
+Id
+en
+
+tifi
+ca
+
+ in
+fo
+
+rm
+ac
+
+ió
+n 
+
+ex
+pl
+
+íc
+ita
+
+ q
+ue
+
+ 
+se
+
+ e
+nc
+
+ue
+nt
+
+ra
+ e
+
+n 
+di
+
+st
+in
+
+ta
+s 
+
+pa
+rte
+
+s 
+de
+
+l t
+ex
+
+to
+. D
+
+is
+tin
+
+gu
+e 
+
+in
+fo
+
+rm
+ac
+
+ió
+n 
+
+de
+ o
+
+tra
+ p
+
+ró
+xim
+
+a 
+y 
+
+se
+m
+
+ej
+an
+
+te
+, e
+
+n 
+la
+
+ 
+qu
+
+e 
+se
+
+le
+cc
+
+io
+na
+
+ d
+at
+
+os
+ e
+
+sp
+ec
+
+ífi
+co
+
+s 
+(p
+
+or
+ e
+
+je
+m
+
+pl
+o,
+
+ e
+l l
+
+ug
+ar
+
+ d
+e 
+
+un
+ h
+
+ec
+ho
+
+ 
+en
+
+ u
+na
+
+ n
+ot
+
+ic
+ia
+
+), 
+en
+
+ d
+iv
+
+er
+so
+
+s 
+tip
+
+os
+ 
+
+de
+ te
+
+xt
+os
+
+ d
+e 
+
+es
+tru
+
+ct
+ur
+
+a 
+si
+
+m
+pl
+
+e,
+ c
+
+on
+ 
+
+al
+gu
+
+no
+s 
+
+el
+em
+
+en
+to
+
+s 
+co
+
+m
+pl
+
+ej
+os
+
+ (p
+or
+
+ 
+ej
+
+em
+pl
+
+o,
+ s
+
+in
+ re
+
+fe
+re
+
+nt
+es
+
+ p
+ró
+
+xim
+os
+
+, 
+gu
+
+io
+ne
+
+s 
+de
+
+ d
+iá
+
+lo
+go
+
+, i
+lu
+
+st
+ra
+
+ci
+on
+
+es
+), 
+
+co
+n 
+
+pa
+la
+
+br
+as
+
+ c
+on
+
+oc
+id
+
+as
+ y
+
+, e
+n 
+
+oc
+as
+
+io
+ne
+
+s,
+ c
+
+on
+ v
+
+oc
+ab
+
+ul
+ar
+
+io
+ 
+
+va
+ria
+
+do
+, d
+
+e 
+ac
+
+ue
+rd
+
+o 
+a 
+
+la
+s 
+
+te
+m
+
+át
+ic
+
+as
+ 
+
+ab
+or
+
+da
+da
+
+s.
+ (T
+
+er
+ce
+
+r g
+ra
+
+do
+).
+
+De
+du
+
+ce
+ c
+
+ar
+ac
+
+te
+rís
+
+tic
+as
+
+ im
+pl
+
+íc
+ita
+
+s 
+de
+
+ p
+er
+
+so
+na
+
+je
+s,
+
+ a
+ni
+
+m
+al
+
+es
+, o
+
+bj
+et
+
+os
+ y
+
+ 
+lu
+
+ga
+re
+
+s,
+ y
+
+ d
+et
+
+er
+m
+
+in
+a 
+
+el
+ s
+
+ig
+ni
+
+fic
+ad
+
+o 
+de
+
+ p
+al
+
+ab
+ra
+
+s 
+se
+
+gú
+n 
+
+el
+ c
+
+on
+te
+
+xt
+o 
+
+y 
+ha
+
+ce
+ c
+
+om
+pa
+
+ra
+ci
+
+on
+es
+
+; a
+sí
+
+ c
+om
+
+o 
+el
+
+ te
+m
+
+a 
+y 
+
+de
+st
+
+in
+at
+
+ar
+io
+
+. E
+st
+
+ab
+le
+
+ce
+ 
+
+re
+la
+
+ci
+on
+
+es
+ ló
+
+gi
+ca
+
+s 
+de
+
+ c
+au
+
+sa
+-e
+
+fe
+ct
+
+o,
+ 
+
+se
+m
+
+ej
+an
+
+za
+-d
+
+ife
+re
+
+nc
+ia
+
+ y
+ e
+
+ns
+eñ
+
+an
+za
+
+ y
+ 
+
+pr
+op
+
+ós
+ito
+
+, a
+ p
+
+ar
+tir
+
+ d
+e 
+
+la
+ in
+
+fo
+rm
+
+ac
+ió
+
+n 
+ex
+
+pl
+íc
+
+ita
+ e
+
+ im
+pl
+
+íc
+ita
+
+ re
+le
+
+va
+nt
+
+e 
+de
+
+l 
+te
+
+xt
+o.
+
+ (T
+er
+
+ce
+r g
+
+ra
+do
+
+).
+
+De
+du
+
+ce
+ c
+
+ar
+ac
+
+te
+rís
+
+tic
+as
+
+ im
+pl
+
+íc
+ita
+
+s 
+de
+
+ p
+er
+
+so
+na
+
+ je
+s,
+
+ a
+ni
+
+m
+al
+
+es
+, o
+
+bj
+et
+
+os
+ y
+
+ 
+lu
+
+ga
+re
+
+s,
+ y
+
+ d
+et
+
+er
+m
+
+in
+a 
+
+el
+ s
+
+ig
+ni
+
+fic
+ad
+
+o 
+de
+
+ p
+al
+
+ab
+ra
+
+s 
+y 
+
+fra
+se
+
+s 
+se
+
+gú
+n 
+
+el
+ 
+
+co
+nt
+
+ex
+to
+
+, a
+sí
+
+ c
+om
+
+o 
+de
+
+ e
+xp
+
+re
+si
+
+on
+es
+
+ 
+co
+
+n 
+se
+
+nt
+i d
+
+o 
+fig
+
+ur
+ad
+
+o 
+(r
+
+ef
+ra
+
+ne
+s,
+
+ 
+co
+
+m
+pa
+
+ra
+ci
+
+on
+es
+
+, e
+tc
+
+.).
+ E
+
+st
+ab
+
+le
+ce
+
+ 
+re
+
+la
+ci
+
+on
+es
+
+ ló
+gi
+
+ca
+s 
+
+de
+  
+
+in
+te
+
+nc
+ió
+
+n-
+fi n
+
+al
+id
+
+ad
+ y
+
+ te
+m
+
+a 
+y 
+
+su
+bt
+
+em
+a,
+
+ a
+ p
+
+ar
+tir
+
+ d
+e 
+
+in
+fo
+
+r m
+ac
+
+ió
+n 
+
+re
+le
+
+va
+nt
+
+e 
+ex
+
+pl
+íc
+
+ita
+ e
+
+ im
+pl
+
+íc
+ita
+
+. 
+(C
+
+ua
+rt
+
+o 
+gr
+
+ad
+o)
+
+.
+
+Op
+in
+
+a 
+ac
+
+er
+ca
+
+ d
+el
+
+ c
+on
+
+te
+ni
+
+do
+ d
+
+el
+ 
+
+te
+xt
+
+o,
+ e
+
+xp
+lic
+
+a 
+el
+
+ s
+en
+
+tid
+o 
+
+de
+ a
+
+lg
+un
+
+os
+ 
+
+re
+cu
+
+rs
+os
+
+ te
+xt
+
+ua
+le
+
+s 
+(il
+
+us
+tra
+
+ci
+on
+
+es
+, 
+
+ta
+m
+
+añ
+o 
+
+de
+ le
+
+tra
+, e
+
+tc
+.) 
+
+y 
+ju
+
+st
+ifi
+
+ca
+ 
+
+su
+s 
+
+pr
+ef
+
+er
+en
+
+ci
+as
+
+ c
+ua
+
+nd
+o 
+
+el
+ig
+
+e 
+o 
+
+re
+co
+
+m
+ie
+
+nd
+a 
+
+te
+xt
+
+os
+ a
+
+ p
+ar
+
+tir
+ d
+
+e 
+su
+
+ e
+xp
+
+er
+ie
+
+nc
+ia
+
+, n
+ec
+
+es
+id
+
+ad
+es
+
+ e
+ 
+
+in
+te
+
+re
+se
+
+s,
+ c
+
+on
+ e
+
+l fi
+n 
+
+de
+ re
+
+fle
+xio
+
+na
+r 
+
+so
+br
+
+e 
+lo
+
+s 
+te
+
+xt
+os
+
+ q
+ue
+
+ le
+e.
+
+  (
+Te
+
+rc
+er
+
+ 
+gr
+
+ad
+o)
+
+.
+
+Cuadernillo 1 Cuadernillo 2
+
 Para analizar qué 
-
+logros o dificultades 
 tiene cada uno de 
 los estudiantes y 
 poder implementar 
@@ -393,42 +3151,42 @@ estrategias
 diferenciadas, 
 responde  las 
 siguientes preguntas:
-REGISTRO DE LOGROS DE COMUNICACIÓN (ENTRADA - DÍAS 1 Y 2)
-Ł
- 
-¿La mayoría de los estudiantes requiere actividades adicionales a las
- 
-planificadas para construir los saberes previos o los prerrequisitos?
-Ł
- 
-¿La mayoría ha afianzado los aprendizajes, requiere nuevos retos y está lista para 
-aprender de manera significativa los desempeños propuestos?
-Para analizar los resultados del aula:
-Ł
- 
-¿Cuántas respuestas 
-adecuadas tiene?
-Ł
- 
-¿Qué tipo de respuestas 
 
+REGISTRO DE LOGROS DE COMUNICACIÓN (ENTRADA -  D ÍAS 1  Y  2)
+
+• ¿La mayoría de los estudiantes requiere actividades adicionales a las 
+planificadas para construir los saberes previos o los prerrequisitos?
+
+• ¿La mayoría ha afianzado los aprendizajes, requiere nuevos retos y está lista para 
+aprender de manera significativa los desempeños propuestos?
+
+Para analizar los resultados del aula:
+
+• ¿Cuántas respuestas 
+adecuadas tiene?
+
+• ¿Qué tipo de respuestas 
+(adecuadas, parciales 
 o inadecuadas) tiene 
 mayoritariamente?
-Ł
- 
-¿En qué desempeños 
+
+• ¿En qué desempeños 
 se encuentra la mayor 
 cantidad de respuestas 
 adecuadas?
-Ł
- 
-¿En qué desempeños 
+
+• ¿En qué desempeños 
 se encuentra la mayor 
 cantidad de respuestas 
 parciales e inadecuadas?
-Ł
- 
-¿Cuáles son las 
 
+• ¿Cuáles son las 
+principales dificultades 
 que tiene?
+
 CUADERNILLO
+
+
+	06565_Registro Logros Comunicacion - 1er trim - 4to prim - Entrada_Bond_N3.p1_Tira_v3
+	06565_Registro Logros Comunicacion - 1er trim - 4to prim - Entrada_Bond_N3.p2_Retira_v2
+

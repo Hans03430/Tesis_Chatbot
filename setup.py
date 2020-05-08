@@ -4,7 +4,7 @@ setup(
     name='tesis_chatbot',
     author='Hans Matos Rios',
     author_email='hans.matos@pucp.edu.pe',
-    version='0.0.2',
+    version='0.0.3',
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
@@ -12,7 +12,7 @@ setup(
         'aiohttp',
         'aiofile',
         'beautifulsoup4',
-        'PyPDF2',
         'spacy',
+        'tika'
     ]
 )

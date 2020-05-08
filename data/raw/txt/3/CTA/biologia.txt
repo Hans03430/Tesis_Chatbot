@@ -1,1760 +1,5153 @@
-Serie para la enseñanza en el modelo 1 a 1
-material de distribución gratuita
-BiologíaBiologíaSerie para la enseñanza en el modelo 1 a 1
-Luciano LevinAutor:
-  Luciano Levin.Edición y corrección: 
- Martín Vittón.
- Diseño de colección:  Silvana Caro.Fotografía:
- © Francesco de Comite
- (tapa)
-, Luana Fischer Ferreira (
-ITE) y Educ.ar.
-Ilustraciones:
- José Alberto Bermúdez (
-ITE), Educ.ar y Paula Socolovsky.
-Coordinación de Proyectos Educ.ar S. E.: Mayra Botta.
- Coordinación de Contenidos Educ.ar S. E.: 
-Cecilia Sagol.Líder de proyecto: Magdalena Garzón.
- ISBN: 978-950-00-0853-2Queda hecho el depósito que dispone la ley 11.723.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serie para la enseñanza en el modelo 1 a 1
+
+material de distribución gratuita
+
+Biología
+
+
+
+Biología
+
+Serie para la enseñanza en el modelo 1 a 1
+
+Luciano Levin
+
+
+
+Autor:  Luciano Levin.
+
+Edición y corrección:  Martín Vittón. 
+
+Diseño de colección:  Silvana Caro.
+
+Fotografía: © Francesco de Comite (tapa), Luana Fischer Ferreira (ite) y Educ.ar.
+
+Ilustraciones: José Alberto Bermúdez (ite), Educ.ar y Paula Socolovsky.
+
+Coordinación de Proyectos Educ.ar S. E.: Mayra Botta. 
+
+Coordinación de Contenidos Educ.ar S. E.: Cecilia Sagol.
+
+Líder de proyecto: Magdalena Garzón. 
+
+ISBN: 978-950-00-0853-2
+Queda hecho el depósito que dispone la ley 11.723.
 Impreso en Argentina. Printed in Argentina.
 Primera edición: mayo 2011.
+
 Levín, Luciano
     Biología. - 1a ed. - Buenos Aires : Ministerio de Educación de la 
-
 Nación, 2011.
-
     40 p. ; 20x28 cm. 
-    ISBN 978-950-00-0853-2          
-    1. Biología. 2.  Educación Superior. I. Título
-    CDD 372.357AutoridadesPresidenta de la Nación 
-Dra. Cristina Fernández de Kirchner
-Ministro de Educación Prof. Alberto E. Sileoni 
 
+    ISBN 978-950-00-0853-2          
+
+    1. Biología. 2.  Educación Superior. I. Título
+    CDD 372.357
+
+
+
+Autoridades Presidenta de la Nación 
+Dra. Cristina Fernández de Kirchner
+
+Ministro de Educación 
+Prof. Alberto E. Sileoni 
  
 Secretaria de Educación 
-
 Prof. María Inés Abrile de Vollmer
+
 Jefe de Gabinete 
 Lic. Jaime Perczyk 
-
  
 Subsecretaria de Equidad y Calidad Educativa 
-
 Lic. Mara Brawer 
+
 Subsecretario de Planeamiento Educativo 
 Lic. Eduardo Aragundi 
-Directora Ejecutiva del 
-INETProf. María Rosa Almandoz
-Directora Ejecutiva del 
-INFOD
+
+Directora Ejecutiva del inet
+Prof. María Rosa Almandoz
+
+Directora Ejecutiva del infod
 Lic. Graciela Lombardi
 
 Directora Nacional de Gestión Educativa
-Prof. Marisa DíazDirectora Nacional de Formación e Investigación 
-Lic. Andrea Molinari Gerente General Educ.ar S. E. 
-Rubén D™Audia
+Prof. Marisa Díaz
+
+Directora Nacional de Formación e Investigación 
+Lic. Andrea Molinari 
+
+Gerente General Educ.ar S. E. 
+Rubén D’Audia
+
 Coordinadora Programa Conectar Igualdad 
 Lic. Cynthia Zapata
-Gerenta 
-TIC y Convergencia Educ.ar S. E.
+
+Gerenta tic y Convergencia Educ.ar S. E.
 Patricia Pomiés
-4Hemos emprendido un camino ambicioso: el de sentar las bases para una escuela 
+
+
+
+4
+
+Hemos emprendido un camino ambicioso: el de sentar las bases para una escuela 
+
 secundaria pública inclusiva y de calidad, una escuela que desafíe las diferencias, que 
+
 profundice los vínculos y que nos permita alcanzar mayor igualdad social y educativa para 
+
 nuestros jóvenes. 
+
 En este contexto, el Programa Conectar Igualdad, creado por decreto del gobierno nacional 
+
 N.º 459/10, surge como una política destinada a favorecer la inclusión social y educativa 
-a partir de acciones que aseguren el acceso y promuevan el uso de las 
-TIC
- en las escuelas 
+
+a partir de acciones que aseguren el acceso y promuevan el uso de las tic en las escuelas 
+
 secundarias, escuelas de educación especial y entre estudiantes y profesores de los últimos 
+
 años de los Institutos Superiores de Formación Docente. 
+
 Tres millones de alumnos de los cuales somos responsables hoy integran el programa 
+
 de inclusión digital. Un programa en el que el Estado asume el compromiso de poner 
+
 al alcance de todos y todas la posibilidad de acceder a un uso efectivo de las nuevas 
+
 tecnologías. 
+
 Un programa que le otorga a la escuela el desafío de ofrecer herramientas cognitivas y el 
+
 desarrollo de competencias para actuar de modo crítico, creativo, reflexivo y responsable 
+
 frente a la información y sus usos para la construcción de conocimientos socialmente 
 
 válidos.
+
 En nuestro país esta responsabilidad cobró vida dentro de la Ley de Educación Nacional 
+
 N.º 26.206. En efecto, las veinticuatro jurisdicciones vienen desarrollando de manera 
+
 conjunta la implementación del programa en el marco de las políticas del Ministerio de 
+
 Educación de la Nación, superando las diferencias políticas con miras a lograr este objetivo 
+
 estratégico. 
+
 Para que esta decisión tenga un impacto efectivo, resulta fundamental recuperar la 
+
 centralidad de las prácticas de enseñanza, dotarlas de nuevos sentidos y ponerlas a favor 
+
 de otros modos de trabajo con el conocimiento escolar. Para ello la autoridad pedagógica de 
 
 la escuela y sus docentes necesita ser fortalecida y repensada en el marco de la renovación 
+
 del formato escolar de nuestras escuelas secundarias.
-Prólogo5Prof. Alberto Sileoni 
+
+Prólogo
+
+
+
+5
+
+Prof. Alberto Sileoni 
 Ministro de Educación de la Nación
-Sabemos que solo con equipamiento e infraestructura no alcanza para incorporar las TIC en el aula ni para generar aprendizajes más relevantes en los estudiantes. Por ello los docentes son figuras clave en los procesos de incorporación del recurso tecnológico al trabajo pedagógico de la escuela. En consecuencia, la incorporación de las nuevas tecnologías, como parte de un proceso de innovación pedagógica, requiere entre otras cuestiones instancias de formación continua, acompañamiento y materiales de apoyo que permitan asistir y sostener el desafío que esta tarea representa.Somos conscientes de que el universo de docentes es heterogéneo y lo celebramos, pues ello 
-indica la diversidad cultural de nuestro país. Por lo tanto, de los materiales que en esta oportunidad ponemos a disposición, cada uno podrá tomar lo que le resulte de utilidad de acuerdo con el punto de partida en el que se encuentra. En tal sentido, las acciones de desarrollo profesional y acompañamiento se estructuran en 
+
+Sabemos que solo con equipamiento e infraestructura no alcanza para incorporar las tic en el 
+
+aula ni para generar aprendizajes más relevantes en los estudiantes. Por ello los docentes son 
+
+figuras clave en los procesos de incorporación del recurso tecnológico al trabajo pedagógico 
+
+de la escuela. En consecuencia, la incorporación de las nuevas tecnologías, como parte de un 
+
+proceso de innovación pedagógica, requiere entre otras cuestiones instancias de formación 
+
+continua, acompañamiento y materiales de apoyo que permitan asistir y sostener el desafío 
+
+que esta tarea representa.
+
+Somos conscientes de que el universo de docentes es heterogéneo y lo celebramos, pues ello 
+
+indica la diversidad cultural de nuestro país. Por lo tanto, de los materiales que en esta 
+
+oportunidad ponemos a disposición, cada uno podrá tomar lo que le resulte de utilidad de 
+
+acuerdo con el punto de partida en el que se encuentra. 
+
+En tal sentido, las acciones de desarrollo profesional y acompañamiento se estructuran en 
+
 distintas etapas y niveles de complejidad, a fin de cubrir todo el abanico de posibilidades: desde 
-saberes básicos e instancias de aproximación y práctica para el manejo de las 
-TIC
-, pasando por 
+
+saberes básicos e instancias de aproximación y práctica para el manejo de las tic, pasando por 
+
 la reflexión sobre sus usos, su aplicación e integración en el ámbito educativo, la exploración y 
 
 profundización en el manejo de aplicaciones afines a las distintas disciplinas y su integración en el 
+
 marco del modelo 1 a 1, hasta herramientas aplicadas a distintas áreas y proyectos, entre otros. 
-El módulo que aquí se presenta complementa las alternativas de desarrollo profesional y forma parte de una serie de materiales destinados a brindar apoyo a los docentes en el uso de las computadoras portátiles en las aulas, en el marco del Programa Conectar Igualdad. En particular, este texto pretende acercar a los integrantes de las instituciones que reciben equipamiento 1 a 1 reflexiones, conceptos e ideas para el aula. De esta manera, el Estado Nacional acompaña la progresiva apropiación de las TIC para mejorar prácticas habituales y explorar otras nuevas, con el fin de optimizar la calidad educativa y formar a los estudiantes 
-para el desafío del mundo que los espera como adultos. Deseamos que sea una celebración compartida este importante avance en la historia de la educación argentina, como parte de una política nacional y federal que tiene como uno de sus ejes fundamentales a la educación con inclusión y justicia social.6Índice Introducción
- 81 Alrededor de la Biología
- 10 Secuencia didáctica n.º 1. ¿Qué es un modelo cientí˜co?
- 10  Un ejemplo biológico Actividad 1. Diferentes modelos de biología
- 10 Actividad 2. Un modelo para armar. 
-Frankenstein
-,  10 la suma de las partes
- Actividad 3. El sexto día
-. La vida se desarrolla
- 10  Actividad de cierre. Los modelos mecanicista y organicista
- 11 Secuencia didáctica n.º 2. De las moléculas a los organismos: 
- 11 niveles de organización y propiedades emergentes
- Actividad 1. De los átomos a las macromoléculas
- 12 Actividad de cierre. Niveles de organización
- 13 Secuencia didáctica n.º 3. Ácidos nucleicos: ADN y ARN 13 Actividad 1. Estructura y función del 
-ADN 14 Actividad 2. Estructura y función del 
-ARN 17 Actividad 3. ARN y ADN, ¿en qué se diferencian?
- 17 Actividad de cierre. Experimentos sencillos
- 18 Secuencia didáctica n.º 4. Las neuronas: células que reciben
- 20 y transmiten información
- Actividad 1. Estructura de las neuronas
- 20 Actividad 2. Función de las neuronas
- 21 Actividad 3. Redes neuronales y macroorganización
- 22  de las neuronas
- Actividad de cierre. Alzheimer y otras enfermedades
- 22   Secuencia didáctica n.º 5. ¿Qué son y cómo actúan las hormonas? 23 Actividad 1. La era de la comunicación
- 24 Actividad 2. ¿Quién ordena a las hormonas? 25 Actividad de cierre. Las plantas también son seres vivos
- 257índice
-2 Las ciencias en nuestra vida 26 Secuencia didáctica n.º 6. El cuerpo como construcción histórica
- 26 Actividad 1. De˜niciones de cuerpo y corporeidad
- 26 Actividad 2. El cuerpo como espacio de lucha
- 26 Actividad de cierre. Elaboración y expresión de las ideas
- 27 Secuencia didáctica n.º 7. Enfermedad de Chagas
- 27 Actividad 1. ¿Chagas o Mazza?
- 27 Actividad 2. ¿Cómo enferma el Chagas?
- 28 Actividad 3. La lucha contra el Chagas
- 29 Actividad de cierre. 
-Casas de fuego 30 Secuencia didáctica n.º 8. Los hijos de los desaparecidos y
- 30 las técnicas actuales de identi˜cación de personas
- Actividad 1. Contexto histórico
- 30 Actividad 2. Las técnicas modernas de ˜liación de personas
- 31 Actividad 3. La identi˜cación de personas en la Argentina
- 33 Actividad de cierre. Un caso policial
- 33 Cómo hacer...
- ... una búsqueda en Internet
- 34 ... para subir un video a YouTube
- 37 Bibliografía 39 Sitios de interés
- 39Biología
-8IntroducciónEl objetivo de este material es, por un lado, brindar una serie de 
-ejemplos concretos del modo de trabajo 1:1 en esta disciplina: activi
--dades innovadoras que explotan los nuevos recursos que están siendo 
+
+El módulo que aquí se presenta complementa las alternativas de desarrollo profesional y 
+
+forma parte de una serie de materiales destinados a brindar apoyo a los docentes en el uso 
+
+de las computadoras portátiles en las aulas, en el marco del Programa Conectar Igualdad. 
+
+En particular, este texto pretende acercar a los integrantes de las instituciones que reciben 
+
+equipamiento 1 a 1 reflexiones, conceptos e ideas para el aula. De esta manera, el Estado 
+
+Nacional acompaña la progresiva apropiación de las tic para mejorar prácticas habituales y 
+
+explorar otras nuevas, con el fin de optimizar la calidad educativa y formar a los estudiantes 
+
+para el desafío del mundo que los espera como adultos. 
+
+Deseamos que sea una celebración compartida este importante avance en la historia de la 
+
+educación argentina, como parte de una política nacional y federal que tiene como uno de sus 
+
+ejes fundamentales a la educación con inclusión y justicia social.
+
+
+
+6
+
+Índice
+
+ Introducción 8
+
+1 Alrededor de la Biología 10
+ Secuencia didáctica n.º 1. ¿Qué es un modelo científico? 10 
+ Un ejemplo biológico
+ Actividad 1. Diferentes modelos de biología 10
+ Actividad 2. Un modelo para armar. Frankenstein,  10
+ la suma de las partes
+ Actividad 3. El sexto día. La vida se desarrolla 10 
+ Actividad de cierre. Los modelos mecanicista y organicista 11
+
+ Secuencia didáctica n.º 2. De las moléculas a los organismos:  11
+ niveles de organización y propiedades emergentes
+ Actividad 1. De los átomos a las macromoléculas 12
+ Actividad de cierre. Niveles de organización 13
+
+ Secuencia didáctica n.º 3. Ácidos nucleicos: adn y arn 13
+ Actividad 1. Estructura y función del adn 14
+ Actividad 2. Estructura y función del arn 17
+ Actividad 3. arn y adn, ¿en qué se diferencian? 17
+ Actividad de cierre. Experimentos sencillos 18
+
+ Secuencia didáctica n.º 4. Las neuronas: células que reciben 20
+ y transmiten información
+ Actividad 1. Estructura de las neuronas 20
+ Actividad 2. Función de las neuronas 21
+ Actividad 3. Redes neuronales y macroorganización 22 
+ de las neuronas
+ Actividad de cierre. Alzheimer y otras enfermedades 22 
+ 
+ Secuencia didáctica n.º 5. ¿Qué son y cómo actúan las hormonas? 23
+ Actividad 1. La era de la comunicación 24
+ Actividad 2. ¿Quién ordena a las hormonas? 25
+ Actividad de cierre. Las plantas también son seres vivos 25
+
+
+
+7
+
+ín
+d
+
+ic
+e
+
+2 Las ciencias en nuestra vida 26
+ Secuencia didáctica n.º 6. El cuerpo como construcción histórica 26
+ Actividad 1. Definiciones de cuerpo y corporeidad 26
+ Actividad 2. El cuerpo como espacio de lucha 26
+ Actividad de cierre. Elaboración y expresión de las ideas 27
+
+ Secuencia didáctica n.º 7. Enfermedad de Chagas 27
+ Actividad 1. ¿Chagas o Mazza? 27
+ Actividad 2. ¿Cómo enferma el Chagas? 28
+ Actividad 3. La lucha contra el Chagas 29
+ Actividad de cierre. Casas de fuego 30
+
+ Secuencia didáctica n.º 8. Los hijos de los desaparecidos y 30
+ las técnicas actuales de identificación de personas
+ Actividad 1. Contexto histórico 30
+ Actividad 2. Las técnicas modernas de filiación de personas 31
+ Actividad 3. La identificación de personas en la Argentina 33
+ Actividad de cierre. Un caso policial 33
+
+ Cómo hacer...
+ ... una búsqueda en Internet 34
+ ... para subir un video a YouTube 37
+
+ Bibliografía 39
+
+ Sitios de interés 39
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
+8
+
+Introducción
+
+El objetivo de este material es, por un lado, brindar una serie de 
+
+ejemplos concretos del modo de trabajo 1:1 en esta disciplina: activi-
+
+dades innovadoras que explotan los nuevos recursos que están siendo 
+
 puestos al alcance de docentes y alumnos, y que al mismo tiempo 
-transmiten rigurosamente los conceptos necesarios para una educa
--ción sólida. Este material está dividido en tres partes: 
+
+transmiten rigurosamente los conceptos necesarios para una educa-
+
+ción sólida. 
+
+Este material está dividido en tres partes: 
+
 Capítulo 1.  Alrededor de la Biología
 Centrado en la Biología, ayuda a comprender algunas ideas centrales que pueden ser 
 
 útiles para pensar mejor los problemas del capítulo 2.
+
 Capítulo 2.  La ciencia en nuestra vida
 Aborda la Biología desde un punto de vista social. Si bien los problemas presentados 
 
 están dentro del área de las Ciencias Naturales, incluyen ejemplos sobre cómo trabajar 
-ciertos temas cuya problemática excede este campo, pero que no pueden ser enten
--didos sin una comprensión de los aspectos biológicos. En este capítulo se incluyen 
+
+ciertos temas cuya problemática excede este campo, pero que no pueden ser enten-
+
+didos sin una comprensión de los aspectos biológicos. En este capítulo se incluyen 
+
 temas relacionados con la salud, los derechos humanos y la ciudadanía en general, lo 
+
 que propone un trabajo interdisciplinario, pues hay que integrar estas problemáticas 
-ﬁnaturalesﬂ en el ámbito más amplio de la sociedad, que está discutiendo e intentan
--do resolver estos y otros temas similares. A la vez, también implica entender que el 
+
+“naturales” en el ámbito más amplio de la sociedad, que está discutiendo e intentan-
+
+do resolver estos y otros temas similares. A la vez, también implica entender que el 
+
 conocimiento no se compone de compartimentos estancos e inmutables.
+
 Cómo hacer... 
-En esta sección podrán encontrar tutoriales para aprender a emplear diferentes pro
--gramas, aplicaciones o páginas web.
-9introducción
-Habitualmente, en los materiales utilizados en la educación secunda
--ria, el conocimiento se presenta como un producto acabado, fuera de 
+En esta sección podrán encontrar tutoriales para aprender a emplear diferentes pro-
+
+gramas, aplicaciones o páginas web.
+
+
+
+9
+
+in
+tr
+
+o
+d
+
+u
+c
+c
+ió
+
+n
+
+Habitualmente, en los materiales utilizados en la educación secunda-
+
+ria, el conocimiento se presenta como un producto acabado, fuera de 
+
 toda discusión, lo que es mucho más sencillo cuando las problemáticas 
-a transmitir son conceptos abstractos. ¿Quién va a discutir si la grave
--dad es una fuerza o es la forma del espacio curvado, tal como proponen 
+
+a transmitir son conceptos abstractos. ¿Quién va a discutir si la grave-
+
+dad es una fuerza o es la forma del espacio curvado, tal como proponen 
 
 las últimas teorías? Probablemente, nadie. Pero es diferente cuando se 
+
 abordan cuestiones sociales, problemas que no están resueltos y para 
+
 los cuales la sociedad demanda una solución concreta y más o menos 
+
 inmediata. Encarar situaciones de ese tipo implica poner en duda los 
+
 conocimientos y buscar alternativas. Y desarrollar, más que nunca, un 
-pensamiento crítico que cuestione, en forma constructiva, el propio co
--nocimiento científico, como la forma más segura de hacer e incentivar, 
+
+pensamiento crítico que cuestione, en forma constructiva, el propio co-
+
+nocimiento científico, como la forma más segura de hacer e incentivar, 
+
 justamente, un espíritu científico en la sociedad. 
+
 El conocimiento es un potente modo de encontrar respuestas: aquí 
-mostramos algunos de los vínculos que se pueden establecer particular
--mente entre los conceptos biológicos y la resolución de algunas proble
--máticas sociales.
-Biología
+
+mostramos algunos de los vínculos que se pueden establecer particular-
+
+mente entre los conceptos biológicos y la resolución de algunas proble-
+
+máticas sociales.
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
 10
+
 Alrededor de la Biología
+
 Secuencia didáctica n.º 1
 ¿Qué es un modelo científico? Un ejemplo biológico
-La ciencia, como modo de conocer la realidad, construye modelos que se van suce
--diendo a lo largo del tiempo y que sirven para entender algunos aspectos de la realidad, 
+
+La ciencia, como modo de conocer la realidad, construye modelos que se van suce-
+
+diendo a lo largo del tiempo y que sirven para entender algunos aspectos de la realidad, 
+
 pero no son parte de ella.
+
 En esta secuencia los alumnos trabajarán sobre dos modos de concebir la Biología: 
-mecanicista
-, que concibe la vida como la sumatoria de las partes, es decir, los cuerpos 
-biológicos están hechos de partes y cada una de ellas cumple su función; y 
-organicista
-, que concibe la vida como una propiedad emergente que requiere un proceso de desa
--rrollo biológico para conformarse. El objetivo de esta secuencia es que los alumnos 
+
+mecanicista, que concibe la vida como la sumatoria de las partes, es decir, los cuerpos 
+
+biológicos están hechos de partes y cada una de ellas cumple su función; y organicista, 
+
+que concibe la vida como una propiedad emergente que requiere un proceso de desa-
+
+rrollo biológico para conformarse. El objetivo de esta secuencia es que los alumnos 
+
 comprendan los alcances del conocimiento científico.
+
 Actividad 1. Diferentes modelos de Biología
-1.
- Les sugerimos que les pidan a sus alumnos que definan el término ﬁbiologíaﬂ y anoten las 
-definiciones en un documento usando un 
-procesador de texto
-.Actividad 2. Un modelo para armar. 
-Frankenstein
-, la suma de las partes
-1.
- Les sugerimos que junto con sus alumnos miren el siguiente fragmento de la película 
 
-Frankenstein
- (1931): 
- http://www.youtube.com > Buscar: ﬁFrankenstein 1931ﬂ > It™s Alive
- [consultado el 2 de marzo de 2011]. Luego, les pueden pedir a sus alumnos que respondan:
-a) ¿Cómo está construido el monstruo de 
-Frankenstein
-?b) ¿Cómo toma vida el monstruo?Actividad 3. 
-El sexto día
-, la vida se desarrolla
-1.
- Ahora, les sugerimos que miren un fragmento de la película 
-El sexto día
- (2000), disponi
--ble en: 
- http://www.youtube.com > Buscar: ﬁ6to día clonaciónﬂ > clonación?
- [consul
--tado el 2 de marzo de 2011], y luego pueden pedirles a sus alumnos que respondan: 
+1. Les sugerimos que les pidan a sus alumnos que definan el término “biología” y anoten las 
 
-a) ¿Cómo está construido el cuerpo al que dan vida en 
-El sexto día
-? b) ¿Cómo cobra vida? 
-1 Word
-, procesador 
+definiciones en un documento usando un procesador de texto.
+
+Actividad 2. Un modelo para armar. Frankenstein, la suma de las partes
+
+1. Les sugerimos que junto con sus alumnos miren el siguiente fragmento de la película 
+
+Frankenstein (1931):  http://www.youtube.com > Buscar: “Frankenstein 1931” > It’s Alive 
+
+[consultado el 2 de marzo de 2011]. Luego, les pueden pedir a sus alumnos que respondan:
+
+a) ¿Cómo está construido el monstruo de Frankenstein?
+
+b) ¿Cómo toma vida el monstruo?
+
+Actividad 3. El sexto día, la vida se desarrolla
+
+1. Ahora, les sugerimos que miren un fragmento de la película El sexto día (2000), disponi-
+
+ble en:  http://www.youtube.com > Buscar: “6to día clonación” > clonación? [consul-
+
+tado el 2 de marzo de 2011], y luego pueden pedirles a sus alumnos que respondan: 
+
+a) ¿Cómo está construido el cuerpo al que dan vida en El sexto día? 
+
+b) ¿Cómo cobra vida? 
+
+1
+
+ 
+Word, procesador 
+
 de textos de 
-Microsoft Of˜ce.
- Writer
-, procesador 
+Microsoft Office.
+
+ 
+Writer, procesador 
+
 de textos de 
-OpenOf˜ce.
+OpenOffice.
+
+
+
 11
-capítulo 1
-Actividad de cierre. 
-Los modelos mecanicista y organicista
-Pueden sugerirles a los alumnos que, utilizando una 
-planilla de cálculo
-,  
+
+c
+a
+p
+
+ítu
+lo
+
+ 1
+
+Actividad de cierre. Los modelos mecanicista y organicista
+
+Pueden sugerirles a los alumnos que, utilizando una planilla de cálculo,  
+
 construyan una tabla comparativa similar a la siguiente:
+
 Secuencia didáctica n.º 2
 De las moléculas a los organismos: niveles 
 de organización y propiedades emergentes
-Toda la materia en nuestro universo se encuentra organizada en di
--ferentes formas, y gracias al estudio de estas formas se pueden clasificar 
+
+Toda la materia en nuestro universo se encuentra organizada en di-
+
+ferentes formas, y gracias al estudio de estas formas se pueden clasificar 
+
 por estructuras. Desde la estructura atómica hasta la estructura de una 
+
 estrella encontramos elementos diferenciados y equivalentes que podemos 
-clasificar para comprender las relaciones entre los distintos niveles de or
--ganización. Dentro de la Biología nos interesa comprender y clasificar las 
+
+clasificar para comprender las relaciones entre los distintos niveles de or-
+
+ganización. Dentro de la Biología nos interesa comprender y clasificar las 
 
 estructuras moleculares básicas para la vida y las diferentes formas que 
+
 asumen los organismos vivos, sus características propias y compartidas. 
+
 En las moléculas más simples o los organismos más complejos hallamos 
+
 propiedades diferentes que aparecen en cada nuevo nivel de complejidad: 
-se llaman propiedades emergentes
-.El objetivo de esta secuencia es que los alumnos comprendan los ni
--veles de organización que tiene la materia y que puedan identificar las 
+
+se llaman propiedades emergentes.
+
+El objetivo de esta secuencia es que los alumnos comprendan los ni-
+
+veles de organización que tiene la materia y que puedan identificar las 
+
 propiedades emergentes de cada uno de ellos. Para ello van a trabajar en 
+
 grupos que abordarán distintas temáticas y que luego compartirán con el 
+
 resto de la clase.
-MODELO 
-MECANICISTA
-(FRANKENSTEIN
-)MODELO ORGANICISTA
-(EL SEXTO DÍA
-)¿Cómo se forma el nuevo ser vivo?
+
+Modelo Mecanicista
+(Frankenstein)
+
+Modelo organicista
+(el sexto día)
+
+¿Cómo se forma el nuevo ser vivo?
+
 ¿Qué se usa para darle vida?
 
 ¿Qué tecnología implica?
 
 ¿Cuántas personas participan del experimento?
 
-¿Quién ˜nancia los experimentos?
- Excel, planilla de cálculo de Microsoft Of˜ce.    
- Calc, planilla de cálculo de OpenOf˜ce.
-Biología
+¿Quién financia los experimentos?
+
+ Excel, planilla de cálculo de Microsoft Office.     Calc, planilla de cálculo de OpenOffice.
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
 12
+
 Actividad 1. De los átomos a las macromoléculas
-1.
- Pueden proponerles a sus alumnos que se dividan en tres grupos y que 
+
+1. Pueden proponerles a sus alumnos que se dividan en tres grupos y que 
+
 cada grupo investigue sobre un tema para, luego, hacer una exposición 
+
 en la clase. Otra opción es plantear un viaje del nivel atómico al nivel 
+
 macromolecular, dividido en tres etapas, para que cada grupo trabaje 
-con una de ellas.Grupo 1. La tabla periódica de los elementos
-A este grupo se le puede sugerir que mire el episodio 9 de la serie 
-Cosmos
-, de Carl Sagan, disponible en
-  http://www.youtube.com > Buscar: ﬁCarl 
-Sagan cosmos episodio 9 parte 2/7ﬂ > Cosmos Episodio 9 parte 2/7
- [con
--sultado el 2 de marzo de 2011], y que a partir de lo visto y analizado en el 
-video grafiquen los átomos utilizando algún 
-programa para dibujar
-. Tam
--bién pueden jugar con adivinanzas, en un blog especialmente creado para 
+
+con una de ellas.
+
+Grupo 1. La tabla periódica de los elementos
+A este grupo se le puede sugerir que mire el episodio 9 de la serie Cosmos, 
+
+de Carl Sagan, disponible en  http://www.youtube.com > Buscar: “Carl 
+
+Sagan cosmos episodio 9 parte 2/7” > Cosmos Episodio 9 parte 2/7 [con-
+
+sultado el 2 de marzo de 2011], y que a partir de lo visto y analizado en el 
+
+video grafiquen los átomos utilizando algún programa para dibujar. Tam-
+
+bién pueden jugar con adivinanzas, en un blog especialmente creado para 
 
 eso, para descubrir de qué elemento se trata, dando para cada elemento una 
 
 información clave acerca de su organización de acuerdo con el número de 
+
 protones, que les permita comprender a todos lo que explica Carl Sagan en 
+
 este episodio. Deberán apoyarse en la tabla periódica de los elementos para 
-conocer el número atómico. Pueden utilizar el programa 
-EQTabla
-.Grupo 2. La formación de las moléculas
-Luego de leer el capítulo ﬁ
-Las moléculas
-ﬂ (
-Curtis Biología
-), pueden pe
--dirle al grupo que realice una pequeña investigación para conocer la di
--
+
+conocer el número atómico. Pueden utilizar el programa EQTabla.
+
+Grupo 2. La formación de las moléculas
+Luego de leer el capítulo “Las moléculas” (Curtis Biología), pueden pe-
+
+dirle al grupo que realice una pequeña investigación para conocer la di-
+
 ferencia entre moléculas simples y moléculas complejas. Con ayuda del 
-programa 
-BKchem, podrán trabajar en la construcción de las siguientes 
+
+programa BKchem, podrán trabajar en la construcción de las siguientes 
+
 moléculas: agua, oxígeno molecular, ozono, carbono, sal común, glucosa, 
 
-ácido sulfúrico y otras que ustedes consideren adecuadas. Al finalizar, ten
--drán que exponer lo investigado y trabajado ante toda la clase.
+ácido sulfúrico y otras que ustedes consideren adecuadas. Al finalizar, ten-
+
+drán que exponer lo investigado y trabajado ante toda la clase.
+
  http://escritoriodocentes.educ.
 ar/bkchem.html
-  Paint, programa para gra˜car de 
+
+ 
+
+ 
+Paint, programa para graficar de 
+
 Windows.
- Draw
-, programa de grá˜cos de 
-OpenOf˜ce.
+
+ 
+Draw, programa de gráficos de 
+
+OpenOffice.
+
  http://escritoriodocentes.educ.
-ar/880.html 
-  
+ar/880.html   
+
  http://www.curtisbiologia.
-com/moleculas
- 13
-capítulo 1
+com/moleculas 
+
+
+
+13
+
+c
+a
+p
+
+ítu
+lo
+
+ 1
+
 Grupo 3. Las macromoléculas
 A este grupo se le puede sugerir que investigue, en distintas fuentes, 
+
 qué son los lípidos, los carbohidratos, las proteínas y los ácidos nucleicos. 
+
 Podrán usar las siguientes preguntas como guía: 
-¿Qué moléculas conforman estas macromoléculas? 
-¿Qué funciones cumplen en las células?Luego de hacer la investigación sugerimos proponerles que, con ayuda 
-del programa 
-BKchem, realicen una 
-presentación
- sobre estas moléculas 
+
+	¿Qué moléculas conforman estas macromoléculas? 
+
+	¿Qué funciones cumplen en las células?
+
+Luego de hacer la investigación sugerimos proponerles que, con ayuda 
+
+del programa BKchem, realicen una presentación sobre estas moléculas 
+
 para mostrarla al resto del curso. Como apoyo se puede construir una 
 
 maqueta de cada una de las macromoléculas.
-Actividad de cierre.
- Niveles de organización
-1.
- Cuando cada grupo haya terminado, pueden realizar una presentación 
-de no más de diez diapositivas en la que muestren los diferentes nive
--les de organización, desde los elementos hasta las macromoléculas. Las 
+
+Actividad de cierre. Niveles de organización
+
+1. Cuando cada grupo haya terminado, pueden realizar una presentación 
+
+de no más de diez diapositivas en la que muestren los diferentes nive-
+
+les de organización, desde los elementos hasta las macromoléculas. Las 
 
 presentaciones deben lograr explicar la siguiente afirmación:
+
 Secuencia didáctica n.º 3
-Ácidos nucleicos: 
-ADN
- y 
-ARN
-Los ácidos nucleicos son el ácido desoxirribonucleico (
-ADN
-) y el ácido ribo
--nucleico (
-ARN
-). El 
-ADN
- porta la información genética que comanda la formación 
-de un organismo completo y, junto con el 
-ARN
-, determina las bases del funcio
--namiento celular a través de la expresión de la información que contienen. 
+Ácidos nucleicos: adn y arn
+
+Los ácidos nucleicos son el ácido desoxirribonucleico (adn) y el ácido ribo-
+
+nucleico (arn). El adn porta la información genética que comanda la formación 
+
+de un organismo completo y, junto con el arn, determina las bases del funcio-
+
+namiento celular a través de la expresión de la información que contienen. 
+
 Para ayudarse en esta actividad, 
 pueden leer los siguientes 
-
 artículos: 
-
-ﬁ¿Podemos leer el libro de la 
-
-vida? Genética humanaﬂ. En:  http://www.educ.ar > 
+“¿Podemos leer el libro de la 
+vida? Genética humana”. 
+En:  http://www.educ.ar > 
 Recursos educativos > Áreas 
 curriculares: Tecnología > Nivel 
-
 educativo: Educación secundaria 
-
 > Tipo de recurso: Presentación 
 > Tipo de propuesta didáctica: 
 Presentación expositiva > 
-
 ¿Podemos leer el libro de la 
-
 genética humana? (Resultado en 
-
-página 2)
-.ﬁLas macromoléculasﬂ. 
-
+página 2).
+“Las macromoléculas”. 
 En:  http://www.curtisbiologia.
 com/macromol
+  
 
-  Cada nivel de organización incluye los niveles inferiores y constituye, 
+Cada nivel de organización incluye los niveles inferiores y constituye, 
+
 a su vez, la base de los niveles superiores. Y lo que es más importante, 
-cada nivel se caracteriza por poseer propiedades específicas y carac
--terísticas que emergen en ese nivel y no existen en el anterior: las pro
--piedades emergentes. Así, una molécula de agua tiene propiedades 
+
+cada nivel se caracteriza por poseer propiedades específicas y carac-
+
+terísticas que emergen en ese nivel y no existen en el anterior: las pro-
+
+piedades emergentes. Así, una molécula de agua tiene propiedades 
+
 diferentes de la suma de las propiedades de sus átomos constitutivos 
-Œhidrógeno y oxígenoŒ. De la misma manera, una célula cualquiera 
+
+–hidrógeno y oxígeno–. De la misma manera, una célula cualquiera 
+
 tiene propiedades diferentes de las de sus moléculas constitutivas, y 
+
 un organismo multicelular dado tiene propiedades nuevas y diferentes 
-de las de sus células constitutivas. De todas las propiedades emergen
--tes, sin duda la más sorprendente es la que surge en el nivel de una 
-célula individual, y es nada menos que la vida.  Curtis Biología.
- Disponible en: http://www.curtisbiologia.com/niveles
- 
+
+de las de sus células constitutivas. De todas las propiedades emergen-
+
+tes, sin duda la más sorprendente es la que surge en el nivel de una 
+
+célula individual, y es nada menos que la vida.  
+
+Curtis Biología. Disponible en: 
+http://www.curtisbiologia.com/niveles 
 [consultado el 4 de febrero de 2011].
- Power Point
-, programa para 
+
+ 
+Power Point, programa para 
 crear presentaciones de Microsoft 
+Office. 
 
-Of˜ce. 
- Impress
-, programa para armar 
+ 
+Impress, programa para armar 
+presentaciones de OpenOffice.
 
-presentaciones de OpenOf˜ce.
-Biología
+
+
+B
+io
+
+lo
+gí
+
+a
+
 14
+
 En la actualidad no se sabe con certeza cuál es la macromolécula más 
-antigua, si el 
-ADN, el 
-ARN o las proteínas que constituyen el producto de 
+
+antigua, si el adn, el arn o las proteínas que constituyen el producto de 
+
 expresión de estos. De hecho, uno de los mayores desafíos es dilucidar 
-la historia posible de cómo el 
-ADN, el 
-ARN y las proteínas aparecieron y se 
+
+la historia posible de cómo el adn, el arn y las proteínas aparecieron y se 
+
 vincularon entre sí. 
-Tanto el 
-ADN como el 
-ARN son moléculas orgánicas (estas poseen en su 
+
+Tanto el adn como el arn son moléculas orgánicas (estas poseen en su 
+
 estructura C y por lo menos un átomo de H). En las células procariotas 
 
-el ADN se encuentra en una región denominada nucleoide, y en las células 
+el adn se encuentra en una región denominada nucleoide, y en las células 
+
 eucariotas se halla en el interior del núcleo celular. 
-La posición del 
-ARN en la célula depende de la variedad de la que se 
-trate; así tenemos tres tipos principales de 
-ARN: mensajero, de transferencia 
-y ribosomal.Actividad 1. Estructura y función del 
-ADN
-El ADN se encuentra constituido por nucleótidos: moléculas orgánicas 
-compuestas a su vez por una base nitrogenada, un azúcar (la desoxirri
--
-bosa) y un grupo fosfato. La información genética en el 
-ADN posibilita la 
-síntesis del 
-ARN, y este la síntesis de proteínas, que se constituyen como los 
-productos de expresión de la información genética. Estas proteínas pue
--
+
+La posición del arn en la célula depende de la variedad de la que se 
+
+trate; así tenemos tres tipos principales de arn: mensajero, de transferencia 
+
+y ribosomal.
+
+Actividad 1. Estructura y función del adn
+
+El adn se encuentra constituido por nucleótidos: moléculas orgánicas 
+
+compuestas a su vez por una base nitrogenada, un azúcar (la desoxirri-
+
+bosa) y un grupo fosfato. La información genética en el adn posibilita la 
+
+síntesis del arn, y este la síntesis de proteínas, que se constituyen como los 
+
+productos de expresión de la información genética. Estas proteínas pue-
+
 den tener dos tipos de funciones:
-si tienen una función estructural, formarán parte de alguna de las 
-estructuras de la célula, como por ejemplo la membrana plasmáti
--ca, la envoltura nuclear, las mitocondrias, etcétera; y 
-si su función es enzimática, habrán de catalizar reacciones químicas 
+
+	si tienen una función estructural, formarán parte de alguna de las 
+
+estructuras de la célula, como por ejemplo la membrana plasmáti-
+
+ca, la envoltura nuclear, las mitocondrias, etcétera; y 
+
+	si su función es enzimática, habrán de catalizar reacciones químicas 
+
 específicas en las células. 
-1.
- Pueden proponerles a sus alumnos que lean el siguiente texto: 
+
+1. Pueden proponerles a sus alumnos que lean el siguiente texto: 
+
 A comienzos de la década de 1950 el biólogo estadounidense James 
 
 Watson y el físico inglés Francis H. Crick comenzaron a estudiar el 
-problema de la 
-estructura molecular del 
-ADN. A partir de los resulta
--dos de estudios anteriores, estos investigadores se abocaron a cons
--
-truir un modelo de la molécula de 
-ADN que concordara con los datos 
-previamente conocidos y explicara su papel biológico. Armaron mo
--
+
+problema de la estructura molecular del adn. A partir de los resulta-
+
+dos de estudios anteriores, estos investigadores se abocaron a cons-
+
+truir un modelo de la molécula de adn que concordara con los datos 
+
+previamente conocidos y explicara su papel biológico. Armaron mo-
+
 delos de las moléculas con alambre y hojalata, para ensayar dónde 
+
 podía encajar cada pieza en el rompecabezas tridimensional. Si bien 
+
 había muchos investigadores interesados en descubrir la estructura 
-molecular del 
-ADN, Watson y Crick fueron los primeros en lograrlo. En 
+
+molecular del adn, Watson y Crick fueron los primeros en lograrlo. En 
+
+
+
 15
-capítulo 1
+
+c
+a
+p
+
+ítu
+lo
+
+ 1
+
 2. Sugiéranles a los alumnos que busquen información sobre la estructura 
-del 
-ADN y que luego respondan:
-a) ¿Qué es un nucleótido?  b) ¿Cuáles son sus componentes?
-c) ¿Cuáles son los nucleótidos que forman parte del 
-ADN? d) ¿Qué es un polímero? 
-e) ¿El ADN es un polímero? ¿Por qué?
+
+del adn y que luego respondan:
+
+a) ¿Qué es un nucleótido?  
+
+b) ¿Cuáles son sus componentes?
+
+c) ¿Cuáles son los nucleótidos que forman parte del adn? 
+
+d) ¿Qué es un polímero? 
+
+e) ¿El adn es un polímero? ¿Por qué?
+
 3. Luego, pueden solicitarles que especifiquen cuáles son las diferencias 
 
-en la estructura química del 
-ADN, tomando como fuente el siguiente 
+en la estructura química del adn, tomando como fuente el siguiente 
+
 esquema de las bases nitrogenadas que lo conforman. 
+
 4. Propónganles a sus alumnos que elaboren un mapa conceptual sobre 
 
-la función del 
-ADN. Para ello, pueden utilizar el programa 
-CmapTools
-. Sugerimos a continuación algunas palabras que pueden ser incluidas 
+la función del adn. Para ello, pueden utilizar el programa CmapTools. 
+
+Sugerimos a continuación algunas palabras que pueden ser incluidas 
+
 en el mapa usadas como conceptos y como conectores: 
-Disponible en los equipos portátiles y en: 
+
+Disponible en los equipos 
+portátiles y en: 
+
  http://escritorioalumnos.educ.ar 
-> Programas > CmapTools
-.1962 recibieron el Premio Nobel por los descubrimientos concernien
--tes a la estructura molecular de los ácidos nucleicos y su importancia 
+> Programas > CmapTools.
+
+1962 recibieron el Premio Nobel por los descubrimientos concernien-
+
+tes a la estructura molecular de los ácidos nucleicos y su importancia 
+
 en la transferencia de información en la materia viva.  
-duplicación        
-transcripción
-        
-traducción
-        
-formado
-        
-contiene
-        
-síntesis
-        
-ADN
-        
-ARN
-        
-genes
-        
-información
-        
-proteínas
-HC
-NCNH
-2OHC
-NHCOONHH3CHC
-CCCNH
+
+duplicación        transcripción        traducción        formado        contiene        
+
+síntesis        adn        arn        genes        información        proteínas
+
+HC N
+
+C
+
 NH
-2NNHCHC
-CCCH
-NNONNHCHC
-CCCNH
+2
+
+O
+HC
+
+N
+H
+
+C
+
+O
+
+ON
+H
+
+H
+3
+C
+
+HC
+
+C
+C
+
+C
+
+NH
+
+NH
+2
+
 NNH
-2PIRI
-MIDINAS
-PU
-RINAS
-Citosina (C)
-Timina (T)
-Adenina (A)
-Guanina (G)
+C
+
+HC
+C
+
+C
+
+CH
+
+N
+N
+
+O
+
+NNH
+C
+
+HC
+C
+
+C
+
+C
+
+NH
+N
+
+NH
+2
+
+PiriMidinas PUrinas
+
+Citosina (C) Timina (T) Adenina (A) Guanina (G)
+
 Fosfato
+
 Azúcar
 (desoxirribosa)
-HCOH
-HCH CH
-2CHCH5™
-4™
-1™
-3™  2™
-OOPOO          0
-BaseNucleótidoBiología
+
+H
+
+C
+
+OH
+
+H
+
+C
+
+H
+
+ CH
+2
+
+C
+
+H
+
+C
+
+H
+
+5’
+
+4’
+
+1’
+
+3’  2’
+
+O
+
+O
+
+P
+
+O
+
+O          0
+
+Base
+
+Nucleótido
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
 16
+
 5. Sugieran leer este texto y que luego respondan las consignas.
-a) ¿Cuál fue la importancia del trabajo de Rosalind Franklin en el des
--cubrimiento de la estructura molecular del 
-ADN?b) ¿A qué atribuyen el hecho de que no haya sido reconocida como 
-una investigadora clave en el descubrimiento de la estructura mole
--cular del ADN?Rosalind Franklin y la estructura del 
-ADN
-Rosalind Franklin nació en Inglaterra el 25 de julio de 1920, y se gra
--
+
+a) ¿Cuál fue la importancia del trabajo de Rosalind Franklin en el des-
+
+cubrimiento de la estructura molecular del adn?
+
+b) ¿A qué atribuyen el hecho de que no haya sido reconocida como 
+
+una investigadora clave en el descubrimiento de la estructura mole-
+
+cular del adn?
+
+Rosalind Franklin y la estructura del adn
+Rosalind Franklin nació en Inglaterra el 25 de julio de 1920, y se gra-
+
 duó en la Universidad de Cambridge en 1941. Su trabajo sobre las 
+
 microestructuras del carbón y del grafito fue la base de su doctorado 
+
 en Química física, que obtuvo en 1945. Luego, en París, estudió las 
+
 técnicas de la difracción de la radiografía. En 1951 volvió a Inglaterra 
+
 como investigadora asociada en el laboratorio de John Randall, en el 
-King™s College, Cambridge. Para Rosalind esta era la oportunidad de 
+
+King’s College, Cambridge. Para Rosalind esta era la oportunidad de 
+
 aplicar sus conocimientos a la biología. En el laboratorio de Randall 
-se cruzó su trabajo con el de Maurice Wilkins, ya que los dos se re
--ferían al 
-ADN. Wilkins llevaba largo tiempo trabajando en el 
-ADN y ha
--bía tomado la primera fotografía relativamente clara de su difracción 
+
+se cruzó su trabajo con el de Maurice Wilkins, ya que los dos se re-
+
+ferían al adn. Wilkins llevaba largo tiempo trabajando en el adn y ha-
+
+bía tomado la primera fotografía relativamente clara de su difracción 
+
 cristalográfica. Había sido el primero en reconocer en esta los ácidos 
+
 nucleicos y no estaba dispuesto a la competencia interna.
+
 Rosalind Franklin obtuvo una fotografía de difracción de rayos X que 
-reveló, de manera inconfundible, la estructura helicoidal de la molécu
--la de 
-ADN. Esa imagen, conocida hoy como la famosa ﬁfotografía 51ﬂ, 
+
+reveló, de manera inconfundible, la estructura helicoidal de la molécu-
+
+la de adn. Esa imagen, conocida hoy como la famosa “fotografía 51”, 
+
 fue un respaldo experimental crucial para que  James Watson y Francis 
-Crick establecieran, en 1953, la célebre hipótesis de la ﬁdoble héliceﬂ 
-que es característica de la estructura molecular del 
-ADN.En 1951, Watson había asistido a una clase de Franklin sobre el avan
--
+
+Crick establecieran, en 1953, la célebre hipótesis de la “doble hélice” 
+
+que es característica de la estructura molecular del adn.
+
+En 1951, Watson había asistido a una clase de Franklin sobre el avan-
+
 ce de sus investigaciones. Rápidamente, con Francis Crick se pusieron 
-a la tarea de imaginar la estructura del 
-ADN y para ello trabajaron con 
+
+a la tarea de imaginar la estructura del adn y para ello trabajaron con 
+
 modelos atómicos a escala. El intento fracasó. A principios de 1953 
 
 Wilkins mostró a Watson una de las fotografías cristalográficas de 
-Rosalind de la molécula de 
-ADN. Cuando Watson vio la foto, la solu
--ción llegó a ser evidente para él y los resultados fueron publicados en 
-un artículo en 
-Nature 
-casi inmediatamente. Rosalind murió en Londres 
+
+Rosalind de la molécula de adn. Cuando Watson vio la foto, la solu-
+
+ción llegó a ser evidente para él y los resultados fueron publicados en 
+
+un artículo en Nature casi inmediatamente. Rosalind murió en Londres 
+
 el 16 de abril de 1958. En 1962, Watson, Crick y Wilkins recibieron el 
 
-Premio Nobel por el descubrimiento de la estructura del 
-ADN.17
-capítulo 1
-Actividad 2. Estructura y función del 
-ARN
-El ARN (ácido ribonucleico) se sintetiza a partir de la información ge
--nética presente en el 
-ADN. Al igual que este, se trata de un polímero for
--mado por nucleótidos que se diferencian de los que constituyen el 
-ADN por una base nitrogenada. Existen tres tipos de 
-ARN: uno de ellos lleva la 
+Premio Nobel por el descubrimiento de la estructura del adn.
+
+
+
+17
+
+c
+a
+p
+
+ítu
+lo
+
+ 1
+
+Actividad 2. Estructura y función del arn
+
+El arn (ácido ribonucleico) se sintetiza a partir de la información ge-
+
+nética presente en el adn. Al igual que este, se trata de un polímero for-
+
+mado por nucleótidos que se diferencian de los que constituyen el adn 
+
+por una base nitrogenada. Existen tres tipos de arn: uno de ellos lleva la 
+
 información genética que dicta los aminoácidos que formarán la proteína 
+
 a sintetizar, y los otros dos forman parte de la maquinaria a utilizarse en 
+
 la síntesis proteica.
-1.
- A partir del material citado en la bibliografía y en sitios de interés 
-(pág. 39) recomendadas, sugerimos que les propongan a los estu
--diantes responder las siguientes preguntas: 
 
-a) ¿Cuál es la estructura del 
-ARN? ¿Qué bases nitrogenadas y azúcares 
+1. A partir del material citado en la bibliografía y en sitios de interés 
+
+(pág. 39) recomendadas, sugerimos que les propongan a los estu-
+
+diantes responder las siguientes preguntas: 
+
+a) ¿Cuál es la estructura del arn? ¿Qué bases nitrogenadas y azúcares 
+
 lo conforman? ¿Es de cadena doble o simple?
-b) ¿Cuáles son los diferentes tipos de 
-ARN que existen? ¿Qué función 
-cumplen?c) ¿Qué es la transcriptasa inversa? ¿En qué proceso participa? 
-d) ¿Cuál es el producto del proceso de duplicación y cuál el de trans
--
-cripción?Actividad 3. 
-ARN
- y 
-ADN
-, ¿en qué se diferencian?
-1.
- A partir de lo trabajado sobre la estructura y función de los ácidos 
+
+b) ¿Cuáles son los diferentes tipos de arn que existen? ¿Qué función 
+
+cumplen?
+
+c) ¿Qué es la transcriptasa inversa? ¿En qué proceso participa? 
+
+d) ¿Cuál es el producto del proceso de duplicación y cuál el de trans-
+
+cripción?
+
+Actividad 3. arn y adn, ¿en qué se diferencian?
+
+1. A partir de lo trabajado sobre la estructura y función de los ácidos 
+
 nucleicos, sugerimos proponerles a los alumnos que respondan el 
-siguiente ﬁverdadero o falsoﬂ, y que argumenten todas sus res
--puestas. 
-VFLa única diferencia en la estructura del 
-ADN y en la de ARN
- radica en las bases nitrogenadas que los componen.
-El ARN
- mitocondrial porta la misma información que el ARN
- mensajero.
 
-Los codones son los elementos que constituyen la estructura de las proteínas.
-Los ácidos nucleicos (ADN y ARN
-) están conformados por cadenas dobles.VFVFVFBiología
+siguiente “verdadero o falso”, y que argumenten todas sus res-
+
+puestas. 
+
+V FLa única diferencia en la estructura del adn y en la de arn radica en las bases nitrogenadas que los componen.
+
+El arn mitocondrial porta la misma información que el arn 
+mensajero.
+
+Los codones son los elementos que constituyen la 
+estructura de las proteínas.
+
+Los ácidos nucleicos (adn y arn) están conformados por 
+cadenas dobles.
+
+V F
+
+V F
+
+V F
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
 18
-Actividad de cierre.  
-Experimentos sencillos       Extracción                          de 
-ADN
- de levadura de panadería (
-Saccharomyces cerevisiae
-)Esta actividad se puede realizar en el aula o en la cocina de la escuela.Materiales necesarios
-˜ 1/2 taza de levadura
-˜ 300 ml de agua fría
 
-˜ 4 cucharaditas de sal fina
+Actividad de cierre.  Experimentos sencillos       Extracción                          de adn de levadura de panadería (Saccharomyces cerevisiae)
 
-˜ 2 chorros de jugo de limón
+Esta actividad se puede realizar en el aula 
+o en la cocina de la escuela.
 
-˜ colador de té
+Materiales necesarios
 
-˜ 3 cucharaditas de alcohol
-˜ 2 gotas de detergente
+✓ 1/2 taza de levadura
+
+✓ 300 ml de agua fría
+
+✓ 4 cucharaditas de sal fina
+
+✓ 2 chorros de jugo de limón
+
+✓ colador de té
+
+✓ 3 cucharaditas de alcohol
+
+✓ 2 gotas de detergente
+
 Procedimiento
-Mezclar media taza de levadura con 150 ml de agua fría, 
- 1/3 de cucharadita de sal y dos chorros de jugo de limón.
+Mezclar media taza de levadura con 150 ml de agua fría,  
+1/3 de cucharadita de sal y dos chorros de jugo de limón.
+
 Agitar suavemente (para que se abran las paredes de las 
-células). La sal y el limón favorecen la ruptura de la pared 
- y de la membrana celular, y contribuyen a la desnaturalización 
+células). La sal y el limón favorecen la ruptura de la pared  
+y de la membrana celular, y contribuyen a la desnaturalización 
 de las proteínas.
+
 Pasar la mezcla por un colador de té y conservar la pulpa.
-123Extraccion de ADNde levadura de panaderia19
-capítulo 1
-Actividad de cierre.  
-Experimentos sencillos       Extracción                          de 
-ADN
- de levadura de panadería (
-Saccharomyces cerevisiae
-)Concurso de dibujosSi no resultara posible realizar el experimento anterior, les sugerimos 
+
+1
+2
+
+3
+
+Extraccion de adn
+de levadura de panaderia
+
+
+
+19
+
+c
+a
+p
+
+ítu
+lo
+
+ 1
+
+Actividad de cierre.  Experimentos sencillos       Extracción                          de adn de levadura de panadería (Saccharomyces cerevisiae)
+
+Concurso de dibujos
+Si no resultara posible realizar el experimento anterior, les sugerimos 
+
 realizar un concurso de dibujos. 
-Utilizando un 
-programa para dibujar
-, les pueden proponer a los alumnos 
-dibujar una molécula de 
-ADN
- con el mayor detalle posible, respetando las 
+Utilizando un programa para dibujar, les pueden proponer a los alumnos 
+
+dibujar una molécula de adn con el mayor detalle posible, respetando las 
 escalas relativas de cada una de las unidades que la constituyen según 
 han aprendido en las actividades anteriores. Esta consigna genérica puede 
-
 ser enriquecida con cualquier aporte artístico que quieran darle. Luego, 
 se pueden publicar los dibujos en un weblog, o en la red de la escuela. 
 Entre todos elegirán el dibujo ganador, considerando al mismo tiempo su 
-
 pertinencia conceptual y su belleza artística.
+
 Repetir el filtrado y conservar nuevamente la pulpa.
+
 Preparar 150 ml de agua fría con 1/3 cucharadita de sal, 
 tres cucharaditas de alcohol y dos gotas de detergente. 
 El alcohol actúa como agente desnaturalizador de las 
-
 proteínas.
-Agregar la pulpa y mezclar (el detergente disuelve 
- el ADN).Revolver suavemente durante 20 minutos.
+
+Agregar la pulpa y mezclar (el detergente disuelve  
+el adn).
+
+Revolver suavemente durante 20 minutos.
+
 Agregar 3 cucharaditas de sal y agitar 10 minutos más. 
 
 Dejar reposar hasta que se forme un precipitado sólido 
 (se tira). Conservar el líquido. 
-Diluir el líquido con tres veces su volumen 
-  
-de alcohol. El ADN precipita en el fondo del vaso en forma de finas 
+
+Diluir el líquido con tres veces su volumen   
+de alcohol. 
+
+El adn precipita en el fondo del vaso en forma de finas 
 hebras blancas.
-4567891011 Paint, programa para 
+
+4
+5
+
+6
+7
+8
+9
+
+10
+11
+
+ 
+Paint, programa para 
 dibujar de Windows. 
- Draw
-, programa para 
-dibujar de OpenOf˜ce. 
-Biología
+
+ 
+Draw, programa para 
+dibujar de OpenOffice. 
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
 20
+
 Secuencia didáctica n.º 4
 Las neuronas: células que reciben
 y transmiten información
+
 El sistema nervioso es el encargado de recibir, centralizar y procesar 
+
 toda la información y las señales que provienen tanto del exterior como 
-del interior del cuerpo, coordinando el control de las actividades metabó
--licas, los órganos y la interacción con el medioambiente, incluyendo las 
-emociones. Habitualmente se divide en 
-sistema nervioso central
-, formado 
-por el encéfalo y la médula (básicamente el cerebro y su extensión en la co
--
+
+del interior del cuerpo, coordinando el control de las actividades metabó-
+
+licas, los órganos y la interacción con el medioambiente, incluyendo las 
+
+emociones. Habitualmente se divide en sistema nervioso central, formado 
+
+por el encéfalo y la médula (básicamente el cerebro y su extensión en la co-
+
 lumna), y el sistema nervioso periférico, formado por los nervios craneales 
+
 y espinales, que emergen del sistema nervioso central y recorren todo el 
 
 cuerpo. El sistema nervioso está constituido principalmente por neuronas, 
-que serán el centro de esta secuencia. Se ha comparado al sistema ner
--vioso central con una computadora: si esto fuera cierto, los axones de las 
+
+que serán el centro de esta secuencia. Se ha comparado al sistema ner-
+
+vioso central con una computadora: si esto fuera cierto, los axones de las 
 
 neuronas serían los cables.
+
 Actividad 1. Estructura de las neuronas
+
 Existen diferentes tipos de neuronas, pero básicamente todas tienen 
+
 la misma estructura general. Lo primero que hay que señalar es que las 
 
 neuronas son células y, como tales, tienen las mismas características que 
-todas las células.1.
- Sugerimos proponerles a los alumnos que busquen información en Inter
--net o en otras fuentes sobre las principales características morfológicas 
+
+todas las células.
+
+1. Sugerimos proponerles a los alumnos que busquen información en Inter-
+
+net o en otras fuentes sobre las principales características morfológicas 
+
 de las neuronas y que luego las comparen con las de una célula eucariota. 
-Para ello, pueden armar y completar en una tabla, utilizando el 
-programa 
-de hojas de cálculo
-, un cuadro como el que se muestra a continuación:
-2. Una vez que cada alumno haya completado su tabla, se la puede en
--
+
+Para ello, pueden armar y completar en una tabla, utilizando el programa 
+
+de hojas de cálculo, un cuadro como el que se muestra a continuación:
+
+2. Una vez que cada alumno haya completado su tabla, se la puede en-
+
 viar por e-mail al compañero que se sienta a la derecha (que el último 
+
 Forma de la neurona humana. 
-CARACTERÍSTICA
-NEURONAS
-CÉL
-ULA TI
-PONúcleoMembrana plasmática
+
+característica neUronas célUla tiPo
+
+Núcleo
+
+Membrana plasmática
+
 Dendritas
 
-Etcétera–
-SíSí
-SíSí
-SíNo Excel, planilla de cálculo de Microsoft Of˜ce.
- Calc, hoja de cálculo de OpenOf˜ce.
-DendritasMielina (recubrimiento)Cuerpo neuronalDendritasNúcleo
-Axón21
-capítulo 1
+Etcétera…
+
+Sí
+
+Sí
+
+Sí
+
+Sí
+
+Sí
+
+No
+
+ 
+Excel, planilla de cálculo de 
+
+Microsoft Office.
+
+ 
+Calc, hoja de cálculo de 
+
+OpenOffice.
+
+Dendritas
+
+Mielina (recubrimiento)
+
+Cuerpo neuronal
+
+Dendritas
+
+Núcleo
+
+Axón
+
+
+
+21
+
+c
+a
+p
+
+ítu
+lo
+
+ 1
+
 de la derecha se lo mande al primero de la izquierda), comparar la que 
+
 recibió con la suya y señalar las diferencias entre una y otra. Sugerimos 
+
 hacerles repetir la operación con los compañeros del lado derecho, el 
+
 de adelante y el de atrás.
+
 3. Luego, puede resultar productivo observar el cuadro que resultó de 
+
 este proceso, y se les puede proponer a los alumnos que respondan, 
+
 de manera individual, la siguiente pregunta: ¿para qué creen que 
-sirven las características morfológicas que son exclusivas de las neu
--ronas?
+
+sirven las características morfológicas que son exclusivas de las neu-
+
+ronas?
+
 Actividad 2. Función de las neuronas
-Las neuronas logran cumplir su función de ﬁcablesﬂ transportando im
--pulsos nerviosos a lo largo de su estructura y a lo largo de la red de neu
--
+
+Las neuronas logran cumplir su función de “cables” transportando im-
+
+pulsos nerviosos a lo largo de su estructura y a lo largo de la red de neu-
+
 ronas. Por lo tanto, el impulso nervioso viaja por dentro de las neuronas 
+
 pero también pasa de una neurona a la siguiente. Durante mucho tiempo, 
+
 hubo dos teorías rivales acerca de cómo se transmitía el impulso nervioso 
+
 en y entre las neuronas. Una de ellas sostenía que el impulso se transmitía 
+
 en forma eléctrica, exactamente igual que en los cables, y la otra teoría 
+
 defendía la idea de la transmisión del impulso mediante moléculas, una 
+
 transmisión química.
-1.
- Para investigar ambas teorías, es recomendable trabajar en el aula ar
--mando dos grupos: uno investigará la teoría eléctrica, y el otro la teo
--ría química. La idea es que cada uno de ellos investigue estos aspectos 
+
+1. Para investigar ambas teorías, es recomendable trabajar en el aula ar-
+
+mando dos grupos: uno investigará la teoría eléctrica, y el otro la teo-
+
+ría química. La idea es que cada uno de ellos investigue estos aspectos 
+
 de la teoría respectiva:
- Principales científicos representantes de cada teoría.
- Supuestos conceptuales de cada una. Datos experimentales en los que se sustentaban.
+
+• Principales científicos representantes de cada teoría.
+• Supuestos conceptuales de cada una.
+• Datos experimentales en los que se sustentaban.
+
 2. Una vez que recopilaron la información necesaria, les sugerimos que 
+
 les pidan a sus alumnos que elaboren un informe para compartir con 
+
 sus compañeros. En el informe, ambos grupos tendrán que explicar 
+
 cuál de las dos teorías resultó ser la correcta o si ambas son correctas.
+
  Los alumnos pueden exponer los resultados de las investigaciones 
 
-armando una
- presentación
-, que podrá ser enviada por e-mail o colo
--cada en una carpeta compartida por todos los alumnos y el docente. 
+armando una presentación, que podrá ser enviada por e-mail o colo-
+
+cada en una carpeta compartida por todos los alumnos y el docente. 
 
 Sugerimos que la presentación se realice de manera grupal, y que 
+
 cada alumno participe en red.
- PowerPoint
-, programa para 
+
+ 
+PowerPoint, programa para 
 armar presentaciones de 
+Microsoft Office.
 
-Microsoft Of˜ce.
- Impress
-, programa para armar 
+ 
+Impress, programa para armar 
+presentaciones de OpenOffice.
 
-presentaciones de OpenOf˜ce.
-Biología
+
+
+B
+io
+
+lo
+gí
+
+a
+
 22
+
 Actividad 3. Redes neuronales y macroorganización 
 de las neuronas
-1.
- Una actividad que pueden proponerles a los alumnos es que describan 
-y ubiquen ejemplos de haces de neuronas y redes neuronales en el cuer
--po humano. Para ello pueden utilizar la información que se presenta 
+
+1. Una actividad que pueden proponerles a los alumnos es que describan 
+
+y ubiquen ejemplos de haces de neuronas y redes neuronales en el cuer-
+
+po humano. Para ello pueden utilizar la información que se presenta 
 
 en la webgrafía y en la bibliografía de referencia, o en otros libros y 
+
 manuales de anatomía del sistema nervioso que pueden consultar en 
+
 la biblioteca de la escuela o del barrio.
+
 2. Una vez encontradas estas estructuras pueden sugerirles que, de 
+
 modo individual, realicen al menos un dibujo electrónico con alguno 
-de los 
-programas para dibujar
- que tienen en los equipos portátiles, 
-en el que se muestre una red neuronal o un haz de neuronas, sus ca
--racterísticas principales y su ubicación en el cuerpo humano.
+
+de los programas para dibujar que tienen en los equipos portátiles, 
+
+en el que se muestre una red neuronal o un haz de neuronas, sus ca-
+
+racterísticas principales y su ubicación en el cuerpo humano.
+
  Estos dibujos pueden ser colocados en un blog creado para trabajar 
+
 con este tema. Sería conveniente que cada ilustración se publique 
+
 con un texto asociado que contenga información relacionada.
-Actividad de cierre.
- Alzheimer y otras enfermedades
-Para entender finalmente la importancia de todos los conceptos apren
--didos en esta secuencia, les proponemos una actividad que les permitirá 
+
+Actividad de cierre. Alzheimer y otras enfermedades
+
+Para entender finalmente la importancia de todos los conceptos apren-
+
+didos en esta secuencia, les proponemos una actividad que les permitirá 
+
 a los alumnos observar cómo la posibilidad de tratar y entender algunas 
+
 enfermedades afecta el conocimiento acerca del cerebro y las neuronas.
-1.
- Junto con sus alumnos pueden mirar algunos capítulos de la serie 
-Mejor 
-hablar de ciertas cosas
-, de Canal Encuentro, que tratan sobre adicciones. 
+
+1. Junto con sus alumnos pueden mirar algunos capítulos de la serie Mejor 
+
+hablar de ciertas cosas, de Canal Encuentro, que tratan sobre adicciones. 
+
 2. Luego, y para ampliar hacia otras problemáticas y enfermedades, los 
-alumnos pueden contactarse con algún centro de tratamiento de en
--
-fermedades neurológicas. Internet es una gran aliada a la hora de acer
--car las distancias y permite establecer comunicaciones con personas e 
+
+alumnos pueden contactarse con algún centro de tratamiento de en-
+
+fermedades neurológicas. Internet es una gran aliada a la hora de acer-
+
+car las distancias y permite establecer comunicaciones con personas e 
 
 instituciones alejadas geográficamente. 
+
 3. Les sugerimos organizar tantos grupos de alumnos como instituciones 
+
 se quieran relevar y realizar un cuestionario modelo para armar las 
-entrevistas que se harán, que podrán realizarse vía e-mail o por telé
--
+
+entrevistas que se harán, que podrán realizarse vía e-mail o por telé-
+
 fono. Es conveniente registrar la entrevista en los medios que resulten 
-disponibles.Paint, programa para dibujar de 
+
+disponibles.
+
+Paint, programa para dibujar de 
 Windows.
- Draw
-, programa para dibujar de 
-OpenOf˜ce.
-Disponible en:  http://descargas.encuentro.gov.ar/
- (ordenar el listado de programas 
+
+ 
+Draw, programa para dibujar de 
+
+OpenOffice.
+
+Disponible en:  http://
+descargas.encuentro.gov.ar/ 
+
+(ordenar el listado de programas 
 alfabéticamente; en la página 
 10 se pueden encontrar estos 
-videos).23
-capítulo 1
+
+videos).
+
+
+
+23
+
+c
+a
+p
+
+ítu
+lo
+
+ 1
+
 4. Una vez finalizada la entrevista, se les puede proponer a los alumnos 
+
 editar el audio o el texto, eliminando las partes desprolijas, y colocarla 
+
 en el blog de la escuela o uno creado para la materia.
- Una práctica sugerida es que todos los alumnos miren todas las en
--trevistas y agreguen en cada una de ellas una pregunta o reflexión en 
+
+ Una práctica sugerida es que todos los alumnos miren todas las en-
+
+trevistas y agreguen en cada una de ellas una pregunta o reflexión en 
+
 el blog. Estas inquietudes serán respondidas por los integrantes del 
+
 grupo que realizó la entrevista y, eventualmente, por alguna persona 
+
 de la institución visitada, a quien se le proporcionará la dirección del 
+
 blog.
+
 Cuestionario sugerido
 A este grupo se le puede sugerir que investigue, en distintas fuentes, 
+
 qué son los lípidos, los carbohidratos, las proteínas y los ácidos nucleicos. 
 
 Podrán usar las siguientes preguntas como guía: 
-1.
- ¿Qué enfermedades neurológicas que implican deterioro de las 
+
+1. ¿Qué enfermedades neurológicas que implican deterioro de las 
 
 neuronas son las más frecuentes en nuestro país?
-2. ¿Cómo se previene cada una de esas enfermedades? Sugerimos des
--
+
+2. ¿Cómo se previene cada una de esas enfermedades? Sugerimos des-
+
 glosar la pregunta según cada enfermedad.
+
 3. ¿Existen tratamientos para estas enfermedades? ¿Cuáles?
+
 4. ¿Cómo se ha modificado la posibilidad de tratamiento a medida 
+
 que aumenta el conocimiento acerca del funcionamiento de las 
+
 neuronas?
+
 5. ¿Se podrían tratar estas enfermedades sin este conocimiento? ¿Por 
-qué?Secuencia didáctica n.º 5
+
+qué?
+
+Secuencia didáctica n.º 5
 ¿Qué son y cómo actúan las hormonas?
-La comunicación intercelular es fundamental para regular el desarro
--llo celular y su organización en tejidos. A su vez, estos deben controlar 
+
+La comunicación intercelular es fundamental para regular el desarro-
+
+llo celular y su organización en tejidos. A su vez, estos deben controlar 
+
 su crecimiento y división, mientras que sus diversas actividades deben 
-estar coordinadas con el resto de los tejidos. ¿Cómo se logra esa coordi
--nación? ¿Quiénes son los encargados de decidir si un tejido debe seguir 
+
+estar coordinadas con el resto de los tejidos. ¿Cómo se logra esa coordi-
+
+nación? ¿Quiénes son los encargados de decidir si un tejido debe seguir 
 
 creciendo o si un órgano debe parar su actividad? ¿Cómo se comunica 
+
 un sistema tan complejo como el de los seres vivos? ¿Cómo funciona 
+
 y se regula este sistema de información? Las respuestas las tienen las 
+
 hormonas.
+
 Esta secuencia tiene como objetivo que los alumnos conozcan los 
+
 diferentes tipos de hormonas y analicen su función en los organismos 
+
 vivos.
+
 Instituciones que se pueden 
 consultar y contactar:
-FLENI
-:  www.˜eni.org.ar
+fleni:  www.fleni.org.ar
 Instituto de Neurociencias de la 
-
 Universidad Favaloro: 
+
  http://www.fundacionfavaloro.
 org/IN_neurociencias.htm
-
 Instituto de Fisiología, Biología 
-
 Molecular y Neurociencias 
+(ifibyne), Conicet, uba: 
 
-(IFIBYNE
-), Conicet, 
-UBA
-:  http://www.i˚byne.fcen.uba.ar/
+ http://www.ifibyne.fcen.uba.ar/
 home.htm
-
 Sociedad Argentina de 
-
 Investigación en Neurociencias 
+(san): 
 
-(SAN
-): 
  www.saneurociencias.org.ar
-Biología
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
 24
+
 Actividad 1. La era de la comunicación
-Las hormonas funcionan como mensajeros químicos del cuerpo huma
--no. Son sustancias producidas por diferentes tejidos especializados y que 
+
+Las hormonas funcionan como mensajeros químicos del cuerpo huma-
+
+no. Son sustancias producidas por diferentes tejidos especializados y que 
+
 viajan a través del torrente circulatorio hacia una célula distante donde 
+
 ejercen sus efectos característicos de comunicación.
-1.
- Pueden sugerir a sus alumnos que visiten los siguientes enlaces para co
--nocer más sobre las hormonas y su funcionamiento: 
- Comunicación intercelular y transmisión de señales: 
- http://www.geno
--masur.com/lecturas/Guia07.htm
- [consultado el 4 de febrero de 2011]. 
- Definición de hormona: 
- http://es.wikipedia.org/wiki/Hormona
- [con
--sultado el 4 de febrero de 2011].
-2. Luego de navegar los enlaces, pueden pedirles que respondan las si
--guientes preguntas:
-a) ¿En qué dos grandes grupos se pueden clasificar las hormonas se
--gún su estructura química?
+
+1. Pueden sugerir a sus alumnos que visiten los siguientes enlaces para co-
+
+nocer más sobre las hormonas y su funcionamiento: 
+
+ Comunicación intercelular y transmisión de señales:  http://www.geno-
+
+masur.com/lecturas/Guia07.htm [consultado el 4 de febrero de 2011]. 
+
+ Definición de hormona:  http://es.wikipedia.org/wiki/Hormona [con-
+
+sultado el 4 de febrero de 2011].
+
+2. Luego de navegar los enlaces, pueden pedirles que respondan las si-
+
+guientes preguntas:
+
+a) ¿En qué dos grandes grupos se pueden clasificar las hormonas se-
+
+gún su estructura química?
+
 b) ¿Qué diferencia existe en su transporte y mecanismo de acción en 
-las células blanco? c) ¿A qué se debe esa diferencia?
+
+las células blanco? 
+
+c) ¿A qué se debe esa diferencia?
+
 3. Propongan realizar dos microvideos en los que se explique brevemente 
 
 el mecanismo de acción de cada uno de estos grupos de hormonas. 
+
 Aquí les dejamos un enlace que explica cómo hacer un video de stop 
-motion:  http://www.youtube.com/ > Buscar: ﬁtutorial stop motion 
-cámara fotos
- [consultado el 4 de febrero de 2011].
-HipófisisOvariosPáncreas
+
+motion:  http://www.youtube.com/ > Buscar: “tutorial stop motion 
+
+cámara fotos [consultado el 4 de febrero de 2011].
+
+Hipófisis
+
+Ovarios
+
+Páncreas
+
 Tiroides
+
 Testículos
+
 Tiroides
+
+
+
 25
-capítulo 1
+
+c
+a
+p
+
+ítu
+lo
+
+ 1
+
 Actividad 2. ¿Quién ordena a las hormonas?
-1.
- Después de haber estudiado la gran cantidad de hormonas que hay 
-en el cuerpo y todas las actividades que cumplen, es conveniente estu
--diar el complejo sistema al que responden. A continuación presenta
--mos una lista de enlaces para que los alumnos consulten en busca de 
+
+1. Después de haber estudiado la gran cantidad de hormonas que hay 
+
+en el cuerpo y todas las actividades que cumplen, es conveniente estu-
+
+diar el complejo sistema al que responden. A continuación presenta-
+
+mos una lista de enlaces para que los alumnos consulten en busca de 
+
 información sobre el sistema endocrino del cuerpo humano:  
- Sistema endocrino (video): 
- http://www.nlm.nih.gov/medlineplus/
+
+ Sistema endocrino (video):  http://www.nlm.nih.gov/medlineplus/
+
 spanish/ency/anatomyvideos/000048.htm [consultado el 4 de febrero 
+
 de 2011].
- Endo 101: El sistema endocrino, artículo sobre el sistema endocrino, dis
--ponible en: 
- http://www.hormone.org/Spanish/sistema_endocrino/
-sistema_endocrino.cfm
- [consultado el 4 de febrero de 2011].
+
+ Endo 101: El sistema endocrino, artículo sobre el sistema endocrino, dis-
+
+ponible en:  http://www.hormone.org/Spanish/sistema_endocrino/
+
+sistema_endocrino.cfm [consultado el 4 de febrero de 2011].
+
 2. Luego de visitar y estudiar los enlaces anteriores, los alumnos podrán: 
 
-a) Enumerar los componentes del sistema endocrino que se mencio
--nan en el video, determinar si existe una jerarquía en los componen
--tes y responder quién da las órdenes principales.
-b) Discutir en grupos a través de un 
-chat qué pasaría si las glándulas 
-endocrinas no respondieran a las órdenes que les da el sistema ner
--vioso, y qué modo de comunicación usan las glándulas endocrinas 
+a) Enumerar los componentes del sistema endocrino que se mencio-
+
+nan en el video, determinar si existe una jerarquía en los componen-
+
+tes y responder quién da las órdenes principales.
+
+b) Discutir en grupos a través de un chat qué pasaría si las glándulas 
+
+endocrinas no respondieran a las órdenes que les da el sistema ner-
+
+vioso, y qué modo de comunicación usan las glándulas endocrinas 
 
 para detener una orden del hipotálamo.
-Actividad de cierre.
- Las plantas también son seres vivos
-1.
- Si bien los estudios sobre hormonas vegetales todavía no están muy de
--sarrollados, hay bastante información al respecto. Los alumnos podrán 
+
+Actividad de cierre. Las plantas también son seres vivos
+
+1. Si bien los estudios sobre hormonas vegetales todavía no están muy de-
+
+sarrollados, hay bastante información al respecto. Los alumnos podrán 
 
 buscar información sobre las fitohormonas (hormonas vegetales) y sus 
+
 principales funciones en los siguientes sitios: 
- Fitohormona: 
- http://es.wikipedia.org/wiki/Fitohormona 
-[consultado 
+
+ Fitohormona:  http://es.wikipedia.org/wiki/Fitohormona [consultado 
+
 el 4 de febrero de 2011].
- Hormonas vegetales: 
- http://www.horticom.com/pd/article.php?sid=
- 65197 [consultado el 4 de febrero de 2011].
+
+ Hormonas vegetales:  http://www.horticom.com/pd/article.php?sid= 
+
+65197 [consultado el 4 de febrero de 2011].
+
 2. A partir de lo leído en los links anteriores, les sugerimos que propongan 
+
 a sus alumnos las siguientes preguntas: 
+
 a) ¿Qué diferencias tienen con las hormonas animales?
+
 b) ¿Por qué les parece necesario conocer la estructura y el mecanismo 
 
 de acción de las fitohormonas?
+
 Las plantas también son 
 estructuras complejas que deben 
-
 intercambiar información con el 
-
 ambiente para su subsistencia. 
-
-Además, tienen un nivel de organización que requiere un 
+Además, tienen un nivel de 
+organización que requiere un 
 sistema de comunicación para 
-
 regular todas sus funciones.
- Live Messenger, programa de chat.
- Pidgin, programa de chat.
-Biología
+
+ 
+Live Messenger, programa de chat.
+
+ 
+Pidgin, programa de chat.
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
 26
+
 Las ciencias en nuestra vida
-Este capítulo está pensado con un objetivo doble. Por un lado, incorporar nuevos co
--nocimientos de las Ciencias Naturales y de la Biología y, por otro, observar cómo son uti
--lizados algunos de los conocimientos trabajados en el capítulo 1 en la resolución de pro
--blemáticas concretas, lo que implica, entre otras cuestiones, repensar ese conocimiento.
+
+Este capítulo está pensado con un objetivo doble. Por un lado, incorporar nuevos co-
+
+nocimientos de las Ciencias Naturales y de la Biología y, por otro, observar cómo son uti-
+
+lizados algunos de los conocimientos trabajados en el capítulo 1 en la resolución de pro-
+
+blemáticas concretas, lo que implica, entre otras cuestiones, repensar ese conocimiento.
+
 Secuencia didáctica n.º 6
 El cuerpo como construcción histórica
+
 El cuerpo es la entidad que utilizamos para expresarnos y para estar en el mundo, 
-entendiendo como ﬁestarﬂ tanto la vida física como la emocional. Por lo menos hasta 
+
+entendiendo como “estar” tanto la vida física como la emocional. Por lo menos hasta 
+
 el momento, y a pesar de las fantasías digitales que nos muestran muchas películas, la 
-corporalidad o corporeidad es la única forma que tenemos de interactuar con la reali
--dad. El cuerpo es un espacio personal, al mismo tiempo que público. Lo usamos para 
+
+corporalidad o corporeidad es la única forma que tenemos de interactuar con la reali-
+
+dad. El cuerpo es un espacio personal, al mismo tiempo que público. Lo usamos para 
 
 mostrarnos y lo utilizan para controlarnos. Veamos cómo.
+
 El objetivo de esta secuencia es reflexionar acerca del cuerpo y aprender a pensar en 
+
 él de un modo más complejo.
+
 Actividad 1. Definiciones de cuerpo y corporeidad
-1.
- Les sugerimos que les pidan a sus alumnos que busquen definiciones y conceptuali
--
-zaciones sobre el cuerpo, en especial que indaguen cómo ha sido abordada la proble
--mática desde las Ciencias Sociales, particularmente desde la Antropología de la salud 
+
+1. Les sugerimos que les pidan a sus alumnos que busquen definiciones y conceptuali-
+
+zaciones sobre el cuerpo, en especial que indaguen cómo ha sido abordada la proble-
+
+mática desde las Ciencias Sociales, particularmente desde la Antropología de la salud 
+
 y la Sociología del cuerpo.
-2. Luego, les sugerimos organizar una puesta en común en la que se incorporen: las pa
--labras sueltas, frases o conceptos que encontraron. Con esta información y utilizando 
-el programa 
-Cmap Tools
-, podrán elaborar un mapa conceptual.
+
+2. Luego, les sugerimos organizar una puesta en común en la que se incorporen: las pa-
+
+labras sueltas, frases o conceptos que encontraron. Con esta información y utilizando 
+
+el programa Cmap Tools, podrán elaborar un mapa conceptual.
+
 Actividad 2. El cuerpo como espacio de lucha
-1.
- Les sugerimos proponerles a los alumnos redactar un ensayo en el que expresen, de 
+
+1. Les sugerimos proponerles a los alumnos redactar un ensayo en el que expresen, de 
 
 manera individual, sus ideas sobre alguna de estas consignas:
- El cuerpo es un espacio de comunicación. La moda, la ropa, los tatuajes son for
--2Disponible en los equipos portátiles 
-y en:  http://escritorioalumnos.educ.ar > Programas 
-> CmapTools
-. 27
-capítulo 2
-mas de comunicarme con los demás dejando que vean quién soy y 
-manifestando mis intereses en forma pública.
- El cuerpo es una mercancía. Los cuerpos se venden, se comercian 
 
+• El cuerpo es un espacio de comunicación. La moda, la ropa, los tatuajes son for-
+
+2
+
+Disponible en los 
+equipos portátiles 
+
+y en:  http://
+escritorioalumnos.
+
+educ.ar > Programas 
+> CmapTools. 
+
+
+
+27
+
+c
+a
+p
+
+ítu
+lo
+
+ 2
+
+mas de comunicarme con los demás dejando que vean quién soy y 
+
+manifestando mis intereses en forma pública.
+
+• El cuerpo es una mercancía. Los cuerpos se venden, se comercian 
 chicos y mujeres, se han comerciado esclavos. Pero también se 
+
 intercambian legal o ilegalmente partes de cuerpos, órganos.
- Mi cuerpo es mío, pero al mismo tiempo es de la sociedad, del Es
--tado, de mis padres– ¿De quién es el cuerpo de cada uno?
+
+• Mi cuerpo es mío, pero al mismo tiempo es de la sociedad, del Es-
+tado, de mis padres… ¿De quién es el cuerpo de cada uno?
+
  
-Sugerimos que los ensayos sean realizados en un 
-procesador de textos 
+
+Sugerimos que los ensayos sean realizados en un procesador de textos 
+
 y almacenados en una carpeta compartida. Con este corpus de textos se 
 
 puede organizar debates a partir de la lectura en voz alta de alguno de los 
+
 trabajos.
-Actividad de cierre.
- Elaboración y expresión de las ideas
-1.
- Dado que sobre esta temática no hay definiciones tajantes ni conceptos 
+
+Actividad de cierre. Elaboración y expresión de las ideas
+
+1. Dado que sobre esta temática no hay definiciones tajantes ni conceptos 
+
 demasiado establecidos, lo importante es que cada alumno desarrolle 
+
 una visión crítica sobre la problemática, conociendo lo más posible al 
-respecto. Para ello, sugerimos realizar un blog para continuar debatien
--do el tema del cuerpo en un ámbito de expresión libre.
+
+respecto. Para ello, sugerimos realizar un blog para continuar debatien-
+
+do el tema del cuerpo en un ámbito de expresión libre.
+
 Secuencia didáctica n.º 7
 Enfermedad de Chagas
-Es curioso que la enfermedad más importante del continente ame
--ricano se conozca con el nombre esotérico de ﬁmalﬂ. En esta secuencia 
+
+Es curioso que la enfermedad más importante del continente ame-
+
+ricano se conozca con el nombre esotérico de “mal”. En esta secuencia 
+
 aprenderemos un poco sobre la enfermedad de Chagas y los motivos de 
+
 su olvido.
+
 Esta secuencia se propone que los alumnos conozcan la enfermedad 
+
 de Chagas, sus vías de propagación y sus consecuencias para la salud, que 
+
 aprendan cuáles son las formas de combatirla y las políticas públicas que se 
+
 implementaron para ello, y en especial que intenten entender por qué esta 
+
 enfermedad afecta a tanta gente. 
+
 Actividad 1. ¿Chagas o Mazza?
-1.
- Les sugerimos proponerles a sus alumnos elaborar un breve informe 
+
+1. Les sugerimos proponerles a sus alumnos elaborar un breve informe 
+
 buscando información en Internet o en otras fuentes, y teniendo como 
- Word
-, procesador de textos de 
-Microsoft Of˜ce.
- Writer
-, procesador de textos de 
-OpenOf˜ce.
-Biología
+
+ 
+Word, procesador de textos de 
+Microsoft Office.
+
+ 
+Writer, procesador de textos de 
+OpenOffice.
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
 28
+
 guía las preguntas que se presentan a continuación. Luego, pueden 
+
 subirlo a una carpeta compartida.
- ¿Quién fue Salvador Mazza?  ¿Quién fue Carlos Chagas?  ¿Qué son los triatominos hematófagos y qué papel juegan en la 
+
+• ¿Quién fue Salvador Mazza? 
+• ¿Quién fue Carlos Chagas? 
+• ¿Qué son los triatominos hematófagos y qué papel juegan en la 
 
 transmisión de la enfermedad de Chagas? 
- ¿Qué es el Tripanosoma cruzi
-?  ¿Cuántos enfermos de Chagas-Mazza hay en la Argentina? ¿Y en 
 
-América Latina?  ¿Existe esta enfermedad en otras regiones del mundo?
+• ¿Qué es el Tripanosoma cruzi? 
+• ¿Cuántos enfermos de Chagas-Mazza hay en la Argentina? ¿Y en 
+
+América Latina? 
+
+• ¿Existe esta enfermedad en otras regiones del mundo?
+
 Actividad 2. ¿Cómo enferma el Chagas?
+
 En esta actividad estudiaremos el parásito portador de Chagas y lo 
+
 seguiremos a través de diferentes hospedadores.
-1.
- Les sugerimos que junto con sus alumnos examinen cada paso.
+
+1. Les sugerimos que junto con sus alumnos examinen cada paso.
+
 2. Luego, pueden proponer un debate partiendo de estas dos preguntas:
- ¿En qué etapas de este ciclo de vida les parece que se puede interve
--nir para controlar la enfermedad?
- ¿Cómo imaginan esa intervención?
+
+• ¿En qué etapas de este ciclo de vida les parece que se puede interve-
+nir para controlar la enfermedad?
+
+• ¿Cómo imaginan esa intervención?
+
 La enfermedad de Chagas-
-Mazza posee un ﬁciclo de vidaﬂ complejo. Para entenderla, es 
+Mazza posee un “ciclo de vida” 
+
+complejo. Para entenderla, es 
 necesario comprender el ciclo de 
-vida del Tripanosoma cruzi
-. Ciclo vital del 
-Tripanosoma cruzi
+
+vida del Tripanosoma cruzi. 
+
+Ciclo vital del Tripanosoma cruzi
+
 En el insecto 
 
 Las vinchucas nacen libres de infección. Se infectan al alimentarse del 
-hombre o de animales infectados. Cuando el insecto pica a un hués
--ped infectado, algunos parásitos pasan a él a través de la sangre. En 
+
+hombre o de animales infectados. Cuando el insecto pica a un hués-
+
+ped infectado, algunos parásitos pasan a él a través de la sangre. En 
 
 el interior del insecto se reproducen. Después pasan al recto. Allí se 
+
 evacuan a través de las heces. Las heces pueden infectar a un nuevo 
+
 huésped.
+
 En el ser humano 
+
 El ciclo se inicia cuando un insecto infectado pica a un ser humano 
 
 y defeca. Los parásitos se transmiten en las heces. Entran a través de 
+
 una herida o por el cruce de las membranas mucosas. Cuando entran 
+
 en una célula humana, se reproducen. Después de la reproducción, la 
+
 célula se rompe e infecta otras células, y así se repite el ciclo.
+
+
+
 29
-capítulo 2
+
+c
+a
+p
+
+ítu
+lo
+
+ 2
+
 3. Les sugerimos que organicen las respuestas obtenidas en una tabla de 
+
 dos columnas, una para la información relacionada con la etapa y la 
-otra con el tipo de intervención. Lo pueden hacer utilizando una 
-hoja de cálculo.Actividad 3. La lucha contra el Chagas
-1.
- Pueden sugerirles a sus alumnos que redacten un informe sobre la 
+
+otra con el tipo de intervención. Lo pueden hacer utilizando una hoja 
+
+de cálculo.
+
+Actividad 3. La lucha contra el Chagas
+
+1. Pueden sugerirles a sus alumnos que redacten un informe sobre la 
+
 enfermedad de Chagas-Mazza. Para ello pueden buscar información 
+
 en distintas fuentes, como libros, manuales, Internet, etc. Además, 
+
 en la web de Canal Encuentro pueden ver un video relacionado con 
-este tema del programa 
-Laboratorio de ideas
-, conducido por Adrián 
+
+este tema del programa Laboratorio de ideas, conducido por Adrián 
+
 Paenza.
+
 2. Para realizar esta actividad, es conveniente que se dividan en grupos 
 
 de tres o cuatro integrantes y que cada grupo elabore su cuestionario. 
+
 La idea es que, para completar el informe previamente realizado, les 
+
 sugieran a sus alumnos que realicen entrevistas a diferentes personas 
-involucradas en la temática; pueden ser médicos, enfermeros, volun
--tarios sociales, personas que padecen o padecieron la enfermedad, 
+
+involucradas en la temática; pueden ser médicos, enfermeros, volun-
+
+tarios sociales, personas que padecen o padecieron la enfermedad, 
+
 entre otros. Las entrevistas podrán realizarse personalmente o por 
+
 e-mail. 
+
  A continuación, les brindamos algunas preguntas que los guiarán en la 
 
 investigación y en las entrevistas:
- ¿Cuáles son las acciones concretas que se realizan contra la enfer
--medad? ¿Cuántos enfermos de Chagas hay en la localidad / municipio / 
 
+• ¿Cuáles son las acciones concretas que se realizan contra la enfer-
+medad?
+
+• ¿Cuántos enfermos de Chagas hay en la localidad / municipio / 
 paraje, provincia / país?
- ¿Cuántas muertes hay o se estima que hay por año debido a esta 
 
+• ¿Cuántas muertes hay o se estima que hay por año debido a esta 
 enfermedad?
- ¿Cuántos nuevos enfermos hay cada año?
- ¿Se conocen estadísticas sobre la enfermedad a lo largo de los 
 
-años?3. Luego, se podrá realizar un informe grupal con los resultados de la 
+• ¿Cuántos nuevos enfermos hay cada año?
+• ¿Se conocen estadísticas sobre la enfermedad a lo largo de los 
+
+años?
+
+3. Luego, se podrá realizar un informe grupal con los resultados de la 
+
 investigación o la entrevista. 
+
  Por último, pueden proponer a los alumnos comparar el resultado de 
 
-las entrevistas con las ideas que surgieron en la actividad anterior y tra
--tar de responder esta pregunta: ¿creen que se hace lo suficiente para 
+las entrevistas con las ideas que surgieron en la actividad anterior y tra-
+
+tar de responder esta pregunta: ¿creen que se hace lo suficiente para 
+
 combatir esta enfermedad?
-Disponible en: 
- http://www.
+
+Disponible en:  http://www.
 encuentro.gov.ar/nota-1583-
 Video-Enfermedad-de-Chagas-
-
 Mazza.html > Espacio docente 
-
 > Galería multimedia > Mostrar: 
 por temas: Ciencias Naturales > 
 página 3 > Video: Enfermedad de 
+Chagas-Mazza.
 
-Chagas-Mazza
-. Excel, planilla de cálculo de 
-Microsoft Of˜ce.
- Calc, hoja de cálculo de 
-OpenOf˜ce.
-Biología
+ 
+Excel, planilla de cálculo de 
+Microsoft Office.
+
+ 
+Calc, hoja de cálculo de 
+OpenOffice.
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
 30
-Actividad de cierre.
- Casas de fuego
-1.
- Les sugerimos que junto con sus alumnos vean la película 
-Casas de fue
--go, de 1995 y dirigida por Juan B. Stagnaro, que relata la vida y la lucha 
+
+Actividad de cierre. Casas de fuego
+
+1. Les sugerimos que junto con sus alumnos vean la película Casas de fue-
+
+go, de 1995 y dirigida por Juan B. Stagnaro, que relata la vida y la lucha 
+
 del doctor Salvador Mazza y su esfuerzo para encontrar una cura para 
+
 esta enfermedad.
+
 2. Luego de verla, cada alumno puede hacer una breve sinopsis sobre ella 
+
 resaltando lo que aprendieron durante las actividades y detalles que 
+
 hayan encontrado en la película. 
+
 Secuencia didáctica n.º 8
 Los hijos de los desaparecidos y las técnicas 
 actuales de identificación de personas
+
 No hay nada más seguro para probar la identidad de una persona 
+
 que establecer un vínculo directo con sus progenitores. Este es el origen 
-de las técnicas de filiación. Con el descubrimiento del 
-ADN
-, las técnicas se 
+
+de las técnicas de filiación. Con el descubrimiento del adn, las técnicas se 
+
 volvieron más complejas y más precisas.
-El objetivo de esta secuencia es que los alumnos conozcan las princi
--pales técnicas de identificación y de filiación de personas y entiendan la 
+
+El objetivo de esta secuencia es que los alumnos conozcan las princi-
+
+pales técnicas de identificación y de filiación de personas y entiendan la 
 
 importancia que tienen en diferentes contextos.
+
 Actividad 1. Contexto histórico
-En 1982, la organización Abuelas de Plaza de Mayo, con el fin de bus
--car métodos para identificar a sus nietos sustraídos durante la dictadura 
+
+En 1982, la organización Abuelas de Plaza de Mayo, con el fin de bus-
+
+car métodos para identificar a sus nietos sustraídos durante la dictadura 
 
 militar, se puso en contacto con el doctor Víctor Penchaszadeh, médico 
+
 argentino en el área de derechos humanos, y con Eric Stover, periodista 
+
 miembro de la Asociación Americana para el Avance de la Ciencia. Por su 
+
 intermedio, supieron que era posible determinar, a través de técnicas de 
 
 la Antropología forense y estudiando los restos óseos, si una mujer había 
+
 dado a luz y, por medio de análisis de sangre, si un niño era nieto de una 
+
 persona determinada.
-1.
- Sugerimos proponerles a los alumnos que investiguen en diferentes 
+
+1. Sugerimos proponerles a los alumnos que investiguen en diferentes 
+
 fuentes el tema y que respondan siguientes preguntas: 
-a)
- ¿Quiénes son las Abuelas de Plaza de Mayo? ¿Por qué se organi
--zaron?
-Disponible en:  http://descargas.encuentro.gov.ar
-/ (ordenar el listado de programas 
+
+a) ¿Quiénes son las Abuelas de Plaza de Mayo? ¿Por qué se organi-
+
+zaron?
+
+Disponible en:  http://
+descargas.encuentro.gov.ar/ 
+
+(ordenar el listado de programas 
 alfabéticamente; en la página 
 10 se pueden encontrar estos 
-videos).31
-capítulo 2
-b) ¿Cuáles eran las técnicas para identificación de personas disponi
--bles en 1982?c) ¿Había gente en la Argentina capacitada para implementar estas 
+
+videos).
+
+
+
+31
+
+c
+a
+p
+
+ítu
+lo
+
+ 2
+
+b) ¿Cuáles eran las técnicas para identificación de personas disponi-
+
+bles en 1982?
+
+c) ¿Había gente en la Argentina capacitada para implementar estas 
 
 técnicas?
+
 d) ¿Qué es y qué estudia la Antropología forense?
-e) ¿Qué es el Equipo Argentino de Antropología Forense (
-EAAF)?  Pueden comenzar la investigación visitando los siguientes enlaces:
- Abuelas de Plaza de Mayo en Encuentro: 
- http://www.encuentro.gov.
-ar/nota-3516-.html 
-[consultado el 4 de febrero de 2011].
- Abuelas de Plaza de Mayo:
-  http://www.abuelas.org.ar/
- [consultado el 
-4 de febrero de 2011].
- Escuelas por la identidad, CD 10 colección educ.ar:
-  http://coleccion.
-educ.ar > CD10
- [consultado el 2 de marzo de 2011]. Esta información 
-también está disponible en los escritorios de docentes y alumnos, y en los 
-servidores de las escuelas.
+
+e) ¿Qué es el Equipo Argentino de Antropología Forense (eaaf)?
+
  
+
+ Pueden comenzar la investigación visitando los siguientes enlaces:
+
+ Abuelas de Plaza de Mayo en Encuentro:  http://www.encuentro.gov.
+
+ar/nota-3516-.html [consultado el 4 de febrero de 2011].
+
+ Abuelas de Plaza de Mayo:  http://www.abuelas.org.ar/ [consultado el 
+
+4 de febrero de 2011].
+
+ Escuelas por la identidad, CD 10 colección educ.ar:  http://coleccion.
+
+educ.ar > CD10 [consultado el 2 de marzo de 2011]. Esta información 
+
+también está disponible en los escritorios de docentes y alumnos, y en los 
+
+servidores de las escuelas.
+
+ 
+
 2. Luego, pueden armar un blog al que todos los alumnos puedan subir 
+
 sus opiniones respecto al tema.
+
 Actividad 2. Las técnicas modernas de filiación 
 de personas
-1.
- Les sugerimos organizar con los alumnos un debate sobre las técnicas 
+
+1. Les sugerimos organizar con los alumnos un debate sobre las técnicas 
+
 modernas de filiación, a partir de preguntarse en qué se basan y qué 
+
 podrían tener en común una uña, un cabello o una gota de sangre. 
+
 Partiendo de esta discusión se pueden volver a recuperar los conceptos 
-trabajados sobre el 
-ADN. Las siguientes preguntas pueden orientar la 
-investigación:  ¿Qué partes del 
-ADN
- se utilizan para establecer las relaciones de paren
--tesco?
- ¿A qué se llama huella genética o 
-fingerprint
-? ¿Qué son las secuencias repetitivas?
- ¿Qué tipo de relaciones de parentesco se pueden establecer con estas 
+
+trabajados sobre el adn. Las siguientes preguntas pueden orientar la 
+
+investigación: 
+
+• ¿Qué partes del adn se utilizan para establecer las relaciones de paren-
+tesco?
+
+• ¿A qué se llama huella genética o fingerprint?
+• ¿Qué son las secuencias repetitivas?
+• ¿Qué tipo de relaciones de parentesco se pueden establecer con estas 
+
 técnicas?
+
 2. Pueden sugerirles a los alumnos que la próxima vez que vean una serie 
+
 o película en la que se realice un trabajo forense, observen si se llevan a 
-cabo los procedimientos necesarios para tomar y conservar las mues
--tras que se detallan en el cuadro de las páginas siguientes.
-Biología
+
+cabo los procedimientos necesarios para tomar y conservar las mues-
+
+tras que se detallan en el cuadro de las páginas siguientes.
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
 32
-Sangre
- recién 
+
+Sangre recién 
 extraída. 
-
 Aproximadamente, 
+de 5 a 10 ml.
 
-de 5 a 10 ml.Orina recién emitida. 
+Orina recién emitida. 
 Aproximadamente, 
+de 20 a 30 ml.
 
-de 20 a 30 ml.Hisopados de cavidades: vaginal 
+Hisopados de 
+cavidades: vaginal 
 o rectal o bucal.
+
 Manchas orgánicas 
 (sangre, semen) 
-
 en: prendas, telas, 
-
 tapizados, papeles u 
+otras superficies.
 
-otras super˜cies.
 Material cadavérico: 
 muestra ideal, 
-
 alrededor de 
+100 cm3.
 
-100 cm3.24-36 hs.:
- temperatura 
+24-36 hs.: temperatura 
 ambiente o heladera común 
-
 (4 ºC).
-
-Lapso mayor:
- congelación a 
+Lapso mayor: congelación a 
 -20 ºC o -70 ºC. Descongelar 
-
 sólo para el procesamiento.
+
 Se recomienda procesamiento 
 inmediato del sedimento. De no 
-
 ser posible, congelar.
-24-36 hs.:
- temperatura ambiente 
-o heladera común (4 °C).
-Lapso mayor:
- congelación a 
-Œ20 °C o Œ70 °C (preservando 
 
-de la humedad). Descongelar 
-
-sólo para el procesamiento.
-Temperatura ambiente (proteger 
-de calor y humedad y de 
-
-radiación ultravioleta intensa).
-
-En estas condiciones pueden 
-
-mantener su vigencia incluso 
-
-durante meses.
 24-36 hs.: temperatura ambiente 
 o heladera común (4 °C).
-
 Lapso mayor: congelación a 
+–20 °C o –70 °C (preservando 
+de la humedad). Descongelar 
+sólo para el procesamiento.
 
-Œ20 °C o Œ70 °C. Descongelar 
+Temperatura ambiente (proteger 
+de calor y humedad y de 
+radiación ultravioleta intensa).
+En estas condiciones pueden 
+mantener su vigencia incluso 
+durante meses.
 
+24-36 hs.: temperatura ambiente 
+o heladera común (4 °C).
+Lapso mayor: congelación a 
+–20 °C o –70 °C. Descongelar 
 sólo para el procesamiento. Los 
-
 huesos de cierta antigüedad que 
-
 se encuentran libres de restos 
-
 de tejido y de humedad, deben 
-
 permanecer a temperatura 
-
 ambiente, resguardados del 
-
 calor.
+
 Tubos utilizados: estériles e irrompibles. Deben 
-
-contener 0,5 ml de 
-EDTA
- al 5%. No utilizar otro tipo de anticoagulante. 
-Cerrados herméticamente. 
-Rotulación con ˜bra indeleble, debe contener: 
-
+contener 0,5 ml de edta al 5%. No utilizar otro 
+tipo de anticoagulante. Cerrados herméticamente. 
+Rotulación con fibra indeleble, debe contener: 
 nombre, fecha de extracción, número de causa.
-
-Papeles de ˜ltro: embeber una circunferencia 
-
+Papeles de filtro: embeber una circunferencia 
 de 1 cm de diámetro como mínimo y secar a 
-
 temperatura ambiente.
+
 Obtención inmediata del sedimento.
 Cerrado hermético. Rotulación indeleble (nombre, 
-
 fecha de extracción, número de causa).
+
 Utilizar material estéril. Recolectar la mayor 
 cantidad posible de exudado de la cavidad 
-
 investigada. Secar el hisopado antes de 
-
 introducirlo en el tubo.
-
 Cerrado hermético. Rotulación indeleble 
-
 (nombre, fecha de extracción, número de causa).
-Recortar la super˜cie manchada o recuperar la 
-mancha desde las distintas super˜cies (raspado 
 
+Recortar la superficie manchada o recuperar la 
+mancha desde las distintas superficies (raspado 
 o hisopado). Secar las manchas húmedas 
 y guardar las muestras en envases de papel 
-
 para que no concentren la humedad. Cerrado 
-
 hermético. Rotulación indeleble (nombre, fecha 
-
 de extracción, número de causa).
-Material de elección: 
-huesos (se pre˜eren huesos 
+
+Material de elección: huesos (se prefieren huesos 
 largos); dientes (sin endodoncia); músculo (si 
 existen zonas en buen estado de conservación); piel 
-
 (si existen zonas en buen estado de conservación); 
-
 pelos (arrancados con sus raíces).
-
 Cantidad: volumen no menor de 5 cm. Piezas 
 dentarias: dos o tres. Instrumental: pinzas y 
-
 bisturíes estériles.
-
 Frascos limpios e irrompibles. Cerrado hermético. 
-
 Rotulación indeleble (nombre, fecha de extracción, 
-
 número de causa). En caso de restos humanos muy 
-
 fragmentados e irreconocibles, tomar una muestra 
-
 por cada resto que no presente puentes de tejidos 
-
 que lo unan a otro.
-MUESTRA
-EXTRACCIÓN
-CONSERVACIÓN
+
+MUestra extracción conservación
+
 Actividad 3. La identificación de personas en la Argentina
-La utilización del 
-ADN
- para establecer la filiación entre personas se 
+
+La utilización del adn para establecer la filiación entre personas se 
+
 utiliza en la Argentina desde mediados de la década de 1980. 
-TIPIFICACIÓN DE 
-ADN
-: 
-TOMA Y CONSERVACIÓN DE LAS MUES
-TRAS
+
+Tipificación de adn: Toma y conservación de las muesTras
+
+
+
 33
-capítulo 2
-1.
- Pueden proponer esta actividad a fin de conocer la situación en nues
--tro país. Para eso, sugieran investigar en Internet qué instituciones 
+
+c
+a
+p
+
+ítu
+lo
+
+ 2
+
+1. Pueden proponer esta actividad a fin de conocer la situación en nues-
+
+tro país. Para eso, sugieran investigar en Internet qué instituciones 
+
 realizan este tipo de análisis y qué técnicas utilizan. 
-2.
- Una vez obtenido el listado de instituciones, pueden armar pequeños 
-grupos para que realicen una entrevista y así investigar una institu
--ción. Si las entrevistas son en video, sugerimos editarlas utilizando el 
+
+2. Una vez obtenido el listado de instituciones, pueden armar pequeños 
+
+grupos para que realicen una entrevista y así investigar una institu-
+
+ción. Si las entrevistas son en video, sugerimos editarlas utilizando el 
 
 programa de edición de videos que tienen instalado en sus equipos 
-portátiles (Movie Maker). Luego, cada grupo puede publicar su en
--trevista en un blog o a una carpeta compartida. A continuación suge
--rimos algunas preguntas para el cuestionario:
- ¿Las técnicas de 
-ADN resuelven todos los casos de identificación y 
+
+portátiles (Movie Maker). Luego, cada grupo puede publicar su en-
+
+trevista en un blog o a una carpeta compartida. A continuación suge-
+
+rimos algunas preguntas para el cuestionario:
+
+• ¿Las técnicas de adn resuelven todos los casos de identificación y 
 filiación?
- ¿Cuántas muestras de 
-ADN de diferentes personas se necesitan para 
+
+• ¿Cuántas muestras de adn de diferentes personas se necesitan para 
 establecer una identificación?
- ¿Cuánto demora el análisis?
- ¿Cuántos análisis de este tipo se realizan anualmente en esa ins
--titución?
- Actividad de cierre.
- Un caso policial
-1.
- Sugerimos publicar el siguiente enigma en un blog, así los alumnos po
--drán resolverlo y compartir sus comentarios. Luego se puede organizar 
+
+• ¿Cuánto demora el análisis?
+• ¿Cuántos análisis de este tipo se realizan anualmente en esa ins-
+
+titución?
+
+ 
+
+Actividad de cierre. Un caso policial
+
+1. Sugerimos publicar el siguiente enigma en un blog, así los alumnos po-
+
+drán resolverlo y compartir sus comentarios. Luego se puede organizar 
+
 un debate para poner en común los contenidos. 
+
  Con esta información:
 
 a) ¿Se puede determinar quién fue el asesino? ¿Cómo sería posible?
+
 b) ¿Se puede determinar si el bebé es hijo de la mujer asesinada?
-c) ¿Se puede determinar si entre la mujer y el asesino existe algún pa
--rentesco?
+
+c) ¿Se puede determinar si entre la mujer y el asesino existe algún pa-
+
+rentesco?
+
 La policía llega a una casa en la que encuentra una mujer asesinada 
 
 y un bebé en una cuna, sano y salvo. Luego de reconocer el lugar y de 
+
 realizar la autopsia, se sabe que la mujer tiene bajo sus uñas restos 
+
 de piel y cabellos de su posible atacante. No se sabe si el bebé es su 
+
 hijo. Los policías forenses toman muestras del tejido hallado debajo 
+
 de las uñas y muestras de sangre, tanto de la mujer como del bebé. 
+
 Para seguir trabajando
-En educ.ar: 
- http://www.educ.
+En educ.ar:  http://www.educ.
 ar/ > Recursos educativos > Áreas 
 curriculares: Ciencias Sociales > 
-
 Tipo de recurso: Ensayo > Nivel 
-
 educativo: Educación secundaria > 
-La identidad aspecto genético
-.En Canal Encuentro: Programa 
-Explora. Ciencias Naturales
-, capítulo 
-ﬁADN
-. La molécula de la vidaﬂ. 
-Explora
- es un programa del 
+La identidad aspecto genético.
+En Canal Encuentro: Programa 
+Explora. Ciencias Naturales, capítulo 
+“adn. La molécula de la vida”. 
+Explora es un programa del 
 Ministerio de Educación de la 
-
 Nación, conducido por Adrián 
-
 Paenza. Este capítulo puede 
-descargarse desde: 
- http://
+descargarse desde:  http://
 www.encuentro.gov.ar/ > Videos 
-& descargas 
-(listar los programas 
+& descargas (listar los programas 
 por orden alfabético) > página 6.
+
+
+
 34
-Biología
+
+B
+io
+
+lo
+gí
+
+a
+
 Cómo hacer una búsqueda en Internet
+
 En Internet hay cientos de millones de páginas web 
 con una gran variedad y cantidad de información. 
 Esta información es dinámica y volátil: cambia 
 permanentemente. Estas particularidades de 
-
 Internet determinan la necesidad de contar con 
-ciertas 
-herramientas
- para obtener información que 
+ciertas herramientas para obtener información que 
 nos resulte significativa, es decir, útil, interesante y 
 confiable. Las herramientas son:
+
 Conocimiento de los recursos 
-involucrados. Características de la Red.Sitios de búsqueda o buscadores
+involucrados. 
+
+Características 
+de la Red.
+
+Sitios de búsqueda o buscadores
+
 Los buscadores son sitios diseñados para facilitar al usuario el hallazgo de 
 determinada información en Internet.
+
 Cómo buscar
-Por temas. 
-Los buscadores suelen organizar la información por directo
--rios temáticos. Al ingresar al tema que consideramos que corresponde a 
+
+Por temas. Los buscadores suelen organizar la información por directo-
+rios temáticos. Al ingresar al tema que consideramos que corresponde a 
 la información buscada (por ejemplo, Arte y cultura), aparece un listado 
-de subtemas (por ejemplo, Artes plásticas, Artistas, Museos y centros cul
--
-turales, etc.). Ingresando en los sucesivos subtemas propuestos (por ejem
--plo, Arte y cultura > Artes plásticas > Pinturas > Grandes maestros > Berni 
-www.altavista.com
-AltaVista
-www.excite.com
-Excite
+de subtemas (por ejemplo, Artes plásticas, Artistas, Museos y centros cul-
+turales, etc.). Ingresando en los sucesivos subtemas propuestos (por ejem-
+plo, Arte y cultura > Artes plásticas > Pinturas > Grandes maestros > Berni 
+
+www.altavista.comAltaVista www.excite.comExcite
+
+
+
 35
-cómo hacer...
-www.google.com
-Google
-www.lycos.com
-Lycos
+
+c
+ó
+
+m
+o
+
+ h
+a
+c
+e
+r..
+
+.
+
+www.google.comGoogle www.lycos.comLycos
+
 Programas de navegación, de 
 administración de archivos y 
+otras utilidades.
 
-otras utilidades.Conocimiento de los sitios de búsqueda y sus respectivas 
+Conocimiento de los sitios de 
+búsqueda y sus respectivas 
+estrategias de búsqueda.
 
-estrategias de búsqueda.Definición más o menos clara 
+Definición más o menos clara 
 del tema que se va a buscar.
-Criterios de selección y análisis para determinar si 
+
+Criterios de selección y 
+análisis para determinar si 
 la información hallada es 
-confiable y pertinente.Antonio) se llega a los sitios que el buscador ha seleccionado para el tema 
+confiable y pertinente.
+
+Antonio) se llega a los sitios que el buscador ha seleccionado para el tema 
 específico.
-Por clave de búsqueda.
- La clave de búsqueda puede ser un tema, palabra, fra
--se o nombre que permita establecer un criterio lo más específico posible para 
+
+Por clave de búsqueda. La clave de búsqueda puede ser un tema, palabra, fra-
+se o nombre que permita establecer un criterio lo más específico posible para 
 acotar los resultados.
-Biología
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
 36
+
 Cómo hacer una búsqueda en Internet
+
 Cómo armar la clave de búsqueda (sintaxis)
-Es necesario tener en cuenta que cada sitio tiene sus propias opciones de búsque
--da. Las opciones que se exponen en este apartado constituyen sólo una muestra.
-Lenguaje natural: 
-una forma de plantear la búsqueda consiste en escribir sen
--cillamente lo que se desea encontrar, por ejemplo: 
-Internet en educación
-. El riesgo 
+Es necesario tener en cuenta que cada sitio tiene sus propias opciones de búsque-
+da. Las opciones que se exponen en este apartado constituyen sólo una muestra.
+
+Lenguaje natural: una forma de plantear la búsqueda consiste en escribir sen-
+cillamente lo que se desea encontrar, por ejemplo: Internet en educación. El riesgo 
 es que los aciertos incluyan páginas web en las que aparece cada una de las 
-palabras incluidas en la clave de búsqueda (por ejemplo, 
-en
-) y no sólo aquellas 
+palabras incluidas en la clave de búsqueda (por ejemplo, en) y no sólo aquellas 
 en las que aparece la frase completa.
-Frases literales:
- si se desea encontrar las páginas web que contienen una determi
--nada frase, conviene escribirla entre comillas, por ejemplo: ﬁ
-Internet en educaciónﬂ
-.Términos requeridos y términos por excluir:
- para especificar una búsqueda, 
-algunos buscadores proponen la utilización del símbolo ﬁ+ﬂ (más) junto a la 
-palabra requerida obligatoriamente y el signo ﬁ-ﬂ (menos) junto a la palabra 
+
+Frases literales: si se desea encontrar las páginas web que contienen una determi-
+nada frase, conviene escribirla entre comillas, por ejemplo: “Internet en educación”.
+
+Términos requeridos y términos por excluir: para especificar una búsqueda, 
+algunos buscadores proponen la utilización del símbolo “+” (más) junto a la 
+palabra requerida obligatoriamente y el signo “-” (menos) junto a la palabra 
 que no queremos que aparezca en el listado de resultados. Por ejemplo: 
-+ internet + educación        
-o        + internet + educación - lengua
-Comodines:
- el comodín (*) se puede ubicar en cualquier lugar de la palabra para 
-reemplazar un conjunto indeterminado de caracteres. Por ejemplo: 
-lengua
-*. Esta 
+
++ internet + educación        o        + internet + educación - lengua
+
+Comodines: el comodín (*) se puede ubicar en cualquier lugar de la palabra para 
+reemplazar un conjunto indeterminado de caracteres. Por ejemplo: lengua*. Esta 
 sintaxis hará que se consideren en la búsqueda las páginas que incluyen no sólo 
+la palabra “lengua”, sino también “lenguas”, “lenguaje”, “lenguajes”.
 
-la palabra ﬁlenguaﬂ, sino también ﬁlenguasﬂ, ﬁlenguajeﬂ, ﬁlenguajesﬂ.
-Búsqueda avanzada: 
-cada sitio propone un conjunto de opciones para acotar 
-aún más los resultados de una búsqueda, como por ejemplo, fecha de publica
--ción o modificación de la página, y el idioma de las páginas.
-Mayúsculas y minúsculas: 
-para algunos buscadores es indiferente que se es
--criban los términos de búsqueda con mayúsculas o minúsculas (por ejemplo, 
-ﬁInternetﬂ, ﬁ
-INTERNET
-ﬂ o ﬁinternetﬂ). Pero, en general, es recomendable usar so
--lamente letras en minúscula para que el resultado incluya todas las páginas que 
+Búsqueda avanzada: cada sitio propone un conjunto de opciones para acotar 
+aún más los resultados de una búsqueda, como por ejemplo, fecha de publica-
+ción o modificación de la página, y el idioma de las páginas.
 
+Mayúsculas y minúsculas: para algunos buscadores es indiferente que se es-
+criban los términos de búsqueda con mayúsculas o minúsculas (por ejemplo, 
+“Internet”, “internet” o “internet”). Pero, en general, es recomendable usar so-
+lamente letras en minúscula para que el resultado incluya todas las páginas que 
 contengan esos términos, sea como fuere que estén escritos.
-Uso de tildes: 
-algunos buscadores no toman en cuenta la ausencia de tilde 
-en las vocales que efectivamente la requieren. En consecuencia, en estos casos 
 
+Uso de tildes: algunos buscadores no toman en cuenta la ausencia de tilde 
+en las vocales que efectivamente la requieren. En consecuencia, en estos casos 
 resultan listados más abarcadores (incluyen la palabra con y sin tilde) si como 
 clave de búsqueda escribimos palabras sin acento ortográfico.
+
+
+
 37
-cómo hacer...
+
+c
+ó
+
+m
+o
+
+ h
+a
+c
+e
+r..
+
+.
+
 Cómo hacer para subir un video a YouTube
+
 Registro.
 Lo primero que hay que hacer para poder 
 subir un video a YouTube es registrarse 
-
 en el sitio. Para eso hay que ingresar a 
- www.youtube.com
- y hacer clic en  Crear cuenta
-.  
+
+ www.youtube.com y hacer clic en 
+ Crear cuenta.  
+
 Aparece la siguiente pantalla, que deberán 
-
 completar.
-
-Al ˜nalizar el registro, podrán comenzar a 
-
+Al finalizar el registro, podrán comenzar a 
 publicar videos en YouTube. 
-1.
-2.Biología
-38
-Cómo hacer para subir un video a YouTube
-Para tener en cuenta
 
-Subir el videoUna vez con˜rmado el registro e iniciada la 
-sesión, deben hacer clic en
-  Subir video. 
+1.
+
+2.
+
+
+
+B
+io
+
+lo
+gí
+
+a
+
+38
+
+Cómo hacer para subir un video a YouTube
+
+Para tener en cuenta
+•	 Los	videos	pueden	tener	un	tamaño	máximo	de	2	GB	y	un	máximo	de	15	minutos	de	
+
+duración,	en	una	amplia	variedad	de	formatos.
+•	 El	proceso	de	subida	se	demora	en	función	del	tamaño	del	archivo	y	la	velocidad	de	la	
+
+conexión	usada.
+
+Subir el video
+Una vez confirmado el registro e iniciada la 
+sesión, deben hacer clic en  Subir video. 
 Se abrirá una página nueva en la que se 
 puede subir el video con sólo arrastrarlo. 
-Mientras se muestra el progreso de la subida, es posible describir y categorizar 
 
+Mientras se muestra el progreso de la 
+subida, es posible describir y categorizar 
 el video. Es muy importante ingresar el 
-
 título y una descripción del video, así 
-
 como también las palabras clave (tags) 
 para que los usuarios puedan localizarlo. 
-
 Luego deben seleccionar una categoría 
 para el video. En esta instancia es posible 
-
 seleccionar si el video será de acceso 
 público o privado. 
-3.4.39
-bibliografía / sitios de interés
+
+3.
+
+4.
+
+
+
+39
+
+b
+ib
+
+lio
+g
+
+ra
+fía
+
+ /
+ s
+
+iti
+o
+
+s 
+d
+
+e
+ in
+
+te
+ré
+
+s
+
 Bibliografía
+
 Sitios de interés
-CURTIS
-, Helena, Sue 
-BARNES, Adriana 
-SCHNEK y Alicia 
-MASSARINI: Curtis Biología
- (7.
-a ed.), Buenos Aires, 
-2007, Panamericana.ADN, ESTRUCTURA DEL NUCLEÓTIDO. http://www.maph49.galeon.com/adn/structure.html
-ÁCIDOS NUCLEICOS. http://www.profesorenlinea.cl/Ciencias/AcidosNucleicos.htm
-BIBLIOTE
-CA NACIONAL DE MEDICINA DE EE. UU.: hormonas.  http://www.nlm.nih.gov/medlineplus/spanish/hormones.html
-EDUC.AR: ﬁEl uso de la información genética ¿para curar o para marginar? Los nuevos desafíos de la 
-bioéticaﬂ. http://www.educ.ar/educar/el-uso-de-la-informacion-genetica-para-curar-o-para-margi
--nar-los-nuevos-desafios-de-la-bioetica.html
-EDUC.AR: ﬁ¿Podemos leer el libro de la vida?ﬂ.
+
+Curtis, Helena, Sue Barnes, Adriana sChnek y Alicia Massarini: Curtis Biología (7.a ed.), Buenos Aires, 
+
+2007, Panamericana.
+
+adn, estruCtura del nuCleótido.
+
+ http://www.maph49.galeon.com/adn/structure.html
+
+ÁCidos nuCleiCos.
+
+ http://www.profesorenlinea.cl/Ciencias/AcidosNucleicos.htm
+
+BiBlioteCa naCional de MediCina de ee. uu.: hormonas. 
+
+ http://www.nlm.nih.gov/medlineplus/spanish/hormones.html
+
+eduC.ar: “El uso de la información genética ¿para curar o para marginar? Los nuevos desafíos de la 
+
+bioética”.
+
+ http://www.educ.ar/educar/el-uso-de-la-informacion-genetica-para-curar-o-para-margi-
+
+nar-los-nuevos-desafios-de-la-bioetica.html
+
+eduC.ar: “¿Podemos leer el libro de la vida?”.
+
  http://www.educ.ar/educar/podemos-leer-el-libro-de-la-vida-genetica-humana.html
-EQUIPO ARGENTINO DE ANTROPOLOGÍA FORENSE (EAAF).  http://eaaf.typepad.com/eaaf__sp/PROYECTO
- BIOSFERA: el ADN. http://recursos.cnice.mec.es/biosfera/alumno/2bachillerato/biomol/contenidos18.htm
-THE HORMONE FOUNDATION: Sistema endocrino
-.  http://www.hormone.org/Spanish/sistema_endocrino/sistema_endocrino.cfm
-VISIONLEARNING: Ácidos nucleicos ADN y ARN. http://www.visionlearning.com/library/module_viewer.php?mid=63&l=s
-WIKIPEDIA: HORMONA. http://es.wikipedia.org/wiki/Hormona
-Serie para la enseñanza en el modelo 1 a 1
+
+equipo argentino de antropología Forense (eaaF). 
+
+ http://eaaf.typepad.com/eaaf__sp/
+
+proyeCto BiosFera: el adn.
+
+ http://recursos.cnice.mec.es/biosfera/alumno/2bachillerato/biomol/contenidos18.htm
+
+the horMone Foundation: Sistema endocrino. 
+
+ http://www.hormone.org/Spanish/sistema_endocrino/sistema_endocrino.cfm
+
+Visionlearning: Ácidos nucleicos adn y arn.
+
+ http://www.visionlearning.com/library/module_viewer.php?mid=63&l=s
+
+Wikipedia: horMona.
+
+ http://es.wikipedia.org/wiki/Hormona
+
+
+
+Se
+ri
+
+e 
+pa
+
+ra
+ la
+
+ e
+ns
+
+eñ
+an
+
+za
+ e
+
+n 
+el
+
+ m
+od
+
+el
+o 
+
+1 
+a 
+
+1
+
 nombre de la imrpenta
 direcciones y telefono
+
 fecha
+
+
+
 Serie para la enseñanza en el modelo 1 a 1
+
 material de distribución gratuita
+
 Biología
+
+
