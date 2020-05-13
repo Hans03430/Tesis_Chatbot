@@ -1,3 +1,7 @@
 ACCEPTED_LANGUAGES = [
     'es'
 ]
+
+LANGUAGES_DICTIONARY_PYPHEN = {
+    'es': 'es'
+}

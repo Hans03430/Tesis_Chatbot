@@ -13,6 +13,7 @@ setup(
         'aiofile',
         'beautifulsoup4',
         'spacy',
-        'tika'
+        'tika',
+        'Pyphen'
     ]
 )
