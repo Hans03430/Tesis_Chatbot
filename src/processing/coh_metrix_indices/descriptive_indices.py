@@ -1,6 +1,7 @@
 import multiprocessing
 import numpy as np
 import pyphen
+import spacy
 import string
 
 from itertools import chain
@@ -38,8 +39,7 @@ def split_text_into_sentences(text: str, language: str='es') -> List[str]:
     """
     if not language in ACCEPTED_LANGUAGES:
         raise ValueError(f'Language {language} is not supported yet')
-    cls = get_lang_class(language)
-    nlp = cls()
+    nlp = spacy.load(language, disable=['tagger', 'parser', 'ner'])
     nlp.add_pipe(nlp.create_pipe('sentencizer'))
     text_spacy = nlp(text)
     return [str(sentence) for sentence in text_spacy.sents]
@@ -55,11 +55,11 @@ def split_sentence_into_words(sentence:str, language: str='es') -> List[str]:
     """
     if not language in ACCEPTED_LANGUAGES:
         raise ValueError(f'Language {language} is not supported yet')
-    cls = get_lang_class(language)
-    nlp = cls()
-    nlp.add_pipe(nlp.create_pipe('sentencizer'))
+    nlp = spacy.load(language, disable=['tagger', 'parser', 'ner'])
     sentence_spacy = nlp(sentence)
-    return [str(token.text) for token in sentence_spacy]
+    return [str(token.text) 
+            for token in sentence_spacy
+            if not token.is_punct]
 
 
 def split_word_into_syllables(word: str, language: str='es') -> List[str]:
