@@ -1,8 +1,9 @@
 import spacy
 
+from typing import Tuple
 from src.processing.constants import ACCEPTED_LANGUAGES
 
-def get_word_grammatical_information(text: str, language: str='es'):
+def get_word_grammatical_information(text: str, language: str='es') -> Tuple[int]:
     '''
     This function calculates the grammatical incident of the words.
 
@@ -11,7 +12,7 @@ def get_word_grammatical_information(text: str, language: str='es'):
     language(str): The language of the text.
 
     Returns:
-    None
+    Tuple[int]: The tuple containing the incidence of nouns, verbs, adverbs, adjectives, personal pronouns per 1000 words, personal pronouns in first person and singular form, personal pronouns in first person and plural form, peresonal pronouns in second person and singular form, personal pronouns in second person and plural form, personal pronouns in third person and singular form, personal pronouns in thir person and plural form.  
     '''
     if len(text) == 0:
         raise ValueError('The word is empty.')
@@ -69,4 +70,4 @@ def get_word_grammatical_information(text: str, language: str='es'):
                                                   for token in personal_pronouns
                                                   if 'Number=Plur' in token.tag_ and 'Person=3' in token.tag_]
     
-    return len(nouns), len(verbs), len(adjectives), len(adverbs), len(personal_pronouns), len(personal_pronouns_first_person_single_form), len(personal_pronouns_first_person_plural_form), len(personal_pronouns_second_person_single_form), len(personal_pronouns_second_person_plural_form), len(personal_pronouns_third_person_single_form), len(personal_pronouns_third_person_plural_form)
+    return len(nouns), len(verbs), len(adjectives), len(adverbs), len(personal_pronouns)/1000, len(personal_pronouns_first_person_single_form), len(personal_pronouns_first_person_plural_form), len(personal_pronouns_second_person_single_form), len(personal_pronouns_second_person_plural_form), len(personal_pronouns_third_person_single_form), len(personal_pronouns_third_person_plural_form)
