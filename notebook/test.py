@@ -1,3 +1,5 @@
+import time
+
 import spacy
 from src.processing.coh_metrix_indices.descriptive_indices import *
 from src.processing.coh_metrix_indices.word_information_indices import *
@@ -23,7 +25,27 @@ print(results)'''
 noun_phrases_index = get_noun_phrase_density(text, 'es')
 print(noun_phrases_index)"""
 
-text = 'Juan me dijo que probablemente hoy va a llover. Sim embargo, eso no ha ocurrido por un buen tiempo.'
+'''text = 'Juan me dijo que probablemente hoy va a llover. Sim embargo, eso no ha ocurrido por un buen tiempo.'
 response = get_verb_phrase_density(text, 'es')
 for x in response:
-    print(x)
+    print(x)'''
+
+with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt/3/Comunicación/20_leguas_viaje_submarino.txt', 'r') as document:
+    text = document.read()
+    start = time.time()
+    response = get_negative_expressions_density(text, 'es')
+    end = time.time()
+    print(f'Tiempo demorado: {end - start}')
+    print(f'Cantidad de negaciones: {response}')
+
+    start = time.time()
+    response = get_noun_phrase_density(text, 'es')
+    end = time.time()
+    print(f'Tiempo demorado: {end - start}')
+    print(f'Cantidad de frases nominales: {response}')
+
+    start = time.time()
+    response = get_verb_phrase_density(text, 'es')
+    end = time.time()
+    print(f'Tiempo demorado: {end - start}')
+    print(f'Cantidad de frases verbales: {response}')
