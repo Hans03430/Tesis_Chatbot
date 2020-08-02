@@ -1,0 +1,39 @@
+import pyphen
+
+from spacy.tokens import Doc
+from spacy.tokens import Token
+
+from src.processing.constants import ACCEPTED_LANGUAGES, LANGUAGES_DICTIONARY_PYPHEN
+
+
+class SyllableSplitter:
+    name = 'Syllable splitter'
+
+    def __init__(self, language: str='es') -> None:
+        '''
+        This constructor will initialize the object that handles syllable processing.
+
+        Parameters:
+        language: The language that this pipeline will be used in.
+
+        Returns:
+        None.
+        '''
+        if not language in ACCEPTED_LANGUAGES:
+            raise ValueError(f'Language {language} is not supported yet')
+
+        self._dic = pyphen.Pyphen(lang=LANGUAGES_DICTIONARY_PYPHEN[language])
+        Token.set_extension('syllables', default=None, force=True)
+
+    def __call__(self, doc: Doc) -> Doc:
+        '''
+        This method will find the syllables for each token that is a word.
+
+        Parameters:
+        doc(Doc): A Spacy document.
+        '''
+        for token in doc: # Iterate every token
+            if not token.is_punct and not token.is_digit:
+                token._.syllables = self._dic.inserted(token.text).split('-')
+        
+        return doc

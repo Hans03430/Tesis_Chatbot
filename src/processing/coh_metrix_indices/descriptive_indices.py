@@ -2,6 +2,7 @@ import multiprocessing
 import numpy as np
 import pyphen
 import spacy
+import statistics
 import string
 
 from itertools import chain
@@ -10,8 +11,9 @@ from spacy.lang.es import Spanish
 from spacy.util import get_lang_class
 from typing import List
 
-from src.processing.multiprocessing_utils import parallelize_function
 from src.processing.constants import ACCEPTED_LANGUAGES, LANGUAGES_DICTIONARY_PYPHEN
+from src.processing.multiprocessing_utils import parallelize_function
+from src.processing.pipes.syllable_splitter import SyllableSplitter
 
 def split_text_into_paragraphs(text: str) -> List[str]:
     """
@@ -59,7 +61,7 @@ def split_sentence_into_words(sentence:str, language: str='es') -> List[str]:
     sentence_spacy = nlp(sentence)
     return [str(token.text) 
             for token in sentence_spacy
-            if not token.is_punct]
+            if not token.is_punct and not token.is_digit]
 
 
 def split_word_into_syllables(word: str, language: str='es') -> List[str]:
@@ -176,17 +178,16 @@ def get_mean_of_length_of_paragraphs(text: str, language: str='es', workers: int
         raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
-    elif workers == 1:
-        paragraphs = split_text_into_paragraphs(text)
-        sentences_per_paragraph = np.array([get_sentence_count_from_text(paragraph, language) for paragraph in paragraphs])
-        
-        return np.mean(sentences_per_paragraph)
     else:
-        paragraphs = split_text_into_paragraphs(text)
+        paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
         threads = multiprocessing.cpu_count() if workers == -1 else workers
-        sentences_per_paragraph = parallelize_function(threads, get_sentence_count_from_text, zip(paragraphs, repeat(language)), True)
+        nlp = spacy.load(language, disable=['parser', 'tagger', 'ner'])
+        nlp.add_pipe(nlp.create_pipe('sentencizer'))
         
-        return np.mean(np.array(sentences_per_paragraph))
+        sentences_per_paragraph = [sum(1 for _ in doc.sents)
+                                for doc in nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'tagger', 'ner'], n_process=threads)]
+
+        return np.mean(sentences_per_paragraph)
 
 def get_std_of_length_of_paragraphs(text: str, language: str='es', workers: int=-1) -> float:
     """
@@ -205,17 +206,16 @@ def get_std_of_length_of_paragraphs(text: str, language: str='es', workers: int=
         raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
-    elif workers == 1:
-        paragraphs = split_text_into_paragraphs(text)
-        sentences_per_paragraph = np.array([get_sentence_count_from_text(paragraph, language) for paragraph in paragraphs])
-        
-        return np.std(sentences_per_paragraph)
     else:
-        paragraphs = split_text_into_paragraphs(text)
+        paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
         threads = multiprocessing.cpu_count() if workers == -1 else workers
-        sentences_per_paragraph_batches = parallelize_function(threads, get_sentence_count_from_text, zip(paragraphs, repeat(language)), True)
+        nlp = spacy.load(language, disable=['parser', 'tagger', 'ner'])
+        nlp.add_pipe(nlp.create_pipe('sentencizer'))
+        
+        sentences_per_paragraph = [sum(1 for _ in doc.sents)
+                                for doc in nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'tagger', 'ner'], n_process=threads)]
 
-        return np.std(np.array(sentences_per_paragraph_batches))
+        return np.std(sentences_per_paragraph)
 
 
 def get_mean_of_length_of_sentences(text: str, language: str='es', workers: int=-1) -> float:
@@ -236,18 +236,17 @@ def get_mean_of_length_of_sentences(text: str, language: str='es', workers: int=
         raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
-    elif workers == 1:
-        sentences = split_text_into_sentences(text)
-        words_per_sentence = np.array([get_word_count_from_text(sentence, language) for sentence in sentences])
-        
-        return np.mean(words_per_sentence)
     else:
-        sentences = split_text_into_sentences(text)
+        paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
         threads = multiprocessing.cpu_count() if workers == -1 else workers
-        words_per_sentence = parallelize_function(threads, get_word_count_from_text, zip(sentences, repeat(language)), True)
+        nlp = spacy.load(language, disable=['parser', 'tagger', 'ner'])
+        nlp.add_pipe(nlp.create_pipe('sentencizer'))
+        
+        words_per_sentence = [sum(1 for _ in sentence) 
+                            for doc in nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'tagger', 'ner'], n_process=threads)
+                            for sentence in doc.sents]
 
-        return np.mean(np.array(words_per_sentence))
-
+        return np.mean(words_per_sentence)
 
 def get_std_of_length_of_sentences(text: str, language: str='es', workers: int=-1) -> float:
     """
@@ -267,16 +266,17 @@ def get_std_of_length_of_sentences(text: str, language: str='es', workers: int=-
         raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
-    elif workers == 1:
-        sentences = split_text_into_sentences(text)
-        words_per_sentence = np.array([get_word_count_from_text(sentence, language) for sentence in sentences])
-        return np.std(words_per_sentence)
     else:
-        sentences = split_text_into_sentences(text)
+        paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
         threads = multiprocessing.cpu_count() if workers == -1 else workers
-        words_per_sentence = parallelize_function(threads, get_word_count_from_text, zip(sentences, repeat(language)), True)       
+        nlp = spacy.load(language, disable=['parser', 'tagger', 'ner'])
+        nlp.add_pipe(nlp.create_pipe('sentencizer'))
+        
+        words_per_sentence = [sum(1 for _ in sentence) 
+                            for doc in nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'tagger', 'ner'], n_process=threads)
+                            for sentence in doc.sents]
 
-        return np.std(np.array(words_per_sentence))
+        return np.std(words_per_sentence)
 
 
 def get_mean_of_length_of_words(text: str, language: str='es', workers: int=-1) -> float:
@@ -297,17 +297,17 @@ def get_mean_of_length_of_words(text: str, language: str='es', workers: int=-1) 
         raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
-    elif workers == 1:
-        words = split_sentence_into_words(text)
-        letters_per_word = np.array([len(word) for word in words])
-        
-        return np.mean(letters_per_word)
     else:
-        words = split_sentence_into_words(text)
+        paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
         threads = multiprocessing.cpu_count() if workers == -1 else workers
-        letters_per_word = parallelize_function(threads, len, words, False)
+        nlp = spacy.load(language, disable=['parser', 'tagger', 'ner'])
+        
+        letters_per_word = [len(word)
+                            for doc in nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'tagger', 'ner'], n_process=threads)
+                            for word in doc
+                            if not word.is_punct and not word.is_digit]
 
-        return np.mean(np.array(letters_per_word))
+        return np.mean(letters_per_word)
 
 
 def get_std_of_length_of_words(text: str, language: str='es', workers=-1) -> float:
@@ -328,17 +328,17 @@ def get_std_of_length_of_words(text: str, language: str='es', workers=-1) -> flo
         raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
-    elif workers == 1:
-        words = split_sentence_into_words(text)
-        letters_per_word = np.array([len(word) for word in words])
-        
-        return np.std(letters_per_word)
     else:
-        words = split_sentence_into_words(text)
+        paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
         threads = multiprocessing.cpu_count() if workers == -1 else workers
-        letters_per_word = parallelize_function(threads, len, words, False)
+        nlp = spacy.load(language, disable=['parser', 'tagger', 'ner'])
+        
+        letters_per_word = [len(word)
+                            for doc in nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'tagger', 'ner'], n_process=threads)
+                            for word in doc
+                            if not word.is_punct and not word.is_digit]
 
-        return np.std(np.array(letters_per_word))
+        return np.std(letters_per_word)
 
 
 def get_mean_of_syllables_per_word(text: str, language: str='es', workers=-1) -> float:
@@ -359,17 +359,17 @@ def get_mean_of_syllables_per_word(text: str, language: str='es', workers=-1) ->
         raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
-    elif workers == 1:
-        words = split_sentence_into_words(text)
-        syllables_per_word = np.array([get_syllable_count_from_word(word) for word in words])
-        
-        return np.mean(syllables_per_word)
     else:
-        words = split_sentence_into_words(text)
+        paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
         threads = multiprocessing.cpu_count() if workers == -1 else workers
-        syllables_per_word = parallelize_function(threads, get_syllable_count_from_word, zip(words, repeat(language)), True)
+        nlp = spacy.load(language, disable=['parser', 'tagger', 'ner'])
+        nlp.add_pipe(SyllableSplitter(language), first=True)
+        syllables_per_word = [len(word._.syllables)
+                            for doc in nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'tagger', 'ner'], n_process=threads)
+                            for word in doc
+                            if not word.is_punct and not word.is_digit and word._.syllables is not None]
 
-        return np.mean(np.array(syllables_per_word))
+        return np.mean(syllables_per_word)
 
 
 def get_std_of_syllables_per_word(text: str, language: str='es', workers=-1) -> float:
@@ -390,14 +390,14 @@ def get_std_of_syllables_per_word(text: str, language: str='es', workers=-1) -> 
         raise ValueError(f'Language {language} is not supported yet')
     elif workers == 0 or workers < -1:
         raise ValueError('Workers must be -1 or any positive number greater than 0')
-    elif workers == 1:
-        words = split_sentence_into_words(text)
-        syllables_per_word = np.array([get_syllable_count_from_word(word) for word in words])
-        
-        return np.std(syllables_per_word)
     else:
-        words = split_sentence_into_words(text)
+        paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
         threads = multiprocessing.cpu_count() if workers == -1 else workers
-        syllables_per_word = parallelize_function(threads, get_syllable_count_from_word, zip(words, repeat(language)), True)
+        nlp = spacy.load(language, disable=['parser', 'tagger', 'ner'])
+        nlp.add_pipe(SyllableSplitter(language), first=True)
+        syllables_per_word = [len(word._.syllables)
+                            for doc in nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'tagger', 'ner'], n_process=threads)
+                            for word in doc
+                            if not word.is_punct and not word.is_digit and word._.syllables is not None]
 
-        return np.std(np.array(syllables_per_word))
+        return np.std(syllables_per_word)
