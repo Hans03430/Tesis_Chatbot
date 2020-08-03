@@ -18,6 +18,9 @@ from src.processing.utils.utils import split_text_into_paragraphs
 from src.processing.utils.utils import split_text_into_sentences
 
 class DescriptiveIndices:
+    '''
+    This class will handle all operations to obtain the descriptive indices of a text according to Coh-Metrix
+    '''
     def __init__(self, language: str='es') -> None:
         '''
         The constructor will initialize this object that calculates the descriptive indices for a specific language of those that are available.

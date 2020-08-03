@@ -1,73 +1,353 @@
+import multiprocessing
+import numpy as np
 import spacy
 
 from typing import Tuple
 from src.processing.constants import ACCEPTED_LANGUAGES
+from src.processing.utils.utils import split_text_into_paragraphs
 
-def get_word_grammatical_information(text: str, language: str='es') -> Tuple[int]:
+class WordInformationIndices:
     '''
-    This function calculates the grammatical incident of the words.
-
-    Parameters:
-    text(str): The text to be split into sentences.
-    language(str): The language of the text.
-
-    Returns:
-    Tuple[int]: The tuple containing the incidence of nouns, verbs, adverbs, adjectives, personal pronouns per 1000 words, personal pronouns in first person and singular form, personal pronouns in first person and plural form, peresonal pronouns in second person and singular form, personal pronouns in second person and plural form, personal pronouns in third person and singular form, personal pronouns in thir person and plural form.  
+    This class will handle all operations to obtain the word information indices of a text according to Coh-Metrix.
     '''
-    if len(text) == 0:
-        raise ValueError('The word is empty.')
-    elif not language in ACCEPTED_LANGUAGES:
-        raise ValueError(f'Language {language} is not supported yet')
+    def __init__(self, language: str='es') -> None:
+        '''
+        The constructor will initialize this object that calculates the word information indices for a specific language of those that are available.
 
-    nlp = spacy.load('es', disable=['parser', 'ner'])
-    text_spacy = nlp(text)
+        Parameters:
+        language(str): The language that the texts to process will have.
 
-    nouns = [token
-             for token in text_spacy
-             if not token.is_punct and token.pos_ == 'NOUN'] # Find the nouns in the text
+        Returns:
+        None.
+        '''
+        if not language in ACCEPTED_LANGUAGES:
+            raise ValueError(f'Language {language} is not supported yet')
+        
+        self._language = language
+        self._nlp = spacy.load(language, disable=['parser', 'ner'])
 
-    verbs = [token
-             for token in text_spacy
-             if not token.is_punct and token.pos_ == 'VERB'] # Find the verbs in the text
+    def get_noun_count(self, text: str, workers: int=-1) -> int:
+        '''
+        This method calculates the amount of nouns in a text.
 
-    adjectives = [token
-                  for token in text_spacy
-                  if not token.is_punct and token.pos_ == 'ADJ'] # Find the adjectives in the text
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
 
-    adverbs = [token
-               for token in text_spacy
-               if not token.is_punct and token.pos_ == 'ADV'] # Find the adverbs in the text
+        Returns:
+        int: The amount of nouns.
+        '''
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            
+            nouns = (1
+                     for doc in self._nlp.pipe(paragraphs,
+                                               batch_size=1,
+                                               disable=['parser', 'ner'],
+                                               n_process=threads)
+                     for token in doc
+                     if token.is_alpha and token.pos_ == 'NOUN')
+            
+            return np.sum(nouns)
 
-    pronouns = [token
-                for token in text_spacy
-                if not token.is_punct and token.pos_ == 'PRON'] # Find the personal pronouns
-    
-    personal_pronouns = [token
-                         for token in pronouns
-                         if 'PronType=Prs' in token.tag_]
+    def get_verb_count(self, text: str, workers: int=-1) -> int:
+        '''
+        This method calculates the amount of verbs in a text.
 
-    personal_pronouns_first_person_single_form = [token
-                                                  for token in personal_pronouns
-                                                  if 'Number=Sing' in token.tag_ and 'Person=1' in token.tag_]
-    
-    personal_pronouns_first_person_plural_form = [token
-                                                  for token in personal_pronouns
-                                                  if 'Number=Plur' in token.tag_ and 'Person=1' in token.tag_]
-    
-    personal_pronouns_second_person_single_form = [token
-                                                  for token in personal_pronouns
-                                                  if 'Number=Sing' in token.tag_ and 'Person=2' in token.tag_]
-    
-    personal_pronouns_second_person_plural_form = [token
-                                                  for token in personal_pronouns
-                                                  if 'Number=Plur' in token.tag_ and 'Person=2' in token.tag_]
-    
-    personal_pronouns_third_person_single_form = [token
-                                                  for token in personal_pronouns
-                                                  if 'Number=Sing' in token.tag_ and 'Person=3' in token.tag_]
-    
-    personal_pronouns_third_person_plural_form = [token
-                                                  for token in personal_pronouns
-                                                  if 'Number=Plur' in token.tag_ and 'Person=3' in token.tag_]
-    
-    return len(nouns), len(verbs), len(adjectives), len(adverbs), len(personal_pronouns)/1000, len(personal_pronouns_first_person_single_form), len(personal_pronouns_first_person_plural_form), len(personal_pronouns_second_person_single_form), len(personal_pronouns_second_person_plural_form), len(personal_pronouns_third_person_single_form), len(personal_pronouns_third_person_plural_form)
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        int: The amount of verbs.
+        '''
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            
+            verbs = (1
+                     for doc in self._nlp.pipe(paragraphs,
+                                               batch_size=1,
+                                               disable=['parser', 'ner'],
+                                               n_process=threads)
+                     for token in doc
+                     if token.is_alpha and token.pos_ == 'VERB')
+            
+            return np.sum(verbs)
+
+    def get_adjective_count(self, text: str, workers: int=-1) -> int:
+        '''
+        This method calculates the amount of adjectives in a text.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        int: The amount of adjectives.
+        '''
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            
+            adjectives = (1
+                          for doc in self._nlp.pipe(paragraphs,
+                                                    batch_size=1,
+                                                    disable=['parser', 'ner'],
+                                                    n_process=threads)
+                          for token in doc
+                          if token.is_alpha and token.pos_ == 'ADJ')
+            
+            return np.sum(adjectives)
+
+    def get_adverb_count(self, text: str, workers: int=-1) -> int:
+        '''
+        This method calculates the amount of adverbs in a text.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        int: The amount of adverbs.
+        '''
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            
+            adverbs = (1
+                       for doc in self._nlp.pipe(paragraphs,
+                                                 batch_size=1,
+                                                 disable=['parser', 'ner'],
+                                                 n_process=threads)
+                       for token in doc
+                       if token.is_alpha and token.pos_ == 'ADV')
+            
+            return np.sum(adverbs)
+
+    def get_personal_pronoun_count(self, text: str, workers: int=-1) -> float:
+        '''
+        This method calculates the amount of presonal pronouns per 1000 words in a text.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        float: The amount of presonal pronouns per 1000 words.
+        '''
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            
+            if self._language == 'es': # For spanish
+                personal_pronouns = (1
+                                     for doc in self._nlp.pipe(paragraphs,
+                                                               batch_size=1,
+                                                               disable=['parser', 'ner'],
+                                                               n_process=threads)
+                                     for token in doc
+                                     if token.is_alpha and 'PronType=Prs' in token.tag_)
+            
+            return np.sum(personal_pronouns)/1000
+
+    def get_personal_pronoun_first_person_single_form_count(self, text: str, workers: int=-1) -> int:
+        '''
+        This method calculates the amount of personal pronouns in first person single form in a text.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        float: The amount of personal pronouns in first person single form.
+        '''
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            
+            if self._language == 'es': # For spanish
+                personal_pronouns = (1
+                                     for doc in self._nlp.pipe(paragraphs,
+                                                               batch_size=1,
+                                                               disable=['parser', 'ner'],
+                                                               n_process=threads)
+                                     for token in doc
+                                     if token.is_alpha and 'Number=Sing' in token.tag_ and 'Person=1' in token.tag_)
+            
+            return np.sum(personal_pronouns)
+
+    def get_personal_pronoun_first_person_plural_form_count(self, text: str, workers: int=-1) -> int:
+        '''
+        This method calculates the amount of personal pronouns in first person plural form in a text.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        int: The amount of personal pronouns in first person plural form.
+        '''
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            
+            if self._language == 'es': # For spanish
+                personal_pronouns = (1
+                                     for doc in self._nlp.pipe(paragraphs,
+                                                               batch_size=1,
+                                                               disable=['parser', 'ner'],
+                                                               n_process=threads)
+                                     for token in doc
+                                     if token.is_alpha and 'Number=Plur' in token.tag_ and 'Person=1' in token.tag_)
+            
+            return np.sum(personal_pronouns)
+
+    def get_personal_pronoun_second_person_single_form_count(self, text: str, workers: int=-1) -> int:
+        '''
+        This method calculates the amount of personal pronouns in second person single form in a text.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        int: The amount of personal pronouns in second person single form.
+        '''
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            
+            if self._language == 'es': # For spanish
+                personal_pronouns = (1
+                                     for doc in self._nlp.pipe(paragraphs,
+                                                               batch_size=1,
+                                                               disable=['parser', 'ner'],
+                                                               n_process=threads)
+                                     for token in doc
+                                     if token.is_alpha and 'Number=Sing' in token.tag_ and 'Person=2' in token.tag_)
+            
+            return np.sum(personal_pronouns)
+
+    def get_personal_pronoun_second_person_plural_form_count(self, text: str, workers: int=-1) -> int:
+        '''
+        This method calculates the amount of personal pronouns in second person plural form in a text.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        int: The amount of personal pronouns in second person plural form.
+        '''
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            
+            if self._language == 'es': # For spanish
+                personal_pronouns = (1
+                                     for doc in self._nlp.pipe(paragraphs,
+                                                               batch_size=1,
+                                                               disable=['parser', 'ner'],
+                                                               n_process=threads)
+                                     for token in doc
+                                     if token.is_alpha and 'Number=Plur' in token.tag_ and 'Person=2' in token.tag_)
+            
+            return np.sum(personal_pronouns)
+
+    def get_personal_pronoun_third_person_singular_form_count(self, text: str, workers: int=-1) -> int:
+        '''
+        This method calculates the amount of personal pronouns in third person singular form in a text.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        int: The amount of personal pronouns in third person singular form.
+        '''
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            
+            if self._language == 'es': # For spanish
+                personal_pronouns = (1
+                                     for doc in self._nlp.pipe(paragraphs,
+                                                               batch_size=1,
+                                                               disable=['parser', 'ner'],
+                                                               n_process=threads)
+                                     for token in doc
+                                     if token.is_alpha and 'Number=Sing' in token.tag_ and 'Person=3' in token.tag_)
+            
+            return np.sum(personal_pronouns)
+
+    def get_personal_pronoun_third_person_plural_form_count(self, text: str, workers: int=-1) -> int:
+        '''
+        This method calculates the amount of personal pronouns in third person plural form in a text.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        int: The amount of personal pronouns in third person plural form.
+        '''
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            
+            if self._language == 'es': # For spanish
+                personal_pronouns = (1
+                                     for doc in self._nlp.pipe(paragraphs,
+                                                               batch_size=1,
+                                                               disable=['parser', 'ner'],
+                                                               n_process=threads)
+                                     for token in doc
+                                     if token.is_alpha and 'Number=Plur' in token.tag_ and 'Person=3' in token.tag_)
+            
+            return np.sum(personal_pronouns)

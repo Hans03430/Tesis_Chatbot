@@ -13,20 +13,23 @@ def test_function(function, text):
 
 with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt/3/CTA/biodiversidad_docente.txt', 'r') as document:
     #text = document.read()
-    text = '''Documento de prueba número uno que será usado para probar las funciones.
-No se necesita hacer muchas cosas con este documento.
+    text = '''Él le dijo a ella que ustedes no vendrían a clases aquel día.
+Esto se debe a que usted nunca nos dijo nada a nosotros.
 
-Para mayor información por favor llamar al número que aparece en pantalla.
-
-¿Cómo está el día de hoy?
-
-Yo me encuentro muy bien en este bello día de verano.
-Esto se debe a que me encanta el sol
-
-
-ya que simplemente es hermoso.
-1 2 3'''
-    '''di = DescriptiveIndices('es')
+Ahora yo no se que hacer debido a que ellas no vendrán a la reunión.'''
+    di = DescriptiveIndices('es')
+    wi = WordInformationIndices('es')
+    test_function(wi.get_noun_count, text)
+    test_function(wi.get_verb_count, text)
+    test_function(wi.get_adjective_count, text)
+    test_function(wi.get_adverb_count, text)
+    test_function(wi.get_personal_pronoun_count, text)
+    test_function(wi.get_personal_pronoun_first_person_single_form_count, text)
+    test_function(wi.get_personal_pronoun_first_person_plural_form_count, text)
+    test_function(wi.get_personal_pronoun_second_person_single_form_count, text)
+    test_function(wi.get_personal_pronoun_second_person_plural_form_count, text)
+    test_function(wi.get_personal_pronoun_third_person_singular_form_count, text)
+    test_function(wi.get_personal_pronoun_third_person_plural_form_count, text)
     test_function(di.get_paragraph_count_from_text, text)
     test_function(di.get_sentence_count_from_text, text)
     test_function(di.get_word_count_from_text, text)
@@ -37,9 +40,9 @@ ya que simplemente es hermoso.
     test_function(di.get_mean_of_length_of_words, text)
     test_function(di.get_std_of_length_of_words, text)
     test_function(di.get_mean_of_syllables_per_word, text)
-    test_function(di.get_std_of_syllables_per_word, text)'''
+    test_function(di.get_std_of_syllables_per_word, text)
 
-    nlp = spacy.load('es', disable=['tagger', 'parser', 'ner'])
+    '''nlp = spacy.load('es', disable=['tagger', 'parser', 'ner'])
     nlp.add_pipe(nlp.create_pipe('sentencizer'))
     text_spacy = nlp(text)
     omg = []
@@ -47,4 +50,4 @@ ya que simplemente es hermoso.
         omg.append(sentence)
         print(sentence)
 
-    print(len(omg))
+    print(len(omg))'''
