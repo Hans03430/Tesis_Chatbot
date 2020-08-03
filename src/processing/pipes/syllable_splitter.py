@@ -7,7 +7,7 @@ from src.processing.constants import ACCEPTED_LANGUAGES, LANGUAGES_DICTIONARY_PY
 
 
 class SyllableSplitter:
-    name = 'Syllable splitter'
+    name = 'syllable splitter'
 
     def __init__(self, language: str='es') -> None:
         '''
@@ -33,7 +33,7 @@ class SyllableSplitter:
         doc(Doc): A Spacy document.
         '''
         for token in doc: # Iterate every token
-            if not token.is_punct and not token.is_digit:
+            if token.is_alpha:
                 token._.syllables = self._dic.inserted(token.text).split('-')
         
         return doc

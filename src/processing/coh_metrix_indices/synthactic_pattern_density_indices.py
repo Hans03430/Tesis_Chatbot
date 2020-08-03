@@ -7,8 +7,8 @@ import spacy
 from spacy.matcher import Matcher
 from spacy.util import filter_spans
 
-from src.processing.coh_metrix_indices.descriptive_indices import split_text_into_paragraphs
-from src.processing.coh_metrix_indices.descriptive_indices import split_text_into_sentences
+from src.processing.utils.utils import split_text_into_paragraphs
+from src.processing.utils.utils import split_text_into_sentences
 from src.processing.constants import ACCEPTED_LANGUAGES
 
 def get_noun_phrase_density(text: str, language: str='es') -> int:
