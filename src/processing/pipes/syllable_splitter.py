@@ -5,6 +5,7 @@ from spacy.tokens import Token
 
 from src.processing.constants import ACCEPTED_LANGUAGES, LANGUAGES_DICTIONARY_PYPHEN
 
+Token.set_extension('syllables', default=None, force=True)
 
 class SyllableSplitter:
     name = 'syllable splitter'
@@ -22,8 +23,8 @@ class SyllableSplitter:
         if not language in ACCEPTED_LANGUAGES:
             raise ValueError(f'Language {language} is not supported yet')
 
+        self._language = language
         self._dic = pyphen.Pyphen(lang=LANGUAGES_DICTIONARY_PYPHEN[language])
-        Token.set_extension('syllables', default=None, force=True)
 
     def __call__(self, doc: Doc) -> Doc:
         '''

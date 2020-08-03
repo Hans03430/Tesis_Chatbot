@@ -54,7 +54,6 @@ class DescriptiveIndices:
         
         return len(split_text_into_paragraphs(text))
 
-
     def get_sentence_count_from_text(self, text: str, workers: int=-1) -> int:
         """
         This function counts how many sentences a text has.
@@ -82,7 +81,6 @@ class DescriptiveIndices:
                         for sentence in doc.sents)
             
             return np.sum(sentences)
-
 
     def get_word_count_from_text(self, text: str, workers: int=-1) -> int:
         """
@@ -112,7 +110,6 @@ class DescriptiveIndices:
                            if token.is_alpha)
 
             return np.sum(total_words)
-
 
     def get_mean_of_length_of_paragraphs(self, text: str, workers: int=-1) -> float:
         """
@@ -166,7 +163,6 @@ class DescriptiveIndices:
                                                                  n_process=threads)]
 
             return np.std(sentences_per_paragraph)
-
 
     def get_mean_of_length_of_sentences(self, text: str, workers: int=-1) -> float:
         """
@@ -226,7 +222,6 @@ class DescriptiveIndices:
 
             return np.std(words_per_sentence)
 
-
     def get_mean_of_length_of_words(self, text: str, workers: int=-1) -> float:
         """
         This function returns the average amount of letters in each word.
@@ -255,7 +250,6 @@ class DescriptiveIndices:
                                 if token.is_alpha]
 
             return np.mean(letters_per_word)
-
 
     def get_std_of_length_of_words(self, text: str, workers=-1) -> float:
         """
@@ -286,7 +280,6 @@ class DescriptiveIndices:
 
             return np.std(letters_per_word)
 
-
     def get_mean_of_syllables_per_word(self, text: str, workers=-1) -> float:
         """
         This function returns the average amount of syllables in each word.
@@ -315,7 +308,6 @@ class DescriptiveIndices:
                                   if token.is_alpha and token._.syllables is not None]
 
             return np.mean(syllables_per_word)
-
 
     def get_std_of_syllables_per_word(self, text: str,  workers=-1) -> float:
         """

@@ -12,13 +12,21 @@ def test_function(function, text):
     print(f'Respuesta: {response}. Tiempo demorado: {end - start}. Function: {function}')
 
 with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt/3/CTA/biodiversidad_docente.txt', 'r') as document:
-    #text = document.read()
-    text = '''Él le dijo a ella que ustedes no vendrían a clases aquel día.
-Esto se debe a que usted nunca nos dijo nada a nosotros.
+    text = document.read()
+    #text = '''Él le dijo a ella que ustedes no vendrían a clases aquel día.
+#Esto se debe a que usted nunca nos dijo nada a nosotros.
 
-Ahora yo no se que hacer debido a que ellas no vendrán a la reunión.'''
+#Ahora yo no se que hacer debido a que ellas no vendrán a la reunión. Puede que llegue tarde.
+
+#La chica se hechó a llorar mientras que yo me pongo a estudiar. El partido está a punto de empezar.
+
+#Hoy está lloviendo mucho.'''
     di = DescriptiveIndices('es')
     wi = WordInformationIndices('es')
+    spdi = SynthacticPatternDensityIndices('es')
+    test_function(spdi.get_noun_phrase_density, text)
+    test_function(spdi.get_verb_phrase_density, text)
+    test_function(spdi.get_negative_expressions_density, text)
     test_function(wi.get_noun_count, text)
     test_function(wi.get_verb_count, text)
     test_function(wi.get_adjective_count, text)
@@ -42,12 +50,15 @@ Ahora yo no se que hacer debido a que ellas no vendrán a la reunión.'''
     test_function(di.get_mean_of_syllables_per_word, text)
     test_function(di.get_std_of_syllables_per_word, text)
 
-    '''nlp = spacy.load('es', disable=['tagger', 'parser', 'ner'])
-    nlp.add_pipe(nlp.create_pipe('sentencizer'))
+    '''nlp = spacy.load('es')
+    #nlp.add_pipe(nlp.create_pipe('sentencizer'))
     text_spacy = nlp(text)
-    omg = []
-    for sentence in text_spacy.sents:
+    omg = []'''
+    '''for sentence in text_spacy.sents:
         omg.append(sentence)
-        print(sentence)
+        print(sentence)'''
+    '''for token in text_spacy:
+        print(token.text, token.dep_)
 
-    print(len(omg))'''
+    print(len(omg))
+'''
