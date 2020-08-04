@@ -31,10 +31,10 @@ class VerbPhraseTagger:
         self._matcher = Matcher(nlp.vocab)
 
         if language == 'es': # Verb phrases for spanish
-            self._pattern = [{'POS': 'AUX', },
-                             {'POS': 'CONJ', 'OP': '*'},
+            self._pattern = [{'POS': {'IN': ['AUX', 'PROPN', 'VERB']} },
+                             {'POS': {'IN': ['SCONJ', 'CONJ']}, 'OP': '*'},
                              {'POS': 'ADP', 'TAG': 'ADP__AdpType=Prep', 'OP': '*'},
-                             {'POS': 'VERB'}] # The pattern for verb phrases in spanish
+                             {'POS': {'IN': ['AUX', 'VERB']}}] # The pattern for verb phrases in spanish
         else: # Support for future languages
             pass
 
