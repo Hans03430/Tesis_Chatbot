@@ -12,7 +12,6 @@ from spacy.util import get_lang_class
 from typing import List
 
 from src.processing.constants import ACCEPTED_LANGUAGES, LANGUAGES_DICTIONARY_PYPHEN
-from src.processing.multiprocessing_utils import parallelize_function
 from src.processing.pipes.syllable_splitter import SyllableSplitter
 from src.processing.utils.utils import split_text_into_paragraphs
 from src.processing.utils.utils import split_text_into_sentences
