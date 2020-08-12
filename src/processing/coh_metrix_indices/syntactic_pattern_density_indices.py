@@ -4,18 +4,14 @@ from typing import Tuple
 
 import spacy
 
-from spacy.matcher import Matcher
-from spacy.util import filter_spans
-
 from src.processing.constants import ACCEPTED_LANGUAGES
 from src.processing.pipes.noun_phrase_tagger import NounPhraseTagger
 from src.processing.pipes.verb_phrase_tagger import VerbPhraseTagger
 from src.processing.pipes.negative_expression_tagger import NegativeExpressionTagger
 from src.processing.utils.utils import split_text_into_paragraphs
-from src.processing.utils.utils import split_text_into_sentences
 
 
-class SynthacticPatternDensityIndices:
+class SyntacticPatternDensityIndices:
     '''
     This class will handle all operations to find the synthactic pattern density indices of a text according to Coh-Metrix.
     '''
@@ -48,7 +44,7 @@ class SynthacticPatternDensityIndices:
         workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
 
         Returns:
-        int: The ammount of noun phrases.
+        int: The amount of noun phrases.
         '''
         if len(text) == 0:
             raise ValueError('The word is empty.')
@@ -58,7 +54,7 @@ class SynthacticPatternDensityIndices:
             paragraphs = split_text_into_paragraphs(text) # Find all paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             noun_phrase_density = 0
-
+            
             for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['verb phrase tagger', 'negative expression tagger', 'ner'], n_process=threads): # Calculate with multiprocessing 
                 noun_phrase_density += len(doc._.noun_phrases)
             

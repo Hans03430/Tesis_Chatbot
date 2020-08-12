@@ -4,8 +4,9 @@ import time
 from typing import List
 from src.processing.constants import ACCEPTED_LANGUAGES
 from src.processing.coh_metrix_indices.descriptive_indices import DescriptiveIndices
-from src.processing.coh_metrix_indices.synthactic_pattern_density_indices import SynthacticPatternDensityIndices
+from src.processing.coh_metrix_indices.syntactic_pattern_density_indices import SyntacticPatternDensityIndices
 from src.processing.coh_metrix_indices.word_information_indices import WordInformationIndices
+from src.processing.coh_metrix_indices.syntactic_complexity_indices import SyntacticComplexityIndices
 
 
 class TextComplexityAnalizer:
@@ -26,8 +27,9 @@ class TextComplexityAnalizer:
             raise ValueError(f'Language {language} is not supported yet')
 
         self._di = DescriptiveIndices(language)
-        self._spdi = SynthacticPatternDensityIndices(language)
+        self._spdi = SyntacticPatternDensityIndices(language)
         self._wii = WordInformationIndices(language)
+        self._sci = SyntacticComplexityIndices(language)
 
     def analize_texts(self, files: List[str]) -> List:
         '''
@@ -70,7 +72,8 @@ class TextComplexityAnalizer:
                                     self._di.get_mean_of_length_of_words(text=text),
                                     self._di.get_std_of_length_of_words(text=text),
                                     self._di.get_mean_of_syllables_per_word(text=text),
-                                    self._di.get_std_of_syllables_per_word(text=text)])
+                                    self._di.get_std_of_syllables_per_word(text=text),
+                                    self._sci.get_mean_number_of_modifiers_per_noun_phrase(text=text)])
                     end = time.time()           
                     print(f'Tiempo demorado para este texto: {end - start} segundos.')
 

@@ -5,7 +5,11 @@ from spacy.util import filter_spans
 
 from src.processing.constants import ACCEPTED_LANGUAGES
 
-Doc.set_extension('negation_expressions', default=None, force=True)
+negation_expressions_getter = lambda doc: [doc[span['start']:span['end']]
+                                           for span in doc._.negation_expressions_span_indices]
+
+Doc.set_extension('negation_expressions_span_indices', default=[], force=True)
+Doc.set_extension('negation_expressions', force=True, getter=negation_expressions_getter)
 
 class NegativeExpressionTagger:
     '''
@@ -51,7 +55,9 @@ class NegativeExpressionTagger:
         matches = self._matcher(doc)
         negation_expression_spans = [doc[start:end] for _, start, end in matches]
 
-        doc._.negation_expressions = [span.text
-                                      for span in filter_spans(negation_expression_spans)] # Save the noun phrases found
+        doc._.negation_expressions_span_indices = [{'start': span.start,
+                                                    'end': span.end,
+                                                    'label': span.label}
+                                                   for span in filter_spans(negation_expression_spans)] # Save the noun phrases found
         
         return doc

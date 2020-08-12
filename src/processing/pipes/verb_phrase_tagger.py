@@ -5,7 +5,11 @@ from spacy.util import filter_spans
 
 from src.processing.constants import ACCEPTED_LANGUAGES
 
-Doc.set_extension('verb_phrases', default=None, force=True)
+verb_phrases_getter = lambda doc: [doc[span['start']:span['end']]
+                                   for span in doc._.verb_phrases_span_indices]
+
+Doc.set_extension('verb_phrases_span_indices', default=[], force=True)
+Doc.set_extension('verb_phrases', force=True, getter=verb_phrases_getter)
 
 class VerbPhraseTagger:
     '''
@@ -50,7 +54,9 @@ class VerbPhraseTagger:
         matches = self._matcher(doc)
         verb_phrase_spans = [doc[start:end] for _, start, end in matches]
 
-        doc._.verb_phrases = [span.text
-                              for span in filter_spans(verb_phrase_spans)] # Save the noun phrases found
+        doc._.verb_phrases_span_indices = [{'start': span.start,
+                                            'end': span.end,
+                                            'label': span.label}
+                                           for span in filter_spans(verb_phrase_spans)] # Save the noun phrases found
         
         return doc

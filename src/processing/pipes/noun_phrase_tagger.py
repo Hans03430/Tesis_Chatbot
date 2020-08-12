@@ -4,7 +4,11 @@ from spacy.util import filter_spans
 
 from src.processing.constants import ACCEPTED_LANGUAGES
 
-Doc.set_extension('noun_phrases', default=None, force=True)
+noun_phrases_getter = lambda doc: [doc[span['start']:span['end']]
+                                   for span in doc._.noun_phrases_span_indices]
+
+Doc.set_extension('noun_phrases_span_indices', force=True, default=[])
+Doc.set_extension('noun_phrases', force=True, getter=noun_phrases_getter)
 
 class NounPhraseTagger:
     '''
@@ -36,9 +40,12 @@ class NounPhraseTagger:
         '''
         noun_phrases = set()
         for nc in doc.noun_chunks: # We find the noun phrases in the entire document
+
             for np in [nc, doc[nc.root.left_edge.i:nc.root.right_edge.i+1]]:
                 noun_phrases.add(np)
 
-        doc._.noun_phrases = [span.text
-                              for span in filter_spans(noun_phrases)] # Save the noun phrases found
+        doc._.noun_phrases_span_indices = [{'start': span.start,
+                                            'end': span.end,
+                                            'label': span.label}
+                                           for span in filter_spans(noun_phrases)] # Save the noun phrases found
         return doc
