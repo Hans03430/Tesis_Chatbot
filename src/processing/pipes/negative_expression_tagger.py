@@ -34,7 +34,7 @@ class NegativeExpressionTagger:
         self._language = language
         self._matcher = Matcher(nlp.vocab)
 
-        if language == 'es': # Verb phrases for spanish
+        if language == 'es': # Negative expressions for spanish
             self._pattern = [{'POS': 'ADV', 
                             'LOWER': {
                                 'IN': ['no', 'nunca', 'jamás', 'tampoco']
@@ -43,7 +43,7 @@ class NegativeExpressionTagger:
         else: # Support for future languages
             pass
 
-        self._matcher.add('negation expression', None, self._pattern) # Add the verb phrase pattern
+        self._matcher.add('negation expression', None, self._pattern) # Add the negative expression pattern
 
     def __call__(self, doc: Doc) -> Doc:
         '''
@@ -58,6 +58,6 @@ class NegativeExpressionTagger:
         doc._.negation_expressions_span_indices = [{'start': span.start,
                                                     'end': span.end,
                                                     'label': span.label}
-                                                   for span in filter_spans(negation_expression_spans)] # Save the noun phrases found
+                                                   for span in filter_spans(negation_expression_spans)] # Save the negative expressions found
         
         return doc
