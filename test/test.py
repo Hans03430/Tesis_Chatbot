@@ -9,8 +9,12 @@ import spacy
 if __name__ == "__main__":
     documents = ['/home/hans/Documentos/Tesis_Chatbot/data/raw/txt/3/CTA/biodiversidad_docente.txt']
     tca = TextComplexityAnalizer('es')
-    results = tca.analize_texts(documents)
-    print(results)
+    descriptive, word_information, syntactic_pattern_density, syntactic_complexity, connective = tca.analize_texts(documents)
+    print(descriptive)
+    print(word_information)
+    print(syntactic_pattern_density)
+    print(syntactic_complexity)
+    print(connective)
     '''with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt/3/CTA/biodiversidad_docente.txt', 'r') as f:
         ci = ConnectiveIndices('es')
         text = f.read()

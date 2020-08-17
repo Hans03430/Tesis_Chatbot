@@ -3,6 +3,7 @@ import numpy as np
 import spacy
 
 from typing import Tuple
+
 from src.processing.coh_metrix_indices.descriptive_indices import DescriptiveIndices
 from src.processing.constants import ACCEPTED_LANGUAGES
 from src.processing.utils.utils import split_text_into_paragraphs
@@ -24,7 +25,7 @@ class WordInformationIndices:
         '''
         if not language in ACCEPTED_LANGUAGES:
             raise ValueError(f'Language {language} is not supported yet')
-        if descriptive_indices is not None and descriptive_indices.language != language:
+        elif descriptive_indices is not None and descriptive_indices.language != language:
             raise ValueError(f'The descriptive indices analyzer must be of the same language as the word information analyzer.')
         
         self.language = language
@@ -36,7 +37,7 @@ class WordInformationIndices:
         else:
             self._di = descriptive_indices
 
-    def get_noun_count(self, text: str, word_count: int=None, workers: int=-1) -> float:
+    def get_noun_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
         This method calculates the incidence of nouns in a text per {self._incidence} words.
 
@@ -67,7 +68,7 @@ class WordInformationIndices:
             
             return (np.sum(nouns) / wc) * self._incidence
 
-    def get_verb_count(self, text: str, word_count: int=None, workers: int=-1) -> float:
+    def get_verb_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
         This method calculates the incidence of verbs in a text per {self._incidence} words.
 
@@ -98,7 +99,7 @@ class WordInformationIndices:
             
             return (np.sum(verbs) / wc) * self._incidence
 
-    def get_adjective_count(self, word_count: int=None, workers: int=-1) -> float:
+    def get_adjective_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
         This method calculates the incidence of adjectives in a text per {self._incidence} words.
 
@@ -129,7 +130,7 @@ class WordInformationIndices:
             
             return (np.sum(adjectives) / wc) * self._incidence
 
-    def get_adverb_count(self, text: str, word_count: int=None, workers: int=-1) -> float:
+    def get_adverb_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
         This method calculates the incidence of adverbs in a text per {self._incidence} words.
 
@@ -160,7 +161,7 @@ class WordInformationIndices:
             
             return (np.sum(adverbs) / wc) * self._incidence
 
-    def get_personal_pronoun_count(self, text: str, word_count: int=None, workers: int=-1) -> float:
+    def get_personal_pronoun_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
         This method calculates the incidence of personal pronouns in a text per {self._incidence} words.
 
@@ -192,7 +193,7 @@ class WordInformationIndices:
             
             return (np.sum(personal_pronouns) / wc) * self._incidence
 
-    def get_personal_pronoun_first_person_singular_form_count(self, text: str, word_count: int=None, workers: int=-1) -> float:
+    def get_personal_pronoun_first_person_singular_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
         This method calculates the incidence of personal pronouns in first person and singular form in a text per {self._incidence} words.
 
@@ -224,7 +225,7 @@ class WordInformationIndices:
             
             return (np.sum(personal_pronouns) / wc) * self._incidence
 
-    def get_personal_pronoun_first_person_plural_form_count(self, text: str, word_count: int=None, workers: int=-1) -> float:
+    def get_personal_pronoun_first_person_plural_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
         This method calculates the incidence of personal pronouns in first person and plural form in a text per {self._incidence} words.
 
@@ -256,7 +257,7 @@ class WordInformationIndices:
             
             return (np.sum(personal_pronouns) / wc) * self._incidence
 
-    def get_personal_pronoun_second_person_singular_form_count(self, text: str, word_count: int=None, workers: int=-1) -> float:
+    def get_personal_pronoun_second_person_singular_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
         This method calculates the incidence of personal pronouns in second person and singular form in a text per {self._incidence} words.
 
@@ -288,7 +289,7 @@ class WordInformationIndices:
             
             return (np.sum(personal_pronouns) / wc) * self._incidence
 
-    def get_personal_pronoun_second_person_plural_form_count(self, text: str, word_count: int=None, workers: int=-1) -> float:
+    def get_personal_pronoun_second_person_plural_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
         This method calculates the incidence of personal pronouns in second person and plural form in a text per {self._incidence} words.
 
@@ -320,7 +321,7 @@ class WordInformationIndices:
             
             return (np.sum(personal_pronouns) / wc) * self._incidence
 
-    def get_personal_pronoun_third_person_singular_form_count(self, text: str, word_count: int=None, workers: int=-1) -> float:
+    def get_personal_pronoun_third_person_singular_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
         This method calculates the incidence of personal pronouns in third person and singular form in a text per {self._incidence} words.
 
@@ -352,7 +353,7 @@ class WordInformationIndices:
             
             return (np.sum(personal_pronouns) / wc) * self._incidence
 
-    def get_personal_pronoun_third_person_plural_form_count(self, text: str, word_count: int=None, workers: int=-1) -> float:
+    def get_personal_pronoun_third_person_plural_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
         This method calculates the incidence of personal pronouns in third person and plural form in a text per {self._incidence} words.
 
