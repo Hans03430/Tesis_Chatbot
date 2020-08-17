@@ -14,6 +14,7 @@ setup(
         'beautifulsoup4',
         'spacy',
         'tika',
-        'Pyphen'
+        'Pyphen',
+        'pandas'
     ]
 )

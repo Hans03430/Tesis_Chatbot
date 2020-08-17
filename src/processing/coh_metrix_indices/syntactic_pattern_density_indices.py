@@ -29,7 +29,7 @@ class SyntacticPatternDensityIndices:
         if not language in ACCEPTED_LANGUAGES:
             raise ValueError(f'Language {language} is not supported yet')
         
-        self._language = language
+        self.language = language
         self._nlp = spacy.load(language, disable=['ner'])
         self._nlp.add_pipe(NounPhraseTagger(language), after='parser')
         self._nlp.add_pipe(VerbPhraseTagger(self._nlp, language), after='noun phrase tagger')

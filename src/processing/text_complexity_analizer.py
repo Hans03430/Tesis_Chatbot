@@ -1,7 +1,8 @@
-
+import pandas as pd
 import time
 
 from typing import List
+from typing import Dict
 from src.processing.constants import ACCEPTED_LANGUAGES
 from src.processing.coh_metrix_indices.descriptive_indices import DescriptiveIndices
 from src.processing.coh_metrix_indices.syntactic_pattern_density_indices import SyntacticPatternDensityIndices
@@ -44,13 +45,14 @@ class TextComplexityAnalizer:
         List: The indices calculated for each file.
         '''
         try:
-            results = []
+            word_information = pd.DataFrame(columns=['DESPC', 'DESSC', 'DESWC', 'DESPL', 'DESPLd', 'DESSL', 'DESSLd', 'DESWLsy', 'DESWLsyd', 'DESWLlt', 'DESWLltd'])
 
             for filepath in files: # For each file
                 with open(filepath, 'r') as f:
                     text = f.read()
                     start = time.time()
-                    results.append([self._spdi.get_noun_phrase_density(text=text),
+                    word_information = word_information.append(self._calculate_descriptive_indices(text), ignore_index=True)
+                    '''results.append([self._spdi.get_noun_phrase_density(text=text),
                                     self._spdi.get_verb_phrase_density(text=text),
                                     self._spdi.get_negative_expressions_density(text=text),
                                     self._wii.get_verb_count(text=text),
@@ -81,11 +83,36 @@ class TextComplexityAnalizer:
                                     self._ci.get_adversative_connectives_incidence(text),
                                     self._ci.get_temporal_connectives_incidence(text),
                                     self._ci.get_additive_connectives_incidence(text),
-                                    self._ci.get_all_connectives_incidence(text)])
+                                    self._ci.get_all_connectives_incidence(text)])'''
                     end = time.time()        
                     filename = filepath.split('/')[-1]   
                     print(f'Tiempo demorado para {filename}: {end - start} segundos.')
 
-            return results
+            return word_information
+
         except Exception as e:
             raise e
+
+    def _calculate_descriptive_indices(self, text: str) -> Dict:
+        '''
+        This private method calculates the descriptive indices and stores them in a dictionary.
+
+        Parameters:
+        text(str): The text to be analyzed.
+
+        Returns:
+        Dict: The dictionary with the descriptive indices.
+        '''
+        indices = {}
+        indices['DESPC'] = self._di.get_paragraph_count_from_text(text=text)
+        indices['DESSC'] = self._di.get_sentence_count_from_text(text=text)
+        indices['DESWC'] = self._di.get_word_count_from_text(text=text)
+        indices['DESPL'] = self._di.get_mean_of_length_of_paragraphs(text=text)
+        indices['DESPLd'] = self._di.get_std_of_length_of_paragraphs(text=text)
+        indices['DESSL'] = self._di.get_mean_of_length_of_sentences(text=text)
+        indices['DESSLd'] = self._di.get_std_of_length_of_sentences(text=text)
+        indices['DESWLsy'] = self._di.get_mean_of_syllables_per_word(text=text)
+        indices['DESWLsyd'] = self._di.get_std_of_syllables_per_word(text=text)
+        indices['DESWLlt'] = self._di.get_mean_of_length_of_words(text=text)
+        indices['DESWLltd'] = self._di.get_std_of_length_of_words(text=text)
+        return indices

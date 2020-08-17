@@ -37,7 +37,7 @@ class ConnectiveIndices:
         if not language in ACCEPTED_LANGUAGES:
             raise ValueError(f'Language {language} is not supported yet')
         
-        self._language = language
+        self.language = language
         self._nlp = spacy.load(language, disable=['parser', 'ner'])
         self._nlp.add_pipe(CausalConnectivesTagger(self._nlp, language), after='tagger')
         self._nlp.add_pipe(LogicalConnectivesTagger(self._nlp, language), after='tagger')
