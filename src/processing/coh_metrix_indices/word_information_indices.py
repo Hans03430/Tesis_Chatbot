@@ -1,5 +1,4 @@
 import multiprocessing
-import numpy as np
 import spacy
 
 from typing import Tuple
@@ -56,17 +55,15 @@ class WordInformationIndices:
         else:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
-            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
-            
-            nouns = (1
-                     for doc in self._nlp.pipe(paragraphs,
-                                               batch_size=1,
-                                               disable=['parser', 'ner'],
-                                               n_process=threads)
-                     for token in doc
-                     if token.is_alpha and token.pos_ == 'NOUN')
-            
-            return (np.sum(nouns) / wc) * self._incidence
+            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)   
+            nouns = 0
+
+            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner'], n_process=threads):
+                for token in doc:
+                    if token.is_alpha and token.pos_ == 'NOUN':
+                        nouns += 1
+
+            return (nouns / wc) * self._incidence
 
     def get_verb_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -88,16 +85,14 @@ class WordInformationIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
+            verbs = 0
+
+            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner'], n_process=threads):
+                for token in doc:
+                    if token.is_alpha and token.pos_ == 'VERB':
+                        verbs += 1
             
-            verbs = (1
-                     for doc in self._nlp.pipe(paragraphs,
-                                               batch_size=1,
-                                               disable=['parser', 'ner'],
-                                               n_process=threads)
-                     for token in doc
-                     if token.is_alpha and token.pos_ == 'VERB')
-            
-            return (np.sum(verbs) / wc) * self._incidence
+            return (verbs / wc) * self._incidence
 
     def get_adjective_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -119,16 +114,14 @@ class WordInformationIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
+            adjectives = 0
+
+            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner'], n_process=threads):
+                for token in doc:
+                    if token.is_alpha and token.pos_ == 'ADJ':
+                        adjectives += 1
             
-            adjectives = (1
-                          for doc in self._nlp.pipe(paragraphs,
-                                                    batch_size=1,
-                                                    disable=['parser', 'ner'],
-                                                    n_process=threads)
-                          for token in doc
-                          if token.is_alpha and token.pos_ == 'ADJ')
-            
-            return (np.sum(adjectives) / wc) * self._incidence
+            return (adjectives / wc) * self._incidence
 
     def get_adverb_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -150,16 +143,14 @@ class WordInformationIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
+            adverbs = 0
+
+            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner'], n_process=threads):
+                for token in doc:
+                    if token.is_alpha and token.pos_ == 'ADV':
+                        adverbs += 1
             
-            adverbs = (1
-                       for doc in self._nlp.pipe(paragraphs,
-                                                 batch_size=1,
-                                                 disable=['parser', 'ner'],
-                                                 n_process=threads)
-                       for token in doc
-                       if token.is_alpha and token.pos_ == 'ADV')
-            
-            return (np.sum(adverbs) / wc) * self._incidence
+            return (adverbs / wc) * self._incidence
 
     def get_personal_pronoun_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -181,17 +172,15 @@ class WordInformationIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
+            personal_pronouns = 0
             
             if self.language == 'es': # For spanish
-                personal_pronouns = (1
-                                     for doc in self._nlp.pipe(paragraphs,
-                                                               batch_size=1,
-                                                               disable=['parser', 'ner'],
-                                                               n_process=threads)
-                                     for token in doc
-                                     if token.is_alpha and 'PronType=Prs' in token.tag_)
+                for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner'], n_process=threads):
+                    for token in doc:
+                        if token.is_alpha and 'PronType=Prs' in token.tag_:
+                            personal_pronouns = 0
             
-            return (np.sum(personal_pronouns) / wc) * self._incidence
+            return (personal_pronouns / wc) * self._incidence
 
     def get_personal_pronoun_first_person_singular_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -213,17 +202,15 @@ class WordInformationIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
+            personal_pronouns = 0
             
             if self.language == 'es': # For spanish
-                personal_pronouns = (1
-                                     for doc in self._nlp.pipe(paragraphs,
-                                                               batch_size=1,
-                                                               disable=['parser', 'ner'],
-                                                               n_process=threads)
-                                     for token in doc
-                                     if token.is_alpha and 'Number=Sing' in token.tag_ and 'Person=1' in token.tag_)
+                for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner'], n_process=threads):
+                    for token in doc:
+                        if token.is_alpha and 'Number=Sing' in token.tag_ and 'Person=1' in token.tag_:
+                            personal_pronouns += 1
             
-            return (np.sum(personal_pronouns) / wc) * self._incidence
+            return (personal_pronouns / wc) * self._incidence
 
     def get_personal_pronoun_first_person_plural_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -245,17 +232,15 @@ class WordInformationIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
+            personal_pronouns = 0
             
             if self.language == 'es': # For spanish
-                personal_pronouns = (1
-                                     for doc in self._nlp.pipe(paragraphs,
-                                                               batch_size=1,
-                                                               disable=['parser', 'ner'],
-                                                               n_process=threads)
-                                     for token in doc
-                                     if token.is_alpha and 'Number=Plur' in token.tag_ and 'Person=1' in token.tag_)
+                for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner'], n_process=threads):
+                    for token in doc:
+                        if token.is_alpha and 'Number=Plur' in token.tag_ and 'Person=1' in token.tag_:
+                            personal_pronouns += 1
             
-            return (np.sum(personal_pronouns) / wc) * self._incidence
+            return (personal_pronouns / wc) * self._incidence
 
     def get_personal_pronoun_second_person_singular_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -277,17 +262,15 @@ class WordInformationIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
+            personal_pronouns = 0
             
             if self.language == 'es': # For spanish
-                personal_pronouns = (1
-                                     for doc in self._nlp.pipe(paragraphs,
-                                                               batch_size=1,
-                                                               disable=['parser', 'ner'],
-                                                               n_process=threads)
-                                     for token in doc
-                                     if token.is_alpha and 'Number=Sing' in token.tag_ and 'Person=2' in token.tag_)
+                for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner'], n_process=threads):
+                    for token in doc:
+                        if token.is_alpha and 'Number=Sing' in token.tag_ and 'Person=2' in token.tag_:
+                            personal_pronouns += 1
             
-            return (np.sum(personal_pronouns) / wc) * self._incidence
+            return (personal_pronouns / wc) * self._incidence
 
     def get_personal_pronoun_second_person_plural_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -309,17 +292,18 @@ class WordInformationIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
+            personal_pronouns = 0
             
             if self.language == 'es': # For spanish
-                personal_pronouns = (1
-                                     for doc in self._nlp.pipe(paragraphs,
-                                                               batch_size=1,
-                                                               disable=['parser', 'ner'],
-                                                               n_process=threads)
-                                     for token in doc
-                                     if token.is_alpha and 'Number=Plur' in token.tag_ and 'Person=2' in token.tag_)
+                for doc in self._nlp.pipe(paragraphs,
+                                        batch_size=1,
+                                        disable=['parser', 'ner'],
+                                        n_process=threads):
+                    for token in doc:
+                        if token.is_alpha and 'Number=Plur' in token.tag_ and 'Person=2' in token.tag_:
+                            personal_pronouns += 1
             
-            return (np.sum(personal_pronouns) / wc) * self._incidence
+            return (personal_pronouns / wc) * self._incidence
 
     def get_personal_pronoun_third_person_singular_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -341,17 +325,15 @@ class WordInformationIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
+            personal_pronouns = 0
             
             if self.language == 'es': # For spanish
-                personal_pronouns = (1
-                                     for doc in self._nlp.pipe(paragraphs,
-                                                               batch_size=1,
-                                                               disable=['parser', 'ner'],
-                                                               n_process=threads)
-                                     for token in doc
-                                     if token.is_alpha and 'Number=Sing' in token.tag_ and 'Person=3' in token.tag_)
-            
-            return (np.sum(personal_pronouns) / wc) * self._incidence
+                for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner'], n_process=threads):
+                    for token in doc:
+                        if token.is_alpha and 'Number=Sing' in token.tag_ and 'Person=3' in token.tag_:
+                            personal_pronouns += 1
+
+            return (personal_pronouns / wc) * self._incidence
 
     def get_personal_pronoun_third_person_plural_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -373,14 +355,12 @@ class WordInformationIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
+            personal_pronouns = 0
             
             if self.language == 'es': # For spanish
-                personal_pronouns = (1
-                                     for doc in self._nlp.pipe(paragraphs,
-                                                               batch_size=1,
-                                                               disable=['parser', 'ner'],
-                                                               n_process=threads)
-                                     for token in doc
-                                     if token.is_alpha and 'Number=Plur' in token.tag_ and 'Person=3' in token.tag_)
+                for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner'], n_process=threads):
+                    for token in doc:
+                        if token.is_alpha and 'Number=Plur' in token.tag_ and 'Person=3' in token.tag_:
+                            personal_pronouns += 1
             
-            return (np.sum(personal_pronouns) / wc) * self._incidence
+            return (personal_pronouns / wc) * self._incidence

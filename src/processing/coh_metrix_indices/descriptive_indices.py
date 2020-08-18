@@ -1,15 +1,7 @@
 import multiprocessing
 import numpy as np
-import pyphen
 import spacy
-import statistics
 import string
-
-from itertools import chain
-from itertools import repeat
-from spacy.lang.es import Spanish
-from spacy.util import get_lang_class
-from typing import List
 
 from src.processing.constants import ACCEPTED_LANGUAGES, LANGUAGES_DICTIONARY_PYPHEN
 from src.processing.pipes.syllable_splitter import SyllableSplitter
@@ -70,16 +62,14 @@ class DescriptiveIndices:
             raise ValueError('Workers must be -1 or any positive number greater than 0')
         else:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
-            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            threads = multiprocessing.cpu_count() if workers == -1 else workers  
+            sentences = 0
+
+            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['syllable splitter', 'parser', 'tagger', 'ner'], n_process=threads):
+                for sentence in doc.sents:
+                    sentences += 1
             
-            sentences = (1
-                        for doc in self._nlp.pipe(paragraphs,
-                                                  batch_size=1,
-                                                  disable=['syllable splitter', 'parser', 'tagger', 'ner'],
-                                                  n_process=threads)
-                        for sentence in doc.sents)
-            
-            return np.sum(sentences)
+            return sentences
 
     def get_word_count_from_text(self, text: str, workers: int=-1) -> int:
         """
@@ -99,16 +89,14 @@ class DescriptiveIndices:
         else:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
+            total_words = 0
 
-            total_words = (1
-                           for doc in self._nlp.pipe(paragraphs,
-                                                     batch_size=threads,
-                                                     disable=['syllable splitter', 'parser', 'tagger', 'ner'],
-                                                     n_process=threads)
-                           for token in doc
-                           if token.is_alpha)
+            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['syllable splitter', 'parser', 'tagger', 'ner'], n_process=threads):
+                for token in doc:
+                    if token.is_alpha:
+                        total_words += 1
 
-            return np.sum(total_words)
+            return total_words
 
     def get_mean_of_length_of_paragraphs(self, text: str, workers: int=-1) -> float:
         """

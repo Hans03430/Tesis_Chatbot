@@ -2,8 +2,6 @@ import multiprocessing
 
 import spacy
 
-from typing import Tuple
-
 from src.processing.coh_metrix_indices.descriptive_indices import DescriptiveIndices
 from src.processing.constants import ACCEPTED_LANGUAGES
 from src.processing.pipes.noun_phrase_tagger import NounPhraseTagger

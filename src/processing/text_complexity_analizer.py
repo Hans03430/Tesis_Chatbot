@@ -1,14 +1,14 @@
-import pandas as pd
 import time
 
-from typing import List
 from typing import Dict
 from src.processing.constants import ACCEPTED_LANGUAGES
+from src.processing.coh_metrix_indices.connective_indices import ConnectiveIndices
 from src.processing.coh_metrix_indices.descriptive_indices import DescriptiveIndices
+from src.processing.coh_metrix_indices.lexical_diversity_indices import LexicalDiversityIndices
+from src.processing.coh_metrix_indices.readability_indices import ReadabilityIndices
+from src.processing.coh_metrix_indices.syntactic_complexity_indices import SyntacticComplexityIndices
 from src.processing.coh_metrix_indices.syntactic_pattern_density_indices import SyntacticPatternDensityIndices
 from src.processing.coh_metrix_indices.word_information_indices import WordInformationIndices
-from src.processing.coh_metrix_indices.syntactic_complexity_indices import SyntacticComplexityIndices
-from src.processing.coh_metrix_indices.connective_indices import ConnectiveIndices
 
 
 class TextComplexityAnalizer:
@@ -27,53 +27,19 @@ class TextComplexityAnalizer:
         '''
         if not language in ACCEPTED_LANGUAGES:
             raise ValueError(f'Language {language} is not supported yet')
-
+        
+        self.language = language
         self._di = DescriptiveIndices(language)
         self._spdi = SyntacticPatternDensityIndices(language, self._di)
         self._wii = WordInformationIndices(language, self._di)
         self._sci = SyntacticComplexityIndices(language)
         self._ci = ConnectiveIndices(language)
+        self._ldi = LexicalDiversityIndices(language)
+        self._ri = ReadabilityIndices(language)
 
-    def analize_texts(self, files: List[str]) -> List:
+    def calculate_descriptive_indices_for_one_text(self, text: str) -> Dict:
         '''
-        This method will calculate all the metrics for a group of files.
-
-        Parameters:
-        files(List[str]): A list of the absolute paths to the files to analize.
-
-        Returns:
-        List: The indices calculated for each file.
-        '''
-        try:
-            descriptive = pd.DataFrame(columns=['DESPC', 'DESSC', 'DESWC', 'DESPL', 'DESPLd', 'DESSL', 'DESSLd', 'DESWLsy', 'DESWLsyd', 'DESWLlt', 'DESWLltd'])
-            word_information = pd.DataFrame(columns=['WRDNOUN', 'WRDVERB', 'WRDADJ', 'WRDADV', 'WRDPRO', 'WRDPRP1s', 'WRDPRP1p', 'WRDPRP2s', 'WRDPRP2p', 'WRDPRP3s', 'WRDPRP3p'])
-            syntactic_pattern_density = pd.DataFrame(columns=['DRNP', 'DRVP', 'DRNEG'])
-            syntactic_complexity = pd.DataFrame(columns=['SYNNP'])
-            connective = pd.DataFrame(columns=['CNCAll', 'CNCCaus', 'CNCLogic', 'CNCADC', 'CNCTemp', 'CNCAdd'])
-            
-            for filepath in files: # For each file
-                with open(filepath, 'r') as f:
-                    text = f.read()
-                    start = time.time()
-                    descriptive_row = self._calculate_descriptive_indices_for_one_text(text)
-                    word_count = descriptive_row['DESWC']
-                    descriptive = descriptive.append(descriptive_row, ignore_index=True)
-                    word_information = word_information.append(self._calculate_word_information_indices_for_one_text(text, word_count), ignore_index=True)
-                    syntactic_pattern_density = syntactic_pattern_density.append(self._calculate_syntactic_pattern_density_indices_for_one_text(text, word_count), ignore_index=True)
-                    syntactic_complexity = syntactic_complexity.append(self._calculate_syntactic_complexity_indices(text), ignore_index=True)
-                    connective = connective.append(self._calculate_connective_indices(text, word_count), ignore_index=True)
-                    end = time.time()        
-                    filename = filepath.split('/')[-1]   
-                    print(f'Tiempo demorado para {filename}: {end - start} segundos.')
-
-            return descriptive, word_information, syntactic_pattern_density, syntactic_complexity, connective
-
-        except Exception as e:
-            raise e
-
-    def _calculate_descriptive_indices_for_one_text(self, text: str) -> Dict:
-        '''
-        This private method calculates the descriptive indices and stores them in a dictionary.
+        This method calculates the descriptive indices and stores them in a dictionary.
 
         Parameters:
         text(str): The text to be analyzed.
@@ -95,9 +61,9 @@ class TextComplexityAnalizer:
         indices['DESWLltd'] = self._di.get_std_of_length_of_words(text=text)
         return indices
 
-    def _calculate_word_information_indices_for_one_text(self, text: str, word_count: int=None) -> Dict:
+    def calculate_word_information_indices_for_one_text(self, text: str, word_count: int=None) -> Dict:
         '''
-        This private method calculates the descriptive indices and stores them in a dictionary.
+        This method calculates the descriptive indices and stores them in a dictionary.
 
         Parameters:
         text(str): The text to be analyzed.
@@ -121,9 +87,9 @@ class TextComplexityAnalizer:
         
         return indices
 
-    def _calculate_syntactic_pattern_density_indices_for_one_text(self, text: str, word_count: int=None) -> Dict:
+    def calculate_syntactic_pattern_density_indices_for_one_text(self, text: str, word_count: int=None) -> Dict:
         '''
-        This private method calculates the syntactic pattern indices and stores them in a dictionary.
+        This method calculates the syntactic pattern indices and stores them in a dictionary.
 
         Parameters:
         text(str): The text to be analyzed.
@@ -139,9 +105,9 @@ class TextComplexityAnalizer:
 
         return indices
         
-    def _calculate_syntactic_complexity_indices(self, text: str) -> Dict:
+    def calculate_syntactic_complexity_indices(self, text: str) -> Dict:
         '''
-        This private method calculates the syntactic complexity indices and stores them in a dictionary.
+        This method calculates the syntactic complexity indices and stores them in a dictionary.
 
         Parameters:
         text(str): The text to be analyzed.
@@ -154,9 +120,9 @@ class TextComplexityAnalizer:
 
         return indices
 
-    def _calculate_connective_indices(self, text: str, word_count: int=None) -> Dict:
+    def calculate_connective_indices(self, text: str, word_count: int=None) -> Dict:
         '''
-        This private method calculates the connectives indices and stores them in a dictionary.
+        This method calculates the connectives indices and stores them in a dictionary.
 
         Parameters:
         text(str): The text to be analyzed.
@@ -172,5 +138,41 @@ class TextComplexityAnalizer:
         indices['CNCADC'] = self._ci.get_adversative_connectives_incidence(text=text, word_count=word_count)
         indices['CNCTemp'] = self._ci.get_temporal_connectives_incidence(text=text, word_count=word_count)
         indices['CNCAdd'] = self._ci.get_additive_connectives_incidence(text=text, word_count=word_count)
+
+        return indices
+
+    def calculate_lexical_diversity_density_indices_for_one_text(self, text: str) -> Dict:
+        '''
+        This method calculates the lexical diversity indices and stores them in a dictionary.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        word_count(int): The amount of words that the current text has in order to calculate the incidence.
+
+        Returns:
+        Dict: The dictionary with the lexical diversity indices.
+        '''
+        indices = {}
+        indices['LDTTRa'] = self._ldi.get_type_token_ratio_between_all_words(text=text)
+        indices['LDTTRcw'] = self._ldi.get_type_token_ratio_of_content_words(text=text)
+
+        return indices
+
+    def calculate_readability_indices(self, text: str, mean_syllables_per_word: int=None, mean_words_per_sentence: int=None) -> Dict:
+        '''
+        This method calculates the readability indices and stores them in a dictionary.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        mean_syllables_per_word(int): The mean of syllables per word in the text.
+        mean_words_per_sentence(int): The mean amount of words per sentences in the text.
+
+        Returns:
+        Dict: The dictionary with the readability indices.
+        '''
+        indices = {}
+        
+        if self.language == 'es':
+            indices['RDFHGL'] = self._ri.calculate_fernandez_huertas_grade_level(text=text, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word)
 
         return indices
