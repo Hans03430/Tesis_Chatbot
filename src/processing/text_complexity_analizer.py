@@ -101,7 +101,7 @@ class TextComplexityAnalizer:
         indices = {}
         indices['DRNP'] = self._spdi.get_noun_phrase_density(text=text, word_count=word_count)
         indices['DRVP'] = self._spdi.get_verb_phrase_density(text=text, word_count=word_count)
-        indices['DRNEG'] = self._spdi.get_negative_expressions_density(text=text, word_count=word_count)
+        indices['DRNEG'] = self._spdi.get_negation_expressions_density(text=text, word_count=word_count)
 
         return indices
         

@@ -4,6 +4,8 @@ import spacy
 import statistics
 import string
 
+from typing import Callable
+from typing import List
 from src.processing.coh_metrix_indices.descriptive_indices import DescriptiveIndices
 from src.processing.constants import ACCEPTED_LANGUAGES, LANGUAGES_DICTIONARY_PYPHEN
 from src.processing.pipes.causal_connectives_tagger import CausalConnectivesTagger
@@ -46,17 +48,19 @@ class ConnectiveIndices:
         else:
             self._di = descriptive_indices
 
-    def get_causal_connectives_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
+    def _get_connectives_incidence(self, text: str, disable_pipeline: List, count_connectives_function: Callable, word_count: int=None, workers: int=-1) -> float:
         """
-        This method returns the incidence per {self._incidence} words for causal connectives.
+        This method returns the incidence per {self._incidence} words for any connectives.
 
         Parameters:
         text(str): The text to be analyzed.
+        disable_pipeline(List): The elements of the pipeline to be disabled.
+        count_connectives_function(Callable): The function that counts any type of connectives. It takes a Spacy Doc and returns an integer.
         word_count(int): The amount of words in the text.
         workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
 
         Returns:
-        float: The incidence of causal connectives per {self._incidence} words.
+        float: The incidence of any connectives per {self._incidence} words.
         """
         if len(text) == 0:
             raise ValueError('The text is empty.')
@@ -69,10 +73,27 @@ class ConnectiveIndices:
             
             connectives = 0
             
-            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner', 'logical connective tagger', 'adversative connective tagger', 'temporal connective tagger', 'additive connective tagger'], n_process=threads):
-                connectives += len(doc._.causal_connectives)
+            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
+                connectives += count_connectives_function(doc)
 
             return (connectives / wc) * self._incidence
+
+    def get_causal_connectives_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
+        """
+        This method returns the incidence per {self._incidence} words for causal connectives.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        word_count(int): The amount of words in the text.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        float: The incidence of causal connectives per {self._incidence} words.
+        """
+        disable_pipeline = ['parser', 'ner', 'logical connective tagger', 'adversative connective tagger', 'temporal connective tagger', 'additive connective tagger']
+        causal_connectives_counter = lambda doc: len(doc._.causal_connectives)
+        
+        return self._get_connectives_incidence(text, disable_pipeline=disable_pipeline, count_connectives_function=causal_connectives_counter, workers=workers)
 
     def get_logical_connectives_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         """
@@ -86,20 +107,10 @@ class ConnectiveIndices:
         Returns:
         float: The incidence of logical connectives per {self._incidence} words.
         """
-        if len(text) == 0:
-            raise ValueError('The text is empty.')
-        elif workers == 0 or workers < -1:
-            raise ValueError('Workers must be -1 or any positive number greater than 0')
-        else:
-            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
-            threads = multiprocessing.cpu_count() if workers == -1 else workers
-            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
-            connectives = 0
-
-            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner', 'causal connective tagger', 'adversative connective tagger', 'temporal connective tagger', 'additive connective tagger'], n_process=threads):
-                connectives += len(doc._.logical_connectives)
-
-            return (connectives / wc) * self._incidence
+        disable_pipeline = ['parser', 'ner', 'causal connective tagger', 'adversative connective tagger', 'temporal connective tagger', 'additive connective tagger']
+        logical_connectives_counter = lambda doc: len(doc._.logical_connectives)
+        
+        return self._get_connectives_incidence(text, disable_pipeline=disable_pipeline, count_connectives_function=logical_connectives_counter, workers=workers)
 
     def get_adversative_connectives_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         """
@@ -113,21 +124,10 @@ class ConnectiveIndices:
         Returns:
         float: The incidence of adversative connectives per {self._incidence} words.
         """
-        if len(text) == 0:
-            raise ValueError('The text is empty.')
-        elif workers == 0 or workers < -1:
-            raise ValueError('Workers must be -1 or any positive number greater than 0')
-        else:
-            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
-            threads = multiprocessing.cpu_count() if workers == -1 else workers
-            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
-
-            connectives = 0
-            
-            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner', 'causal connective tagger', 'logical connective tagger', 'temporal connective tagger', 'additive connective tagger'], n_process=threads):
-                connectives += len(doc._.adversative_connectives)
-
-            return (connectives / wc) * self._incidence
+        disable_pipeline = ['parser', 'ner', 'causal connective tagger', 'logical connective tagger', 'temporal connective tagger', 'additive connective tagger']
+        adversative_connectives_counter = lambda doc: len(doc._.adversative_connectives)
+        
+        return self._get_connectives_incidence(text, disable_pipeline=disable_pipeline, count_connectives_function=adversative_connectives_counter, workers=workers)
 
     def get_temporal_connectives_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         """
@@ -141,20 +141,10 @@ class ConnectiveIndices:
         Returns:
         float: The incidence of temporal connectives per {self._incidence} words.
         """
-        if len(text) == 0:
-            raise ValueError('The text is empty.')
-        elif workers == 0 or workers < -1:
-            raise ValueError('Workers must be -1 or any positive number greater than 0')
-        else:
-            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
-            threads = multiprocessing.cpu_count() if workers == -1 else workers
-            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
-            connectives = 0
-
-            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner', 'causal connective tagger', 'logical connective tagger', 'adversative connective tagger', 'additive connective tagger'], n_process=threads):
-                connectives += len(doc._.temporal_connectives)
-
-            return (connectives / wc) * self._incidence
+        disable_pipeline = ['parser', 'ner', 'causal connective tagger', 'logical connective tagger', 'adversative connective tagger', 'additive connective tagger']
+        temporal_connectives_counter = lambda doc: len(doc._.temporal_connectives)
+        
+        return self._get_connectives_incidence(text, disable_pipeline=disable_pipeline, count_connectives_function=temporal_connectives_counter, workers=workers)
 
     def get_additive_connectives_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         """
@@ -168,20 +158,11 @@ class ConnectiveIndices:
         Returns:
         float: The incidence of additive connectives per {self._incidence} words.
         """
-        if len(text) == 0:
-            raise ValueError('The text is empty.')
-        elif workers == 0 or workers < -1:
-            raise ValueError('Workers must be -1 or any positive number greater than 0')
-        else:
-            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
-            threads = multiprocessing.cpu_count() if workers == -1 else workers
-            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
-            connectives = 0
-            
-            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner', 'causal connective tagger', 'logical connective tagger', 'adversative connective tagger', 'temporal connective tagger'],  n_process=threads):
-                connectives += len(doc._.additive_connectives)
-            
-            return (connectives / wc) * self._incidence
+        disable_pipeline = ['parser', 'ner', 'causal connective tagger', 'logical connective tagger', 'adversative connective tagger', 'temporal connective tagger']
+        additive_connectives_counter = lambda doc: len(doc._.additive_connectives)
+        
+        return self._get_connectives_incidence(text, disable_pipeline=disable_pipeline, count_connectives_function=additive_connectives_counter, workers=workers)
+
 
     def get_all_connectives_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         """
@@ -195,17 +176,7 @@ class ConnectiveIndices:
         Returns:
         float: The incidence of all connectives per {self._incidence} words.
         """
-        if len(text) == 0:
-            raise ValueError('The text is empty.')
-        elif workers == 0 or workers < -1:
-            raise ValueError('Workers must be -1 or any positive number greater than 0')
-        else:
-            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
-            threads = multiprocessing.cpu_count() if workers == -1 else workers
-            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
-            connectives = 0
-            
-            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['parser', 'ner'], n_process=threads):
-                connectives += len(doc._.causal_connectives) + len(doc._.logical_connectives) + len(doc._.adversative_connectives) + len(doc._.temporal_connectives) + len(doc._.additive_connectives)
-            
-            return (connectives / wc) * self._incidence
+        disable_pipeline = ['parser', 'ner']
+        all_connectives_counter = lambda doc: len(doc._.causal_connectives) + len(doc._.logical_connectives) + len(doc._.adversative_connectives) + len(doc._.temporal_connectives) + len(doc._.additive_connectives)
+        
+        return self._get_connectives_incidence(text, disable_pipeline=disable_pipeline, count_connectives_function=all_connectives_counter, workers=workers)

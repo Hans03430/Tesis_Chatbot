@@ -2,6 +2,8 @@ import multiprocessing
 
 import spacy
 
+from typing import Callable
+from typing import List
 from src.processing.coh_metrix_indices.descriptive_indices import DescriptiveIndices
 from src.processing.constants import ACCEPTED_LANGUAGES
 from src.processing.pipes.noun_phrase_tagger import NounPhraseTagger
@@ -43,6 +45,35 @@ class SyntacticPatternDensityIndices:
         else:
             self._di = descriptive_indices
 
+    def _get_syntactic_pattern_density(self, text: str, disable_pipeline: List, sp_counter_function: Callable=None, word_count: int=None, workers: int=-1) -> int:
+        '''
+        This function obtains the incidence of a syntactic pattern that exist on a text per {self._incidence} words.
+
+        Parameters:
+        text(str): The text to be analized.
+        disable_pipeline(List): The pipeline elements to be disabled.
+        sp_counter_function(Callable): The function that counts a syntactic pattern for a Spacy document. It returns an integer.
+        word_count(int): The amount of words in the text.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        int: The incidence of a syntactic pattern per {self._incidence} words.
+        '''
+        if len(text) == 0:
+            raise ValueError('The word is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Find all paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)            
+            density = 0
+            
+            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads): # Calculate with multiprocessing 
+                density += sp_counter_function(doc)
+            
+            return (density / wc) * self._incidence
+
     def get_noun_phrase_density(self, text: str, word_count: int=None, workers: int=-1) -> int:
         '''
         This function obtains the incidence of noun phrases that exist on a text per {self._incidence} words.
@@ -55,20 +86,10 @@ class SyntacticPatternDensityIndices:
         Returns:
         int: The incidence of noun phrases per {self._incidence} words.
         '''
-        if len(text) == 0:
-            raise ValueError('The word is empty.')
-        elif workers == 0 or workers < -1:
-            raise ValueError('Workers must be -1 or any positive number greater than 0')
-        else:
-            paragraphs = split_text_into_paragraphs(text) # Find all paragraphs
-            threads = multiprocessing.cpu_count() if workers == -1 else workers
-            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)            
-            noun_phrase_density = 0
-            
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['verb phrase tagger', 'negative expression tagger', 'ner'], n_process=threads): # Calculate with multiprocessing 
-                noun_phrase_density += len(doc._.noun_phrases)
-            
-            return (noun_phrase_density / wc) * self._incidence
+        count_noun_phrases = lambda doc: len(doc._.noun_phrases)
+        disable_pipeline = ['verb phrase tagger', 'negative expression tagger', 'ner']
+
+        return self._get_syntactic_pattern_density(text, disable_pipeline=disable_pipeline, sp_counter_function=count_noun_phrases, workers=workers)
 
     def get_verb_phrase_density(self, text: str, word_count: int=None, workers: int=-1) -> int:
         '''
@@ -82,25 +103,14 @@ class SyntacticPatternDensityIndices:
         Returns:
         int: The incidence of verb phrases per {self._incidence} words.
         '''
-        if len(text) == 0:
-            raise ValueError('The word is empty.')
-        elif workers == 0 or workers < -1:
-            raise ValueError('Workers must be -1 or any positive number greater than 0')
-        else:
-            paragraphs = split_text_into_paragraphs(text) # Find all paragraphs
-            threads = multiprocessing.cpu_count() if workers == -1 else workers
-            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)            
-            verb_phrases_density = 0
+        count_verb_phrases = lambda doc: len(doc._.verb_phrases)
+        disable_pipeline = ['noun phrase tagger', 'negative expression tagger', 'parser', 'ner']
 
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['noun phrase tagger', 'negative expression tagger', 'parser', 'ner'], n_process=threads): # Calculate with multiprocessing
-                verb_phrases_density += len(doc._.verb_phrases)
-
-            return (verb_phrases_density / wc) * self._incidence
+        return self._get_syntactic_pattern_density(text, disable_pipeline=disable_pipeline, sp_counter_function=count_verb_phrases, workers=workers)
             
-
-    def get_negative_expressions_density(self, text: str, word_count: int=None, workers: int=-1) -> int:
+    def get_negation_expressions_density(self, text: str, word_count: int=None, workers: int=-1) -> int:
         '''
-        This function obtains the incidence of negative expressions that exist on a text per {self._incidence} words.
+        This function obtains the incidence of negation expressions that exist on a text per {self._incidence} words.
 
         Parameters:
         text(str): The text to be analized.
@@ -108,19 +118,9 @@ class SyntacticPatternDensityIndices:
         workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
 
         Returns:
-        int: The incidence of negative expressions per {self._incidence} words.
+        int: The incidence of negation expressions per {self._incidence} words.
         '''
-        if len(text) == 0:
-            raise ValueError('The word is empty.')
-        elif workers == 0 or workers < -1:
-            raise ValueError('Workers must be -1 or any positive number greater than 0')
-        else:
-            paragraphs = split_text_into_paragraphs(text) # Find all paragraphs
-            threads = multiprocessing.cpu_count() if workers == -1 else workers
-            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)            
-            negative_expressions_density = 0
+        count_negation_expressions = lambda doc: len(doc._.negation_expressions)
+        disable_pipeline = ['verb phrase tagger', 'noun phrase tagger', 'parser', 'ner']
 
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['verb phrase tagger', 'noun phrase tagger', 'parser', 'ner'], n_process=threads): # Calculate with multiprocessing
-                negative_expressions_density += len(doc._.negation_expressions)
-
-            return (negative_expressions_density / wc) * self._incidence
+        return self._get_syntactic_pattern_density(text, disable_pipeline=disable_pipeline, sp_counter_function=count_negation_expressions, workers=workers)
