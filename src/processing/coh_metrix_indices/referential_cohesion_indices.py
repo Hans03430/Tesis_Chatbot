@@ -78,7 +78,7 @@ class ReferentialCohesionIndices:
             
             return stat_results
 
-    def _calculate_overlap_for_all_sentences(self, text: str, disable_pipeline: List, sentence_analizer: Callable, statistic_type: str='mean', workers: int=-1) -> StatisticsResults:
+    def _calculate_overlap_for_all_sentences(self, text: str, disable_pipeline: List, sentence_analizer: Callable, statistic_type: str='all', workers: int=-1) -> StatisticsResults:
         '''
         This method calculates the overlap for all sentences in a text.
 
@@ -121,7 +121,7 @@ class ReferentialCohesionIndices:
         else:
             if statistic_type in ['mean', 'all']:
                 stat_results.mean = np.mean(results)
-                
+
             if statistic_type in ['std', 'all']:
                 stat_results.std = np.std(results)
             
@@ -239,6 +239,33 @@ class ReferentialCohesionIndices:
         disable_pipeline = ['parser', 'ner']
         return self._calculate_overlap_for_all_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analizer=analize_stem_overlap, statistic_type='all')
 
+    def get_anaphore_overlap_adjacent_sentences(self, text: str, workers: int=-1) -> float:
+        '''
+        This method calculates the mean of the anaphore overlap for adjacent sentences in a text.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        float: The mean mean of the anaphore overlap.
+        '''
+        disable_pipeline = ['parser', 'ner']
+        return self._calculate_overlap_for_adjacent_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analizer=analize_anaphore_overlap, statistic_type='all').mean
+
+    def get_anaphore_overlap_all_sentences(self, text: str, workers: int=-1) -> float:
+        '''
+        This method calculates the mean of the anaphore overlap for all sentences in a text.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        float: The mean mean of the anaphore overlap.
+        '''
+        disable_pipeline = ['parser', 'ner']
+        return self._calculate_overlap_for_all_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analizer=analize_anaphore_overlap, statistic_type='all').mean
 
 def analize_noun_overlap(prev_sentence: Span, cur_sentence: Span) -> int:
     '''
@@ -331,3 +358,23 @@ def analize_content_word_overlap(prev_sentence: Span, cur_sentence: Span) -> int
                 matches += 1 # There's cohesion
 
         return matches / total_tokens
+
+
+def analize_anaphore_overlap(prev_sentence: Span, cur_sentence: Span) -> int:
+    '''
+    This function analyzes whether or not there's anaphore overlap between two sentences.
+
+    Parameters:
+    prev_sentence(Span): The previous sentence to analyze.
+    cur_sentence(Span): The current sentence to analyze
+    '''
+    # Place the tokens in a dictionary for search efficiency
+    prev_sentence_pronoun_tokens = {token.text.lower(): None
+                                    for token in prev_sentence
+                                    if token.is_alpha and token.pos_ == 'PRON'}
+
+    for token in cur_sentence:
+        if token.is_alpha and token.pos_ == 'PRON' and token.text.lower() in prev_sentence_pronoun_tokens:
+            return 1 # There's cohesion
+
+    return 0 # No cohesion

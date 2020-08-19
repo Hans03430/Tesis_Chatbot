@@ -53,14 +53,18 @@ class TextComplexityAnalizer:
         indices['DESPC'] = self._di.get_paragraph_count_from_text(text=text)
         indices['DESSC'] = self._di.get_sentence_count_from_text(text=text)
         indices['DESWC'] = self._di.get_word_count_from_text(text=text)
-        indices['DESPL'] = self._di.get_mean_of_length_of_paragraphs(text=text)
-        indices['DESPLd'] = self._di.get_std_of_length_of_paragraphs(text=text)
-        indices['DESSL'] = self._di.get_mean_of_length_of_sentences(text=text)
-        indices['DESSLd'] = self._di.get_std_of_length_of_sentences(text=text)
-        indices['DESWLsy'] = self._di.get_mean_of_syllables_per_word(text=text)
-        indices['DESWLsyd'] = self._di.get_std_of_syllables_per_word(text=text)
-        indices['DESWLlt'] = self._di.get_mean_of_length_of_words(text=text)
-        indices['DESWLltd'] = self._di.get_std_of_length_of_words(text=text)
+        length_of_paragraph = self._di.get_length_of_paragraphs(text=text)
+        indices['DESPL'] = length_of_paragraph.mean
+        indices['DESPLd'] = length_of_paragraph.std
+        length_of_sentences = self._di.get_length_of_sentences(text=text)
+        indices['DESSL'] = length_of_sentences.mean
+        indices['DESSLd'] = length_of_sentences.std
+        syllables_per_word = self._di.get_syllables_per_word(text=text)
+        indices['DESWLsy'] = syllables_per_word.mean
+        indices['DESWLsyd'] = syllables_per_word.std
+        length_of_words = self._di.get_length_of_words(text=text)
+        indices['DESWLlt'] = length_of_words.mean
+        indices['DESWLltd'] = length_of_words.std
         return indices
 
     def calculate_word_information_indices_for_one_text(self, text: str, word_count: int=None) -> Dict:
@@ -119,6 +123,7 @@ class TextComplexityAnalizer:
         '''
         indices = {}
         indices['SYNNP'] = self._sci.get_mean_number_of_modifiers_per_noun_phrase(text=text)
+        indices['SYNLE'] = self._sci.get_mean_number_of_words_before_main_verb(text=text)
 
         return indices
 
@@ -202,5 +207,7 @@ class TextComplexityAnalizer:
         content_word_overlap_all = self._rci.get_content_word_overlap_all_sentences(text=text)
         indices['CRFCWOa'] = content_word_overlap_all.mean
         indices['CRFCWOad'] = content_word_overlap_all.std
+        indices['CRFANP1'] = self._rci.get_anaphore_overlap_adjacent_sentences(text=text)
+        indices['CRFANPa'] = self._rci.get_anaphore_overlap_all_sentences(text=text)
 
         return indices
