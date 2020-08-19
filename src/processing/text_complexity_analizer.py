@@ -6,6 +6,7 @@ from src.processing.coh_metrix_indices.connective_indices import ConnectiveIndic
 from src.processing.coh_metrix_indices.descriptive_indices import DescriptiveIndices
 from src.processing.coh_metrix_indices.lexical_diversity_indices import LexicalDiversityIndices
 from src.processing.coh_metrix_indices.readability_indices import ReadabilityIndices
+from src.processing.coh_metrix_indices.referential_cohesion_indices import ReferentialCohesionIndices
 from src.processing.coh_metrix_indices.syntactic_complexity_indices import SyntacticComplexityIndices
 from src.processing.coh_metrix_indices.syntactic_pattern_density_indices import SyntacticPatternDensityIndices
 from src.processing.coh_metrix_indices.word_information_indices import WordInformationIndices
@@ -36,6 +37,7 @@ class TextComplexityAnalizer:
         self._ci = ConnectiveIndices(language)
         self._ldi = LexicalDiversityIndices(language)
         self._ri = ReadabilityIndices(language)
+        self._rci = ReferentialCohesionIndices(language)
 
     def calculate_descriptive_indices_for_one_text(self, text: str) -> Dict:
         '''
@@ -174,5 +176,31 @@ class TextComplexityAnalizer:
         
         if self.language == 'es':
             indices['RDFHGL'] = self._ri.calculate_fernandez_huertas_grade_level(text=text, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word)
+
+        return indices
+
+    def calculate_referential_cohesion_indices(self, text: str) -> Dict:
+        '''
+        This method calculates the referential cohesion indices and stores them in a dictionary.
+
+        Parameters:
+        text(str): The text to be analyzed.
+
+        Returns:
+        Dict: The dictionary with the readability indices.
+        '''
+        indices = {}
+        indices['CRFNO1'] = self._rci.get_noun_overlap_adjacent_sentences(text=text)
+        indices['CRFNOa'] = self._rci.get_noun_overlap_all_sentences(text=text)
+        indices['CRFAO1'] = self._rci.get_argument_overlap_adjacent_sentences(text=text)
+        indices['CRFAOa'] = self._rci.get_argument_overlap_all_sentences(text=text)
+        indices['CRFSO1'] = self._rci.get_stem_overlap_adjacent_sentences(text=text)
+        indices['CRFSOa'] = self._rci.get_stem_overlap_all_sentences(text=text)
+        content_word_overlap_adjacent = self._rci.get_content_word_overlap_adjacent_sentences(text=text)
+        indices['CRFCWO1'] = content_word_overlap_adjacent.mean
+        indices['CRFCWO1d'] = content_word_overlap_adjacent.std
+        content_word_overlap_all = self._rci.get_content_word_overlap_all_sentences(text=text)
+        indices['CRFCWOa'] = content_word_overlap_all.mean
+        indices['CRFCWOad'] = content_word_overlap_all.std
 
         return indices

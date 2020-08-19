@@ -100,6 +100,72 @@ class DescriptiveIndices:
 
             return total_words
 
+    def _get_std_of_metric(self, text: str, disable_pipeline: List, counter_function: Callable=None, workers=-1) -> float:
+        """
+        This method returns the standard deviation of a descriptive metric.
+
+        Parameters:
+        text(str): The text to be anaylized.
+        disable_pipeline(List): The pipeline elements to be disabled.
+        counter_function(Callable): This callable will calculate the values to add to the counter array in order to calculate the standard deviation. It receives a Spacy Doc and it should return a list or number.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        float: The standard deviation of the current metric.
+        """
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            counter = []
+            
+            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
+                current_result = counter_function(doc) # Find the values to add to the counter
+
+                if not isinstance(current_result, list): # Add any numbers
+                    counter.append(current_result)
+                else:
+                    if len(current_result) > 0: # Only add values if its not an empty array
+                        counter.extend(current_result)
+
+            return np.std(counter)
+
+    def _get_mean_of_metric(self, text: str, disable_pipeline: List, counter_function: Callable=None, workers=-1) -> float:
+        """
+        This method returns the mean of a descriptive metric.
+
+        Parameters:
+        text(str): The text to be anaylized.
+        disable_pipeline(List): The pipeline elements to be disabled.
+        counter_function(Callable): This callable will calculate the values to add to the counter array in order to calculate the standard deviation. It receives a Spacy Doc and it should return a list or number.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        float: The mean of the current metric.
+        """
+        if len(text) == 0:
+            raise ValueError('The text is empty.')
+        elif workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0')
+        else:
+            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
+            threads = multiprocessing.cpu_count() if workers == -1 else workers
+            counter = []
+
+            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
+                current_result = counter_function(doc) # Find the values to add to the counter
+
+                if not isinstance(current_result, list): # Add any numbers
+                    counter.append(current_result)
+                else:
+                    if len(current_result) > 0: # Only add values if its not an empty array
+                        counter.extend(current_result)
+
+            return np.mean(counter)
+
     def get_mean_of_length_of_paragraphs(self, text: str, workers: int=-1) -> float:
         """
         This method returns the average numbers of sentences in each paragraph.
@@ -265,69 +331,3 @@ class DescriptiveIndices:
         disable_pipeline = ['sentencizer', 'parser', 'tagger', 'ner']
 
         return self._get_std_of_metric(text, disable_pipeline=disable_pipeline, counter_function=count_syllables_per_word, workers=workers)
-
-    def _get_std_of_metric(self, text: str, disable_pipeline: List, counter_function: Callable=None, workers=-1) -> float:
-        """
-        This method returns the standard deviation of a descriptive metric.
-
-        Parameters:
-        text(str): The text to be anaylized.
-        disable_pipeline(List): The pipeline elements to be disabled.
-        counter_function(Callable): This callable will calculate the values to add to the counter array in order to calculate the standard deviation. It receives a Spacy Doc and it should return a list or number.
-        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
-
-        Returns:
-        float: The standard deviation of the current metric.
-        """
-        if len(text) == 0:
-            raise ValueError('The text is empty.')
-        elif workers == 0 or workers < -1:
-            raise ValueError('Workers must be -1 or any positive number greater than 0')
-        else:
-            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
-            threads = multiprocessing.cpu_count() if workers == -1 else workers
-            counter = []
-            
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
-                current_result = counter_function(doc) # Find the values to add to the counter
-
-                if not isinstance(current_result, list): # Add any numbers
-                    counter.append(current_result)
-                else:
-                    if len(current_result) > 0: # Only add values if its not an empty array
-                        counter.extend(current_result)
-
-            return np.std(counter)
-
-    def _get_mean_of_metric(self, text: str, disable_pipeline: List, counter_function: Callable=None, workers=-1) -> float:
-        """
-        This method returns the mean of a descriptive metric.
-
-        Parameters:
-        text(str): The text to be anaylized.
-        disable_pipeline(List): The pipeline elements to be disabled.
-        counter_function(Callable): This callable will calculate the values to add to the counter array in order to calculate the standard deviation. It receives a Spacy Doc and it should return a list or number.
-        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
-
-        Returns:
-        float: The mean of the current metric.
-        """
-        if len(text) == 0:
-            raise ValueError('The text is empty.')
-        elif workers == 0 or workers < -1:
-            raise ValueError('Workers must be -1 or any positive number greater than 0')
-        else:
-            paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
-            threads = multiprocessing.cpu_count() if workers == -1 else workers
-            counter = []
-
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
-                current_result = counter_function(doc) # Find the values to add to the counter
-
-                if not isinstance(current_result, list): # Add any numbers
-                    counter.append(current_result)
-                else:
-                    if len(current_result) > 0: # Only add values if its not an empty array
-                        counter.extend(current_result)
-
-            return np.mean(counter)

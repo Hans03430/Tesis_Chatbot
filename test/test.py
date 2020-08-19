@@ -15,6 +15,7 @@ if __name__ == "__main__":
     connective = pd.DataFrame(columns=['CNCAll', 'CNCCaus', 'CNCLogic', 'CNCADC', 'CNCTemp', 'CNCAdd'])
     lexical_diversity = pd.DataFrame(columns=['LDTTRa', 'LDTTRcw'])
     readability = pd.DataFrame(columns=['RDFHGL'])
+    referential_cohesion = pd.DataFrame()
 
     try:
         tca = TextComplexityAnalizer('es')
@@ -34,6 +35,7 @@ if __name__ == "__main__":
                 connective = connective.append(tca.calculate_connective_indices(text, word_count), ignore_index=True)
                 lexical_diversity = lexical_diversity.append(tca.calculate_lexical_diversity_density_indices_for_one_text(text), ignore_index=True)
                 readability = readability.append(tca.calculate_readability_indices(text, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word), ignore_index=True)
+                referential_cohesion = referential_cohesion.append(tca.calculate_referential_cohesion_indices(text=text), ignore_index=True)
                 end = time.time()        
                 filename = filepath.split('/')[-1]   
                 print(f'Tiempo demorado para {filename}: {end - start} segundos.')
@@ -48,3 +50,4 @@ if __name__ == "__main__":
         print(connective)
         print(lexical_diversity)
         print(readability)
+        print(referential_cohesion)
