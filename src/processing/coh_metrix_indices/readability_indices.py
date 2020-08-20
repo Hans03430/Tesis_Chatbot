@@ -28,7 +28,7 @@ class ReadabilityIndices:
             raise ValueError(f'The descriptive indices analyzer must be of the same language as the word information analyzer.')
         
         self.language = language
-        self._nlp = spacy.load(language, disable=['ner'])
+        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['ner'])
 
         if descriptive_indices is None: # Assign the descriptive indices to an attribute
             self._di = DescriptiveIndices(language)

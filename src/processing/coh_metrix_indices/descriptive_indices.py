@@ -29,7 +29,7 @@ class DescriptiveIndices:
             raise ValueError(f'Language {language} is not supported yet')
         
         self.language = language
-        self._nlp = spacy.load(language, disable=['tagger', 'parser', 'ner'])
+        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['tagger', 'parser', 'ner'])
         self._nlp.add_pipe(self._nlp.create_pipe('sentencizer'))
         self._nlp.add_pipe(SyllableSplitter(language), after='sentencizer')
 

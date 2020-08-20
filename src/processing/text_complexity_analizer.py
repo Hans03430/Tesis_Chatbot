@@ -111,7 +111,7 @@ class TextComplexityAnalizer:
 
         return indices
         
-    def calculate_syntactic_complexity_indices(self, text: str) -> Dict:
+    def calculate_syntactic_complexity_indices_for_one_text(self, text: str) -> Dict:
         '''
         This method calculates the syntactic complexity indices and stores them in a dictionary.
 
@@ -127,7 +127,7 @@ class TextComplexityAnalizer:
 
         return indices
 
-    def calculate_connective_indices(self, text: str, word_count: int=None) -> Dict:
+    def calculate_connective_indices_for_one_text(self, text: str, word_count: int=None) -> Dict:
         '''
         This method calculates the connectives indices and stores them in a dictionary.
 
@@ -165,7 +165,7 @@ class TextComplexityAnalizer:
 
         return indices
 
-    def calculate_readability_indices(self, text: str, mean_syllables_per_word: int=None, mean_words_per_sentence: int=None) -> Dict:
+    def calculate_readability_indices_for_one_text(self, text: str, mean_syllables_per_word: int=None, mean_words_per_sentence: int=None) -> Dict:
         '''
         This method calculates the readability indices and stores them in a dictionary.
 
@@ -184,7 +184,7 @@ class TextComplexityAnalizer:
 
         return indices
 
-    def calculate_referential_cohesion_indices(self, text: str) -> Dict:
+    def calculate_referential_cohesion_indices_for_one_text(self, text: str) -> Dict:
         '''
         This method calculates the referential cohesion indices and stores them in a dictionary.
 

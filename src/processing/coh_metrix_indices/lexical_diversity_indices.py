@@ -23,7 +23,7 @@ class LexicalDiversityIndices:
             raise ValueError(f'Language {language} is not supported yet')
         
         self.language = language
-        self._nlp = spacy.load(language, disable=['parser', 'ner'])
+        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['parser', 'ner'])
 
     def get_type_token_ratio_between_all_words(self, text: str, workers=-1) -> float:
         """

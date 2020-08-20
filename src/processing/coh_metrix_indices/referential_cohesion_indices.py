@@ -30,7 +30,7 @@ class ReferentialCohesionIndices:
             raise ValueError(f'Language {language} is not supported yet')
 
         self.language = language
-        self._nlp = spacy.load(language, disable=['parser', 'ner'])
+        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['parser', 'ner'])
         self._nlp.add_pipe(self._nlp.create_pipe('sentencizer'))
 
     def _calculate_overlap_for_adjacent_sentences(self, text: str, disable_pipeline: List, sentence_analizer: Callable, statistic_type: str='mean', workers: int=-1) -> StatisticsResults:

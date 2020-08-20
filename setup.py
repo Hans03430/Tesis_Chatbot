@@ -15,6 +15,7 @@ setup(
         'spacy',
         'tika',
         'Pyphen',
-        'pandas'
+        'pandas',
+        'SQLAlchemy'
     ]
 )

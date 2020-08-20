@@ -34,7 +34,7 @@ class SyntacticPatternDensityIndices:
             raise ValueError(f'The descriptive indices analyzer must be of the same language as the word information analyzer.')
         
         self.language = language
-        self._nlp = spacy.load(language, disable=['ner'])
+        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['ner'])
         self._nlp.add_pipe(NounPhraseTagger(language), after='parser')
         self._nlp.add_pipe(VerbPhraseTagger(self._nlp, language), after='noun phrase tagger')
         self._nlp.add_pipe(NegativeExpressionTagger(self._nlp, language), after='verb phrase tagger')

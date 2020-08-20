@@ -35,7 +35,7 @@ class ConnectiveIndices:
             raise ValueError(f'The descriptive indices analyzer must be of the same language as the word information analyzer.')
         
         self.language = language
-        self._nlp = spacy.load(language, disable=['parser', 'ner'])
+        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['parser', 'ner'])
         self._nlp.add_pipe(CausalConnectivesTagger(self._nlp, language), after='tagger')
         self._nlp.add_pipe(LogicalConnectivesTagger(self._nlp, language), after='tagger')
         self._nlp.add_pipe(AdversativeConnectivesTagger(self._nlp, language), after='tagger')
