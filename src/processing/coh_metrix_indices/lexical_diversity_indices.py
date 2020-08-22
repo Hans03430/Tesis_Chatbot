@@ -45,10 +45,14 @@ class LexicalDiversityIndices:
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             tokens = []
 
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'ner'], n_process=threads):
+            '''for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'ner'], n_process=threads):
                 for token in doc:
                     if token.is_alpha: # Gather all tokens in lowercase
-                        tokens.append(token.text.lower())
+                        tokens.append(token.text.lower())'''
+            tokens = [token.text.lower()
+                      for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'ner'], n_process=threads)
+                      for token in doc
+                      if token.is_alpha]
 
             return len(set(tokens)) / len(tokens)
 
@@ -61,7 +65,7 @@ class LexicalDiversityIndices:
         workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
 
         Returns:
-        float: The type token ratio betweeof content of a text.
+        float: The type token ratio between the content words of a text.
         """
         if len(text) == 0:
             raise ValueError('The text is empty.')
@@ -72,9 +76,13 @@ class LexicalDiversityIndices:
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             tokens = []
 
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'ner'], n_process=threads):
+            '''for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'ner'], n_process=threads):
                 for token in doc:
                     if token.is_alpha and token.pos_ in ['NOUN', 'VERB', 'ADJ', 'ADV']: # Gather all nouns, verbs, adjectives or adverbs in lowercase
-                        tokens.append(token.text.lower())
-
+                        tokens.append(token.text.lower())'''
+            tokens = [token.text.lower()
+                      for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'ner'], n_process=threads)
+                      for token in doc
+                      if token.is_alpha and token.pos_ in ['NOUN', 'VERB', 'ADJ', 'ADV']]
+            
             return len(set(tokens)) / len(tokens)

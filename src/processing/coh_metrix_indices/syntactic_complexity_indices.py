@@ -53,13 +53,14 @@ class SyntacticComplexityIndices:
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             modifiers_per_noun_phrase = []
             
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['sentencizer', 'ner'], n_process=threads): # Calculate with multiprocessing 
+            '''for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['sentencizer', 'ner'], n_process=threads): # Calculate with multiprocessing 
                 for nph in doc._.noun_phrases:
-                    modifiers_per_noun_phrase.append(sum(1
-                                                         for token in nph
-                                                         if token.pos_ == 'ADJ'))
+                    modifiers_per_noun_phrase.append(sum(1 for token in nph if token.pos_ == 'ADJ'))'''
+            
+            modifiers_per_noun_phrase = [sum(1 for token in nph if token.pos_ == 'ADJ')
+                                         for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['sentencizer', 'ner'], n_process=threads)
+                                         for nph in doc._.noun_phrases]
 
-        
             return np.mean(modifiers_per_noun_phrase)
 
     def get_mean_number_of_words_before_main_verb(self, text: str, workers: int=-1) -> float:
