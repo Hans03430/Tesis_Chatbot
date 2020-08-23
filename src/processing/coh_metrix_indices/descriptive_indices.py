@@ -147,7 +147,7 @@ class DescriptiveIndices:
 
     def get_length_of_paragraphs(self, text: str, workers: int=-1) -> StatisticsResults:
         """
-        This method returns the average numbers and standard deviation of sentences in each paragraph.
+        This method returns the average amount and standard deviation of sentences in each paragraph.
 
         text(str): The text to be anaylized.
         workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
