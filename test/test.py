@@ -77,7 +77,7 @@ if __name__ == "__main__":
     to_update.descriptive_index = DescriptiveIndex(DESSC=64.0003)
     da.update(to_update)'''
 
-    dic = {'a': 2, 'b': 3}
+    '''dic = {'a': 2, 'b': 3}
     print(foo(**dic))
 
     try:
@@ -104,5 +104,8 @@ if __name__ == "__main__":
             print(f'Tiempo demorado para {ot.filename}: {end - start} segundos.')
 
     except Exception as e:
-        raise e
+        raise e'''
 
+    da = ObtainedTextDA()
+    texts = da.select_all_as_dataframe()
+    print(texts)

@@ -4,6 +4,8 @@ from sqlalchemy import Integer
 from sqlalchemy import Float
 from sqlalchemy import ForeignKey
 from sqlalchemy.orm import relationship
+from typing import Dict
+
 
 class ReferentialCohesionIndex(Base):
     '''
@@ -27,3 +29,16 @@ class ReferentialCohesionIndex(Base):
     CRFANP1 = Column('CRFANP1', Float, nullable=True)
     CRFANPa = Column('CRFANPa', Float, nullable=True)
 
+    def to_dict(self) -> Dict:
+        '''
+        This method transforms this object into a python dictionary.
+
+        Parameters:
+        None.
+
+        Returns:
+        Dict: The dictionary representation of the data of this object.
+        '''
+        values = self.__dict__
+        values.pop('_sa_instance_state', None)
+        return values
