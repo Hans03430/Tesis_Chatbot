@@ -23,6 +23,7 @@ class ObtainedText(Base):
     text = Column('TEXT', String, nullable=False)
     filename = Column('FILENAME', String(256), nullable=False)
     grade = Column('GRADE', Integer, nullable=False)
+    category = Column('CATEGORY', String, nullable=True)
     descriptive_index = relationship('DescriptiveIndex', uselist=False, lazy='joined', back_populates='obtained_text', cascade='save-update, delete, delete-orphan, merge')
     connective_index = relationship('ConnectiveIndex', uselist=False, lazy='joined', back_populates='obtained_text', cascade='save-update, delete, delete-orphan, merge')
     lexical_diversity_index = relationship('LexicalDiversityIndex', uselist=False, lazy='joined', back_populates='obtained_text', cascade='save-update, delete, delete-orphan, merge')
