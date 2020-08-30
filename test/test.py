@@ -16,7 +16,7 @@ from src.processing.data_handler.models.referential_cohesion_index import Refere
 from src.processing.data_handler.models.syntactic_complexity_index import SyntacticComplexityIndex
 from src.processing.data_handler.models.syntactic_pattern_density_index import SyntacticPatternDensityIndex
 from src.processing.data_handler.models.word_information_index import WordInformationIndex
-from src.processing.data_handler.data_access.obtained_text_da import ObtainedTextDA
+from src.preparation.obtained_text_da import ObtainedTextDA
 
 def foo(a, b):
     return a + b
