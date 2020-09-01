@@ -1,0 +1,3313 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INFORME DE INDICADORES CLAVE 
+de la Evaluación Nacional de Educación Inicial
+
+
+
+Primera Edición
+Lima, noviembre 2015
+Tiraje: 1,000 ejemplares
+   
+Créditos técnicos:
+Equipo de evaluación de la Dirección de Educación Inicial
+
+Rosina Vanessa Sánchez Jiménez (coordinadora)
+Luis Eduardo Ferrer Cruz
+Rosa Luz Fiestas Novoa
+Magaly Milagros Garrido Ayre
+María Natividad Vila Torres
+   
+Colaboración técnica:
+Grupo de Análisis para el Desarrollo (GRADE)
+  
+Corrección de estilo:
+León David Portocarrero Iglesias
+
+Diseño y diagramación:
+Luzazul gráfica s.a.c.
+
+Impreso por: SEGEAR SAC
+Calle Paulet 119 SMP Lima 
+Nov. 2015
+R.U.C. 20549248102
+©Ministerio de Educación
+Todos los derechos reservados. Prohibida la reproducción de este libro por cualquier medio, total o parcialmente, 
+sin permiso expreso de los editores.
+
+Hecho el Déposito Legal en la Biblioteca Nacional del Perú: 2015 - 16485
+
+Impreso en el Perú / Printed in Perú
+
+Informe de Indicadores Clave de la Evaluación Nacional de Educación Inicial
+
+Ministerio de Educación
+Av. De la Arqueología, cuadra 2. San Borja
+Lima, Perú
+Teléfono: 615-5800
+www.minedu.gob.pe
+
+
+
+Lista de tablas y gráficos ............................................................................................................  4
+
+Introducción ..............................................................................................................................  5
+
+I. Marco de trabajo ..................................................................................................................  6
+1.1		Justificación	e	importancia .....................................................................................................  6
+1.2		Evaluación	Nacional	de	Educación	Inicial	(EN) .......................................................................  6
+1.3		Objetivos	de	la	Evaluación	Nacional	de	Educación	Inicial ...................................................... 7
+1.4		Conceptos	base ...................................................................................................................... 7
+1.5		Preguntas	de	estudio .............................................................................................................. 8
+
+II. Aspectos metodológicos .......................................................................................................  9
+2.1	Tipo	de	estudio	y	diseño ........................................................................................................ 9
+2.2		Población	y	muestra ............................................................................................................... 9
+2.3		Validación	de	los	instrumentos	EDI	y	ECERS-R	en	la	población	peruana ................................ 11
+2.4	Técnicas	de	análisis	de	datos .................................................................................................. 11
+
+III. Resultados ............................................................................................................................  13
+3.1	Resultados	generales .............................................................................................................. 13
+3.2		La	Escala	de	Calificación	del	Ambiente	de	la	Infancia	Temprana	-	Early	Childhood
+	 	Environment	Rating	Scale-revised	edition	(ECERS-R) ............................................................. 16
+
+3.2.1	Estrategia	de	aplicación	de	la	ECERS-R	en	la	EN ............................................................ 18
+3.2.2	Análisis	psicométrico:	validez	y	confiabilidad	de	la	ECERS-R ......................................... 18
+3.2.3	Resultados	de	la	ECERS-R .............................................................................................. 19
+
+3.3		Resultados	del	Instrumento	de	Desarrollo	Temprano	-	Early	Development	Instrument		(EDI)  24
+3.3.1	Análisis	psicométrico:	validez	y	confiabilidad	del	EDI ................................................... 25
+3.3.2	Resultados	del	EDI	 ........................................................................................................ 27
+
+3.4		Análisis	de	la	vulnerabilidad	de	las	dimensiones ......................................................................  34
+3.5		Algunas	variables	analizadas	de	los	factores	asociados ...........................................................  35
+
+IV. Conclusiones ........................................................................................................................  36
+
+V. Recomendaciones.................................................................................................................  37
+
+VI. Referencias ...........................................................................................................................  41
+
+Tabla de contenidos
+
+
+
+Tabla n° 1.	Distribución	de	la	población	 
+de	IEI	según	tipo	de	gestión	y	área	geográfica ....  9
+Tabla n° 2.		Características	de	la	muestra	 
+de	aulas	de	cinco	años	por	área ........................... 13
+Tabla n° 3.	Características	 
+de	los	niños	y	niñas	por	área	(en	porcentajes) ...  14
+Tabla n° 4.	Subescalas	e	ítems	 
+de	la	ECERS-R	original	y	aplicados	en	la	EN.........  17
+Tabla n° 5. Reporte	de	confiabilidad	 
+y	validez	de	la	ECERS-R	y	sus	subescalas .............  18
+Tabla n° 6.	Detalle	de	los	valores	de	la	ECERS-R .  19
+Tabla n° 7.	Puntaje	promedio	 
+e	intervalo	de	confianza	de	la	ECERS-R ...............  19
+Tabla n° 8. Puntaje	promedio	de	la	ECERS-R	 
+según	tipo	de	gestión	y	área	geográfica .............  20
+Tabla n° 9.	Puntaje	promedio	 
+de	la	subescala	Espacio y muebles ......................  21
+Tabla n° 10.	Puntaje	promedio	 
+de	la	subescala	Rutinas del cuidado personal.....  21
+Tabla n° 11. Puntaje	promedio	 
+de	la	subescala	Lenguaje y razonamiento ..........  22
+Tabla n° 12.	Puntaje	promedio	 
+de	la	subescala	Actividades y materiales ............  22
+Tabla n° 13.	Puntaje	promedio	 
+de	la	subescala	Interacciones ..............................  23
+Tabla n° 14. Puntaje	promedio	 
+de	la	subescala	Estructura del programa ............  23
+Tabla n° 15.	Dimensiones	 
+y	subdimensiones	del	EDI ....................................  24
+Tabla n° 16.	Secciones	del	EDI:	 
+original	y	utilizadas	en	la	EN ................................  25
+Tabla n° 17.	Reporte	de	confiabilidad	y	validez	 
+de	las	dimensiones	y	subdimensiones	del	EDI ...  26
+Tabla n° 18.	Niveles	de	desarrollo	 
+por	dimensiones	del	EDI	(datos	porcentuales) ...  28
+Tabla n° 19.	Niveles	de	desarrollo	 
+en	la	dimensión	de	Desarrollo físico y bienestar  
+de	acuerdo	a	características	demográficas	 
+(datos	porcentuales) ............................................  29
+
+Tabla n° 20.	Niveles	de	desarrollo	en	la	dimensión	 
+de	Desarrollo físico y bienestar	de	acuerdo	 
+a	características	de	la	IEI	(datos	porcentuales) ...  29
+Tabla n° 21. Niveles	de	desarrollo	en	la	dimensión	
+de	Competencia social	de	acuerdo	a	características	
+demográficas	(datos	porcentuales) .....................  30
+Tabla n° 22.	Niveles	de	desarrollo	de	los	niños	 
+y	niñas	en	la	dimensión	de	Competencia social  
+de	acuerdo	a	características	de	la	IEI	 
+(datos	porcentuales) ............................................  30
+Tabla n° 23.	Niveles	de	desarrollo	de	los	niños	 
+y	niñas	en	la	dimensión	de	Madurez emocional  
+de	acuerdo	a	características	demográficas 
+(datos	porcentuales) ............................................  31
+Tabla n° 24.	Niveles	de	desarrollo	de	los	niños	
+y	niñas	en	la	dimensión	de	Madurez emocional 
+de	acuerdo	a	características	de	la	IEI	(datos	
+porcentuales) .......................................................  31
+Tabla n° 25.	Niveles	de	desarrollo	de	los	niños	 
+y	niñas	en	la	dimensión	de	Desarrollo cognitivo  
+y del lenguaje	de	acuerdo	a	características	
+demográficas	(datos	porcentuales) .....................  32
+Tabla n° 26.	Niveles	de	desarrollo	de	los	niños	 
+y	niñas	en	la	dimensión	de	Desarrollo cognitivo  
+y del lenguaje	de	acuerdo	a	características	 
+de	la	IEI	(datos	porcentuales) ..............................  32
+Tabla n° 27.	Niveles	de	desarrollo	 
+de	los	niños	y	niñas	en	la	dimensión	 
+de	Habilidades comunicacionales y conocimiento  
+en generales	según	características	demográficas	
+(datos	porcentuales) ............................................  33
+Tabla n° 28.	Niveles	de	desarrollo	de	los	
+niños	y	niñas	en	la	dimensión	de	Habilidades 
+comunicaciones y conocimiento en general	según	
+características	de	la	IEI	(datos	porcentuales) ......  33
+Tabla n° 29.	Porcentaje	de	la	muestra	que	son	
+vulnerables	en	al	menos		una	dimensión	del	EDI  34
+Tabla n° 30.	Porcentaje	de	la	muestra	que	son	
+vulnerables	en	al	menos	una	dimensión	del	EDI	
+según	las	características	demográficas ...............  34
+Tabla n° 31. Porcentaje	de	la	muestra	que	son	
+vulnerables	en	al	menos	una	dimensión	del	EDI	
+según	las	características	de	la	IEI ........................  35
+
+Tablas:
+
+Gráficos: 
+
+Lista de tablas y gráficos
+
+Gráfico n° 1. Características	de	la	muestra	 
+de	aulas	de	cinco	años.....................................  14
+Gráfico n° 2.	Caracteríticas	de	la	muestra	 
+de	niños	y	niñas	(en	porcentajes) ....................  15
+Gráfico n° 3.	Porcentaje	de	la	muestra	 
+según	lengua	materna .....................................  15
+
+Gráfico n° 4.	Puntaje	promedio	de	la	escala	
+global	y	por	subescalas	de	la	ECERS-R .............  20
+Gráfico n° 5.	Situación	del	niño/niña	 
+según	su	puntuación .......................................  27
+
+4
+
+
+
+La	Evaluación	Nacional	de	Educación	Inicial	(EN)	2014	tiene	como	finalidad	contar	con	indicadores	para	el	
+nivel	inicial	a	través	de	una	línea	de	base	que	brinde	información	sobre	la	calidad	del	entorno	educativo	
+y	el	desarrollo	infantil	de	niños	y	niñas	que	asisten	a	aulas	de	cinco	años	de	instituciones	educativas	
+de	modalidad	escolarizada,	de	área	urbana	y	 rural,	 y	de	gestión	pública	y	privada,	a	nivel	nacional.	
+El	 análisis	 de	 esta	 información	 permitirá	 conocer	 las	 condiciones	 que	 ofrece	 el	 entorno	 educativo	 
+a	través	de	un	estándar	de	calidad,	además	de	saber	si	los	niños	y	niñas	han	desarrollado	habilidades	 
+y	capacidades	que	les	permitan	favorecerse	de	las	actividades	educativas	en	el	nivel	primario.		
+
+En	cuanto	a	las	herramientas	metodológicas	empleadas	para	elaborar	la	EN,	en	el	año	2012	la	Dirección	
+de	 Educación	 Inicial	 (DEI)	 decidió	 utilizar	 dos	 instrumentos	 internacionales,	 los	 que	 luego	 fueron	
+estudiados	y	adaptados	a	nuestro	contexto.	Uno	de	ellos	fue	la	Escala	de	Calificación	del	Ambiente	
+de	la	Infancia	Temprana	versión	revisada,	conocido	como	ECERS-R,	por	sus	siglas	en	inglés,	que	mide	
+la	calidad	del	entorno	educativo.	El	otro	es	el	Instrumento	de	Desarrollo	Temprano	EDI,	por	sus	siglas	
+en	inglés,	el	cual	permite	identificar	el	nivel	de	desarrollo	de	diferentes	poblaciones	de	niños	y	niñas.	
+Asimismo,	se	elaboraron	cuestionarios	de	factores	asociados	dirigidos	a	los	padres	y	madres	de	familia,	
+docentes	y	directores.		
+
+Es	así	como	en	el	año	2014	se	llevó	a	cabo	la	Evaluación	Nacional	de	Educación	Inicial,	siendo	esta	
+la	primera	vez	que	la	DEI	realiza	un	estudio	de	este	alcance,	con	una	muestra	representativa	a	nivel	
+nacional	de	950	IEI	y,	aproximadamente,	16	000	niños	y/o	niñas.	En	ella	se	seleccionó	una	muestra	
+control	(MC),	donde	tanto	la	aplicación	de	la	ECERS-R	como	del	EDI	tuvieron	un	tratamiento	especial,	
+además	de	aplicarse	otros	instrumentos	de	evaluación	del	desarrollo1.
+
+En	este	informe	se	darán	a	conocer	los	resultados	de	la	EN	de	la	siguiente	manera:
+
+En	el	primer	capítulo	se	presentará	el	marco	de	trabajo,	la	justificación	e	importancia	de	la	evaluación,	
+la	explicación	de	qué	consiste	la	EN,	los	objetivos,	los	conceptos	base	y	las	preguntas	de	estudio.
+
+En	 el	 segundo	 capítulo	 se	 presentará	 el	 tipo	 de	 estudio,	 diseño	 muestral,	 población	 y	 muestra,	 
+la	validación	de	los	instrumentos	y	las	técnicas	de	análisis	de	datos.
+
+En	 el	 tercer	 capítulo	 se	 darán	 a	 conocer	 los	 resultados	 del	 estudio.	 Primero	 se	 presentarán	 
+las	 características	 generales	 de	 la	 muestra,	 luego	 los	 resultados	 de	 la	 ECERS-R	 y	 finalmente	 
+los	resultados	del	EDI.
+
+En	el	cuarto	y	último	capítulo	se	expondrán	algunas	conclusiones	a	 las	que	se	 llegó	 luego	del	análisis
+de	los	resultados.	Resaltamos	que	este	informe	presenta	solo	indicadores	claves	del	estudio,	pues	será	en	
+el	informe	final	donde	se	mostrarán	todos	los	análisis	realizados	incluyendo	a	la	MC.
+
+Se	espera	que	la	información	brindada	en	este	informe	sea	útil	para	la	toma	de	decisiones	de	políticas	
+educativas	relacionadas	a	priorizar	aspectos	de	planificación	de	la	educación	inicial,	de	manera	que	
+se	mejoren	las	condiciones	del	entorno	educativo	y	las	estrategias	que	procuren	que	los	niños	y	niñas	
+que	asisten	a	estos	ambientes	tengan	un	desarrollo	integral	que	les	permita	aprovechar	las	actividades	
+educativas	del	nivel	inicial	y,	luego,	del	nivel	primario.	
+
+Por	 último,	 queremos	 agradecer	 el	 apoyo	 constante	 de	 UNICEF	 en	 las	 diferentes	 etapas	 de
+la	evaluación,	además	de	su	apoyo	para	que	el	MINEDU	adquiera	la	licencia	de	uso	del	Instrumento	
+de	Desarrollo	Temprano.
+
+1	Detalles	del	marco	teórico	empleado	para	esta	evaluación,	así	como	el	diseño	metodológico	empleado,	se	pueden	encontrar	
+en	el	documento	denominado:	Marco	de	trabajo	de	la	Evaluación	Nacional	de	Educación	Inicial	2014.
+
+Introducción
+
+5
+
+
+
+I 
+
+1.1 Justificación e importancia
+
+Desde	hace	más	de	veinte	años2	las	investigaciones	señalan	la	importancia	de	recibir	una	educación	
+inicial	 (entre	 los	 cero	 a	 los	 seis	 años),	 por	 ser	 un	 periodo	 único	 y	 determinante	 en	 la	 formación	 
+de	las	capacidades	cognitivas,	la	personalidad	y	la	socialización	(Reveco,	2004).	En	estos	estudios	se	
+sugiere	trabajar	temas	de	derechos	humanos,	ética,	económicos,	equidad	social,	movilización	social,	
+las	ciencias,	la	relación	entre	el	cambio	social	y	las	circunstancias	demográficas.	
+
+En	 nuestro	 país	 se	 vienen	 ejecutando	 acciones	 para	mejorar	 el	 servicio	 que	 se	 ofrece	 a	 los	 niños	 
+y/o	niñas	menores	de	seis	años.	Una	de	ellas	es	el	Programa	de	Presupuesto	por	Resultados	a	través	
+del	 Programa	 de	 Educación	 Logros	 de	 Aprendizaje	 (PELA),	 del	Ministerio	 de	 Educación	 (MINEDU),	
+quienes	 realizan	 intervenciones	 dirigidas	 a	 fomentar	 aprendizajes	 de	 calidad,	 con	 servicios	 que	
+atienden	las	necesidades	de	este	grupo	etario.	Para	continuar	con	estas	acciones	se	hace	necesario	
+contar	 con	diversos	 indicadores	para	optimizar	 la	 toma	de	decisiones	en	el	nivel	 inicial,	 con	miras	 
+a	tener	una	educación inicial de calidad,	la	que	definimos	como	aquella	que	contribuye	a	asegurar	
+oportunidades	de	aprendizaje	y	desarrollo	 socioemocional,	 cognitivo	y	motor	a	niños	y	niñas;	que	
+garantiza	el	acceso	y	permanencia	en	los	servicios	educativos,	brindando	cuidados	de	manera	eficaz,	
+pertinente,	 significativa	 y	 oportuna;	 donde	 se	 tengan	 ambientes	 cálidos,	 seguros;	 debidamente	
+implementados	 y	motivadores.	 Todo	 ello,	 asegurando	 el	 interés	 superior	 del	 niño	 y/o	 de	 la	 niña,	 
+así	como	su	participación	dentro	de	su	familia,	escuela	y	comunidad.
+
+1.2 Evaluación Nacional de Educación Inicial (EN)
+
+La	 DEI,	 de	 la	 Dirección	 General	 de	 Educación	 Básica	 Regular	 (DIGEBR),	 en	 el	 marco	 del	 PELA,	 en	 
+su	resultado	Logros	de	Aprendizaje	de	los	estudiantes	de	Educación	Básica	Regular,	en	el	año	2014	llevó	
+a	cabo	la	EN,	con	el	fin	de	elaborar	una	línea	de	base	que	brinde	indicadores	sobre	los	niños	y	niñas	
+de	cinco	años	de	edad.	Esta	evaluación	se	realizó	en	 instituciones	educativas	de	 inicial	 (IEI)	de	áreas	
+rurales	y	urbanas,	así	como	de	gestión	privada	y	pública.	El	equipo	de	evaluación	de	la	DEI	se	encargó	 
+de	elaborar,	revisar	y	adecuar	los	instrumentos	a	aplicar;	también	capacitó	al	personal	seleccionado	para	
+la	aplicación	de	los	instrumentos,	además	distribuyó	diecisiete	sedes	a	nivel	nacional,	con	el	fin	de	agilizar	
+las	coordinaciones	del	personal	que	participó	del	estudio.	Para	el	proceso	de	recolección	de	datos	contó	
+con	el	apoyo	del	consorcio	ESAN/PRISMA	que	fue	seleccionado	como	el	operador	 logístico	mediante	
+concurso	 público	 n°	 03-2014	 ED/UE	 026	 y	 para	 el	 análisis	 de	 resultados	 fue	 seleccionado	 el	 Grupo	 
+de	Análisis	para	el	Desarrollo	(GRADE)	a	través	del	concurso	público	n°	0042-2014	MINEDU/UE	026.
+
+2	Behrman,	2000;	Behrman,	Cheng	y	Todd,	2004;	Glewwe,	2002;	Hanushek,	1995;	Martorell,	1999;	Martorell	et	al.,	1995;	Pelletier,	
+Frongillo,	Schroeder	y	Habicht,	1995;	Pollit,	Gorman	y	Metallinos-Katasaras,	1991;	Schroder,	Martorell,	Rivera,	Ruel	y	Habicht,	1995;	
+y	Myers	y	Robert,	1993.
+
+Marco de trabajo
+
+6
+
+
+
+I. Marco de trabajo
+
+7
+
+En	este	proceso	se	han	empleado	instrumentos	de	uso	internacional,	como	la	Escala	de	Calificación	
+del	Ambiente	de	 la	 Infancia	Temprana	versión	 revisada	 (ECERS-R),	que	mide	 la	 calidad	del	 servicio	
+educativo,	 y	 el	 Instrumento	 de	 Desarrollo	 Temprano	 (EDI),	 que	 evalúa	 el	 desarrollo	 del	 niño	 
+y/o	niña	en	varios	aspectos.	De	igual	modo,	se	aplicaron	cuestionarios	dirigidos	a	directores,	docentes	
+y	padres	y/o	madres	de	familia,	a	fin	de	conocer	el	contexto	educativo	y	familiar	en	que	se	desarrollan	
+y	aprenden	los	niños	y	niñas.	
+
+Con	 la	 información	 recabada,	 se	podrá	mejorar	 las	 intervenciones	que	 fomenten	de	manera	 integral	 
+el	desarrollo	de	capacidades	socioafectivas	y	cognitivas,	el	bienestar	físico	y	general	de	los	niños	y	niñas	
+de	inicial,	así	como	el	que	alcancen	aprendizajes	cada	vez	más	complejos	en	su	vida	escolar.
+
+1.3 Objetivos de la Evaluación Nacional
+ de Educación Inicial
+
+• Objetivo general:
+
+	 Establecer	 una	 línea	 de	 base	 a	 nivel	 nacional	 respecto	 a	 la	 calidad	 del	 entorno	 educativo	 y	 
+del	desarrollo	infantil	de	los	niños	y/o	niñas	que	asisten	a	las	aulas	de	cinco	años	de	edad.
+
+• Objetivos específicos:
+
+• Evaluar	la	calidad	del	entorno	educativo	en	educación	inicial.
+• Evaluar	el	desarrollo	infantil	en	niños	y	niñas	que	asisten	a	las	aulas	de	cinco	años.
+• Relacionar	algunos	factores	del	contexto	familiar	y	educativo	con	el	desarrollo	infantil.
+
+1.4 Conceptos base
+
+Para	 evitar	 confusiones,	 tanto	 para	 la	 aplicación,	 análisis	 e	 interpretación	 de	 resultados	 
+de	los	instrumentos	empleados,	se	presentan	los	conceptos	con	los	que	se	están	trabajando	en	este	
+estudio:
+
+• Conceptos empleados para la evaluación del entorno educativo
+
+	 Al	estar	utilizando	la	ECERS-R	como	estándar	de	calidad,	definimos	al	entorno educativo de calidad 
+como	 la	 organización	 de	 los	 espacios,	 de	 los	 equipos	 de	 juego	 y	 del	 mobiliario	 dentro	 y	 fuera	 
+del	aula	que	responden	al	niño	o	niña	como	sujetos	de	acción,	generando	interés	y	oportunidades	
+de	aprendizaje.	Así	mismo,	en	este	entorno	se	debe	asegurar	la	existencia	de	materiales	accesibles,	
+suficientes	y	adecuados	a	la	edad	de	los	niños	y/o	niñas	para	el	juego	como	actividad	principal	en	 
+el	logro	de	sus	capacidades.	Además,	el	entorno	debe,	a	través	de	las	interacciones	positivas,	promover	
+el	razonamiento	y	brindar	vigilancia	permanente	a	los	niños	y	niñas,	garantizándose	así	su	seguridad	
+física	y	emocional.	Finalmente,	en	este	ámbito	debe	darse	la	comunicación	y	participación	afectiva	
+y	efectiva	de	los	padres	y	madres	para	fortalecer	la	identidad	del	niño	y/o	niña.	
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+	 Además,	 como	 para	 la	 ECERS-R	 el	 nivel	 de	 calidad	 va	 desde	 lo	 inadecuado,	 mínimo,	 bueno,	 
+a	 lo	 excelente,	 debe	 considerarse	 que	 el	 resultado	 depende	 del	 cumplimiento	 o	 no	 de	 
+las	características	y/o	cualidades	del	entorno	educativo.
+
+	 Según	 lo	 explicado,	 se	 debe	 tener	 en	 cuenta	 que	 el	 término	 “espacio”	 adquiere	 tres	 diferentes	
+significados	dependiendo	de	la	observación	que	se	realiza	en	la	ECERS-R:	(i)	como	la	distancia	entre	
+objetos,	(ii)	como	el	lugar	donde	se	colocan	objetos	y	(iii)	como	el	lugar	donde	se	realizan	actividades.
+
+• Conceptos empleados para la evaluación del desarrollo infantil
+
+a.	 Desarrollo	infantil: es	un	proceso	biológico,	psicológico,	social	y	cultural	que	es	determinado	por	
+los	condicionantes	individuales,	familiares,	ambientales	y	sociales	del	entorno	a	través	del	tiempo,	
+los	cuales	brindan	oportunidades	para	fortalecer	las	potencialidades	de	los	niños	y	niñas.
+
+b.	 Dimensión	social:	abarca	habilidades	de	comunicación,	resiliencia,	autoafirmación,	resolución	
+de	conflictos,	ayuda	(cooperación)	y	trabajo	en	equipo,	brindando	atribuciones	intrapersonales	
+e	interpersonales	que	permiten	la	autoafirmación.	
+
+c.	 Dimensión	 afectiva	 emocional:	 comprende	 la	 conciencia	 emocional	 que	 permite	 reconocer	
+las	 emociones	 e	 impulsos	 conflictivos,	 la	 determinación	 de	 la	 autoestima,	 la	 confianza,	 
+la	automotivación	y	el	compromiso.	
+
+d.	 Dimensión	físico	-	motor:	se	refiere	a	los	cambios	físicos	de	forma,	estructura	corporal,	talla	y	peso	
+relacionados	con	el	bienestar	general	y	en	relación	con	la	salud	y	la	nutrición,	además	de	los	logros	
+de	independencia,	coordinación	y	el	desarrollo	de	las	habilidades	motoras	gruesas	y	finas.
+
+e.	 Dimensión	 cognitivo:	 incluye	 capacidades	 de	 memoria,	 atención,	 percepción	 y	 desarrollo	 
+del	lenguaje,	así	como	la	comunicación	y	el	aprendizaje	a	través	de	la	participación	e	interacción	
+con	el	contexto.
+
+1.5 Preguntas de estudio
+
+a.	 ¿Cuál	 es	 el	 nivel	 de	 calidad	 del	 entorno	 educativo	 en	 cuanto	 a	 espacios	 y	 muebles,	 rutinas	 
+del	cuidado	personal,	lenguaje	y	razonamiento,	actividades	y	materiales,	interacciones	y	estructura	
+del	programa,	en	las	aulas	de	cinco	años	de	edad	de	las	IEI	de	gestión	pública	y	privada,	de	áreas	
+urbanas	y	rurales,	a	nivel	nacional?
+
+b.	 ¿En	 qué	 nivel	 de	 desarrollo	 se	 encuentran	 nuestros	 niños	 y	 niñas	 en	 las	 dimensiones	 físico	 
+y	bienestar,	competencia	social,	madurez	emocional,	desarrollo	cognitivo	y	de	lenguaje,	habilidades	
+comunicacionales	y	conocimiento	general,	en	los	niños	y	niñas	que	asisten	a	las	aulas	de	cinco	años	
+de	edad	de	las	IEI	de	gestión	pública	y	privada,	de	áreas	urbanas	y		rurales,	a	nivel	nacional?
+
+c.	 ¿Cuáles	 son	 los	 factores	 del	 contexto	 familiar	 y	 educativo	 que	 tienen	 mayor	 influencia	 
+en	el	desarrollo	infantil	de	los	niños	y	niñas	que	asisten	a	las	aulas	de	cinco	años	de	edad	de	las	IEI	
+de	gestión	pública	y	privada,	de	áreas	urbanas	y		rurales,	a	nivel	nacional?*
+
+d.	 ¿Cómo	influye	la	calidad	del	entorno	educativo	en	el	desarrollo	de	los	niños	y	de	las	niñas?*
+
+*	Los	análisis	y	resultados	que	permiten	contestar	a	estas	preguntas	no	son	presentadas	en	este	informe.
+
+8
+
+
+
+9
+
+2.1 Tipo de estudio y diseño
+
+Por	su	naturaleza,	la	EN	es	un	estudio	descriptivo	y	su	diseño	es	transversal	(Hernández,	Fernández,	 
+y	Baptista,	2014);	siendo	las	unidades	de	observación	las	aulas	de	cinco	años	de	edad	para	la	ECERS-R	
+y	 los	 niños	 y	 niñas	 que	 asisten	 a	 estas	 aulas	 para	 el	 EDI.	 Asimismo,	 los	 datos	 obtenidos	 permiten	
+relacionar	 los	 resultados	de	 los	niños	y	niñas	en	el	EDI	con	características	de	 la	 IEI	y,	de	 la	 familia;	
+estableciéndose	así	 la	base	para	un	análisis	de	 factores	asociados	de	desarrollo	 infantil	 temprano,	
+siendo	este	un	estudio	de	tipo	correlacional.
+
+2.2 Población y muestra
+
+• Población: 
+
+	 La	población	de	este	estudio	está	constituida	por	IEI	de modalidad escolarizada,	de	gestión	pública	
+y	privada,	ubicadas	en	zonas	urbanas	y	rurales,	donde	se	incluyen	jardín	y	cuna-jardín,	con	al	menos	
+cinco	niños	y/o	niñas	matriculados	en	las	aulas	de	cinco	años	de	edad,	de	todo	el	país.	
+
+	 Así	mismo,	 se	 tendrá	 como	población	de	 referencia	a	 las	18	951	 IEI	de	modalidad	escolarizada	
+existentes	 a	 nivel	 nacional,	 según	 información	 del	 padrón	 del	 año	 2011,	 actualizado	 al	 2012	
+(información	proporcionada	por	la	Unidad	de	Estadística	Educativa	del	MINEDU).	La	frecuencia	
+y	porcentaje	de	las	IEI	se	muestran	en	la	siguiente	tabla.
+
+Fuente: Marco muestral de instituciones educativas de educación inicial 2011.  
+Unidad de Estadística Educativa del MINEDU, actualizado al 2012. 
+
+Elaboración: Equipo de Evaluación - DEI - MINEDU.
+
+II 
+Aspectos metodológicos 
+
+Distribución de la población de IEI según tipo de gestión y área geográfica
+
+Urbana
+Rural
+Total
+
+Tabla n° 1
+Cantidad de IEI
+
+Área geográfica
+Pública
+
+n n n% % %
+
+Privada Total
+
+6247
+5490
+
+11 737
+
+7086
+128
+
+7214
+
+13 333
+5618
+
+18 951
+
+32.96
+28.97
+61.93
+
+37.39
+0.68
+
+38.07
+
+70.36
+29.64
+100.0
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+10
+
+	 Cabe	recalcar	que	el	estudio	no	se	aplica	a	IEI	de	modalidad	no	escolarizada	porque	desde	el	año	2012	
+la	DEI	inició	un	proceso	de	transformación	en	los	programas no escolarizados	que	tiene	dos	grandes	
+líneas	de	acción/estrategias:	el	reordenamiento	del	Programa	no	escolarizado	de	Educación	Inicial	
+(PRONOEI)	–que	consiste	en	identificar	a	aquellas	instituciones	no	escolarizadas	que	por	el	número	
+de	niños	y/o	niñas	y	las	características	del	contexto	donde	se	encuentran	deben	ser	convertidos	a	IE	
+escolarizadas	o	jardines–	y	la	redefinición	de	los	programas	–cuya	propuesta	está	compuesta	de	varias	
+estrategias,	siendo	una	de	ellas	la	de	generar	y	validar	una	nueva	propuesta	pedagógica,	de	gestión	
+y	 formación	para	ellos–.	Así	pues,	debido	al	permanente	 cambio	en	el	que	 se	encontraban	estas	
+instituciones,	es	que	su	participación	en	procesos	de	evaluación		se	ha	complejizado3.
+
+• Diseño muestral
+
+	 Para	 escoger	 la	muestra,	 se	 ha	 considerado	 dos	 unidades	 de	 análisis,	 (como	 ya	 se	mencionó	
+son	las	aulas	de	cinco	años	de	las	IEI,	y	los	niños	y	niñas	que	asisten	a	estas	aulas).	Para	poder	
+escoger	la	muestra	de	instituciones	con	representatividad	a	nivel	nacional,	se	utilizó	el	muestreo	
+sistemático	 con	 arranque	 aleatorio	 que	 considera	 jardines	 y	 cunas	 jardín	 con	 al	menos	 cinco	
+niños	y	niñas	matriculados	en	aulas	de	cinco	años	de	edad,	de	áreas	urbano	y	rural,	así	como	 
+de	gestión	pública	como	privada	definiendo	una	muestra	de	979	IEI4.	Además,	el	nivel	de	confianza	
+a	considerar	es	de	95%.
+
+	 Al	no	contar	con	datos	exactos	sobre	la	cantidad	de	niños	y	niñas	que	asisten	a	estas	instituciones,	
+la	 consigna	 fue	que,	 cuando	una	 IEI	 tenía	 solo	una	 sección	de	 cinco	años,	 se	evaluaba	a	 todos	 
+los	niños	y	niñas	matriculados	en	ella;	en		caso	que	la	 IEI	tuviera	dos	aulas	se	elegía	de	manera	
+aleatoria	 a	 una	 de	 ellas,	 para	 el	 caso	 de	 tres	 a	más	 secciones,	 se	 elegía	 aleatoriamente	 a	 dos;	 
+de	 esta	manera	 no	 se	 perdía	 la	 representatividad	 en	 la	 cantidad	 de	 evaluados,	 teniéndose	 un	
+estimado	de	17	000	niños	y	niñas.
+
+• Muestra de control de calidad (MC)
+
+	 Es	un	grupo	de	 IEI	 en	 las	que	 se	 llevó	a	 cabo	procedimientos	adicionales	para	medir	 la	 calidad	
+de	 los	 resultados	 recolectados.	 Esta	 muestra	 la	 conforman	 110	 instituciones	 seleccionadas	 
+de	 forma	 aleatoria.	 Por	 construcción,	 este	 grupo	 sigue	 siendo	 representativo	 a	 nivel	 nacional. 
+Los	procedimientos	realizados	en	ellos,	fueron	más	específicos.	Por	ejemplo:
+
+l Para	la	aplicación	de	la	ECERS-R:	se	aplicó	la	prueba	de	confiabilidad	inter jueces,	contando	con	
+dos	observadores	por	aula	de	cinco	años	de	edad	en	una	sola	visita.
+
+l Para	la	aplicación	del	EDI:	se	aplicó	la	prueba	de	confiabilidad	test-retest.	Donde,	las	docentes	
+llenaron	dos	veces	el	cuestionario	EDI	en	un	intervalo	de	los	siguientes	diez	días	a	la	primera	
+aplicación	como	máximo.
+
+3	A	la	fecha	se	han	venido	llevando	a	cabo	mejoras	en	el	ordenamiento	de	la	información	de	los	PRONOEI.	Es	así	que	en	este	
+año	2015	ha	sido	posible	que	estos	programas	tengan	su	propio	proceso	de	evaluación	con	una	metodología	acorde	a	su	
+estructura	y	necesidades.
+4	La	fórmula	empleada	para	el	cálculo	del	tamaño	muestral	fue:
+
+Dónde:
+N= Tamaño poblacional (universo finito).
+K= Nivel de confianza (al 95% k= 1.96).
+S2= Cuasivarianza muestral (2.129).
+E= Error de muestreo (0.1 unidades de acuerdo a la medida empleada (media)).
+
+n =
+NK 2S2
+
+(Ne2)+ (K 2S2)
+
+
+
+11
+
+II. Aspectos metodológicos
+
+	 Además,	se	administraron	test	de	desarrollo	 infantil	para	contrastar	 los	resultados	obtenidos	en	
+el	 EDI.	 Estos	 fueron:	 el	 Test	 de	Vocabulario	 en	 Imágenes	 Peabody	 (TVIP),	 las	 Escalas	McCarthy	
+de	 aptitudes	 y	 psicomotricidad	 para	 niños	 (McCarthy	 Scales	 of	 Children’s	 Abilities	 -	 MSCA)	
+
+	 y	el	Cuestionario	de	Capacidades	y	Dificultades	 (Strenght	and	Difficulties	Questionnaire	 -	 SDQ).
+	 Los	resultados	de	la	MC	están	siendo	aún	procesados,	por	lo	que	no	son	parte	de	este	informe.
+
+2.3 Validación de los instrumentos ECERS-R y EDI
+ en la población peruana
+
+Para	que	ambos	instrumentos	sean	considerados	como	válidos	en	nuestra	población,	se	está	tomando	
+en	cuenta	los	estudios	que	se	realizaron	entre	los	años	2010	y	2012,	donde	la	Fundación	Bernard	Van	
+Leer,	en	convenio	con	la	Universidad	Antonio	Ruiz	de	Montoya	y	a	través	del	instituto	de	Investigación	
+y	Políticas	Educativas,	llevó	a	cabo	el	Estudio	de	validación	del	Instrumento	de	Desarrollo	Temprano	
+(EDI)	y	de	la	Escala	de	Calificación	del	Ambiente	de	la	Infancia	Temprana	(ECERS-R),	en	las	regiones	
+de	 Lima	 (Ventanilla	 y	 Surco)	 y	 Madre	 de	 Dios	 (Puerto	 Maldonado).	 El	 EDI	 se	 validó	 a	 través	 de	 
+la	aplicación	a	1175	niños	y	niñas	que	asistían	a	aulas	de	cinco	años	de	los	lugares	indicados.	Donde	
+las	puntuaciones	obtenidas	en	los	ítems	que	conforman	cada	dimensión,	arrojan	tener	consistencia	
+interna	que	varía	entre	0.689	en	la	dimensión	Desarrollo	físico	y	bienestar	a	0.940	en	la	dimensión	
+Competencia	social.	Para	la	ECERS-R,	su	validación	se	hizo	aplicando	en	30	IEI,	donde	las	puntuaciones	
+obtenidas	en	los	ítems	que	se	aplicaron	arrojan	una	consistencia	interna	alta	de	0.898.
+
+En	el	año	2013,	el	MINEDU	realizó	un	estudio	piloto	en	una	muestra	de	50	IEI	y	de	830	niños	y	niñas	
+en	las	ciudades	de	Huamanga	y	Abancay.	Uno	de	sus	objetivos	fue	evaluar	la	consistencia	interna	de	 
+los	 ítems	 de	 cada	 uno	 de	 los	 instrumentos	 en	 el	 contexto	 peruano,	 así	 como	 los	 procedimientos	 
+a	 emplear	 a	 escala	 nacional.	 El	 resultado	 de	 la	 ECERS-R	 muestra	 una	 consistencia	 interna	 alta	 
+de	la	escala	total	(0.82),	mientras	que	el	EDI	cuenta	con	una	consistencia	alta	(variando	de	0.64	en	 
+la	dimensión	de	Salud	física	y	bienestar	a	0.93	en	la	dimensión	de	Competencia	social).
+
+2.4 Técnicas de análisis de datos
+
+Para	la	elaboración	de	la	EN	se	han	utilizado	dos	tipos	de	análisis,	que	a	continuación	se	detallan.	
+
+• Confiabilidad 
+
+	 La	confiabilidad	es	el	grado	en	que	un	instrumento	produce	resultados	consistentes	y	coherentes,	
+está	referida	al	grado	en	que	su	aplicación	repetida	al	mismo	individuo	u	objeto	produce	resultados	
+iguales	 (Hernández,	 Fernández,	 y	 Baptista,	 2014).	 Dos	métodos	 para	medir	 la	 confiabilidad	 de	 
+los	ítems	de	una	escala	o	prueba	son,	el	test-retest	y	el	análisis	de	consistencia	interna.	El	test-retest 
+consiste	en	tomar	la	escala	o	prueba	al	 individuo	en	dos	oportunidades	y	calcular	la	correlación	
+entre	ambos	puntajes.
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+12
+
+	 En	el	caso	del	análisis	de	consistencia	interna,	lo	que	se	mide	es	el	grado	en	el	que	las	preguntas	
+que	se	 incluyen	dentro	de	una	escala	están	midiendo	el	mismo	constructo	 (o	correlacionadas	
+entre	sí),	para	lo	que	se	utilizan,	por	lo	general,	índices	como	el	Alpha	de	Cronbach	o	el	de	Kuder-
+Richardson	20	para	medir	el	nivel	de	consistencia	interna	de	una	escala	o	prueba5.	Este	índice	
+varía	de	0	a	1,	donde	los	valores	cercanos	a	0	indican	que	hay	poca	confiabilidad	o	consistencia	
+interna	entre	los	ítems	de	la	escala	o	prueba,	mientras	que	los	valores	cercanos	a	1	indican	que	
+los	 ítems	 tienen	 una	 alta	 consistencia	 interna	 y	 que	 estarían	midiendo	 el	mismo	 constructo.	
+De	acuerdo	a	 la	 literatura	 (Nunnally	&	Bernstein,	1994;	Stemler	&	Tsai,	2008;	Streiner,	2003),	
+valores	iguales	o	mayores	a	0.70	indican	que	los	ítems	de	la	escala	estarían	midiendo	de	manera	
+adecuada	el	mismo	constructo.
+
+• Validez
+
+	 El	 análisis	 de	 validez	 consiste	 en	 verificar	 si	 una	 escala	 o	 prueba	mide	 las	 dimensiones	 que	 
+se	 supone	 está	 midiendo	 (Hernández,	 Fernández,	 y	 Baptista,	 2010).	 Para	 ello	 existen	 tres	
+diferentes	tipos	de	validez	que	se	pueden	medir:	i)	la	validez	concurrente	o	predictiva:	método	
+mediante	el	cual	se	valida	una	escala	o	prueba	mediante	su	correlación	con	otra	escala	o	prueba	
+que	midan	el	mismo	constructo,	asimismo	mediante	la	correlación	de	la	escala	con	otras	variables	
+que	de	acuerdo	a	la	literatura	están	asociadas	con	el	constructo	que	se	busca	medir;	ii)	la	validez	
+de	contenido:	método	mediante	el	cual	se	valida	una	escala	o	prueba	por	medio	de	expertos	 
+o	especialistas	en	el	área,	quienes	evalúan	la	adecuación	e	idoneidad	de	la	escala	o	prueba	para	
+medir	el	constructo	propuesto;	y	iii)	la	validez	de	constructo:	método	mediante	el	cual	se	verifica	
+la	 relación	 entre	 los	 ítems	 o	 preguntas	 que	 conforman	 la	 escala	 o	 prueba	 con	 el	 constructo	
+teórico	que	se	supone	está	midiendo.
+
+	 En	 este	 estudio	 se	 hace	 uso	 de	 la	 validez	 de	 constructo,	 con	 la	 finalidad	 de	 poder	 verificar	 si	 
+los	ítems	que	conforman	las	escalas	de	ciertos	constructos	que	se	buscan	medir	en	los	cuestionarios,	
+efectivamente	 lo	 estén	 midiendo.	 Por	 ello,	 se	 hace	 uso	 del	 análisis	 factorial	 exploratorio	 con	 
+la	 finalidad	 de	 identificar	 cuántos	 constructos	 latentes	 (o	 dimensiones)	 están	 midiendo	 los	
+ítems	de	las	diferentes	escalas	incluidas	en	el	EDI	y	la	ECERS-R.	Se	considera	que	las	escalas	son	
+consistentes	si	el	análisis	factorial	realizado	indica	que	los	ítems	utilizados	se	agrupan	en	los	factores	 
+o	 dimensiones	 que	 se	 pretende	 medir	 (Nunnally	 &	 Bernstein,	 1994;	 Howell,	 2006).	 En	 caso	 
+el	número	de	factores	al	interior	del	grupo	de	ítems	sea	distinto	al	número	de	dimensiones	que	
+pretende	medir,	consideraremos	que	la	escala	no	cuenta	con	validez	de	constructo	debido	a	que 
+las	escalas	no	miden	el	factor	latente	o	dimensión	que	debería	medir.
+
+5	En	los	análisis	de	confiabilidad	realizados	se	hace	uso	del	índice	del	Alpha	de	Cronbach,	cuya	fórmula	es	la	siguiente:
+
+Dónde: 
+α = índice de confiabilidad
+k = número de ítems en la escala o prueba
+σ2i = varianza del ítem i
+σ2x = varianza de la escala o prueba
+
+α =
+k
+
+k −1
+1−
+
+σ i
+2
+
+i−1
+
+k
+
+∑
+σ x
+
+2
+
+⎡
+
+⎣
+
+⎢
+⎢
+⎢
+⎢
+
+⎤
+
+⎦
+
+⎥
+⎥
+⎥
+⎥
+
+
+
+13
+
+3.1 Resultados generales
+
+De	 nuestras	 dos	 unidades	 poblacionales,	 tenemos	 dos	 grupos	 muestrales.	 Para	 la	 ECERS-R	 son	 
+las	aulas	de	cinco	años	de	las	IEI,	que,	luego	de	la	depuración	en	la	base	de	datos,	se	tiene	un	total	
+1025.	Mientras	que	para	el	EDI,	nuestra	muestra	la	componen	los	niños	y	niñas	que	asisten	a	estas	
+aulas	de	cinco	años,	que	suman	un	total	de	15	9626.	El	nivel	de	inferencia	es,	a	nivel	nacional,	al	área	
+geográfica	(urbano	o	rural)	y	al	tipo	de	gestión	(pública	o	privada)	de	la	institución.
+
+Con	referencia	a	las	características	generales	de	las	aulas	de	cinco	años,	observamos	que	dos	tercios	
+de	estas	aulas	pertenecen	a	instituciones	públicas	y	el	resto	a	privadas,	con	una	variación	significativa	
+en	áreas	urbanas,	donde	el	47%	son	privadas.	Otra	característica	es	que	en	la	mayoría	de	las	IEI	solo	
+hay	una	sección	de	esta	edad,	donde,	en	promedio,	tienen	dieciséis	niños	y/o	niñas	asistentes,	con	
+variaciones	por	área:	mientras	que	en	el	 área	urbana	el	promedio	es	de	diecinueve	asistentes,	en	 
+la	 rural	 es	 de	 diez.	 Finalmente,	 en	 relación	 a	 su	 ubicación,	 la	mayoría	 de	 las	 aulas	 se	 encuentran	 
+en	la	Costa	(49%).
+
+6	Para	los	análisis	no	se	consideró	a	niños	y	niñas	que,	con	un	certificado	médico	o	indicación	de	los	padres	de	familia,	tienen	
+una	condición	médica	y/o	física	(por	ejemplo,	un	impedimento	auditivo)	que	podría	comprometer	su	aprendizaje.	Similar	
+consideración	la	contemplan	los	autores	del	instrumento,	pues	ellos	no	consideran	en	su	muestra	de	análisis	a	quienes	tienen	
+necesidades	especiales	(p.	ej.:	Síndrome	de	Asperger).
+
+III 
+Resultados
+
+Características de la muestra de aulas de cinco años por área
+
+Promedio	de	niños/niñas	por	sección
+Promedio	de	docentes	
+
+Pública
+Privada
+Costa
+Sierra
+Selva
+
+Gestión	
+
+Región	natural
+
+Área	geográfica
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU.
+
+Tabla n° 2
+
+CARACTERÍSTICAS DE LA MUESTRA DE AULAS
+Urbano (n=739) Rural (n=286)
+
+NACIONAL (n=1025)
+DISTRIBUCIÓN POR ÁREA
+
+16.4
+1.3
+65
+35
+49
+40
+11
+
+%
+%
+%
+%
+%
+
+%
+%
+%
+%
+%
+%
+
+%
+%
+%
+%
+%
+%
+
+18.7
+1.4
+53
+47
+60
+32
+8
+
+72.10
+
+10.4
+1.1
+99
+1
+
+19
+62
+19
+
+27.90
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+14
+
+Características de los niños y niñas por área (en porcentajes)
+
+Edad	a	
+
+Género
+
+Lengua	materna
+
+Gestión
+
+Región	natural
+
+Área	geográfica
+
+5	años
+6	años
+
+Masculino
+Femenino
+Castellano
+
+Diferente	al	castellano
+Pública
+Privada
+Costa
+Sierra
+Selva
+
+a En la variable edad, se omitieron las proporciones de las edades de cuatro y siete años ya que representan un porcentaje pequeño (0.31%) con respecto a la 
+muestra.
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU.
+
+Tabla n° 3
+
+CARACTERÍSTICAS DE LOS NIÑOS Y NIÑAS
+Urbano (n=13	266) Rural (n=2696)
+
+NACIONAL (n=15 962)
+DISTRIBUCIÓN POR ÁREA
+
+57.05
+42.95
+51.05
+48.95
+94.35
+
+5.65
+65.21
+34.79
+53.72
+34.35
+11.93
+
+57.63
+42.37
+50.98
+49.02
+98.16
+
+1.84
+58.74
+41.26
+60.05
+29.48
+10.47
+83.11
+
+54.17
+45.83
+51.41
+48.59
+75.59
+24.41
+97.07
+
+2.93
+22.55
+58.31
+19.14
+16.89
+
+Sobre	 las	 características	 generales	 de	 los	 niños	 y	 niñas	 que	 son	 parte	 del	 segundo	 de	 los	 grupos	
+muestrales,	tenemos	que,	con	relación	a	la	edad,	el	57.05%	de	niños	y/o	niñas	aún	tienen	cinco	años,	
+mientras	que	el	resto	tiene	seis.		En	cuanto	a	género,	la	muestra	está	balanceada	tanto	a	nivel	nacional	
+como	por	área.	Así	mismo,	más	del	50%	asiste	a	una	IEI	de	gestión	pública,	la	mayoría	de	ellas	ubicadas	
+en	la	Costa	(53.72%).
+
+27.90
+
+72.10
+
+11.00
+
+40.00
+
+49.00
+
+35.00
+
+65.00
+
+Características de la muestra de aulas de cinco años Gráfico n° 1
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU.
+
+Área Geográfica
+
+Región Natural
+
+Gestión
+
+Rural
+
+Urbano
+
+Selva
+
+Sierra
+
+Costa
+
+Privada
+
+Pública
+
+200 40 60 80 100
+
+
+
+15
+
+III. Resultados
+
+Características de la muestra de niños y niñas (en porcentajes)
+
+Porcentaje de la muestra según lengua materna
+
+Gráfico n° 2
+
+Gráfico n° 3
+
+Área Geográfica
+
+Región Natural
+
+Gestión
+
+Lengua Materna
+
+Género
+
+Edad
+
+Área
+
+Rural
+
+Urbano
+
+Selva
+
+Sierra
+
+Costa
+
+Privada
+
+Femenino
+
+6 años
+
+Diferente al 
+castellano
+
+Pública
+
+Masculino
+
+5 años
+
+Castellano
+
+57.05
+
+20
+
+20
+
+0
+
+0
+
+40
+
+40
+
+60
+
+60
+
+80
+
+80
+
+100
+
+100
+
+51.05
+
+53.72
+
+94.35
+
+65.21
+
+42.95
+
+48.95
+
+34.35
+11.93
+
+16.89
+83.11
+
+5.65
+
+34.79
+
+En	el	 gráfico	n°	2	 se	observa	que	el	 94.35%	de	 la	muestra	 total	tiene	al	 castellano	 como	 lengua	
+materna.	Al	analizar	este	aspecto	por	área	geográfica	(ver	gráfico	n°	3),	se	observa	que	en	el	área	
+rural	hay	un	24.41%	de	niños	y/o	niñas	con	lengua	materna	diferente	al	castellano,	mientras	que	 
+en	el	área	urbana	su	porcentaje	es	mucho	menor,	con	un	1.84%.
+
+Urbano 
+(n=13 266)
+
+Rural 
+(n= 2696)
+
+24.4175.59
+
+98.16 1.84
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU.
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU.
+
+LENGUA MATERNA Castellano LENGUA MATERNA Diferente al castellano
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+16
+
+3.2 La Escala de Calificación del Ambiente de la Infancia 
+Temprana - Early Childhood Environment Rating 
+Scale revised edition (ECERS-R)
+
+La	 ECERS-R	 es	 una	 pauta	 de	 observación	 diseñada	 en	 Estados	 Unidos	 para	 evaluar	 la	 calidad	 de	 
+los	ambientes	donde	los	niños	y/o	niñas	entre	dos	años	y	medio	a	cinco	años	interactúan	y	aprenden.	
+
+En	la	actualidad,	esta	escala	se	adapta	a	cualquier	realidad	educativa	y	es	utilizada	como	herramienta	
+para	 la	 evaluación,	 acreditación	 y	mejoramiento	de	programas,	 así	 como	en	 investigaciones	que	
+buscan	evaluar	la	calidad	del	entorno	educativo.	Sus	resultados	orientan	respecto	a	lo	que	es	adecuado	
+o	no	para	el	aprendizaje,	al	margen	del	 contexto	en	el	que	se	encuentren	 los	centros	de	atención	 
+del	nivel	inicial	(La	Paro,	et	al.,	2012).	
+
+• Adaptación de la ECERS-R para la EN
+
+	 La	 versión	 original	 de	 la	 ECERS-R	 está	 compuesta	 por	 43	 ítems	 (cada	 uno	 con	 un	 número	 
+de	indicadores	que	varía	entre	los	7	y	18	indicadores)	organizados	en	7	subescalas.	Para	la	EN,	luego	
+de	la	adaptación,	se	administraron	la	mayoría	de	los	ítems	(40)7.
+
+	 Las	adaptaciones	de	la	ECERS-R	se	hicieron	a	partir	de	la	experiencia	en	la	aplicación	de	un	piloto	
+y	de	otros	estudios,	a	menor	escala,	que	 se	han	hecho	en	el	país	 (que	ya	 fueron	mencionados	 
+en	el	punto	2.3	del	presente	informe).	En	estas	experiencias	se	detectaron	indicadores,	expresiones	
+y	 ejemplos	 que	 no	 eran	 claros	 para	 la	 observación,	 o	 que	 no	 se	 ajustaban	 a	 nuestra	 realidad.	
+Dependiendo	del	caso,	estos	fueron	retirados,	parafraseados	de	otras	maneras	o	cambiados.
+
+	 Los	 cambios	 más	 evidentes	 que	 se	 hicieron	 para	 facilitar	 la	 observación	 y	 puntuación	 fueron	
+en	 torno	a	adicionar	expresiones	de	 cantidad,	porcentaje	e	 intervalos	de	tiempo	 (por	ejemplo:	
+algunos,	muchos,	cantidad	suficiente,	mayor	parte,	predomina,	variedad,	muy	poco,	normalmente,	
+parte	 considerable	 del	 día,	 etc.).	 En	 la	 tabla	 n°	 4	 se	 observan	 las	 subescalas	 e	 ítems	 tomados	 
+en	cuenta	en	la	EN.
+
+7	No	se	tomaron	en	consideración	los	ítems	11.	Siesta;	23.	Arena/Agua;	y	37.	Provisiones	para	los	niños	y	niñas	con	discapacidad.
+
+
+
+17
+
+III. Resultados
+
+Subescalas e ítems de la ECERS-R original y aplicados en la EN
+
+1. Espacio y 
+muebles
+
+2. Rutinas del 
+cuidado 
+personal
+
+3. Lenguaje y 
+razonamiento
+
+4. Actividades 
+y materiales
+
+5. Interacción
+
+6. Estructura 
+del 
+programa
+
+7. Padres y 
+personal
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU.
+
+Tabla n° 4
+
+Subescalas Ítems Escala original EN
+
+1.	 Espacio	interior
+2.	 Mobiliario	para	el	cuidado	rutinario,	el	juego	y	el	aprendizaje
+3.	 Espacio	para	el	relajamiento	y	el	confort
+4.	 Organización	de	sectores	en	el	aula
+5.	 Espacios	para	la	privacidad
+6.	 Exhibiciones	en	el	aula
+7.	 Espacio	para	las	actividades	motoras	gruesas
+8.	 Equipo	para	las	actividades	motoras	gruesas	
+9.	 Saludo	y	despedida
+10.	 Lonchera/Alimentación
+11.	 Siesta	(NA)
+12.	 Ir	al	baño/servicios	higiénicos		
+13.	 Prácticas	saludables	
+14.	 Prácticas	de	seguridad
+15.	 Libros	e	imágenes
+16.	 Promoviendo	la	comunicación	en	los	niños	y	niñas
+17.	 Uso	del	lenguaje	para	desarrollar	el	razonamiento
+18.	 Uso	informal	del	lenguaje
+19.	 Motora	fina
+20.	 Arte
+21.	 Música/movimiento
+22.	 Bloques
+23.	 Arena/Agua
+24.	 Juego	dramático/hogar
+25.	 Naturaleza/ciencia
+26.	 Matemáticas/números	
+27.	 Uso	de	la	televisión,	videos	y/o	computadora	
+28.	 Promoviendo	la	aceptación	de	la	diversidad
+29.	 Supervisión	de	las	actividades	motoras	gruesas
+30.	 Supervisión	general	de	los	niños	y/o	niñas
+31.	 Disciplina
+32.	 Interacciones	entre	el	personal	y	los	niños	y/o	niñas
+33.	 Interacciones	entre	los	niños	y/o	niñas
+34.	 Horario
+35.	 Juego	libre
+36.	 Tiempo	en	grupo
+37.	 Provisiones	para	los	niños	y	niñas	con	discapacidad
+38.	 Provisiones	para	los	padres
+39.	 Provisiones	para	las	necesidades	personales	del	personal
+40.	 Provisiones	para	las	necesidades	profesionales	del	personal
+41.	 Interacción	y	cooperación	entre	el	personal
+42.	 Supervisión	y	evaluación	del	personal
+43.	 Oportunidades	para	el	crecimiento	profesional
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+-
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+-
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+-
+X
+X
+X
+X
+X
+X
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+18
+
+3.2.1 Estrategia de aplicación de la ECERS-R en la EN
+
+Cada	aplicador	se	trasladaba	a	cada	una	de	las	IEI	designadas	y	observaba	una	jornada	pedagógica	
+completa	en	el	aula	de	cinco	años	de	edad,	llevando	un	registro	en	la	hoja	de	puntuación	ECERS-R.	
+Al	finalizar	la	jornada,	y	retirados	todos	los	niños	y/o	niñas,	se	realizaba	una	entrevista	a	la	docente,	
+con	lo	que	se	completaba	el	llenado	de	dicho	material.
+
+3.2.2 Análisis psicométrico: validez y confiabilidad de la ECERS-R
+
+De	los	cuarenta	ítems	aplicados,	para	los	análisis	solo	se	considerarán	treinta	y	siete,	pues	tres	fueron	
+eliminados	por	su	alto	porcentaje	de	valores	perdidos	(superior	al	5%).	
+
+La	tabla	n°	5	expone	la	confiabilidad	de	la	ECERS-R	a	través	del	Alpha	de	Cronbach	de	la	escala	global	
+y	de	cada	subescala,	mientras	que	la	validez	se	muestra	en	los	resultados	del	análisis	factorial	(medida	
+de	adecuación	muestral	de	KMO,	Prueba	de	esfericidad	de	Bartlett,	número	de	factores	y	porcentaje	
+de	varianza	explicada).	
+
+La	 ECERS-R	 se	 muestra	 como	 un	 instrumento	 confiable	 cuando	 se	 analizan	 todos	 los	 ítems	
+válidos9,	 siendo	el	Alpha	de	Cronbach	 total	de	0.931	y,	en	general,	 la	mayoría	de	 subescalas	tiene	 
+una	confiabilidad	aceptable	(salvo	las	subescala	6:	Estructura	del	programa,	y	la	subescala	7:	Padres	 
+y	personal,	que	tienen	un	Alpha	de	Cronbach	de	0.593	y	0.571,	respectivamente).
+
+Al	realizar	el	análisis	factorial	exploratorio,	se	encontró	que	la	escala	global	de	la	ECERS-R	presenta	
+unidimensionalidad	 debido	 a	 que	 el	 primer	 factor	 o	 combinación	 lineal	 del	 análisis	 factorial	
+presenta	 un	 valor	 característico	 (eigen value)	 que	 es	 cuatro	 veces	 mayor	 al	 siguiente	 factor	 
+o	combinación	 lineal	que	arroja	el	análisis.	 Esta	unidimensionalidad	 también	ha	 sido	encontrada	 
+
+Total de preguntasi
+
+1.	Espacio	y	muebles
+2.	Rutinas	del	cuidado	personal
+3.	Lenguaje	y	razonamiento
+4.	Actividades	y	materialesiv
+
+5.	Interacción
+6.	Estructura	del	programa
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU.
+Notas: 
+i Se excluyeron tres ítems debido a que presentan más de 5% de observaciones faltantes (ítems 27, 41 y 42).
+ii Las escalas se agrupan en una sola dimensión ya que el valor característico (eigen value) del primer factor es cuatro veces más grande que el segundo  
+y porque hay una confiablidad alta para todas las preguntas (Alpha de Cronbach= 0.9308).
+iii Las cargas factoriales de los ítems se concentran en el primer factor, que representa el 34.967% de la varianza.
+iv En la subescala 4: Actividades y materiales, no se incluyó el ítem 27 debido a que presentaba 47.22% de valores perdidos.
+
+SUBESCALAS8
+CONFIABILIDAD VALIDEZ
+
+0.931
+0.727
+0.668
+0.805
+0.873
+0.875
+0.593
+
+0.944	(<0.001)
+0.777	(<0.001)
+0.749	(<0.001)
+0.756	(<0.001)
+0.917	(<0.001)
+0.830	(<0.001)
+0.619	(<0.001)
+
+6	(55.61)ii
+
+2	(49.89)iii
+
+1	(48.16)
+1	(63.39)
+1	(53.71)
+1	(66.71)
+1	(55.73)
+
+8	En	la	subescala	7:	Padres	y	personal,	la	medida	de	adecuación	muestral	de	KMO	es	menor	a	0.6,	por	lo	que	no	se	considera	
+válida	(motivo	por	el	cual	no		se	presenta	en	la	tabla).	Además,	en	esta	misma	escala,	no	se	incluyeron	los	ítems	41	y	42
+ya	que	presentaban	70.24%	y	7.71%,	respectivamente,	de	valores	perdidos.
+9	Cuando	se	hace	referencia	a	todas	las	escalas	válidas,	se	refiere	a	las	cuarenta	y	tres	escalas	correspondientes	a	la	ECERS-R,	
+menos	las	tres	no	consideradas	por	la	EN-2014	(preguntas	11,	23	y	37)	y	las	tres	escalas	que	cuentan	con	valores	perdidos	
+mayores	al	5%	de	las	observaciones.
+
+
+
+19
+
+III. Resultados
+
+3.2.3 Resultados de la ECERS-R
+
+La	ECERS-R	permite	tener	un	puntaje	global,	así	como	puntajes	para	diferentes	aspectos	del	entorno	
+en	el	cual	se	desenvuelven	los	niños	y	niñas	que	asisten	a	las	aulas	de	educación	inicial,	tales	como	
+espacios	y	muebles,	rutinas	del	cuidado	personal,	entre	otras.
+
+en	diversos	estudios	realizados	en	contextos	diferentes	al	Perú,	aspecto	que	valida	dichos	resultados	
+encontrados	(Clifford,	Reszka	y	Rossbach,	2010;	Sylva	y	otros,	2006;	Perlman,	Zellman	y	Le,	2004;	
+Phillips,	McCartney	y	Scarr,	1987).	
+
+En	cuanto	a	la	validez	de	las	subescalas,	solo	existe	un	factor	latente	en	cinco	de	las	siete	subescalas.	
+De	 las	dos	subescalas	restantes,	que	no	cumplen	 la	unidimensionalidad,	una	presenta	dos	factores	
+latentes	(ver	subescala	1:	Espacio	y	muebles),	mientras	que	la	segunda	subescala	si	bien	presenta	solo	
+un	factor	 latente,	presenta	una	medida	de	adecuación	muestral	de	KMO	menor	a	0.60,	por	 lo	que	 
+se	considera	como	no	válida	(ver	subescala	7:	Padres	y	personal).	
+
+En	la	siguiente	tabla	y	gráfico	se	observan	los	puntajes	promedio	e	intervalo	de	confianza	para	la	escala	
+global	y	subescalas10	de	la	ECERS	obtenidos	en	la	EN.
+
+10	 No	 se	 reportan	 resultados	 para	 la	 subescala	 7:	 Padres	 y	 personal,	 pues	 el	 análisis	 psicométrico	 realizado	 demostró	 que
+la	confiabilidad	y	validez	de	esta	subescala	no	eran	aceptables.
+
+Detalle de los valores de la ECERS-R
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU.
+
+Tabla n° 6
+
+1
+3
+5
+7
+
+Valor Indica que…
+
+Es	inadecuado
+Es	mínimo
+Es	bueno
+Es	excelente
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU.
+
+Puntaje promedio e intervalo de confianza de la ECERS-R
+
+2.93
+2.68
+2.43
+3.35
+2.75
+4.05
+3.18
+
+Escala global
+1.	Espacio	y	muebles
+2.	Rutinas	del	cuidado	personal
+3.	Lenguaje	y	razonamiento
+4.	Actividades	y	materiales
+5.	Interacción
+6.	Estructura	del	programa
+
+Tabla n° 7
+
+SUBESCALA
+Inferior Superior
+
+Puntaje promedio Error estándar 
+del promedio
+
+Intervalo al 95% de confianza
+
+0.030
+0.030
+0.040
+0.048
+0.036
+0.052
+0.042
+
+2.87
+2.62
+2.35
+3.26
+2.68
+3.95
+3.10
+
+2.98
+2.74
+2.51
+3.44
+2.82
+4.15
+3.26
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+20
+
+2.93
+
+2.68
+
+2.43
+
+3.35
+
+4.05
+
+3.18
+
+Puntaje promedio de la escala global y por subescalas de la ECERS-RGráfico n° 4
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU.
+
+PUNTAJE PROMEDIO DE LA ESCALA
+
+ESPACIO Y MUEBLES
+
+RUTINA DEL CUIDADO PERSONAL
+
+LENGUAJE Y RAZONAMIENTO
+
+ACTIVIDADES Y MATERIALES
+
+INTERACCIONES
+
+ESTRUCTURA DEL PROGRAMA
+
+21 3 4 5 76
+
+INADECUADO MÍNIMO EXCELENTEBUENO
+
+2.75
+
+El	gráfico	n°	4	nos	muestra	que	el	puntaje	promedio	de	la	escala	global	es	2.93	y	que	en	la	mayoría	 
+de	subescalas	(cinco	de	seis)	el	puntaje	promedio	está	por	debajo	del	nivel	mínimo	(3),	mostrándose	
+así	 una	 seria	 deficiencia	 de	 ambientes	 educativos	 para	 el	 desarrollo	 y	 aprendizaje	 de	 los	 niños	
+y/o	 niñas	 que	 asisten	 a	 aulas	 de	 cinco	 años.	 La	 única	 subescala	 que	 tuvo	 un	 puntaje	 promedio	
+relativamente	más	alto	es	la	subescala	de	las	interacciones,	con	un	puntaje	de	4.05.
+
+3.2.3.1 Escala global de la ECERS-R según tipo de gestión y área geográfica
+
+De	 acuerdo	 a	 las	 características	 de	 las	 IEI,	 la	 escala	 global	 de	 la	 ECERS-R	 nos	 indica	 que	 existen	
+diferencias	 entre	 instituciones	 públicas	 y	 privadas,	 donde,	 las	 de	 gestión	 pública	 tienen	 mayor	
+puntaje	 que	 las	 privadas,	 y	 por	 área	 geográfica	 las	 IEI	 de	 área	 urbana	 tienen	mayor	 puntuación	 
+que	las	rurales.	
+
+Puntaje promedio de la ECERS-R según tipo de gestión y área geográfica
+
+Escala	global 2.93
+
+* Diferencia estadísticamente significativa al 5% de significancia (U-Mann-Whitney test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU.
+
+Tabla n° 8
+
+ECERS-R
+UrbanoPúblico RuralPrivado
+
+Área geográficaTipo de gestión*
+Total
+
+3.07 2.942.66 2.88
+
+
+
+21
+
+III. Resultados
+
+* Diferencia estadísticamente significativa al 5% de significancia (U-Mann-Whitney test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+3.2.3.2 Puntaje promedio por cada subescala
+
+• Puntaje promedio de la subescala Espacio y muebles
+
+	 En	 esta	 escala	 los	 resultados	 están	 por	 debajo	 del	 mínimo,	 es	 decir,	 en	 promedio	 las	 aulas	 
+de	cinco	años	no	cuentan	con	espacios	organizados,	amplios,	limpios,	seguros,	ni	con	mobiliario	
+que	favorezca	el	juego	y	el	aprendizaje.	Significa	también,	que	no	se	tienen	espacios	adecuados	
+para	la	realización	de	actividades	motoras	gruesas	(dentro	o	fuera	del	aula),	ni	lugares	que	sirvan	
+para	exhibir	las	creaciones	actuales	e	individuales	de	los	niños	y	niñas.	En	este	punto	destacan	 
+las	 diferencias	 estadísticamente	 significativas	 entre	 los	 resultados	 según	 el	 tipo	 de	 gestión,	 
+a	favor	de	las	instituciones	públicas.
+
+Puntaje promedio de la subescala Espacio y muebles
+
+1.	 Espacio	y
+	 muebles
+
+2.68
+
+Tabla n° 9
+
+Subescala
+UrbanoPúblico RuralPrivado
+
+Área geográficaTipo de gestión*
+Puntaje Total 
+
+2.89 2.692.28 2.65
+
+* Diferencia estadísticamente significativa al 5% de significancia (U-Mann-Whitney test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+• Puntaje promedio de la subescala Rutinas	del	cuidado	personal
+
+	 Los	 resultados	 nos	 indican	 que	 en	 las	 aulas	 de	 cinco	 años	 no	 se	 aprecian	 rutinas	 de	 saludo	 
+ni	 de	 despedida	 individual	 entre	 los	 niños	 y/o	 niñas,	 no	 se	 promueven	 hábitos	 alimenticios	
+saludables	y	no	se	cuenta	con	provisiones	básicas	para	el	aseo	y	limpieza	de	los	niños	y	niñas,	
+del	aula	y	de	 los	servicios	higiénicos.	Ningún	grupo	tiene	por	 lo	menos	el	puntaje	mínimo	(3),	
+resaltándose	que	existen	diferencias	estadísticamente	significativas	entre	las	IEI	privadas	(2.57)	 
+y	las	ubicadas	en	áreas	urbanas	(2.5).	
+
+Puntaje promedio de la subescala Rutinas del cuidado personal
+
+2.	 Rutinas	del	
+cuidado	
+personal
+
+2.43
+
+Tabla n° 10
+
+Subescala
+UrbanoPúblico RuralPrivado
+
+Área geográfica*Tipo de gestión*
+Puntaje Total 
+
+2.36 2.502.57 2.25
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+22
+
+* Diferencia estadísticamente significativa al 5% de significancia (U-Mann-Whitney test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+• Puntaje promedio de la subescala Lenguaje	y	razonamiento
+
+	 En	 la	 siguiente	 tabla	 se	 observa	 que	 las	 IEI	 públicas	 puntúan	 ligeramente	 más	 
+del	 mínimo	 esperado	 (3).	 Lo	 que	 significa	 que	 la	 estimulación	 cognitiva	 
+a	lo	largo	de	la	jornada,	asociada	al	desarrollo	del	lenguaje	y	razonamiento,	podrían	reforzar	 
+la	comunicación	a	un	nivel	mínimo.
+
+Puntaje promedio de la subescala Lenguaje y razonamiento
+
+3.	 Lenguaje	y	
+razonamiento 3.35
+
+Tabla n° 11
+
+Subescala
+UrbanoPúblico RuralPrivado
+
+Área geográfica*Tipo de gestión*
+Puntaje Total 
+
+3.67 3.292.75 3.51
+
+* Diferencia estadísticamente significativa al 5% de significancia (U-Mann-Whitney test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+• Puntaje promedio de la subescala Actividades	y	materiales
+
+	 Esta	subescala	explora	la	existencia,	organización	y	el	uso	de	material	variado,	rotulado,	en	buen	
+estado,	accesible,	pertinente,	en	cantidades	suficientes	para	el	trabajo	de	diferentes	actividades	
+como	 arte,	música,	motricidad	 fina,	 entre	 otros.	 Los	 resultados	 indican	 que	 son	 las	 aulas	 de	
+cinco	años	de	IEI	públicas	las	que	superan	el	puntaje	mínimo	(mayor	a	3)	y	que	las	aulas	rurales	 
+se	aproximan	a	dicha	cifra	(2.95).
+
+Puntaje promedio de la subescala Actividades y materiales
+
+4.	 Actividades	y	
+materiales
+
+2.75
+
+Tabla n° 12
+
+Subescala
+UrbanoPúblico RuralPrivado
+
+Área geográfica*Tipo de gestión*
+Puntaje Total 
+
+3.11 2.672.05 2.95
+
+• Puntaje promedio de la subescala Interacciones
+
+	 Esta	subescala	evalúa	las	relaciones	positivas	entre	los	niños	y/o	niñas	y	el	personal,	el	respeto	
+por	las	características	individuales	de	cada	uno,	el	manejo	de	la	disciplina	a	través	del	cumplimiento	
+de	normas	 y	 las	 interrelaciones	de	 apoyo,	 atención	 y	 cooperación	 entre	 el	 docente	 y	 los	 niños	 
+y	 niñas.	 Es	 en	 esta	 subescala	 donde	 se	 tiene	 el	 puntaje	 más	 alto	 a	 nivel	 nacional.
+
+	 En	 la	 tabla	 n°	 13	 se	 observa	 que	 la	 muestra	 está	 por	 encima	 del	 mínimo	 (mayor	 a	 3),
+
+
+
+23
+
+III. Resultados
+
+* Diferencia estadísticamente significativa al 5% de significancia (U-Mann-Whitney test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+	 aunque	 sin	 llegar	 a	 tener	 	 un	 nivel	 bueno.	 Al	 ver	 los	 promedios	 por	 características	 de	 las	 IEI,
+	 se	 aprecian	 diferencias	 significativas	 por	 área,	 donde	 las	 instituciones	 urbanas	 son	 las	 que
+	 cuentan	con	un	mayor	nivel	de	interacción.
+
+De	las	seis	subescalas	evaluadas,	tres	alcanzan	el	puntaje	mínimo,	mientras	que	las	otras	subescalas	
+se	encuentran	debajo	del	puntaje	mínimo.	Además,	en	casi	todas	las	subescalas	existen	diferencias	
+significativas	entre	las	IEI	de	gestión	pública	y	privada,	exceptuando	la	subescala	de	interacciones.
+
+La	 mayor	 puntuación	 de	 la	 escala	 es	 la	 que	 se	 obtiene	 en	 la	 subescala	 de	 interacciones	 (4.05)	 
+y	la	menor	puntuación	se	encuentra	en	la	escala	rutinas	del	cuidado	personal	(2.43).
+
+Puntaje promedio de la subescala Interacciones
+
+5.	 Interacciones 4.05
+
+Tabla n° 13
+
+Subescala
+UrbanoPúblico RuralPrivado
+
+Área geográfica*Tipo de gestión
+Puntaje Total 
+
+3.99 4.124.16 3.87
+
+* Diferencia estadísticamente significativa al 5% de significancia (U-Mann-Whitney test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+• Puntaje promedio de la subescala Estructura	del	programa
+
+	 Esta	subescala	 recoge	 información	sobre	si	 las	actividades	planteadas	a	 lo	 largo	de	 la	 jornada	
+permiten	 una	 hora	 diaria	 para	 hacer	 uso	 del	 juego,	 tanto	 en	 sectores	 como	 en	 el	 recreo,	 
+y	si	brinda	oportunidades	de	trabajo	en	grupo.	En	 la	 tabla	n°	14	se	observa	que	en	promedio	
+las	aulas	 llegan	a	 tener	 los	puntajes	mínimos	de	calidad	 (mayor	a	3).	Además,	 se	aprecia	que	 
+no	existen	diferencias	de	acuerdo	al	área	geográfica,	aunque	sí	por	tipo	de	gestión,	donde	las	IEI	
+públicas	cuentan	con	más	momentos	de	juego	en	sectores	y	en	el	recreo,	al	igual	que	un	mayor	
+tiempo	para	el	trabajo	en	grupo,	respecto	a	las	privadas.
+
+Puntaje promedio de la subescala Estructura del programa
+
+6.	 Estructura	del	
+programa
+
+3.18
+
+Tabla n° 14
+
+Subescala
+UrbanoPúblico RuralPrivado
+
+Área geográficaTipo de gestión*
+Puntaje Total 
+
+3.37 3.192.82 3.16
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+24
+
+3.3 Resultados del Instrumento de Desarrollo Temprano - 
+Early Development Instrument  (EDI)
+
+El	 EDI	 ha	 sido	 diseñado	 por	 investigadores	 de	 la	Universidad	 de	McMaster	 en	 Canadá	 para	medir	 
+el	desarrollo	de	grupos	de	niños	y	niñas	entre	los	cuatro	a	siete	años	que	asisten	a	un	centro	preescolar.	
+Este	instrumento	se	basa	en	dos	supuestos	teóricos:	
+
+• Readiness	 to	 learn	 (disposición	 para	 aprender),	 referida	 a	 que	 entre	 los	 cuatro	 y	 siete	 años,	 
+el	estado	neuronal	del	niño	y/o	niña	está	listo	para	desarrollar	habilidades	y	conexiones	nerviosas	
+dependiendo	de	los	estímulos	que	reciba	(Janus,	2007).
+
+• School readiness	(preparación	para	la	escuela),	señala	que	los	niños	y	niñas,	en	estas	edades,	tienen	 
+las	 capacidades	 para	 explorar,	 hacer	 preguntas,	 desarrollar	 sus	 capacidades	 motoras	 finas,	 prestar	
+atención,	 jugar	 o	 trabajar	 con	 sus	 pares,	 seguir	 reglas,	 etc.,	 es	 decir,	 es	 un	 periodo	 en	 el	 que	 se	 van	
+preparando	para	poder	satisfacer	las	demandas	que	más	adelante	le	exigirá	la	etapa	escolar	(Janus,	2007).
+
+El	EDI	clasifica	el	nivel	de	desarrollo	de	un	grupo	de	niños	y/o	niñas	en	las	siguientes	dimensiones:	
+desarrollo	 físico	 y	 bienestar,	 competencia	 social,	 madurez	 emocional,	 desarrollo	 de	 lenguaje	 
+y	cognitivo,	y	habilidades	comunicacionales	y	conocimiento	general.	Cada	dimensión	está	compuesta	
+por	subdimensiones	que	analizan	distintos	aspectos	de	esta.	
+
+Muchos	países	utilizan	este	 instrumento	bajo	 la	 licencia	de	sus	creadores	y	 con	adaptaciones	muy	
+finas,	tomando	el	contexto	social	y	el	idioma	de	la	región	donde	se	aplique.	La	versión	original	tiene	
+104	 preguntas	 que	 recogen	 información	 sobre	 cinco	 dimensiones	 y	 quince	 subdimensiones.	 Para	 
+la	EN,	esta	versión	fue	adaptada	añadiéndose	una	sección	que	permite	recoger	información	de	los	niños 
+y/o	 niñas	 con	 lengua	 materna	 diferente	 al	 castellano.	 En	 las	 siguientes	 tablas	 se	 muestran	 
+las	dimensiones,	subdimensiones	y	las	secciones	del	cuestionario	EDI	aplicado	en	la	EN.
+
+Dimensiones y subdimensiones del EDI
+
+1. Desarrollo físico y bienestar
+
+2. Competencia social
+
+3. Madurez emocional
+
+4. Desarrollo de lenguaje y cognitivo. 
+
+5. Habilidades comunicacionales   
+y conocimiento general
+
+Fuente: Janus, M. y Offord, D. (2007). 
+
+Tabla n° 15
+
+DIMENSIONES SUBDIMENSIONES
+
+1.	 Habilidades	motoras	gruesas	y	finas
+2.	 Estado	físico	de	los	niños	y/o	niñas	durante	la	jornada	pedagógica
+3.	 Independencia	física
+4.	 Responsabilidad	y	respeto
+5.	 Aproximaciones	al	aprendizaje
+6.	 Competencia	social	general
+7.	 Preparación	para	explorar	nuevas	cosas
+8.	 Conducta	prosocial	y	de	ayuda
+9.	 Hiperactividad	e	inatención
+10.	 Conducta	ansiosa	y	temerosa
+11.	 Conducta	agresiva
+12.	 Numeración	básica
+13.	 Alfabetización	avanzada
+14.	 Interés	en	letras	y	números,	y	uso	de	la	memoria
+15.	 Alfabetización	básica
+
+
+
+25
+
+III. Resultados
+
+Secciones del EDI: original y utilizadas en la EN
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+Tabla n° 16
+
+DIMENSIONES Escala original EN 
+
+X
+X
+-
+X
+X
+
+X
+X
+X
+X
+X
+
+Sección	A:	Bienestar	físico
+Sección	B:	Idioma	y	aptitudes	cognitivas
+Sección	B2:	Idioma	y	aptitudes	cognitivas	en	quechua,	aimara,	lengua	amazónica	o	extranjera
+Sección	C:	Desarrollo	social	y	emocional
+Sección	D:	Inquietudes	especiales
+
+Además,	 la	 escala	 recoge	 información	 sobre	 dos	 indicadores	 adicionales:	 habilidades	 especiales	
+(danza,	 música,	 etc.)	 y	 problemas	 de	 salud,	 aprendizaje	 y	 conducta,	 los	 cuales	 forman	 parte	 de	 
+las	secciones	B,	C	y	D.
+
+Por	su	naturaleza,	el	EDI	brinda	medidas	poblacionales	de	niños	y	niñas	de	un	grupo	específico	(dentro	
+de	una	comunidad,	distrito,	región,	etc.)	a	través	del	tiempo	y	con	ello	predecir	su	desempeño	en 
+	la	escuela	primaria	(Janus	et al.,	2007;	Janus	et al.,	2011).	No	da	resultados	individuales.
+
+Para	esta	evaluación	se	capacitó	a	los	docente	de	aula,	de	las	IEI	de	la	muestra,	en	temas	de	desarrollo	
+y	en	el	correcto	llenado	de	los	cuestionarios	EDI,	a	través	de	tres	estrategias:	capacitación	en	sede,	
+capacitación	 itinerante	 grupal	 y	 capacitación	 itinerante	 individual	 (esta	 información	 se	 encuentra	
+detallado	en	el	marco	de	trabajo	de	la	EN).
+
+Cabe	destacar	que,	solo	en	el	caso	del	EDI,	debido	a	que	el	número	de	niños	y	niñas	evaluados	de	 
+la	muestra	y	de	la	población	son	porcentualmente	similares	en	los	diferentes	cortes	seleccionados,	 
+se	cuenta	con	la	representatividad	por	región	natural	(Costa,	Sierra	y	Selva)11.
+
+3.3.1 Análisis psicométrico: validez y confiabilidad del EDI
+
+El	 EDI	 no	 cuenta	 con	 un	 puntaje	 total	 que	 agrupe	 las	 cinco	 dimensiones	 ya	 que	 cada	 una	 mide	 
+un	aspecto	distinto	del	desempeño	y	estado	del	niño	y/o	niña.	Por	ello,	los	resultados	se	presentan	por	
+dimensión	y	subdimensión.
+
+En	 la	 tabla	 n°	 17	 se	 detalla	 la	 confiabilidad	 del	 EDI	 con	 el	 Alpha	 de	 Cronbach	 de	 cada	 una	 de	 
+las	 dimensiones	 y	 subdimensiones,	 mientras	 que	 para	 su	 validez	 se	 presentan	 los	 resultados	 
+del	 análisis	 factorial	 (medida	 de	 adecuación	muestral	 de	 KMO,	 Prueba	 de	 esfericidad	 de	 Bartlett,
+número	de	factores	y	porcentaje	de	varianza	explicada).
+
+11	Para	 la	clasificación	de	 las	regiones	geográficas	en	el	caso	de	 los	departamentos,	se	toma	en	cuenta	el	número	de	distritos	
+pertenecientes	a	un	ámbito	geográfico	determinado	y	la	densidad	poblacional	de	los	mismos.	El	Instituto	Nacional	de	Estadística	e	
+Informática	(INEI)	brinda	esta	definición	para	fines	estadísticos	propios	de	ellos.	En	este	estudio	seguimos	esta	definición	por	estar	
+manejando	bases	estadísticas	con	representatividad	nacional.	
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+26
+
+Reporte de confiabilidad y validez de las dimensiones y subdimensiones del EDI
+
+Dimensión 1: 
+Desarrollo	físico		
+y	bienestar	i.
+
+Dimensión 2: 
+Competencia	
+social.
+
+Dimensión 3:
+Madurez	
+emocional.
+
+Dimensión 4:
+Desarrollo	
+cognitivo			
+y	del	lenguaje.
+
+Dimensión 5: 
+Habilidades	
+comunicacionales	
+y	conocimiento	
+general.
+
+TOTAL
+1.	Habilidades	motoras	gruesas	y	finas
+2.	Estado	físico	del	niño/niña	durante	la	jornada	pedagógica
+TOTAL
+4.	Responsabilidad	y	respeto
+5.	Aproximaciones	al	aprendizaje
+6.	Competencia	social	general
+7.	Preparación	para	explorar	cosas	nuevas
+TOTAL
+8.	Comportamiento	prosocial	y	colaborador	(de	ayuda)
+9.	Hiperactividad	e	inatención
+10.	Conducta	temerosa	y	ansiosa
+11.	Conducta	agresiva
+TOTAL
+12.	Numeración	básica
+13.	Alfabetización	avanzada
+14.	Interés	en	letras	y	números,	y	uso	de	la	memoria
+15.	Alfabetización	básica
+
+Tabla n° 17
+
+DIMENSIONES KMO 
+(sig. Bartlett)
+
+Alpha de 
+Cronbach
+
+N° de factores 
+(% de varianza 
+
+explicada)
+
+SUBDIMENSIONES
+
+CONFIABILIDAD VALIDEZ DEL CONSTRUCTO
+
+0.752
+0.822
+0.547 ii
+
+0.941
+0.875
+0.892
+0.808
+0.790
+0.914
+0.911
+0.894
+0.811
+0.869
+0.901
+0.730
+0.802
+0.759
+0.732
+
+0.848
+
+0.805	(<0.001)
+0.761	(<0.001)
+0.679	(<0.001)
+0.956	(<0.001)
+0.926	(<0.001)
+0.910	(<0.001)
+0.796	(<0.001)
+0.740	(<0.001)
+0.941	(<0.001)
+0.921	(<0.001)
+0.900	(<0.001)
+0.851	(<0.001)
+0.897	(<0.001)
+0.925	(<0.001)
+0.813	(<0.001)
+0.793	(<0.001)
+0.695	(<0.001)
+0.810	(<0.001)
+
+0.875	(<0.001)
+
+3	(47.87)
+1	(58.73)
+1	(44.22)
+4	(58.64)
+1	(54.46)
+1	(53.91)
+1	(57.72)
+1	(64.61)
+4	(60.93)iii
+
+1	(61.90)
+1	(61.24)
+1	(51.29)iv
+
+1	(56.29)
+5	(51.17)
+1	(40.48)
+1	(50.85)
+2	(71.56)v
+
+2	(48.43)vi
+
+1	(48.93)
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+Notas:
+i Los ítems que compone la subdimensión Independencia física, no presentan una confiabilidad alta (Alpha de Cronbach <0.7) y la medida de adecuación 
+muestral de KMO, para el análisis factorial exploratorio, es menor a 0.6, lo que sugiere que no es adecuado reducir las preguntas que componen la 
+subdimensión en un solo factor. Es decir, no es válido.
+ii Los ítems que componen la subdimensión Estado físico del niño durante la jornada pedagógica, presentan una medida de confiabilidad por debajo del límite 
+aceptable (α<0.7).
+iii No se consideran las preguntas 36 y 54 de la sección C del instrumento EDI para el análisis factorial debido a que la carga factorial más alta que presentan 
+dichos ítems no supera el valor de 0.4.
+iv No se consideran las preguntas 36 y 54 de la sección C del instrumento EDI para el análisis factorial debido a que la carga factorial más alta que presentan 
+dichas preguntas no supera el valor de 0.4.
+v Las preguntas que componen el subdimensión 14: Interés en la literatura/números y uso de la memoria, presentan cargas factoriales más fuertes en el 
+primer factor que en el segundo (2 en total). Este primer factor, donde las preguntas presentan una carga factorial mayor, explica el 51.419% de la varianza 
+total.
+vi Las preguntas que componen el subdimensión 15: Habilidades en literatura básica, presentan cargas factoriales más fuertes en el primer factor que en el 
+segundo (2 en total). Este primer factor, donde las preguntas presentan una carga factorial mayor, explica el 35.348% de la varianza total.
+
+Según	se	observa,	en	todas	sus	dimensiones	la	confiabilidad	del	EDI	tiene	un	Alpha	de	Cronbach	alto,	
+entre	0.752	(dimensión	1)	y	0.941	(dimensión	2).	En	las	subdimensiones	se	observa	que	todas	tienen	
+un	Alpha	de	Cronbach	por	encima	de	0.70,	 salvo	 la	 subdimensión	2,	perteneciente	a	 la	dimensión	 
+1:	Desarrollo	físico	y	bienestar,	cuyo	Alpha	es	0.547.
+
+
+
+27
+
+III. Resultados
+
+Respecto	 a	 la	 validez	del	 EDI,	 el	 análisis	 factorial	 exploratorio	muestra	para	 cada	una	de	 las	 cinco	
+dimensiones	 un	 número	 de	 factores	 que	 coincide	 con	 el	 número	 de	 subdimensiones	 con	 las	 que	
+cuenta	 cada	 dimensión,	 de	 acuerdo	 a	 lo	 especificado	 por	 los	 autores	 del	 instrumento.	 En	 el	 caso	 
+de	la	dimensión	3:	Madurez	emocional,	no	se	toman	en	cuenta	en	los	análisis	las	preguntas	36	y	54	
+de	la	sección	C,	Desarrollo	social	y	emocional,	debido	a	que	sus	cargas	factoriales	son	menores	a	0.40.	
+Así	mismo,	 la	subdimensión	3:	 Independencia	física,	presenta	una	medida	de	adecuación	muestral	 
+de	KMO	menor	a	0.60,	por	lo	que	no	se	considera	válida.
+
+3.3.2 Resultados del EDI
+
+Este	 instrumento	permite	 hallar	 la	 proporción	 de	 niños	 y	 niñas	 que	no	 se	 encuentran	preparados	
+para	ingresar	a	primer	grado,	según	diferentes	aspectos	que	cubren	estas	dimensiones.	Para	realizar	 
+los	cálculos	se	usaron	los	datos	normativos	de	Canadá12	(llamados	“datos	normativos	II”	de	McMaster),	
+los	cuales	señalan	si	un	grupo	poblacional	analizado	se	encuentra	en	situación	vulnerable,	para	ello	
+usan	los	percentiles	como	puntos	de	corte	que	señalan	los	hitos	o	parámetros	que	ayudan	a	determinar	
+tres	 categorías	 y	 la	 proporción	 de	 niños	 y	 niñas	 que	 se	 encuentran	 en	 ellos.	 (ver	 el	 gráfico	 n°	 5).	 
+Si	el	puntaje	del	desempeño	de	una	poblaclón	de	niños	y/o	niñas	cae	por	debajo	del	percentil	10,	 
+es	considerado	como	vulnerable.
+
+Dónde:	
+
+• Desarrollo	adecuado,	es	cuando	los	niños	y/o	niñas	cuentan	con	habilidades	y	capacidades	que	 
+les	permiten	beneficiarse	de	actividades	educativas	que	se	ofrecen	en	el	nivel	inicial	y	en	la	escuela	
+primaria.
+
+• Desarrollo	no adecuado.	Involucra	a	los	niveles:	
+
+-	 En riesgo,	significa	que	los	niños	y/o	niñas	tienen pocas probabilidades	de	adquirir	habilidades	
+y/o	 capacidades	 que	 les	 permitan	 aprovechar	 las	 actividades	 educativas	 que	 se	 ofrecen	 
+en	el	nivel	inicial	y	en	la	escuela	primaria.
+
+-	 Vulnerable,	significa	que	los	niños	y/o	niñas	no han desarrollado	habilidades	y/o	capacidades	
+que	 les	 permitirán	 aprovechar	 las	 actividades	 educativas	 que	 se	 ofrecen	 en	 el	 nivel	 inicial	 
+y	en	la	escuela	primaria.
+
+Situación del niño/niña según su puntuaciónGráfico n° 5
+
+En riesgoVulnerable
+
+Percentiles
+
+Desarrollo no adecuado
+
+10 más bajo 10	-	25 25	-	100
+
+Desarrollo adecuado
+“En camino para un desarrollo saludable”
+
+Fuente: Offord Centre for Child Studies.
+
+12	 	Los	datos	normativos	caracterizan	lo	que	es	habitual	en	una	población	definida	en	un	punto	o	período	de	tiempo	concreto	
+(O'Connor,	1990).	Desde	1999	los	datos	EDI	se	han	recogido	de	más	de	300	mil	niños	y	niñas	de	entre	cuatro	y	cinco	años	de	edad,	
+en	Canadá	y	otros	países.	Más	tarde,	un	subconjunto	de	esta	base	de	datos,	incluyendo	los	datos	del	año	2000,	fueron	analizados	
+para	proporcionar	datos	normativos	sobre	los	dominios	de	EDI	(Janus	y	Duku,	2004).	En	un	futuro,	se	piensa	contar	con	puntos	
+de	corte	acorde	a	nuestro	contexto,	a	partir	de	los	resultados	de	los	test	de	desarrollo	infantil,	aplicados	en	la	muestra	control	de	
+calidad	de	la	EN	2014.
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+28
+
+3.3.2.1 Porcentajes generales por niveles de desarrollo del EDI
+
+En	la	tabla	n°	18	se	observa	el	nivel	de	desarrollo	en	el	que	se	encuentra	la	muestra	en	cada	dimensión	
+del	instrumento.	Ahí	se	tiene	que	el	porcentaje	de	niños	y/o	niñas	que	cuentan	con	un	nivel	adecuado	
+de	desarrollo	oscila	entre	el	67.49%	y	74.01%,	indicando	que	aproximadamente	las	dos terceras partes 
+de la muestra	cuentan	con	niveles adecuados	de	desarrollo	en	las	diferentes	dimensiones	que	evalúa	
+la	prueba.	Además,	el	porcentaje	de	la	muestra	cuyo	nivel	de	desarrollo	indica	que	están	en riesgo 
+varía	entre	15.54%	y	22.25%,	mientras	que	el	porcentaje	de	los	que	están	vulnerables	en	las	diferentes	
+dimensiones	está	entre	el	 10.06%	y	12.10%.	Es	decir,	 uno	de	 cada	diez	niños	 y/o	niñas	no	 cuenta	 
+con	las	habilidades	necesarias	para	iniciar	su	educación	primaria.	
+
+En	cuanto	a	diferencias	por	dimensiones,	se	aprecia	que	no	existen	mayores	desigualdades,	siendo	
+la	única	dimensión	que	presenta	un	porcentaje	más	alto	de	niños	y	niñas	en	estado	de	desarrollo	 
+no	 adecuado,	 la	 de	 desarrollo	 físico	 y	 bienestar,	 con	 un	 10.27%	 que	 se	 encuentran	 en	 un	 nivel
+vulnerable	y	un	22.25%	en	nivel	de	riesgo.
+
+Cabe	señalar	que	los	promedios	globales	ocultan	diferencias	entre	diferentes	grupos	poblacionales,	
+motivo	 por	 el	 cual	 se	 presentan	 los	 principales	 resultados	 para	 cada	 dimensión	 de	 desarrollo,	 
+de	acuerdo	a	las	características	de	los	niños	y	niñas	y,	de	las	IEI	a	las	que	asisten.
+
+Niveles de desarrollo por dimensiones del EDI (datos porcentuales)
+
+Vulnerable
+En	riesgo
+Adecuado
+
+10.27
+22.25
+67.49
+
+Tabla n° 18
+
+Nivel de desarrollo Desarrollo cognitivo 
+y del lenguajeCompetencia social
+
+Desarrollo físico 
+y bienestar
+
+Habilidades  
+comunicacionales y 
+
+conocimiento general
+Madurez emocional
+
+DIMENSIONES
+
+10.46
+15.54
+74.01
+
+10.50
+16.13
+73.37
+
+10.06
+16.92
+73.03
+
+12.10
+19.28
+68.61
+
+3.3.2.2 Puntaje promedio por cada dimensión
+
+• Puntaje de la dimensión Desarrollo	físico	y	bienestar
+
+	 Esta	 dimensión	 permite	 tener	 un	 alcance	 del	 nivel	 de	 desarrollo	 motor	 grueso	 y	 fino,	 y	 el	
+estado	 físico	 del	 niño	 y/o	 niña	 durante	 la	 jornada	 pedagógica.	 La	 tabla	 n°	 19	 muestra	 que	
+existen	diferencias	estadísticamente	 significativas	por	género,	por	edad	y	por	 lengua	materna	 
+de	 la	muestra,	en	cada	uno	de	 los	niveles	de	desarrollo.	Analizando	 los	resultados	por	 lengua	
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+
+
+29
+
+III. Resultados
+
+materna,	 aquellos	 con	 lengua	 materna	 diferente	 al	 castellano,	 tienen	 menores	 niveles	 
+de	 desarrollo	 físico	 y	 bienestar,	 dado	 que	 el	 18.98%	 se	 encuentran	 en	 un	 estado	 vulnerable	 
+y	el	33.74%	en	riesgo,	sumando	un	52.72%	que	está	en	un	nivel	no	adecuado	de	desarrollo.
+
+Niveles de desarrollo en la dimensión de Desarrollo físico y bienestar  
+de acuerdo a características demográficas (datos porcentuales)
+
+Vulnerable
+En	riesgo
+Adecuado
+
+11.27
+22.98
+65.75
+
+Tabla n° 19
+
+Desarrollo físico 
+y bienestar Niñas 6 años No castellanaNiños 5 años Castellana
+
+Género* Edad* Lengua materna*
+
+9.23
+21.48
+69.29
+
+9.75
+21.56
+68.69
+
+8.90
+20.35
+70.75
+
+11.24
+23.63
+65.13
+
+18.98
+33.74
+47.28
+
+*Diferencias estadísticamente significativas al 5% de significancia (Z-test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+En	cuanto	a	características	de	las	IEI,	también	existen	diferencias	estadísticamente	significativas	por	
+tipo	de	gestión,	área	geográfica	y	región	natural.	Respecto	al	tipo	de	gestión,	el	porcentaje	de	niños	
+y	niñas	con	un	nivel	de	desarrollo	no	adecuado	es	mayor	en	instituciones	públicas	que	en	privadas	
+(34%	 versus	 29%).	 En	 cuanto	 al	 área	 geográfica,	 la	 muestra	 del	 área	 rural	 tiene	menores	 niveles	 
+de	desarrollo,	con	un	45.92%	que	se	encuentra	en	un	nivel	no	adecuado,	de	los	cuales	un	16.39%	está	
+en	un	nivel	vulnerable.	También	se	observan	diferencias	por	región	natural,	 siendo	 los	de	 la	Sierra	 
+y	la	Selva	los	que	menores	puntajes	tienen:	cerca	de	la	tercera	parte	está	en	un	nivel	no	adecuado	 
+de	desarrollo	y	un	16%	en	un	nivel	vulnerable.
+
+Niveles de desarrollo en la dimensión de Desarrollo físico y bienestar  
+de acuerdo a características de la IEI (datos porcentuales)
+
+Vulnerable
+En	riesgo
+Adecuado
+
+11.30
+23.07
+65.63
+
+Tabla n° 20
+
+Desarrollo físico 
+y bienestar Privada Rural Sierra SelvaPública Urbano Costa
+
+Tipo de gestión* Área geográfica* Región natural*a
+
+8.32
+20.71
+70.97
+
+8.07
+20.38
+71.55
+
+16.39
+29.53
+54.08
+
+9.02
+20.77
+70.21
+
+12.55
+25.30
+62.15
+
+12.91
+24.11
+62.98
+
+*Diferencias estadísticamente significativas al 5% de significancia (Z-test).
+a En esta comparación de proporciones se utilizó la prueba de Kruskal-Wallis (ANOVA no paramétrico).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+30
+
+Podemos	ver	que	existen	diferencias	estadísticamente	significativas	en	las	características	individuales.	
+Por género,	 se	 aprecia	 que	 los	 niños,	 a	 diferencia	 de	 las	 niñas,	 tienen	 un	 porcentaje	 mayor	 
+en	el	nivel	no	adecuado,	donde	incluso	el	porcentaje	de	vulnerables	es	del	orden	del	13.03%,	mientras	
+que	en	el	caso	de	las	niñas	es	7.77%.	Por edad,	se	aprecia	que	son	los	niños	y/o	niñas	de	cinco	años	
+quienes	tienen	menor	porcentaje	de	desarrollo	adecuado,	siendo	un	28.88%	los	que	están	en	nivel	
+no	adecuado,	a	diferencia	del	 grupo	de	 seis	 años	que	tienen	un	21.95%	en	este	nivel.	Por	último,	 
+se	aprecia	que	el	37.4%	de	 los	niños	y	niñas	 con	 lengua materna	 diferente	al	 castellano	 se	 sitúan	 
+en	el	nivel	de	desarrollo	no	adecuado	y	que	el	17.87%	se	encuentran	en	un	nivel	vulnerable.		
+
+En	las	diferencias	por	características	de	la	IEI,	se	aprecia	que	estas	son	estadísticamente	significativas	
+por	 área	 geográfica	 y	 por	 región	natural.	 Respecto	 al	 tipo	de	 gestión,	 el	 porcentaje	de	 la	muestra	 
+con	 un	 nivel	 de	 desarrollo	 no	 adecuado	 es	 menor	 en	 instituciones	 privadas	 que	 en	 instituciones
+públicas	(24.82%	versus	26.62%).	En	relación	al	área	geográfica,	son	las	instituciones	de	áreas	rurales
+las	 que	 menores	 niveles	 de	 desarrollo	 adecuado	 presentan,	 donde	 el	 32.05%	 está	 en	 un	 nivel
+no	 adecuado	 y	 el	 13.06%	 en	 estado	 vulnerable.	 Finalmente,	 considerando	 las	 regiones	 naturales,
+el	mayor	porcentaje	de	niños	y/o	niñas	con	un	nivel	de	desarrollo	no	adecuado	está	en	la	Sierra.
+
+• Puntajes de la dimensión Competencia	social
+
+	 Esta	dimensión	mide	la	habilidad	que	tienen	los	niños	y	niñas	para	relacionarse	con	sus	pares,	respetar	
+a	personas	mayores,	confiar	en	sí	mismo	y	tener	un	comportamiento	adecuado	a	la	situación.	
+
+Niveles de desarrollo en la dimensión de Competencia social
+de acuerdo a características demográficas (datos porcentuales)
+
+Vulnerable
+En	riesgo
+Adecuado
+
+13.03
+17.50
+69.47
+
+Tabla n° 21
+
+Competencia social
+Niñas 6 años No castellanaNiños 5 años Castellana
+
+Género* Edad* Lengua materna*
+
+7.77
+13.49
+78.74
+
+10.00
+15.29
+74.71
+
+8.64
+13.32
+78.04
+
+11.71
+17.17
+71.12
+
+17.87
+19.53
+62.60
+
+*Diferencias estadísticamente significativas al 5% de significancia (Z-test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+Niveles de desarrollo de los niños y niñas en la dimensión de Competencia social
+de acuerdo a características de la IEI (datos porcentuales)
+
+Vulnerable
+En	riesgo
+Adecuado
+
+10.90*
+15.72
+73.38*
+
+Tabla n° 22
+
+Competencia social
+Privada Rural Sierra SelvaPública Urbano Costa
+
+Tipo de gestión Área geográfica* Región natural*a
+
+9.62*
+15.20
+75.18*
+
+9.42
+14.22
+76.36
+
+13.06
+18.99
+67.95
+
+9.93
+14.83
+75.24
+
+12.04
+17.60
+70.36
+
+10.55
+15.54
+73.91
+
+*Diferencias estadísticamente significativas al 5% de significancia (Z-test).
+a En esta comparación de proporciones se utilizó la prueba de Kruskal-Wallis (ANOVA no paramétrico).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+
+
+31
+
+III. Resultados
+
+• Puntajes de la dimensión Madurez emocional
+
+	 Esta	 dimensión	 indica	 el	 nivel	 de	 desarrollo	 de	 las	 habilidades	 de	 los	 niños	 y	 niñas	 relacionadas	 
+al	 poder	 pensar	 o	 reflexionar	 sobre	 sus	 propias	 acciones.	 En	 cuanto	 al	 género,	 el	 34.73%	 
+de	 los	niños	cuentan	con	un	nivel	no	adecuado	de	desarrollo	en	esta	dimensión	y	el	14.05%	está	
+en	un	nivel	 vulnerable,	 a	diferencia	de	 las	niñas,	 donde	 solo	el	 18.88%	 se	encuentra	en	un	nivel	 
+no	adecuado	y	el	5.89%	en	un	nivel	vulnerable.	En	cuanto	a	 la	diferencia	por edades,	esta	 indica
+
+	 que	existe	un	porcentaje	de	18.52%	de	niños	y	niñas	de	cinco	años	que	se	encuentran	en	riesgo,	
+	 a	diferencia		de	los	de	seis	años	que	tiene	al	14.72%.	En	cuanto	a	la	lengua materna,	se	aprecia	que	
+
+los	que	tienen	una	lengua	materna	diferente	al	castellano	son	los	que	presentan	menores	niveles
+	 de	madurez	emocional,	con	el	39.73%	en	un	nivel	no	adecuado	y	el	14.87%	en	un	nivel	vulnerable.	
+
+Niveles de desarrollo en la dimensión de Competencia social
+de acuerdo a características demográficas (datos porcentuales)
+
+Vulnerable
+En	riesgo
+Adecuado
+
+14.05
+20.68
+65.27
+
+Tabla n° 23
+
+Competencia social
+Niñas 6 años No castellanaNiños 5 años Castellana
+
+Género* Edad* Lengua materna*
+
+5.89
+12.99
+81.12
+
+9.75
+16.41
+73.84
+
+9.68
+14.72*
+75.60*
+
+10.36
+18.52*
+71.13*
+
+14.87
+24.86
+60.27
+
+*Diferencias estadísticamente significativas al 5% de significancia (Z-test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+En	cuanto	a	 las	diferencias	por	características	de	 las	 IEI	a	 la	que	asisten	 los	niños	y	niñas,	se	observa	
+que,	respecto	al	tipo	de	gestión,	el	porcentaje	de	la	muestra	con	un	nivel	de	desarrollo	no	adecuado	es	
+mayor	en	instituciones	públicas	que	en	privadas.	Adicionalmente,	se	aprecia	que	son	los	niños	y/o	niñas	 
+de	áreas	rurales,	y	de	la	Sierra	y	Selva,	los	que	menores	niveles	de	madurez	emocional	presentan,	siendo	
+el	porcentaje	más	alto	en	las	zonas	rurales	con	un	34.94%	de	niños	y	niñas	con	niveles	no	adecuados	 
+y	un	12.43%	en	un	nivel	vulnerable.
+
+Niveles de desarrollo de los niños y niñas en la dimensión de Madurez emocional 
+de acuerdo a características de la IEI (datos porcentuales)
+
+Vulnerable
+En	riesgo
+Adecuado
+
+10.18
+17.95*
+71.87*
+
+Tabla n° 24
+
+Madurez emocional
+Privada Rural Sierra SelvaPública Urbano Costa
+
+Tipo de gestión Área geográfica* Región natural a
+
+9.81
+14.98*
+75.20*
+
+9.40
+14.68*
+75.92*
+
+12.43
+22.51
+65.06
+
+9.57
+15.78
+74.65
+
+11.23
+19.44*
+69.32*
+
+9.61
+19.69*
+70.71*
+
+*Diferencias estadísticamente significativas al 5% de significancia (Z-test).
+a En esta comparación de proporciones se utilizó la prueba de Kruskal-Wallis (ANOVA no paramétrico).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+32
+
+• Puntajes de la dimensión Desarrollo	cognitivo	y	del	lenguaje
+
+	 Esta	 dimensión	 se	 centra	 en	 el	 desarrollo	 de	 las	 habilidades	 de	 los	 niños	 y	 niñas	 para
+	 su	acercamiento	a	la	lectura,	la	escritura	y	la	matemática,	así	como	en	el	interés	por	estas	áreas.
+	 En	los	resultados	se	observa	que,	respecto	al	género,	el	porcentaje	de	niños	con	un	nivel	de	desarrollo	
+
+no	adecuado	es	mayor	que	el	de	las	niñas.	En	el	caso	de	la	edad,	se	aprecia	que	son	los	niños	y	niñas	
+de	cinco	años	los	que	presentan	menores	niveles	de	desarrollo	adecuado	en	esta	dimensión,	con	
+un	30.69%,	mientras	que	un	12.77%	están	en	un	nivel	vulnerable.	En	cuanto	a	la	lengua materna,
+
+	 se	aprecia	que	el	44.51%	de	los	que	tienen	una	lengua	materna	diferente	al	castellano	son	quienes	
+no	cuentan	con	un	adecuado	desarrollo	cognitivo	y	del	lenguaje	para	iniciar	su	educación	primaria
+
+	 y	que	un	22.31%	está	en	un	nivel	vulnerable.
+
+Niveles de desarrollo de los niños y niñas en la dimensión de Desarrollo cognitivo
+y del lenguaje de acuerdo a características demográficas (datos porcentuales)
+
+Vulnerable
+En	riesgo
+Adecuado
+
+11.32*
+16.66
+72.02*
+
+Tabla n° 25
+
+Desarrollo cognitivo 
+y del lenguaje Niñas 6 años No castellanaNiños 5 años Castellana
+
+Género Edad* Lengua materna*
+
+9.65*
+15.58
+74.77*
+
+9.78
+15.79
+74.43
+
+7.40
+13.67
+78.93
+
+12.77
+17.92
+69.31
+
+22.31
+22.20
+55.49
+
+*Diferencias estadísticamente significativas al 5% de significancia (Z-test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+Según	las	características	de	las	IEI,	se	aprecia	diferencias	estadísticamente	significativas	en	todas	ellas,	
+siendo	 las	 instituciones	públicas	 las	 que	 cuentan	 con	un	mayor	porcentaje	 en	niveles	 no	 adecuados	 
+de	 desarrollo	 cognitivo	 y	 del	 lenguaje	 (31.58%),	 a	 diferencia	 de	 las	 instituciones	 privadas	 (17.36%). 
+El	mismo	patrón	 se	 observa	 al	 ver	 el	 porcentaje	 de	 niños	 y	 niñas	 en	 nivel	 vulnerable.	 Asimismo,	 se	
+aprecia	que	en	las	instituciones	rurales	(35.42%)	y	en	las	de	la	Selva	(35.17%)	presentan	mayores	niveles	 
+no	adecuados.
+
+Niveles de desarrollo de los niños y niñas en la dimensión de Desarrollo cognitivo 
+y del lenguaje de acuerdo a características de la IEI 
+(datos porcentuales)
+
+Vulnerable
+En	riesgo
+Adecuado
+
+12.98
+18.60
+68.42
+
+Tabla n° 26
+
+Desarrollo cognitivo
+y del lenguaje Privada Rural Sierra SelvaPública Urbano Costa
+
+Tipo de gestión* Área geográfica* Región natural *a
+
+5.85
+11.51
+82.64
+
+8.39
+14.50
+77.12
+
+16.28
+19.14
+64.58
+
+9.32
+15.52
+75.15
+
+11.38
+18.15
+70.47
+
+17.48
+17.69
+64.83
+
+*Diferencias estadísticamente significativas al 5% de significancia (Z-test).
+a En esta comparación de proporciones se utilizó la prueba no paramétrica de Kruskal-Wallis.
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+
+
+33
+
+III. Resultados
+
+• Puntaje de la dimensión Habilidades	comunicacionales	y	conocimiento	en	general
+
+	 Esta	dimensión	mide	si	 los	niños	y/o	niñas	cuentan	con	las	habilidades	para	poder	expresarse	
+sin	problemas	y	con	conocimientos	generales	sobre	el	entorno	que	los	rodea.	En	los	resultados	
+se	observa	mayores	diferencias	por	lengua	materna,	donde	el	51.38%	de	los	que	son	de	lengua	
+materna	 diferente	 al	 castellano	 cuentan	 con	 habilidades	 comunicativas	 y	 conocimientos
+
+	 generales	no	adecuados,	y	un	20.75%	se	encuentra	en	un	nivel	vulnerable	en	esta	dimensión.	
+Por	 otro	 lado,	 en	 cuestión	 de	 género	 y	 edad,	 los	 niños	 de	 cinco	 años	 siguen	 teniendo
+
+	 el	porcentaje	mayor	de	desarrollo	no	adecuado.
+
+Niveles de desarrollo en la dimensión de Habilidades comunicacionales y conocimiento 
+en general según características demográficas (datos porcentuales)
+
+Vulnerable
+En	riesgo
+Adecuado
+
+14.36
+20.64
+65.00
+
+Tabla n° 27
+
+Habilidades
+comunicacionales 
+
+y conocimiento  en general Niñas 6 años No castellanaNiños 5 años Castellana
+
+Género* Edad* Lengua materna
+
+9.75
+17.87
+72.38
+
+11.56
+18.59*
+69.85*
+
+9.58
+17.12
+73.30
+
+13.88
+20.92
+65.20
+
+20.75
+30.63*
+48.62*
+
+*Diferencias estadísticamente significativas al 5% de significancia (Z-test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+En	 cuanto	 a	 las	 diferencias	 por	 características	 de	 las	 IEI,	 se	 aprecia	 mayor	 diferencia	 por	 área	
+geográfica,	donde	en	 las	áreas	rurales	el	41.28%	de	 los	niños	y	niñas	no	cuentan	con	un	nivel	
+adecuado	de	habilidades	comunicativas	y	conocimiento	general,	y	un	16.28%	se	encuentra	en	un	nivel	
+vulnerable	en	esta	dimensión.	A	diferencia	de	estas,	las	IEI	urbanas	cuentan	con	un	29.37%	de	niños	
+y	niñas	en	un	nivel	no	adecuado	y	un	11.25%	en	un	nivel	vulnerable.	
+
+Niveles de desarrollo de los niños y niñas en la dimensión Habilidades comunicacionales  
+y conocimiento en general según características de la IEI (datos porcentuales)
+
+Vulnerable
+En	riesgo
+Adecuado
+
+13.86
+21.01
+65.13
+
+Habilidades 
+comunicacionales
+
+y conocimiento en general
+Privada Rural Sierra SelvaPública Urbano Costa
+
+8.80
+16.05
+75.15
+
+10.89
+17.21*
+71.89*
+
+16.28
+25.00
+58.72
+
+11.25
+18.13
+70.62
+
+14.35
+21.38*
+64.27*
+
+11.08
+22.57*
+66.35*
+
+*Diferencias estadísticamente significativas al 5% de significancia (Z-test).
+a En esta comparación de proporciones se utilizó la prueba no paramétrica de Kruskal-Wallis.
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+34
+
+Porcentaje de la muestra que son vulnerables en al menos una dimensión del EDI
+
+27.53
+6.97
+
+72.47
+93.03
+
+Tabla n° 29
+
+PRESENTAN la característica del grupo NO PRESENTAN la característica del grupo
+
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+Porcentaje de niños y niñas que:
+
+En	al	menos	UNA	dimensión
+En	TRES	o	MÁS	dimensiones	
+
+3.4 Análisis de la vulnerabilidad de las dimensiones
+
+	 Un	aspecto	que	se	explora	en	los	resultados	de	la	EN,	es	el	número	de	dimensiones	en	las	que	 
+la	muestra	nacional	se	encuentra	en	un	nivel	vulnerable.	En	la	tabla	n°	29	se	puede	observar	que	
+el	27.53%	de	los	niños	y	niñas	tienen	un	nivel	vulnerable	en	cuanto	a	su	desarrollo	en	al	menos	
+una	de	las	cinco	dimensiones,	mientras	que	el	6.97%	se	encuentra	en	este	nivel,	en	tres	o	más	
+dimensiones.	De	esta	forma	se	aprecia	que	el	porcentaje	de	niños	y	niñas	que	cuenta	con	tres	 
+o	más	dimensiones	 vulnerables	 es	 reducido,	 lo	 cual	muestra	un	escenario	positivo,	dado	que 
+los	datos	revelan	un	nivel	de	desarrollo	infantil	no	tan	bajo	como	se	esperaba.
+
+	 En	cuanto	a	las	características	demográficas,	se	aprecia	que	existen	diferencias	estadísticamente	
+significativas	 por	 género,	 edad	 y	 lengua	 materna.	 En	 el	 caso	 del género,	 se	 aprecia	 que	 
+el	32.14%	de	los	niños	cuentan	con	al	menos	una	dimensión	del	desarrollo	en	estado	vulnerable,	 
+a	diferencia	de	las	niñas,	que	es	de	un	22.73%.	En	cuanto	a	las	diferencias	por	edad,	son	los	menores	 
+de	cinco	años	(30.21%)	los	que	en	mayor	medida	cuentan	con	al	menos	una	dimensión	en	estado	
+vulnerable,	a	diferencia	de	 los	de	seis	años	 (23.79%).	Finalmente,	 las	diferencias	más	grandes	 
+se	 aprecian	 por	 lengua materna,	 donde	 el	 43.06%	 de	 los	 niños	 y	 niñas	 con	 lengua	materna	
+diferente	al	castellano	cuentan	con	al	menos	una	dimensión	del	desarrollo	en	nivel	vulnerable,	
+mientras	que	los	que	tienen	lengua	materna	castellana	tienen	un	porcentaje	de	26.57%.
+
+Porcentaje de la muestra que son vulnerables en al menos una dimensión del EDI
+según las características demográficas
+
+32.14
+
+67.86
+
+22.73
+
+77.27
+
+30.21
+
+69.79
+
+23.79
+
+76.21
+
+26.57
+
+73.43
+
+43.06
+
+56.94
+
+Tabla n° 30
+
+*Diferencias estadísticamente significativas al 5% de significancia (Z-test).
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+Es	vulnerable	en	al	menos	
+una	dimensión
+
+No	es	vulnerable	en	
+alguna	dimensión
+
+Niñas 6 años No castellanaNiños 5 años Castellana
+
+Género* Edad* Lengua materna*
+
+	 En	 el	 caso	 de	 las	 IEI,	 se	 aprecian	 diferencias	 significativas	 por	 cada	 una	 de	 las	 características	
+seleccionadas.	En	el	caso	de	la	gestión,	se	tiene	que	son	los	niños	y	niñas	de	instituciones	públicas	
+
+
+
+III. Resultados
+
+35
+
+3.5 Algunas variables analizadas de los factores asociados
+
+	 Los	resultados	de	los	factores	asociados	al	desarrollo	infantil	se	encuentran	en	proceso	y	serán	
+presentados	en	un	informe	final	en	el	primer	semestre	del	año	2016,	no	obstante	se	ha	podido	
+identificar	algunas	variables	importantes	de	factores	familiares	y	escolares.
+
+• En el hogar: 
+
+	 Dentro	de	las	variables	de	factores	familiares	que	influyen	en	el	desarrollo	infantil,	se	ha	encontrado	
+que	las	madres	con	educación	básica	completa	o	más,	que	tiene	altas	expectativas	educativas	para	
+su	hijo,	y	los	padres	que	estimulan	apropiadamente	a	sus	hijos	en	el	hogar	(por	ejemplo,	leerles	
+cuentos,	cantar	canciones),	tienen	un	efecto	positivo	y	significativo	en	todas	las	dimensiones	
+de	desarrollo	infantil	evaluadas	por	el	EDI.	
+
+• En la IEI: 
+
+	 En	cuanto	a	las	variables	escolares,	se	ha	podido	identificar	dos	variables	con	efecto	consistente	
+en	las	diferentes	dimensiones	evaluadas	por	el	EDI.	Por	un	lado,	se	encuentra	que	las	docentes	
+que	 están	 satisfechas	 con	 las	 relaciones	 que	 entablan	 con	 los	 padres,	 niños,	 autoridades	 
+de	los	órganos	intermedios	y	la	comunidad,	tiene	un	efecto	positivo	y	significativo	en	diferentes	
+dimensiones	del	EDI.	Así	mismo,	se	aprecia	que	aquellas	docentes	que	manifiestan	que	su	trabajo	
+o	desempeño	está	siendo	supervisado	por	el	director,	subdirector,	coordinador	o	un	especialista	
+de	la	UGEL,	logran	igualmente	efectos	positivos	en	las	dimensiones	evaluadas	por	el	EDI.	
+
+	 De	esta	manera,	se	puede	apreciar	que	el	clima	escolar	reflejado	a	través	de	las	buenas	relaciones	
+del	docente	 con	 los	diferentes	actores	educativos	 y	 la	 supervisión	del	 trabajo	a	 la	docente	estaría	
+favoreciendo	el	desarrollo	infantil	de	los	niños	y	niñas	que	asisten	a	aulas	de	cinco	años	del	nivel	inicial.
+
+(30.42%)	 los	 que	 en	 mayor	 porcentaje	 cuentan	 con	 al	 menos	 una	 dimensión	 del	 desarrollo	 
+no	 adecuada,	 a	 diferencia	 de	 los	 privados	 (22.13%).	 En	 cuanto	 al	 área	 geográfica,	 se	 aprecia	
+que	 son	 de	 las	 instituciones	 del	 área	 rural	 (35.13%)	 los	 que	 tienen	 al	menos	 una	 dimensión	
+vulnerable,	a	diferencia	de	los	urbanos	(25.99%).	
+
+Porcentaje de la muestra que son vulnerables en al menos una dimensión del EDI
+según las características de la IEI
+
+30.42
+
+69.58
+
+22.13
+
+77.87
+
+25.99
+
+74.01
+
+35.13
+
+64.87
+
+24.21
+
+75.79
+
+31.81
+
+68.19
+
+30.18
+
+69.82
+
+Tabla n° 31
+
+*Diferencias estadísticamente significativas al 5% de significancia (Z-test).
+a En esta comparación de proporciones se utilizó la prueba no paramétrica de Kruskal-Wallis.
+Fuente: Base de datos de la Evaluación Nacional de Educación Inicial 2014, MINEDU. 
+
+Es	vulnerable	en	al	menos	
+una	dimensión
+
+No	es	vulnerable	en	
+alguna	dimensión
+
+Pública Privada UrbanoUrbano Rural Costa Sierra Selva
+
+Tipo de gestión* Área geográfica* Región natural*a
+
+
+
+En	relación	a	la	calidad del entorno educativo,	los	resultados	de	la	EN	muestran	que	los	ambientes	
+educativos	de	 inicial	no	alcanzan	un	nivel	de	calidad	mínimo	de	acuerdo	a	 lo	establecido	en	cinco	 
+de	 seis	 subescalas:	 espacio	 y	 muebles,	 rutinas	 de	 cuidado	 personal,	 lenguaje	 y	 razonamiento,	
+actividades	y	materiales,	y	estructura	del	programa.	La	subescala	en	que	el	promedio	se	encuentra	
+ligeramente	 por	 encima	 del	 nivel	 mínimo	 es	 la	 de	 interacción,	 demostrando	 que	 la	 existencia	 
+de	un	clima	positivo	en	el	aula	sería	la	principal	fortaleza	de	las	aulas	de	inicial	de	cinco	años	en	el	país.
+
+Además,	se	encontró	diferencias	estadísticamente	significativas	entre	instituciones	públicas	y	privadas,	
+así	como	resultados	homogéneos	para	instituciones	urbanas	y	rurales.
+
+Los	resultados	en	cuanto	al	desarrollo infantil	temprano	muestran	que	dos	de	cada	tres	niños	y/o	niñas	
+de	cinco	años	tienen	un	nivel	adecuado	de	desarrollo	en	cada	una	de	las	cinco	dimensiones	evaluadas,	
+es	decir,	 gran	parte	de	 los	niños	y	niñas	tienen	un	nivel	adecuado	en	desarrollo	físico	y	bienestar,	
+competencia	social,	madurez	emocional,	lenguaje	y	razonamiento	y	habilidades	comunicacionales	
+y	conocimiento	en	general.
+
+Así	mismo,	se	hallaron	diferencias	entre	grupos	de	niños	y	niñas	debido	a	su	lengua	materna,	donde	
+aquellos	que	tienen	una	lengua	distinta	al	castellano	son	el	grupo	poblacional	más	vulnerable	debido	
+a	que,	de	manera	consistente,	muestran	un	menor	nivel	de	desarrollo.
+
+Finalmente,	 es	 importante	 destacar	 la	 potencialidad	 de	 los	 instrumentos	 empleados	 en	 esta	
+evaluación.	 En	 el	 caso	 de	 la	 ECERS-R,	 esta	 destaca	 debido	 a	 la	 riqueza	 de	 los	 contenidos 
+que	 mide,	 dado	 que	 es	 una	 herramienta	 que	 considera	 la	 importancia	 de	 las	 interacciones	 
+y	la	organización	e	implementación	de	los	ambientes;	y	con	la	cual	se	puede	generar	información	
+consistente	 y	 recomendaciones	 que	 permitan	mejorar	 la	 calidad	 de	 los	 entornos	 educativos	
+para	la	primera	infancia.
+
+El	EDI	es	muy	útil	para	generar	diagnósticos	sobre	 la	situación	de	 las	poblaciones	 infantiles	a	nivel	
+nacional,	 especialmente	 permite	 contar	 con	 información	 diferenciada	 de	 acuerdo	 a	 características	
+particulares,	ayudando	a	identificar	brechas	en	la	atención	educativa.	Asimismo,	es	un	instrumento	
+que	 puede	 ser	 utilizado	 para	 generar	 información	 a	 nivel	 de	 cada	 departamento	 del	 país	 a	 fin	 
+de	conocer	la	realidad	de	cada	región	y	monitorear	los	cambios	a	lo	largo	del	tiempo.
+
+IV 
+Conclusiones
+
+36
+
+
+
+	 La	 EN	 ha	 implicado	 un	 gran	 despliegue	 para	 el	 MINEDU,	 particularmente	 para	 la	 DEI,	 
+con	 la	 finalidad	 de	 contar	 con	 información	 que	 ayude	 a	mejorar	 la	 política	 educativa	 a	 favor	 
+de	la	primera	infancia.	Definitivamente,	la	estrategia	de	promover	estos	estudios	a	escala	nacional	
+cobra	 real	 importancia	 cuando	 la	 información	 de	 resultados	 permite	 realizar	 propuestas	 que	
+favorezcan	 la	 acción	 educativa.	 En	 la	 actualidad,	 tenemos	 la	 gran	 oportunidad	 de	mirar	 hacia	
+adelante	focalizando	las	intervenciones	en	concordancia	con	los	indicadores	que	se	encuentran	
+especialmente	débiles	declarándolos	como	prioritarios.	Por	esta	razón,	es	fundamental	brindar	
+líneas	de	trabajo	que	permitan	realizar	una	acción	a	corto,	mediano	y	largo	plazo	presentandoles	
+algunas	ideas	relevantes.
+
+a)	 Difundir	los	informes	de	resultados	a	las	autoridades	y	especialistas	de	las	DRE,	UGEL,	gobiernos	
+regionales	y	municipalidades.	Considerar	que	la	mayoría	de	resultados,	especialmente	sobre	 
+el	entorno	educativo,	se	encuentran	relacionados,	con	aspectos	pedagógicos	sobre	los	cuales	 
+se	 puede	 intervenir	 de	 manera	 directa,	 como	 por	 ejemplo	 la	 organización	 del	 material	
+educativo,	rutinas	de	cuidado	personal,	entre	otros.
+
+b)	 Realizar	una	lectura	y	análisis	de	los	documentos	divulgados,	teniendo	en	cuenta	el	diagnóstico	
+de	la	situación	de	la	educación	inicial	de	la	localidad	o	región.	La	información	de	la	evaluación	
+debe	complementar	 las	particularidades	de	estas	 zonas	del	país	 con	el	objetivo	de	generar	
+acciones	de	acompañamiento,	asistencia	y	monitoreo.	
+
+c)	 Difundir	y	acercar	los	resultados	a	las	instancias	de	la	Sociedad	Civil	con	competencia	en	temas	
+educativos	 sobre	 la	 primera	 infancia.	Así	mismo,	difundirlos	 en	otras	 instancias	 del	 Estado,	
+como	los	sectores	social,	de	salud,	transporte,	entre	otros.
+
+1. Difusión de resultados y acciones estratégicas
+
+2.1. Uso	de	la	guía	para	la	mejora	de	la	calidad	del	entorno	educativo
+
+Es	necesario	destacar	la	necesidad	de	implementar	una	estrategia	integral	que	permita	mejorar	
+la	calidad	del	entorno	educativo	de	IEI;	es	decir,	aumentar	paulatinamente	de	un	puntaje	mínimo	
+a	uno	adecuado	o	bueno	paulatinamente.	Una	herramienta	para	este	fin	es	la	guía	“Mejorando	
+
+2. Acciones para la mejora de la calidad del entorno educativo
+
+37
+
+V
+Recomendaciones
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+38
+
+mi	entorno	educativo”:	Guía	para	mejorar	la	calidad	del	entorno	educativo	del	Ciclo	II	del	nivel	
+inicial,	dirigida	a	profesoras	de	niños	y	niñas	entre	3	y	5	años	de	edad	cuyo	objetivo	es:
+
+a)	 Brindar	 información	 puntual	 de	 cómo	 debe	 ser	 la	 organización	 de	 las	 aulas,	 el	 uso	 
+de	los	materiales	educativos,	la	promoción	de	interacciones	que	fomentan	un	buen	clima	 
+en	 el	 aula,	 el	 buen	 uso	 de	 los	 momentos	 de	 cuidado,	 el	 juego	 y	 las	 condiciones	 de	 la	
+institución	educativa	que	facilitan	un	buen	trabajo.
+
+b)	 Ofrecer	 un	 instrumento	 de	 gestión	 que	 permita:	 (a)	 al	 docente	 autoevaluar	 su	 práctica,	
+las	 condiciones	 de	 su	 entorno	 educativo,	 y	 (b)	 al	 personal	 de	 las	UGEL	 y	 gobierno	 local	 
+y	regional	monitorear	y	acompañar	a	la	docente	en	el	aula	y	diseñar	mejoras	a	la	calidad	 
+de	la	educación	inicial.	
+
+Esta	 guía	 se	 difundirá	 a	 partir	 del	 año	 2016	 a	 las	 IEI	 a	 nivel	 nacional,	 a las autoridades  
+y especialistas de inicial de las DRE y UGEL a nivel nacional,	quienes	deberán:	
+
+a.	 Considerar	 el	 uso	 de	 esta	 guía	 como	 motivador	 en	 el	 trabajo	 permanente	 que	 realiza	 
+la	docente	y	los	equipos	de	Asistencia	Técnica	Pedagógica	de	las	regiones.	
+
+b.	 Generar	 reuniones	 de	 discusión	 para	 que	 las	 profesoras	 conozcan	 los	 contenidos	 
+y	las	relacionen	con	sus	prácticas	o	sean	motivo	de	mejores	ambientes	educativos.
+
+c.	 Compartir	su	uso	con	otras	herramientas	pedagógicas	que	se	emplean	en	el	aula.	
+
+2.2		Algunas	ideas	para	mejorar	la	calidad	del	entorno	educativo
+
+Partiendo	 del	 análisis	 de	 resultados	 de	 la	 ECERS-R,	 se	 han	 priorizado	 temas	 básicos	 
+que	deberían	 ser	 considerados	en	 las	 intervenciones	que	 se	 realizan	en	 las	aulas	de	 inicial.	 
+Sin	 duda,	 los	 contenidos	 del	 estándar	 propuesto	 son	 diversos	 y	 se	 relacionan	 entre	 sí,	 
+sin	 embargo	 es	 necesario	 priorizar	 aquello	 que	 puede	 significar	 el	 punto	 de	 inicio	 para	 
+la	institución	educativa:
+
+A. Interacciones:
+
+El	 (la)	 docente	 trata	 amablemente	 a	 los	 niños	 y	 niñas,	 respetando	 sus	 características
+individuales,	 promoviendo	 una	 buena	 relación	 entre	 ellos(as),	 ayudándolos	 cuando
+lo	necesitan	o	cuando		lo	piden.	Todo	ello	dentro	del	cumplimiento	de	las	normas	acordadas,	
+manteniéndose	 	 firmes	 en	 los	 límites	 y	 exigencias.	 Esto	 favorecerá	 la	 madurez	 emocional
+y	el	aprendizaje	de	los	niños	y/o	niñas
+
+B. Rutinas del cuidado personal:
+
+El	saludo,	el	uso	de	los	servicios	higiénicos,	la	hora	de	los	alimentos,	etc.,	están	vinculadas	
+a	la	protección	física	y	emocional	de	los	niños	y	niñas;	por	lo	tanto,	deben	ser	asumidas	
+con	compromiso	y	responsabilidad,	no	dejarlas	que	se	den	de	manera	mecánica	y	a	prisa,	
+sin	el	acompañamiento	de	un	adulto.
+
+• Cumplir	con	lo	que	implica	la	lonchera,	(el	antes,	durante	y	después)	como	son;	la	higiene	
+de	las	mesas,	el	lavado	de	manos	(tanto	la	maestra	como	niños	y	niñas),	el	ingerir	alimentos	
+nutritivos,	y	acompañarlos	en	sus	mesas	dialogando	en	un	clima	agradable.
+
+
+
+39
+
+V. Recomendaciones
+
+	 En	 general,	 a	 partir	 de	 los	 resultados	 encontrados	 en	 las	 dimensiones	 evaluadas,	 las	 brechas	
+existentes	 entre	 los	 niños	 y/o	 niñas	 con	 lengua	materna	 castellana	 y	 con	 lenguas	 originarias,	
+hacen	visible	la	necesidad	de	seguir	focalizando	las	intervenciones	en	esta	población.	Lo	mismo	
+sucede	con	 los	niños	y	niñas	de	zonas	rurales.	Por	consiguiente,	resulta	prioritaria	 la	atención	 
+a	este	grupo	poblacional,	particularmente	es	relevante	la	información	que	se	les	pueda	brindar	
+a	los	padres	de	familia	sobre	acciones	que	favorezcan	mejores	oportunidades	para	su	desarrollo.	
+Ahora	bien,	como	este	 rol	 lo	cumplen	 tanto	 los	padres	de	 familia	como	 los	actores	educativos	
+cercanos	 a	 las	 familias,	 se	 puede	 generar	 una	 estrategia	 comunicacional	 sobre	 la	 importancia	 
+de	la	participación	de	la	familia	en	edades	tempranas	considerando	algunos	temas	relevantes:
+
+a) Habilidades para la comunicación y conocimientos generales. Dedicar	 tiempo	 a	 escuchar	
+detenidamente;	 tener	 disposición	 para	 compartir	 tiempo	 juntos;	 animarlos	 continuamente	
+en	 las	 actividades	 que	 realizan;	 mantener	 una	 relación	 abierta	 y	 dispuesta;	 conocer	 
+las	 cosas	 importantes	para	ellos;	motivar	 la	 comunicación	desde	que	 son	bebés;	 fomentar	 
+la	imaginación,	la	curiosidad	y	la	capacidad	para	resolver	problemas.	
+
+• Las	provisiones	de	aseo,	jabón,	toalla	individual	o	papel	toalla	y	el	papel	higiénico	deben	
+estar	al	alcance	de	los	niños	y	niñas	para	el	fácil	uso.
+
+• Respetar	 las	 necesidades	 fisiológicas	 individuales	 de	 los	 niños	 y	 niñas,	 sin	 imponerles	 
+un	horario	en	el	uso	del	baño,	observarlos,	acompañarlos,	dar	el	ejemplo	del	correcto	lavado	
+de	las	manos	y	del	uso	de	los	servicios	higiénico,	hasta	que	logren	alcanzar	autonomía.		
+
+• Evitar	acumular	objetos	inservibles	y	peligrosos.
+
+• Contar	con	un	botiquín	equipado	para	casos	de	emergencia	de	los	niños	y	niñas.	
+
+C. Organización de los materiales:
+
+• Seleccionarlos,	 teniendo	 en	 cuenta	 sus	 características	 y	 objetivo	 (música,	 libros,	 arte,	
+dramatización,	de	concentración,	ciencia,	bloques	y	dramatización)
+
+• Organizarlos	 en	 un	 espacio	 determinado	 en	 sectores,	 que	 sean	 accesibles	 para	 el	 uso	 
+de	los	niños	y	niñas.	Si	no	hubiese	espacio,	ordenarlos	en	cajas	etiquetándolos	para	su	fácil	
+identificación.
+
+• Mantenerlos	en	buenas	condiciones,	limpios	y	completos	(si	tienen	piezas).	
+
+3. Desarrollo infantil
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+40
+
+b) Salud emocional y madurez.	Alentarlos	a	reflexionar	antes	de	actuar;	establecer	un	equilibrio	
+entre	 el	 temor	 y	 la	 impulsividad;	 alentarlos	 a	 solidarizarse	 con	 los	 sentimientos	 de	 otras	
+personas;	ayudarlos	a	lidiar	con	los	sentimientos	de	una	manera	acorde	a	su	edad;	enseñarle	
+salud	emocional	y	a	mostrar	afecto	desde	el	primer	momento	de	su	vida;	darle	oportunidades	
+de	mostrarse	 cariñoso	 y	 considerado	 con	 los	 demás;	 así	 como	 que	 conozca	 la	 importancia 
+de	ayudar	y	llevarse	bien	con	todos.
+
+c) Desarrollo cognitivo y del lenguaje. Vincularlos con la literatura infantil en sus múltiples 
+expresiones;	 conversar	 acerca	 de	 lo	 que	 está	 sucediendo	 alrededor;	 jugar	 con	 ellos	
+siempre;	 usar	 las	 rutinas	 cotidianas	 como	 oportunidades	 para	 aprender;	 restringir	 el	 uso	 
+de	 la	computadora	y	 la	 televisión;	desde	el	mismo	día	que	nazca,	abra	el	mundo	del	bebé	 
+al	lenguaje	y	al	amor	por	el	aprendizaje;	las	labores	artesanales	y	manuales	dan	la	oportunidad	
+de	aprender	del	mundo.
+
+d) Identificar	 las	 regiones	 y	 provincias	 priorizadas	 por	 la	 DEI	 a	 fin	 de	 incorporar	 acciones	 
+de	difusión,	capacitación	y	asistencia	a	actores	educativos	de	estas	localidades.	
+
+e) Visitar	a	las	autoridades	de	las	DRE	a	fin	de	sostener	reuniones	que	permitan	que	se	conozcan	
+las	implicancias	de	los	resultados	de	la	evaluación	y	se	formulen	propuestas	de	planificación	 
+o	uso	de	los	mismos.
+
+f) Salud física y bienestar. Promover	que	duerman	la	cantidad	de	horas	necesarias,	se	alimenten	
+adecuadamente	y	se	mantengan	activos;	animarlos	a	llevar	un	estilo	de	vida	saludable;	utilizar	
+el	canto	y	 los	 juegos	para	promover	 la	salud;	vestirse	de	acuerdo	con	el	estado	del	tiempo,	
+lavarse	 correctamente	 las	 manos	 y	 mantener	 buenos	 hábitos	 de	 higiene;	 realizar	 juntos	
+actividades	saludables	sencillas;	participación	activa	(padres	activos	tienen	hijos	activos).
+
+g) Conocimientos y aptitud para la interrelación social. Enseñarles	 cuál	 es	 la	 conducta	
+aceptable	 en	 los	 lugares	 públicos;	 	 enseñar	 a	 los	 hijos	 a	 cooperar	 y	 a	 acatar	 las	 reglas;	
+desde	el	principio	estimule	el	desarrollo	de	habilidades	de	interacción	social;	estimularlos	
+a	 jugar	y	a	trabajar	con	otros	niños;	usar	 la	fantasía	como	una	herramienta	para	enseñar	
+actividades	de	interacción	social.
+
+
+
+Behrman,	J.	R.	(2000).	Literature Review on Interactions between Health, Education and Nutrition and 
+the Potential Benefits of Intervening Simultaneously in All Three.	Washington	D.C.:	International	Food	
+Policy	Research	Institute.
+
+Behrman,	J.	R.,	Cheng,	Y.	y	Todd,	P.	(2004).	“Evaluating	Preschool	Programs	when	Length	of	Exposure	
+to	the	Program	Varies:	A	Nonparametric	Approach”.	The Review of Economics and Statistics,	vol.		86,	
+n°	1,	pp.	108-132.
+
+Beltrán,	 A.	 F.	 y	 Seinfeld,	 J.	 N.	 (2011).	Hacia una educación de calidad en el Perú: El heterogéneo 
+impacto de la educación inicial sobre el rendimiento escolar.	Documento	de	discusión.	Lima:	Centro	 
+de	Investigación	de	la	Universidad	del	Pacífico.
+
+Bernstein,	 I.	 H.	 y	Nunnally,	 J.	 C.	 (1994).	 “Psychometric theory”.	New	 York:	McGraw-Hill.	 Olivia,	 TA,	
+Oliver,	RL	&	Mac	MIllan,	IC	(1992).	A catastrophe model for developing service satisfaction strategies. 
+Journal	of	Marketing,	56,	83-95.
+
+Bronfenbrenner,	U.	y	Morris,	P.	(2006).	“The	bioecological	model	of	human	development”,	pp.	793-
+828.	En	Damon	W.	y	Lerner	R.	M.	(eds.).	Handbook of child psychology.	New	York:	John	Wiley.
+
+Bronfenbrenner,	U.	(1987).	La ecología del desarrollo humano.	Barcelona:	Paidós	
+
+Center	 for	 Child	 Studies.	 (2014).	 Manual del Instrumento de Desarrollo Temprano EDI. Versión 
+Internacional para su implementación en América y el Caribe. Adaptado para la Evaluación Nacional 
+de Educación Inicial 2014.	Lima:	2014.
+
+Clifford,	R.	M.;	Reszka,	S.	S.	y	Rossbach,	H.	G.	(2010).	Reliability and Validity of the Early Childhood 
+Environment Rating Scale.	 Working	 paper.	 Bamberg:	 University	 of	 Bamberg.	 Disponible	 en:	 goo.
+gl/5AkcQi	
+
+Cronbach,	Lee	J.	(1951).	"Coefficient	alpha	and	the	internal	structure	of	tests".	Psychometrika,	vol.	16,	
+n°		3,	pp.	297-334.
+
+Dirección	de	Educación	 Inicial.	Base de datos de la Evaluación Nacional de Educación Inicial 2014. 
+Lima:	Ministerio	de	Educación.
+
+Dirección	 de	 Educación	 Inicial	 (2014).	 Manual de procedimientos de la Evaluación Nacional  
+de Educación Inicial 2014.	Lima:	Ministerio	de	Educación.
+
+Dirección	de	Educación	Inicial	(2014).	Guía de Aplicación para el observador ECERS-R.	Lima:	Ministerio	
+de	Educación.
+
+Dunkelberg,	E.	(2013).	Reporte de la validación de la Escala de Calificación de los Entornos Infantiles 
+ECERS-R.	Lima:	Universidad	Antonio	Ruiz	de	Montoya	-	Fundación	Van	Leer.
+
+41
+
+VI
+Referencias
+
+
+
+INFORME DE INDICADORES CLAVE  DE LA EVALUACIÓN NACIONAL DE EDUCACIÓN INICIAL
+
+42
+
+Fernald,	L.;	Kariger,	P.;	Engle,	P.	y	Raikes,	A.	(2009).	Examining	Early	Child	Development	in	Low-Income	
+Countries:	A Toolkit for the Assessment of Children in the First Five Years of Life.	Washington	D.C.:	 
+The	World	Bank.	Ver	en:	goo.gl/3lJZSE
+
+Glewwe,	P.	(2002).	“Schools	and	Skills	in	Developing	Countries:	Education	Policies	and	Socioeconomic	
+Outcomes”. Journal of Economic Literature,	n°	11,	pp.	436-482.
+
+Hanushek,	E.	(1995).	“Interpreting	Recent	Research	on	Schooling	in	Developing	Countries”.	The	World	
+Bank	Research	Observer,	vol.	10,	n°	2,	pp.	227-246.
+
+Hair,	 J.	 E.;	Anderson,	R.	 E.;	 Tatham,	R.	 L.	&	Black,	W.	C.	 (2006).	Multivariate	Data	Analysis.	 5th	Ed.	
+Prentice	Hall,	Upper	Saddle	River.
+
+Harms,	T.;	Clifford,	R.	y	Creer,	D.	(1998).	Escala de Calificación del Ambiente de la Infancia Temprana. 
+Edición Revisada.	New	York:	Teachers	College.
+
+Hernández,	 R.;	 Fernández,	 C.	 y	 Baptista,	M.	 (2010).	Metodología	 de	 la	 investigación.	México,	 D.F.:	
+McGraw-Hill	Education.	
+
+Howell,	D.	C.	 (2006).	 Statistical	Methods	 for	Psychlogy.	6th	o	5th	Ed.	Pacific	Grove	CA:	Wadsworth	
+Publishing
+
+Instituto	Nacional	de	Estadística	e	informática	(INEI).	Censo Escolar 2014.	Lima:	INEI.
+
+Janus,	M.	y	Offord,	D.	(2007).	“Development	and	psychometric	properties	of	the	Early	Development	
+Instrument	(EDI):	A	measure	of	children's	school	readiness”.	Canadian Journal of Behavioural Science,	
+vol.	39,	n°	1,	pp.	1-22.
+
+Janus,	M.	y	Duku,	E.	(2011).	Results of the validation of the Early Development Instrument (EDI) in Peru. 
+Ontario.	McMaster	University.
+
+Janus,	M.;	Brinkman,	S.	y	Duku,	E.	(2011).	“Validity	and	psychometric	properties	of	Early	Development	
+Instrument	in	Canada,	Australia,	United	States,	and	Jamaica”.	Social Indicators Research,	vol.	103,	n	°	
+2,	pp.	283-297.
+
+La	 Paro,	 K.	 M.;	 Thomason,	 A.	 C.;	 Lower,	 J.	 K.;	 Kintner-Duffy,	 V.	 L.	 y	 Cassidy,	 D.	 (2012).	 “Análisis	 
+de	 la	 definición	 y	 la	medición	 de	 calidad	 en	 la	 educación	 infantil.	 Repaso	 de	 estudios	 que	 usaron	 
+la	Escala	de	Tasación	para	Ambientes	Infantiles	(ECERS-R)	de	2003	a	2010”.	 Investigación y Práctica  
+de la Niñez Temprana (ECRP),	vol.	14,	n°	1.	Disponible	en:	goo.gl/jJFBoL
+
+Martorell,	 R.	 (1999).	 “The	 Nature	 of	 Child	 Malnutrition	 and	 its	 Long-Term	 Implications”.	 Food  
+and Nutrition Bulletin,	n°	20,	pp.	288-292.
+
+Martorell,	R.;	Rivera,	J.;	Schroeder,	D.;	Ramakrishnan,	U.;	Pollitt,	E.	y	Ruel,	M.	(1995).	“Consecuencias	
+a	largo	plazo	del	retardo	en	el	crecimiento	durante	la	niñez”.	Archivos Latinoamericanos de Nutrición,	
+vol.	45,	n°		1,	pp.	109-113.
+
+Ministerio	de	Educación.	Patrón de Instituciones Educativas y Programas, y Listado de PRONOEI 2014. 
+Lima:	Ministerio	de	Educación.	Ver	en:	goo.gl/jMdW44
+
+Myers,	R.	(1992).	The twelve who survive.	Londres:	Routledge.
+
+Myers,	 R.	 G.	 (1993).	 Hacia un porvenir seguro para la infancia. Programación del desarrollo  
+y la atención de la primera infancia en el mundo en desarrollo.	Barcelona:	Organización	de	las	Naciones	
+Unidas	para	la	Educación,	la	Ciencia	y	la	Cultura	(UNESCO).	
+
+Organización	de	las	Naciones	Unidas	(ONU).	Objetivos	del	Milenio	2000.	Ver	en:	goo.gl/4HNGwd
+
+
+
+43
+
+VI. Referencias
+
+Pelletier,	D.;	 Frongillo,	 E.;	 Schroeder,	D.	 y	Habicht,	 J.	 P.	 (1995).	 “The	 Effects	 of	Malnutrition	on	Child	
+Mortality	in	Developing	Countries”.	Bulletin of the World Health Organization,	vol.	73,	n°	4,	pp.	443-448.
+
+Perlman,	M.;	Zellman,	G.	L.;	y	Le,	V.-N.	(2004).	“Examining	the	psychometric	properties	of	the	Early	
+Childhood	Environment	Rating	Scale-Revised	(ECERS-R)”.	Early Childhood Research Quarterly,	vol.	19,	
+n°	3,	pp.	398-412.
+
+Phillips,	Deborah	A.	y	Howes,	Carollee	(1987).	“Indicators	of	Quality	in	Child	Care:	Review	of	Research”,	
+pp.	1-20.	En	Phillips,	Deborah	(ed.).	Quality in child care: What does research tell us?	Washington	D.C.:	
+National	Association	for	the	Education	of	Young	Children.	Ver	en:	goo.gl/1DIY40
+
+Pollit,	 E.;	 Gorman,	 K.	 y	Metallinos-Katasaras,	 E.	 (1991).	 “Long-term	 Developmental	 Consequences	 
+of	 Intrauterine	 and	 Postnatal	 Growth	 Retardation	 in	 Rural	 Guatemala”,	 pp.	 43-70.	 En	 Suci,	 G.	 
+y	Robertson,	S.	(eds.).	Future Directions in Infant Development Research.	New	York:	Springer-Verlag.
+
+Raudenbush,	 S.	W.	 y	 Bryk,	 A.	 S.	 (2002).	Hierarchical linear models: Applications and data analysis 
+methods.	Second	edition.	Newbury	Park:	Sage	Publications.
+
+Reveco,	O.	 (2004).	Participación de las familias en la educación infantil latinoamericana.	 Santiago	 
+de	Chile:	Organización	de	las	Naciones	Unidas	para	la	Educación,	la	Ciencia	y	la	Cultura	(UNESCO)	-	
+Oficina	Regional	de	Educación	para	América	Latina	y	el	Caribe	(OREALC).
+
+Schroder,	D.;	Martorell,	R.;	Rivera,	 J.;	Ruel,	M.	y	Habicht,	 JP.	 (1995).	“Age	Differences	 in	the	 Impact	 
+of	Nutritional	Supplementation	on	Growth”.	Journal of Nutrition,	vol.	125,	n°	4,	pp.	1051-1059.
+
+Stemler,	S.	E.	&	Tsai,	J.	(2008).	Best	practices	in	interrater	reliability:	Three	common	approaches.	Bets	
+practices	in	quantitative	methods,	29-49.
+
+Streiner	 D.L.	 (2003).	 “Starting	 at	 the	 beginning:	 an	 introduction	 to	 coefficient	 alpha	 and	 internal	
+consistency”.	Journal	of	Personality	Assessment	03/2003;	80(1),	99-103.
+
+Sylva,	 K.;	 Siraj-Blatchford,	 I.;	 Taggart,	 B.;	 Sammons,	 P.;	Melhuish,	 E.;	 Elliot,	 K.	 y	 Totsika,	 V.	 (2006).	
+“Capturing	quality	in	early	childhood	through	environmental	rating	scales”.	Early Childhood Research 
+Quarterly,	vol.	21,	n°	1,	pp.	76-92.	Disponible	en:	goo.gl/49B4ZX	
+
+Unidad	de	Estadística	Educativa.	Marco muestral de instituciones educativas de educación inicial 2011. 
+Actualizado	al	2012.	Lima:	Ministerio	de	Educación.
+
+
+
+INFORME DE INDICADORES CLAVE 
+de la Evaluación Nacional de Educación Inicial
+
+

@@ -1,0 +1,3327 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Materiales agua y suelo : Química
+
+
+MATERIALES,
+AGUA Y SUELO
+
+QUÍMICA
+
+NÚCLEOS 
+DE APRENDIZAJES
+PRIORITARIOS
+
+SERIE CUADERNOS
+PARA EL AULA
+ESTUDIANTES
+
+
+
+2
+
+Ministerio de Educación, Ciencia y Tecnología de la Nación
+   Química. Materiales, agua y suelo: cuadernos para el aula. - 1a ed. 
+ Buenos Aires: Ministerio de Educación, Ciencia y Tecnología de la Nación, 2007.
+   56 p.: il.; 22x28 cm. 
+
+   ISBN 978-950-00-0669-9          
+
+   1. Libros de Textos . 2. Química . 3. Enseñanza Primaria . 4. Enseñanza Secundaria.  I. Título
+   CDD 540.712
+
+
+
+Presidente de la Nación
+Dr. Néstor Kirchner
+
+Ministro de Educación, Ciencia y Tecnología
+Lic. Daniel Filmus
+
+Secretario de Educación
+Lic. Juan Carlos Tedesco
+
+Subsecretaria de Equidad y Calidad Educativa
+Lic. Alejandra Birgin
+
+Directora Nacional
+de Gestión Curricular y Formación Docente
+Lic. Laura Pitman
+
+3
+
+
+
+MINISTERIO DE EDUCACION,
+CIENCIA 
+Y TECNOLOGIA
+
+NAP
+NUCLEOS DE 
+APRENDIZAJES PRIORITARIOS4
+
+Subsecretaría de Equidad y Calidad Educativa
+
+Área de producción pedagógica  
+Cuadernos para el aula
+
+Coordinación general 
+Adela Coria
+
+Equipo pedagógico
+Rosa Rottemberg
+Analía Segal
+
+Equipo de elaboración de contenidos
+Autoría
+Edy Machado
+
+Supervisión de contenidos y lectura crítica
+Marta Bulwik, Área de Ciencias Naturales de la Dirección Nacional 
+de Gestión Curricular y Formación Docente
+
+Área de producción editorial 
+Coordinación editorial 
+Raquel Franco
+
+Brenda Rubinstein, Asistencia de coordinación
+Silvina Chauvin, Edición
+Juan Pablo Lupii, Corrección
+Carolina Mikalef, Alejandro Luna, Dirección de arte
+Diego Valiña, Coordinación gráfica
+Alberto Caut, Diagramación
+Eugenia Mas, Paula Álvarez, Sebastian Martino, Juan Romera, Ilustración
+Alejandro Peral, Fotografía
+María Celeste Iglesias, Documentación
+
+Agradecemos especialmente a las editoriales  
+que han autorizado en forma gratuita la reproducción  
+de las imágenes y textos incluidos en esta obra. 
+ 
+
+
+
+MATERIALES,
+AGUA Y SUELO 5
+
+Estos materiales de la colección Cuadernos para el aula tienen la  
+intención de acompañarte en esta nueva etapa, en la que estás  
+terminando la escuela primaria o iniciando la secundaria.
+Tal vez te encuentres por primera vez con estos temas de estudio; tal  
+vez ya hayas trabajado con ellos... en todo caso, esta colección  
+te propondrá nuevos recorridos y nuevas formas de acercarte  
+a ellos: libros, antologías de textos, películas, cartas satelitarias,  
+novelas... En suma, estos materiales buscan enriquecer ese tiempo de  
+aprender que compartís con tus compañeros y tu docente cada día.
+
+
+
+El agua en el planeta Tierra
+ 
+Espacio de experiencias
+Comprobación del contenido del  
+agua en tejidos animales
+Desarrollo 
+
+Composición y propiedades del agua
+Un lenguaje particular 
+La acción disolvente del agua 
+¿Qué hace al agua tan especial? 
+
+Espacio de experiencias 
+Sólidos, líquidos y gases,  
+¿todos ellos pueden disolverse en agua? 
+Gas disuelto en agua
+Líquidos que se mezclan con agua 
+y otros que no
+Los sólidos en agua
+
+Contaminación del agua
+El agua y la sociedad
+Agua y producción
+
+MINISTERIO DE EDUCACION,
+CIENCIA 
+Y TECNOLOGIA6
+
+Introducción
+ 
+La química en nuestra sociedad
+Las explicaciones científicas, 
+¿cómo y por qué se las busca?
+Los aportes de los químicos
+¿Cómo impactan la ciencia  
+y la tecnología en la sociedad? 
+La presencia de la química  
+en la vida cotidiana
+Química y salud
+Avances en medicina
+Higiene y conservación de los alimentos
+
+Métodos químicos de conservación
+Para profundizar el análisis
+Comunicar para tomar conciencia
+Nuestras acciones afectan al ambiente
+Usos de los biomateriales
+Un analgésico centenario
+Consumidores informados
+
+18
+
+19
+
+19
+19
+20
+20
+21
+22
+23
+
+23
+23
+
+23
+23
+24
+25
+25
+
+ÍNDICE
+
+9
+
+10
+
+10
+11
+
+11
+
+12
+14
+14
+15
+15
+16
+16
+16
+17
+17
+17
+
+
+
+MATERIALES,
+AGUA Y SUELO 7
+
+Espacio de experiencias
+Bioensayo de la cebolla
+Desarrollo
+Análisis de los resultados
+
+El suelo
+
+¿Cómo se formó el suelo? 
+¿Cómo está compuesto el suelo? 
+
+Para profundizar el análisis 
+El “ingeniero industrial”  
+y el cruce de los Andes
+Espacio de experiencias
+Observación de fenómenos 
+Observación de los componentes  
+del suelo
+Observación de la presencia  
+de aire en el suelo 
+
+Propiedades del suelo: la acidez
+Espacio de experiencias
+Determinación de la acidez
+
+Cómo preparar un indicador  
+de pH casero
+Determinación de la acidez del suelo
+
+Una mirada a las rocas y minerales
+Un tipo especial de rocas:  
+las rocas calcáreas
+
+Espacio de experiencias
+Fabricación de una estalactita
+Desarrollo 
+¿Qué sucede? 
+
+Dióxido de carbono en las cáscaras  
+de huevo
+
+Las arcillas
+Minerales bellos y valiosos 
+La acción del ser humano  
+sobre el suelo 
+Un problema mundial
+
+Para profundizar el análisis 
+Las piedras preciosas
+¿Cuidamos nuestro suelo?  
+Suelo y desarrollo sustentable 
+
+26
+26
+26
+29
+
+30
+
+32
+34
+36
+
+36
+38
+38
+
+38
+
+40
+41
+42
+42
+
+42
+43
+44
+
+44
+46
+46
+46
+46
+
+47
+48
+50
+
+52
+53
+54
+54
+54
+54
+
+
+
+
+
+QUÍmica
+7 9
+
+intrOducción
+
+Para leer este libro no es necesario ser un experto en Química, solo es preci-
+so tener una cuota de curiosidad e interés por la observación del entorno.
+
+ Una manera de satisfacer esta curiosidad es aprendiendo a preguntar por 
+qué suceden los fenómenos que observamos y buscar explicaciones para 
+ellos. En esa búsqueda podremos aprender muchas cosas sobre aconteci-
+mientos cotidianos, que no por ser familiares para nosotros resultan menos 
+interesantes. 
+
+La Química ofrece explicaciones sobre muchos aspectos del mundo que 
+nos rodea y nos permite entender las transformaciones y los cambios de 
+la materia, predecirlos y anticiparnos a sus consecuencias, puesto que es  
+la ciencia que estudia la materia, su composición, sus transformaciones y la 
+energía asociada a estas. 
+
+En este libro no desarrollaremos en forma particular todos los aspectos 
+que contempla la Química, sino que seleccionaremos algunos de ellos.
+
+En la introducción, abordaremos algunos contenidos relacionados con 
+nuestra vida cotidiana, como los materiales con que están hechos los objetos 
+que nos rodean, los aportes de la Química a la medicina y la higiene y la con-
+servación de los alimentos. 
+
+A continuación, y desde el punto de vista de esta disciplina, desarrollare-
+mos en distintos capítulos dos temas vinculados muy estrechamente con el 
+cuidado del ambiente: el agua y el suelo.
+
+
+
+Las explicaciones científicas, ¿cómo y por qué se las busca?
+
+El ser humano, desde sus orígenes, ha tenido una enorme curiosidad por el 
+mundo en que vive. ¿Cuál es el origen de la lluvia? ¿Cómo vuelan las aves? 
+¿Por qué se suceden el día y la noche? Esas son solo algunas de las pre-
+guntas que se ha hecho nuestra especie a lo largo de miles de años. Para 
+responderlas, desarrolló modelos que fueron cambiando junto con los demás 
+cambios en la sociedad. Algunas de ellas fueron contestadas, con modelos 
+que hasta hoy las explican satisfactoriamente, muchas aún nos desvelan y 
+miles de otras se han sumado a una larga lista de interrogantes que nuestra 
+interminable curiosidad no cesa de investigar.
+
+Los científicos son personas dedicadas a observar, analizar y estudiar el 
+mundo con una mirada intencional, la “mirada científica”, mediante la cual 
+tratan de encontrar explicaciones a una gran diversidad de fenómenos. Para 
+ello, emplean métodos particulares que se acuerdan previamente entre los 
+investigadores no sin que se produzcan conflictos o surjan posiciones en-
+frentadas alrededor de una idea. El conocimiento científico es una construc-
+ción colectiva a la que aportan muchas personas que trabajan en centros de 
+investigación de todo el mundo.
+
+Las respuestas a las que se arriba no son absolutas ni definitivas, y se 
+modifican y ajustan a medida que nuevos datos y diferentes puntos de vista 
+permiten la construcción de nuevas explicaciones.
+
+La QUÍmica en 
+nUestra sociedad
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios10
+
+
+
+Los aportes de los químicos
+
+Desde hace ya algunos siglos, el conocimiento científico y los desarrollos 
+tecnológicos derivados de él han pasado a formar una parte inseparable de 
+nuestra vida cotidiana. Tanto la electricidad que llega a nuestros hogares, 
+como los automóviles, los plásticos o Internet tienen su origen en la aplica-
+ción tecnológica del resultado de alguna investigación científica. 
+
+Sin embargo, la Química no es una ciencia nueva. Desde que los seres hu-
+manos conocieron el fuego, comenzaron a ensayar reacciones químicas para 
+transformar la materia, tanto en la alfarería como en la cocina, en el trabajo 
+con los metales o en la fabricación del vidrio.
+
+La Química es una de las ciencias que más aportes ha realizado al desa-
+rrollo tecnológico así como al desarrollo de conocimientos que permiten la 
+comprensión de muchos fenómenos naturales. Desde los conservantes para 
+alimentos hasta los discos compactos y muchas prendas de vestir, un enorme 
+porcentaje de nuestros objetos se elabora con materiales fabricados a partir 
+de conocimientos que provienen del campo de la Química.
+
+¿Cómo impactan la ciencia y la tecnología en la sociedad?
+
+Si bien las aplicaciones de los avances científicos y tecnológicos han mejo-
+rado en muchos aspectos nuestra calidad de vida, también han generado un 
+importantísimo deterioro en otros. 
+
+A manera de ejemplo, se han desarrollado vacunas que han erradicado 
+enfermedades y tratamientos muy efectivos contra enfermedades antes mor-
+tales pero, al mismo tiempo, muchos ambientes del planeta han sido altera-
+dos, en algunos casos en forma irreversible, lo que provocó la extinción de 
+numerosas especies que habitaban en ellos.
+
+Esto no significa que la ciencia y la tecnología deban desecharse, pero 
+es preciso que la sociedad tenga en cuenta para qué y de qué modo quiere 
+emplearlas. Muchos de los problemas que los seres humanos enfrentan en la 
+actualidad debido a las aplicaciones inadecuadas relacionadas con intereses 
+económicos, a la falta de presupuesto para la investigación científico-tecno-
+lógica de los problemas regionales o a las políticas de implementación de 
+tecnologías poco sostenibles, podrían resolverse concentrando los esfuerzos 
+en nuevas investigaciones y desarrollos que tiendan a lograr un uso adecua-
+do y sostenible de los recursos de la Tierra.
+
+Reflexiones
+- Discutan con sus com-
+pañeros qué aspectos 
+de la vida cotidiana les 
+parece que se relacio-
+nan con la Química.
+
+1
+
+materiaLes,
+aGUa Y sUeLo
+
+introdUcciÓn 11
+
+
+
+La Presencia de La QUÍmica 
+en La vida cotidiana
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios12
+
+A nuestro alrededor podemos encontrar numerosos materiales que se han 
+desarrollado mediante técnicas y tecnologías relacionadas con las aplicacio-
+nes de los resultados de la investigación en el área de la Química.
+
+Hasta hace poco tiempo, las alpargatas tenían la 
+base hecha de un material vegetal, el yute. Sin 
+embargo, este se deterioraba al mojarse. Hoy este 
+calzado también se fabrica con bases de goma.
+
+En la actualidad se fabrica una enorme varie-
+dad de productos derivados del petróleo, que 
+reciben el nombre de plásticos sintéticos. Con 
+ellos se elaboran numerosos objetos.  
+Por ejemplo, las cuerdas del violín, que  
+antes se hacían con tripas de gato,  
+ahora se elaboran con polímeros  
+sintéticos (un tipo de plástico) sin  
+que esto afecte su calidad sonora.
+
+Mientras respiramos, leemos, bailamos,  
+crecemos, tienen lugar en nuestro  
+organismo un conjunto de reacciones  
+químicas a las que se denomina  
+metabolismo.
+
+Los colores de los mar-
+cadores, las témperas y 
+las pinturas acrílicas se 
+extraen de vegetales y 
+minerales, pero también 
+se elaboran en forma 
+artificial, con distinto tipo 
+de materiales plásticos.
+
+Los materiales de construcción 
+se elaboran con sustancias 
+extraídas de la naturaleza. 
+Muchas veces estos materiales 
+son sometidos a distintos pro-
+cesos químicos para mejorar 
+su resistencia, su elasticidad o 
+su tolerancia a los cambios de 
+temperatura y presión, entre 
+otras propiedades.
+
+
+
+materiaLes,
+aGUa Y sUeLo
+
+introdUcciÓn 13
+
+Hacia la segunda mitad del siglo XX 
+comenzaron a desarrollarse numerosos 
+materiales plásticos que resultaron muy 
+adecuados para la fabricación de fibras 
+textiles. Entre los más conocidos se en-
+cuentran el poliéster, el nailon, la poliamida 
+y la Lycra ®. Estas fibras sintéticas presen-
+tan características tan buenas como las 
+naturales. La lana de vicuña, por ejemplo, 
+es muy abrigada porque el interior del 
+pelo es hueco, lo cual permite que alma-
+cene una pequeña porción de aire, que 
+adquiere la temperatura del cuerpo. Hoy 
+en día se fabrican fibras sintéticas muy 
+delgadas y huecas, que sirven como re-
+lleno de camperas y acolchados; son muy 
+abrigadas porque mantienen el calor del 
+cuerpo en el aire que contienen, mediante 
+el mismo efecto que la lana de la vicuña.
+
+Los materiales con los que se  
+fabrican las zapatillas deportivas  
+son productos sintéticos derivados 
+del petróleo, que hacen que este  
+tipo de calzado sea más liviano,  
+flexible y resistente.
+
+Los abrigos de lana, una fibra natural, 
+pueden teñirse tanto con tinturas ve-
+getales como con tinturas sintéticas.
+
+Muchos de los alimentos que 
+se extraen directamente de la 
+naturaleza son transformados en 
+otros mediante reacciones quími-
+cas. Por ejemplo, las mermeladas 
+o los yogures. Aún los llamados 
+“artículos regionales naturales” 
+han sido sometidos a alguna 
+transformación química durante 
+su elaboración.
+Los alimentos envasados con-
+tienen saborizantes, colorantes, 
+conservantes y otras sustancias 
+que, en su gran mayoría, son 
+producidas en forma artificial en 
+laboratorios mediante diversos 
+procedimientos químicos.
+
+
+
+En la actualidad, la salud se entiende como un hecho social, estrechamente 
+vinculado con las circunstancias políticas, económicas y socioculturales de 
+una población determinada, que se desarrolla en un espacio y un momento 
+histórico específicos.
+
+Los investigadores que trabajan en el área de la salud calculan que los 
+avances médicos y tecnológicos y muchos de los cambios producidos en 
+materia de higiene alimentaria son los responsables del incremento en la 
+esperanza de vida de las personas en diversas partes del mundo.
+
+Sin embargo, es preciso tener en cuenta que no todos los grupos huma-
+nos tienen acceso a estos desarrollos ni la posibilidad de disfrutar de todo su 
+potencial de salud.
+
+Avances en medicina
+
+Incrementar la calidad y la esperanza de vida ha sido uno de los objetivos 
+más importantes para la humanidad. Los avances en ciencia y tecnología han 
+hecho un aporte fundamental en el ámbito de la salud, y las investigaciones 
+químicas han tenido un papel preponderante en el desarrollo de medica-
+mentos y diversos productos asociados tanto con la prevención como con el 
+tratamiento de enfermedades.
+
+En medicina, algunos de los desarrollos tecnológicos de más amplio uso 
+en la actualidad son los antibióticos (sustancias que atacan específicamente a 
+hongos y bacterias causantes de enfermedades), los antisépticos (sustancias 
+que previenen las infecciones) y los analgésicos (alivian el dolor).
+
+Otro interesante adelanto que ha tenido lugar en las últimas décadas es 
+la fabricación de biomateriales. Estos materiales son compatibles con los 
+tejidos humanos y no producen rechazo cuando son implantados en el or-
+ganismo. Entre sus aplicaciones más conocidas se encuentran los implantes 
+dentarios, las válvulas cardíacas y los marcapasos.
+
+Una de las investigaciones más revolucionarias en el campo de la salud 
+fue el desarrollo de la técnica de inmunización por vacunas, una herramien-
+ta fundamental en la prevención de enfermedades. El empleo sistemático y 
+universalizado de las vacunas permitió, entre otros importantes logros, que se 
+desterrara de todo el planeta una enfermedad muy grave: la viruela.
+
+QUÍmica  
+Y saLUd
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios14
+
+Reflexiones
+- Busquen información 
+acerca de diversos ma-
+teriales que se emplean 
+en la actualidad (plásticos 
+reciclables, aleaciones 
+ultralivianas, cerámicos 
+resistentes a altas tem-
+peraturas, entre otros).
+- Averigüen si esos mate-
+riales existían hace 70, 50 
+o 25 años. Si no existían, 
+¿qué otro tipo de materia-
+les cumplían su función?
+- En la actualidad, ¿coexis-
+ten los nuevos materiales 
+con los que se usaban 
+anteriormente? ¿Por qué?
+
+2
+
+
+
+materiaLes,
+aGUa Y sUeLo
+
+introdUcciÓn 15
+
+Reflexiones
+- ¿Cuáles son los prin-
+cipales aportes de los 
+químicos en relación con 
+el cuidado de la sa-
+lud de las personas?
+- ¿Toda la sociedad tie-
+ne acceso a ellas? ¿Qué 
+piensan al respecto? 
+Propongan un debate en la 
+clase acerca de este tema.
+
+Higiene y conservación de los alimentos
+
+Con el paso del tiempo, todos los alimentos dejan de ser aptos para el con-
+sumo si no se mantienen en condiciones adecuadas. Gracias a los sistemas 
+de higiene y conservación que se emplean en la actualidad, el deterioro de los 
+alimentos es un proceso cada vez más controlado. 
+
+La mayoría de los alimentos que consumen las personas han sido mo-
+dificados antes de llegar a los hogares con el objetivo de prolongar su vida 
+útil y así evitar consecuencias negativas para la salud de las personas. En la 
+actualidad, los químicos aportan numerosas soluciones a la industria de los 
+alimentos en el campo de la higiene y la conservación.
+
+Si tenemos en cuenta los datos que aporta la Organización Mundial de la 
+Salud (OMS), en el año 2050 la población humana mundial puede llegar a los 
+11.000 millones de habitantes. Sin lugar a dudas, todos los desarrollos ten-
+dientes a conservar y mantener en buen estado los alimentos por más tiempo 
+son cruciales para atender las necesidades alimentarias de una población 
+cada vez más numerosa.
+
+Métodos químicos de conservación
+
+Existen muchos factores que intervienen en la pérdida de la calidad original de 
+un alimento: la exposición a la luz solar, el contacto con el oxígeno del aire, la 
+temperatura, la humedad y la acción de los microorganismos son algunos de 
+ellos. Existen distintos procedimientos para la conservación, algunos asociados 
+con procesos físicos (como el congelamiento, el empleo de altas temperaturas, 
+la deshidratación o el envasado al vacío) y otros con procesos químicos.
+
+Los métodos de conservación química están basados en la adición de 
+sustancias que actúan modificando químicamente el producto. El salado 
+(agregado de sal, como en el caso de las anchoas), el endulzado (agregado 
+de azúcar, como las mermeladas) y el acidulado (agregado de ácidos, como 
+los picles), entre otros, impiden o retardan la acción de una gran variedad de 
+microorganismos sobre los alimentos.
+
+El ahumado es un procedimiento que utiliza el humo como esterilizante y 
+antioxidante y confiere un aroma y un sabor particulares al alimento. 
+
+Los aditivos alimentarios son sustancias que se añaden intencionalmente a 
+los alimentos con el fin de modificar sus características o su conservación, pero 
+no enriquecen su valor nutricional. Pueden ser de origen natural o artificial.
+
+3
+
+Los agricultores andinos 
+inventaron hace cientos de 
+años el primer método de 
+conservación de la papa. 
+Consiste en deshidratarla por 
+congelación: por las noches las 
+papas se dejan a la intemperie 
+(en las alturas andinas, el aire 
+nocturno es helado) y durante 
+el día se exponen al calor del 
+sol. Las papas se descongelan 
+y se pisan para extraer el agua; 
+el proceso se repite varias 
+veces hasta extraer totalmente 
+el agua. La papa queda seca y 
+se puede almacenar por varios 
+años. Para utilizarla, solo es 
+necesario hidratarla con agua.
+
+P
+ap
+
+a 
+A
+
+nd
+in
+
+a-
+C
+
+IP
+
+
+
+Comunicar para tomar conciencia
+
+En equipos de cuatro compañeros, busquen información acerca de, al menos, tres 
+accidentes relacionados con escapes o derrames de compuestos tóxicos que 
+hayan tenido lugar en su localidad, en la Argentina, o en otra parte del mundo.
+
+Confeccionen una cartelera o un afiche informativo que contenga los si-
+guientes elementos: 
+•	 un texto explicativo en el que se resuma el suceso; 
+•	 datos específicos acerca del compuesto involucrado;
+•	 una descripción de las medidas tomadas por las autoridades o por la po-
+blación para reparar los daños y 
+•	 una lista de propuestas para la prevención de futuros accidentes.
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios 16
+
+Nuestras acciones afectan el ambiente
+
+Las aplicaciones tecnológicas derivadas de las investigaciones químicas es-
+tán presentes en casi todos los aspectos de la vida cotidiana. Señalen dos 
+en los que ustedes consideren que la tecnología influyó de manera positiva y 
+dos en los que piensen que lo hizo negativamente. 
+•	 Justifiquen por escrito las razones de su elección, en no más de dos pá-
+rrafos, y compártanlas con sus compañeros. 
+•	 Indiquen si alguno de los argumentos escuchados les hizo cambiar de 
+parecer con respecto a su opinión original.
+
+N
+at
+
+io
+na
+
+l O
+ce
+
+an
+ic
+
+ a
+nd
+
+ A
+tm
+
+os
+ph
+
+er
+ic
+
+ A
+dm
+
+in
+is
+
+tr
+at
+
+io
+n.
+
+PArA PrOfundizAr  
+el Análisis
+
+Derrame de petróleo  
+en las costas de África.
+
+
+
+Usos de los biomateriales
+
+Entrevisten a algún compañero, familiar o conocido que haya necesitado un 
+implante, una prótesis (por ejemplo, un diente postizo) o haya sido sometido 
+a una cirugía. Si no conocen a nadie, busquen algún caso que se haya docu-
+mentado en diarios o en revistas de actualidad. 
+•	 Investiguen acerca de los materiales utilizados en el caso elegido.
+•	 Describan las características particulares de ese material y averigüen des-
+de cuándo se emplea con fines terapéuticos.
+
+materiaLes,
+aGUa Y sUeLo
+
+introdUcciÓn 17
+
+Un analgésico centenario
+
+Uno de los analgésicos más famosos en la actua-
+lidad tiene ya más de cien años. Es el ácido acetil-
+salicílico, más conocido como aspirina. 
+•	 Averigüen de dónde se extrae el principio activo 
+(sustancia específica que ejerce la acción farma-
+cológica) para la elaboración de la aspirina, cuán-
+do y por quién fue descubierto, y quién lo patentó.
+•	 Indiquen cuál es la acción de la aspirina y qué 
+contraindicaciones presenta.
+
+Consumidores informados
+
+Realicen una selección de distintos alimentos en-
+vasados (fideos, mermeladas, latas de tomate, ga-
+lletitas dulces, sopas instantáneas, entre otros).
+•	 Lean detenidamente sus etiquetas e identifi-
+quen cuál fue el procedimiento utilizado para su 
+conservación.
+•	 Indiquen si contiene aditivos agregados, cuál es 
+la función que cumplen (por ejemplo, estabilizante, 
+colorante, edulcorante, entre otras) y, si es posible, 
+si son de origen natural o artificial.
+•	 Discutan en clase la importancia de conocer los 
+componentes de los alimentos envasados y sus 
+posibles efectos negativos en la salud.
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios18
+
+el AguA en el 
+PlAnetA tierrA
+
+1
+
+El agua es el compuesto más abundante en la naturaleza: solo los océanos 
+cubren las tres cuartas partes de la superficie terrestre y contienen casi la 
+totalidad del agua total del planeta.
+
+En estado líquido, el agua forma los océanos, los ríos y los lagos, y es tam-
+bién un componente fundamental de los seres vivos; como vapor de agua, 
+está presente en la atmósfera; en forma de hielo, en los glaciares.
+
+Para todos los seres vivos, el agua es imprescindible. Se encuentra en el 
+interior de las células y es el medio en el que se disuelven tanto los mate-
+riales necesarios para la vida (proteínas, lípidos, ácidos nucleicos, hidratos 
+de carbono, vitaminas, minerales) como las sustancias de desecho que los 
+organismos deben liberar al exterior. Además, el agua es el hábitat de una 
+enorme variedad de seres vivos. 
+
+OCÉANOS 97,24
+GLACIARES Y CASQUETES POLARES 2,14
+AGUAS SUBTERRÁNEAS 0,61
+LAGOS 0,009
+MARES 0,008
+HUMEDAD DEL SUELO 0,005
+ATMÓSFERA 0,001
+RÍOS 0,0001
+
+
+
+esPAciO de  
+exPerienciAs
+
+Comprobación del contenido de agua en tejidos animales
+
+En esta experiencia les proponemos evaluar la cantidad de agua que contie-
+nen distintos tejidos animales. 
+
+Para llevarla a cabo, consigan muestras de tejidos animales, por ejemplo, 
+trozos medianos a grandes de carne, hígado o huesos vacunos. 
+
+Los elementos de trabajo que van a necesitar son: una balanza, un reci-
+piente para calcinar (un plato cerámico o, mejor aún, un crisol de porcelana) 
+y una fuente de calor (como un mechero de gas, más un trípode y una malla 
+metálica para apoyar el recipiente para calcinar).
+
+El procedimiento que se utilizará para determinar la cantidad de agua en 
+los tejidos se denomina diferencia de pesada. 
+
+¿En qué consiste? 
+
+materiaLes,
+aGUa Y sUeLo
+
+eL aGUa 
+en eL PLaneta tierra 19
+
+esPAciO de  
+exPerienciAs
+
+1. Se pesa la muestra de material 
+y se registra su peso. 
+
+2. Luego, se somete la muestra a alta temperatura por 
+un cierto tiempo (debe ser el mismo para todas), se la 
+retira de la fuente de calor y se deja enfriar.
+
+3. Se vuelve a pesar y se anota el 
+nuevo peso.
+
+Desarrollo
+
+•	 Registren los datos obtenidos en la primera y en la segunda pesada en una 
+tabla, para facilitar su comparación. Calculen el porcentaje de agua que conte-
+nía cada muestra mediante la diferencia entre la primera y la segunda pesada. 
+- ¿Cuál de todos presenta la mayor diferencia? 
+- ¿Qué sucede cuando se calienta la muestra? 
+- ¿Por qué se registran valores diferentes para los distintos tejidos?
+•	 Elaboren posibles explicaciones acerca del cambio de peso en cada uno 
+de los tejidos y con qué puede estar relacionado. 
+•	 Busquen información sobre el porcentaje de agua contenido en los tejidos 
+estudiados y compárenlos con los resultados obtenidos. ¿Observan diferen-
+cias? Si las hubiera, analicen las posibles causas de esas diferencias (por 
+ejemplo, no se calentó suficiente la muestra, se cometieron errores al pesar, 
+entre otras).
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios20
+
+El agua está presente en la naturaleza y, por esa razón, decimos que es “na-
+tural”. Sin embargo, también puede obtenerse en el laboratorio.
+
+Durante el siglo XVIII, muchos científicos estaban interesados en com-
+prender la estructura de la materia, las características de las reacciones quí-
+micas y la forma de “medir” estas reacciones. Estos científicos trabajaron con 
+el agua como parte de sus investigaciones.
+
+El primer científico que obtuvo agua artificialmente en el laboratorio fue el 
+químico inglés Henry Cavendish, en el año 1781. Este investigador demostró 
+que el agua se puede obtener haciendo arder gas hidrógeno, un elemento 
+químico*, junto con gas oxígeno, otro elemento químico.
+
+Luego, Antoine Lavoisier, un químico francés al cual se considera el “padre 
+de la química”, concluyó que la molécula de agua estaba formada por dos 
+átomos* de hidrógeno y uno de oxígeno y que el agua se podía encontrar 
+en los tres estados de agregación de la materia: sólido (hielo), líquido (agua 
+propiamente dicha) y gaseoso (vapor de agua).
+
+Un lenguaje particular
+
+Tal vez en algún texto alguna vez hayan leído la combinación de letras y nú-
+meros H
+
+2
+O para referirse al agua. No es una extraña clave, sino un lenguaje 
+
+especial que emplean los químicos para identificar a los materiales con los 
+cuales trabajan. 
+
+H
+2
+O es una fórmula química que indica que la molécula* de agua está 
+
+formada por dos átomos de hidrógeno y uno de oxígeno: H es el símbolo del 
+hidrógeno y O, el del oxígeno. 
+
+comPosiciÓn Y  
+ProPiedades deL aGUa
+
+* Se denomina elemento 
+químico a las distintas cla-
+ses de átomos que existen.
+* Los átomos son los 
+constituyentes de todos los 
+materiales. Son las partí-
+culas más pequeñas que 
+forman la materia. Si todos 
+los átomos son iguales, 
+se trata de una sustancia 
+simple o un elemento. Por 
+ejemplo, el oro, la plata, 
+el cobre, el oxígeno.
+* La molécula es una 
+porción muy pequeña de la 
+materia, que está formada 
+por dos o más átomos igua-
+les o diferentes. Por ejem-
+plo, la molécula de dióxido 
+de carbono (CO
+
+2
+) está 
+
+formada por dos átomos de 
+oxígeno y uno de carbono. 
+
+
+
+21
+
+* Una solución se forma 
+cuando una sustancia 
+–en estado sólido, líquido 
+o gaseoso–, a la que se 
+denomina soluto (por ejem-
+plo, azúcar), se disuelve 
+homogéneamente en otra, 
+a la que se llama solven-
+te (por ejemplo, agua).
+
+La acción disolvente del agua
+
+La excepcional importancia del agua, desde el punto de vista químico, se 
+debe a que casi la totalidad de los procesos químicos que ocurren en la natu-
+raleza, tanto en los organismos vivos como en el suelo, en la atmósfera o en 
+los océanos, en el laboratorio y en la industria, tienen lugar entre sustancias 
+disueltas en agua, esto es, sustancias en solución*. El agua suele denominar-
+se disolvente universal pues gran cantidad de sustancias son, en mayor o 
+menor grado, solubles en ella. 
+
+Muchas sustancias, en estado líquido, sólido o gaseoso, pueden mezclarse 
+con el agua, confiriéndole otro sabor, otro olor, otro color. Cuando colocamos 
+sal común en agua, por ejemplo, observamos que la sal se disuelve: parece 
+“desaparecer” en el agua. Esta mezcla, que sigue siendo transparente como 
+el agua, es, sin embargo, salada. El agua de los océanos tiene gran cantidad 
+de sales disueltas y también oxígeno en estado gaseoso, sin el cual los orga-
+nismos acuáticos no podrían sobrevivir.
+
+La lluvia ácida
+Con la invención de la máquina de vapor y la 
+posterior Revolución Industrial, se extendió el 
+uso del carbón como combustible. Luego, fue 
+sustituido por derivados del petróleo, como la 
+nafta y el gasoil. Estos derivados se elaboran 
+mediante una reacción química llamada com-
+bustión, que produce gases como óxidos  de 
+carbono, de azufre y de nitrógeno que pasan 
+a la atmósfera y se combinan con el vapor de 
+agua, dando lugar a sustancias que son ácidas 
+(ácido carbónico, ácido sulfúrico y ácido nítrico).
+Estos ácidos caen con el agua de lluvia, lo cual tiene un efecto nocivo para los 
+vegetales y el suelo en general. 
+Algo particularmente curioso de este efecto es que no tiene por qué ocurrir 
+en la zona donde se produce la emisión de gases. Las corrientes de aire pue-
+den llevar las nubes a otra zona y producir la lluvia ácida allí.
+Actualmente se procura reducir al máximo el contenido de nitrógeno y azu-
+fre de los combustibles antes de quemarlos.
+
+Estatua afectada por la lluvia ácida.
+
+Algunas sustancias que se 
+disuelven en el agua pueden 
+ser muy tóxicas para los seres 
+vivos, por eso es importante 
+cuidar las fuentes de agua y 
+evitar verter en ellas sustancias 
+que puedan hacerla inútil para 
+su uso por los seres vivos. 
+
+(c
+) 
+
+A
+da
+
+m
+ H
+
+ar
+t-
+
+D
+av
+
+is
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios22
+
+¿Qué hace al agua tan especial?
+
+Cuando ponemos a calentar una sustancia en estado líquido, esta recibe una 
+gran cantidad de calor antes de comenzar a hervir. El agua puede absorber 
+una gran cantidad de calor sin que aumente demasiado su temperatura. Esta 
+capacidad del agua de “almacenar” el calor se llama capacidad calorífica. 
+Debido a que la capacidad calorífica del agua es elevada, los ríos y los océa-
+nos actúan como “acondicionadores de aire”: en las zonas alejadas de espe-
+jos de agua, las noches son muy frías y los días son muy cálidos.
+
+El agua también posee una gran capacidad de conducir el calor, a la que 
+se denomina conductividad térmica.
+
+Imaginemos a las moléculas como esferas muy pequeñas. En un sólido 
+como el hielo, estas moléculas se atraen fuertemente entre sí, en una estruc-
+tura ordenada y no se desplazan, aunque sí vibran en el mismo lugar. Si le 
+damos calor al hielo, las moléculas comienzan a vibrar más rápidamente has-
+ta que llega un momento en que “rompen filas” y se desordenan. En ese mo-
+mento, el agua funde, es decir, se vuelve líquida. Este proceso ocurre cuando 
+la temperatura alcanza los 0 ºC, a 1 atmósfera de presión*.
+
+Las moléculas de agua en el estado líquido se encuentran moviéndose des-
+ordenadamente dentro del recipiente que las contiene. Este movimiento es 
+el que permite que el agua “fluya”. Si calentamos el agua en estado líquido, el 
+movimiento de las moléculas se hace cada vez más rápido, hasta que logran 
+vencer la atracción entre ellas y “escapan” del líquido al espacio que lo rodea. 
+En este momento, cuando el agua llega a los 100 ºC, a 1 atmósfera de presión, 
+pasa al estado gaseoso.
+
+La palabra vapor se utiliza para hacer referencia al agua en estado gaseoso. A 
+veces llamamos vapor, incorrectamente, a la niebla que se produce en las maña-
+nas muy frías, cerca de los ríos o en el campo. La niebla está formada por gotas 
+muy pequeñas de agua en estado líquido. El vapor de agua, en realidad, no se ve.
+
+1. Si el movimiento y el desor-
+den es muy bajo, el agua está 
+en estado sólido.
+2. Si el movimiento y el desor-
+den es menor, el agua está en 
+estado líquido.
+3. Si el movimiento y el “desor-
+den” de las moléculas de agua 
+es muy alto, el agua está en 
+estado gaseoso.
+
+* La presión atmosférica es 
+el peso del aire sobre la su-
+perficie terrestre. La presión 
+que soportan los objetos 
+situados en la Tierra al nivel 
+del mar, en condiciones 
+determinadas de hume-
+dad y temperatura es de 1 
+atmósfera. A medida que se 
+asciende, la masa de aire 
+por encima de un objeto es 
+menor, por lo cual la presión 
+atmosférica disminuye.
+
+
+
+materiaLes,
+aGUa Y sUeLo 23
+
+esPAciO de  
+exPerienciAs
+
+eL aGUa 
+en eL PLaneta tierra
+
+Solidos, líquidos y gases, ¿todos ellos pueden disolverse en agua?
+
+En equipos de cuatro compañeros, realicen los siguientes experimentos para 
+comprobar qué sustancias se disuelven en agua y cuáles no.
+
+Gas disuelto en agua
+
+Para verificar la disolución del gas en la soda van a necesitar una botella con 
+soda bien fría y un globo. 
+
+¿Cómo se realiza este procedimiento? Se destapa la botella de soda con 
+cuidado, sin agitarla. Se coloca el globo en la boca de la botella. Luego, len-
+tamente, se calienta la botella a baño María. Observen. ¿Qué ocurre?
+
+Líquidos que se mezclan con agua y otros que no
+
+¿Todos los líquidos son solubles en agua? Para responder a esta pregunta, 
+observen qué sucede al preparar las siguientes mezclas: 
+- dos cucharadas de vaselina líquida en medio vaso de agua;
+- dos cucharadas de vinagre de alcohol en medio vaso de agua;
+- dos cucharadas de aceite en medio vaso de agua;
+- dos cucharadas de leche líquida en medio vaso de agua.
+¿Qué ocurre con las mezclas? Y si agitan bien con la cuchara, ¿qué sucede?
+
+Los sólidos en agua
+
+Para realizar este experimento necesitan: tres vasos con agua hasta la mitad, 
+tres cucharas (una para cada muestra), crayones de colores previamente pul-
+verizados, tizas de colores previamente pulverizadas y sal fina de cocina. 
+
+A cada vaso con agua agréguenle dos cucharadas de cada polvo. Revuelvan 
+bien y observen: ¿Qué ocurre en cada caso? ¿Todos los sólidos se disuelven?
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios24
+
+Las aguas naturales, como la de los ríos, lagos y océanos, contienen gases, 
+líquidos y sólidos disueltos en ellas. En las aguas superficiales de los ríos, por 
+ejemplo, se disuelven gases que componen el aire (como el oxígeno), mine-
+rales y también sustancias provenientes de los restos de animales y plantas. 
+Pero también pueden disolverse sustancias tan tóxicas que impiden el desa-
+rrollo de la vida. Cuando esto sucede, se dice que el agua está contaminada. 
+
+Se llama sustancia contaminante a cualquier sustancia que pueda trans-
+formar el ambiente en forma nociva u ofensiva para el desarrollo de los seres 
+vivos, que afecte la salud de las personas y que perjudique las actividades 
+normales de una comunidad. 
+
+Muchas actividades humanas deterioran la calidad del agua. Las sustan-
+cias residuales de los procesos industriales, los desechos cloacales domés-
+ticos y algunos fertilizantes y plaguicidas que se emplean en la agricultura 
+se vierten en los ríos y otros cuerpos de agua y aportan diversos agentes de 
+contaminación.
+
+Muchas veces, la contaminación del agua puede deberse no solo a las 
+sustancias sólidas o líquidas presentes en ella, sino a que estas sustancias 
+impiden que el oxígeno se disuelva, lo cual afecta la vida de los organismos 
+acuáticos. La biodisponibilidad de oxígeno (o índice BDO) es una medida 
+para indicar el grado de contaminación de una fuente de agua: cuanto menos 
+oxígeno disuelto tenga mayor es el nivel de contaminación y menor la posi-
+bilidad de vida acuática.
+
+contaminaciÓn  
+deL aGUa 
+
+Laguna Blanca, Provincia de Neuquén.
+
+4
+
+Reflexiones
+- Investiguen en su co-
+munidad si existe algún 
+problema de contamina-
+ción de las fuentes de 
+agua naturales. En caso 
+afirmativo, describan cuál 
+es la posible causa. 
+- Propongan alternati-
+vas en el uso del agua 
+que eviten la contamina-
+ción de este recurso.
+- Elaboren carteleras 
+informativas y compartan 
+su trabajo con el resto 
+de sus compañeros.
+
+S
+ec
+
+re
+ta
+
+ría
+ d
+
+e 
+Tu
+
+ris
+m
+
+o 
+de
+
+ la
+ N
+
+ac
+ió
+
+n
+
+
+
+materiaLes,
+aGUa Y sUeLo 25
+
+El agua y la sociedad
+
+El agua ha sido un recurso de extrema importancia desde que el ser humano 
+comenzó a desarrollar una vida sedentaria y se asentó en aldeas y ciudades.
+
+Las personas no pueden consumir cualquier tipo de agua sino que deben 
+emplear lo que se denomina agua potable, es decir, aquella que no implica 
+riesgo para el que la consume. 
+
+El agua potable es fundamental para la salud y el bienestar humano. El 
+proceso de purificación que recibe el agua para consumo humano se llama 
+potabilización y su empleo, con diversas variantes, se encuentra muy exten-
+dido. Los avances en las técnicas del tratamiento del agua han contribuido 
+a la mejora en la calidad de vida de buena parte de la población de nuestro 
+planeta. Sin embargo, existen muchas comunidades que aún no tienen ac-
+ceso a fuentes de agua con características de potabilidad adecuadas a las 
+necesidades del consumo humano. 
+
+Una gran cantidad de estudios científicos indican una escasez cada vez 
+más acentuada de agua para la producción de alimentos, para el desarrollo 
+económico de las comunidades y para la protección de los ecosistemas natu-
+rales. Se calcula que para llevar a cabo estas actividades en forma adecuada 
+se necesitaría un consumo mínimo por persona de 1.000 m3 al año. Esto 
+significa ¡1.000.000 de litros al año!
+
+Agua y producción
+
+El agua es muy importante en la obtención de una gran variedad de alimen-
+tos y productos. Veamos algunos ejemplos.
+
+5
+
+Reflexiones
+- Imaginen que tienen que 
+usar cantidades muy limi-
+tadas de agua durante una 
+semana. Piensen a qué ac-
+tividades destinarían su uso.
+
+eL aGUa 
+en eL PLaneta tierra
+
+Para fabricar un automóvil 
+se necesitan 35.000 
+litros de agua.
+
+Para obtener un kilogramo 
+de papel se utilizan 
+300 litros de agua.
+
+Para producir un kilogramo 
+de lechuga se emplea un 
+total de 25 litros de agua.
+
+Para obtener un kilogramo 
+de lana se emplean 
+150 litros de agua.
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios26
+
+esPAciO de  
+exPerienciAs
+
+Bioensayo de la cebolla
+
+En estas páginas, les proponemos hacer un bioensayo –un tipo de ensayo en el 
+cual se emplea un organismo– para comprobar si una muestra de agua está o no 
+contaminada. En este caso, el organismo que vamos a emplear es una cebolla. 
+
+¿Por qué una cebolla puede indicar la toxicidad del agua? En las plantas, 
+el desarrollo de las raíces es muy sensible a la presencia de contaminantes. 
+En otras palabras, las raíces no pueden crecer, o crecen mucho menos, en un 
+ambiente contaminado.
+
+En la siguiente experiencia les proponemos que observen, midan y compa-
+ren la longitud de raíces jóvenes de cebollas que crezcan en: 1) un ambiente 
+adecuado, 2) un ambiente tóxico y 3) un ambiente incógnita (es decir, del que 
+desconocemos sus características y que queremos estudiar).
+
+Desarrollo
+
+Como este experimento implica bastante trabajo, les sugerimos que se orga-
+nicen en grupos no muy pequeños (seis alumnos o más).
+
+En todo experimento siempre es aconsejable hacer varias repeticiones  
+de cada medición, para estar seguros que lo que medimos no es producto de 
+la casualidad. Por eso en esta experiencia se trabaja con seis cebollas por 
+grupo.
+
+1. Consigan 24 cebollas, aproximadamente del 
+mismo tamaño, y 24 frascos de vidrio transparen-
+te. Es muy importante que las cebollas tengan un 
+tamaño similar para poder compararlas después 
+entre sí. Asegúrense de que las cebollas que-
+pan en la boca de los frascos de vidrio, sin caer 
+adentro.
+
+2. Pelen todas las cebollas, sacándoles la piel con 
+cuidado para no cortar las raíces. A medida que 
+estén peladas, colóquenlas en un recipiente con 
+agua limpia (agua embotellada). Manténganlas 
+allí hasta que vayan a usarlas.
+
+
+
+materiaLes,
+aGUa Y sUeLo 27
+
+3. Agrupen los frascos en grupos de seis. Quedarán, así, cuatro conjuntos dife-
+rentes de frascos. Para diferenciarlos entre sí, rotúlenlos con una marca que los 
+identifique. Lo más fácil será escribir con un marcador indeleble una letra sobre 
+cada frasco que diga a qué grupo pertenece, o pegarle un papel.
+4. Los cuatro grupos que van a comparar, entonces, son:
+
+Grupo N. Es el control negativo de nuestro experimento, porque no está 
+contaminado. En este grupo, las cebollas se van a colocar en un medio que 
+les permita crecer en forma adecuada. Se empleará agua mineral embote-
+llada, que con seguridad no está contaminada. Este control permitirá saber 
+cuánto pueden crecer las raíces en agua no contaminada, y comparar este 
+dato con lo que sucede en los otros medios. 
+Grupo P. Es el control positivo de nuestro experimento. Aquí se empleará un 
+medio que no permita que las raíces crezcan, es decir, un medio tóxico para 
+ellas. En este caso se empleará una solución de agua con sal, ya que se sabe 
+que el agua muy salada inhibe el crecimiento de las raíces de la cebolla. Este 
+control permitirá saber qué tan poco crecen las raíces en un medio tóxico. 
+
+Para preparar la solución salina, tienen que mezclar agua con sal de 
+mesa (a la que se denomina cloruro de sodio). La solución debe contener  
+10 g de sal por cada litro de agua. Eso significa que a 1 litro de agua tienen 
+que agregarle 10 g de sal; a 2 litros, 20 gramos, y así sucesivamente. Les 
+sugerimos que preparen un litro de solución, para que alcance para todo el 
+experimento.
+Grupo M1. Es la primera muestra que van a analizar. Pueden, por ejemplo, 
+utilizar el agua que se consume en casa.
+Grupo M2. Es la segunda muestra (pueden probar con tantas muestras 
+como quieran) que van a estudiar. Pueden probar con agua de charco, de un 
+río o de algún cuerpo de agua cercano a su localidad. 
+
+eL aGUa 
+en eL PLaneta tierra
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios28
+
+esPAciO de  
+exPerienciAs
+
+Este agua puede estar contaminada. Por eso es importante que no la toquen 
+con sus manos, ni se toquen los ojos ni la boca mientras hacen el experimen-
+to. Lávense muy bien las manos cuando terminen de trabajar o, mejor aún, 
+empleen guantes durante el procedimiento.
+
+5. Llenen los frascos de cada grupo casi hasta la boca con la solución que 
+corresponda. 
+
+Grupo N: agua embotellada.
+Grupo P: solución de agua con sal (10 g de sal por cada litro de agua).
+Grupo M1: muestra de agua 1.       
+Grupo M2: muestra de agua 2.
+
+Sequen las cebollas que tenían en el recipiente con una servilleta de pa-
+pel y colóquenlas con cuidado sobre los frascos, con la parte de las raíces 
+hacia el agua.
+
+
+
+materiaLes,
+aGUa Y sUeLo
+
+Los 
+oasis aGricoLas 29
+
+6. Ubiquen los frascos en un lugar aireado, donde reciban la luz del sol, y dé-
+jenlos durante tres días. A medida que crezcan las raíces de las cebollas, se 
+consumirá el agua del frasco. Cada día, repongan con cuidado el líquido que 
+se haya perdido en cada frasco, sin mover demasiado la cebolla. Asegúrense 
+de completar cada frasco con el líquido que corresponda.
+
+7. Al cabo de tres días, saquen las cebollas de los frascos poniendo mucha 
+atención en no mezclar las que corresponden a cada grupo. Organícense con 
+sus compañeros y repártanse los grupos para hacer la medición. 
+
+De las seis cebollas de cada grupo, observen si hay alguna con raíces 
+más cortas que el resto. En ese caso, descártenla. A veces sucede que al-
+gunas cebollas no están en buen estado, o no pueden crecer tan bien como 
+el resto. También deberán descartar las que tengan raíces extremadamente 
+largas. Así se asegurarán de no incluir esas cebollas en las mediciones, lo 
+cual puede distorsionar los datos obtenidos: solo tendrán en cuenta las de 
+longitud media.
+
+8. Midan la longitud de las raíces para cada una de las cebollas que queden 
+en el grupo, utilizando una regla. Calculen el promedio de las longitudes en 
+cada grupo y anoten sus conclusiones en un cuadro.
+
+Análisis de los resultados
+
+Para interpretar los resultados obtenidos tienen que comparar el largo pro-
+medio de las raíces que crecieron en las muestras con el largo de las que 
+crecieron en el grupo N (el control con agua limpia). Cuanto más grande sea 
+la diferencia entre la muestra y el control, mayor será la probabilidad de que 
+haya sustancias tóxicas presentes en el agua de la muestra.
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios30
+
+el suelO2
+
+La zona del planeta más ampliamente conocida por nosotros es la superficie 
+de los continentes, que se denomina suelo. Está formada por un conjunto de 
+elementos, compuestos y mezclas que se relacionan en forma dinámica con 
+diversos factores como el clima, los seres vivos o los movimientos sísmicos, 
+entre otros.  
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios30
+
+
+
+materiaLes,
+aGUa Y sUeLo 31
+
+Tanto el adobe para la construcción de las casas como las fibras ópticas para 
+la construcción de redes de comunicación, puedan fabricarse con los mismos 
+materiales extraídos del suelo, aunque mediante tecnologías diferentes. 
+
+eL sUeLo
+
+En este capítulo hemos elegido algunos ejemplos para ilustrar e indagar en 
+la composición química y las características de los materiales que pueden 
+extraerse de la tierra. 
+
+Actualmente hay una creciente preocupación por la preservación de nues-
+tro planeta y se intenta reducir la intensidad del impacto de la tecnología so-
+bre el ambiente. En esta tarea, la sociedad también deberá poner en práctica 
+sus conocimientos químicos.
+
+Muchos de los materiales con los que se elaboran los objetos que nos rodean 
+han sido fabricados con otros materiales más simples extraídos del suelo. 
+
+¿Con qué se fabrica el vidrio? ¿De dónde sale el acero? ¿De qué está he-
+cho el cemento? ¿Qué tienen en común el mármol y los caracoles? 
+
+Con agua y tierra, ¿solo podemos hacer barro? ¿Qué son los cerámicos? 
+Estas y otras preguntas pueden ocurrírsenos si observamos con deteni-
+
+miento a nuestro alrededor.
+
+Fibra óptica. Paredes de adobe.
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+
+
+
+Hace cerca de cinco mil millones de años, el planeta Tierra era una bola de 
+materiales extremadamente calientes, con un aspecto similar a la lava de los 
+volcanes. A partir de entonces, tuvo lugar un lento proceso durante el cual se 
+solidificó ese material, se formaron las primeras rocas terrestres y también  
+se desarrolló la atmósfera. 
+
+Una vez que la superficie terrestre se solidificó, se formó un manto rocoso, 
+también llamado roca madre, que luego de muchas transformaciones dio ori-
+gen al suelo.
+
+Estas transformaciones son el resultado de distintos factores climáticos 
+(como la temperatura o la humedad), el tipo de roca, el relieve del lugar, la 
+presencia de vegetación y el paso del tiempo.
+
+La formación del suelo es un proceso muy lento, que puede llevar miles 
+de años. Las características que finalmente tenga ese suelo mostrarán los 
+fenómenos que ocurrieron a lo largo de su historia. Por ejemplo, las caracte-
+rísticas que tenía el clima de esa región en el pasado o el tipo de flora y fauna 
+que la habitaba.
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios32
+
+¿cÓmo se formÓ  
+eL sUeLo?
+
+Ju
+lie
+
+ng
+ro
+
+n/
+w
+
+w
+w
+
+.s
+to
+
+ck
+xp
+
+er
+t.c
+
+om
+
+
+
+La roca madre original se desintegra lentamente por la acción de 
+
+diferentes factores naturales que aparecen en forma cíclica, como el 
+
+congelamiento y el deshielo, la inundación y la sequía, el calor y el frío.
+
+Los fragmentos de roca se dividen en partículas cada vez más 
+
+pequeñas que comienzan a mezclarse con restos de organismos.
+
+Empiezan a formarse capas en el suelo, llamadas horizontes. La 
+
+más superficial contiene una gran cantidad de restos de organis-
+
+mos. La más profunda es muy similar a la roca madre.
+
+Con el paso del tiempo, el suelo se cubre de vegetación. En este 
+
+momento, ya se diferencian distintos horizontes, que varían en 
+
+los distintos suelos.
+
+materiaLes,
+aGUa Y sUeLo
+
+eL sUeLo 33
+
+De acuerdo con su tamaño en orden decreciente, estos fragmentos de roca 
+que forman el suelo se denominan: grava (los más grandes), arena, limo y 
+arcilla (los más pequeños).
+
+Grava Arena Limo Arcilla
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios34
+
+El 98,5% de la corteza terrestre está formada por un conjunto de materiales 
+que contienen solo ocho elementos químicos: oxígeno, silicio, aluminio, hierro, 
+calcio, sodio, potasio y magnesio.
+
+Los suelos están formados por minerales, agua, aire y restos y desechos 
+de seres vivos. A continuación, describiremos en profundidad algunos de es-
+tos componentes. 
+
+Están formados por materiales que existen en la naturaleza en estado sólido 
+y, en su mayoría, cristalino. Todos ellos tienen una composición química defi-
+nida, aunque no fija. Por ejemplo, la rodocrosita es un mineral compuesto por 
+una sal llamada carbonato de manganeso, que le da su característico color 
+rosado; no obstante, puede tener otros elementos como magnesio o calcio 
+en proporciones variables.
+
+Las rocas están formadas por mezclas de diferentes minerales.
+
+mineraLes Y rocas
+
+La halita es una roca compuesta por cloruro de 
+sodio (sal de mesa).
+
+Granito porfídico.
+
+materiaLes bioGénicos
+
+Caparazón de un molusco.
+
+Existen algunos materiales provenientes de orga-
+nismos (bacterias, hongos, plantas, animales) que se 
+convierten en minerales luego de la acción de distin-
+tos agentes naturales y se denominan biogénicos. 
+
+El excremento de las gaviotas, por ejemplo, se 
+convierte en salitre por acción del agua del mar. 
+Este mineral se usó durante mucho tiempo como 
+fertilizante y para elaborar la pólvora. Algunos ma-
+teriales que forman parte de seres vivos tienen la 
+misma composición que algunos minerales. Los ca-
+parazones de algunos moluscos, por ejemplo, tienen 
+carbonato de calcio, como el mármol, aunque no son 
+considerados minerales. 
+
+¿cÓmo está  
+comPUesto eL sUeLo?
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+Jo
+
+rg
+e 
+
+M
+ar
+
+tín
+ez
+
+ H
+ue
+
+lv
+es
+
+ /
+M
+
+in
+is
+
+te
+rio
+
+ d
+e 
+
+E
+du
+
+ca
+ci
+
+ón
+ y
+
+ C
+ie
+
+nc
+ia
+
+ d
+e 
+
+E
+sp
+
+añ
+a
+
+
+
+materiaLes,
+aGUa Y sUeLo
+
+eL sUeLo
+
+HUmUs
+
+El humus es un material que proviene de la descomposición de desechos y res-
+tos de seres vivos. Esta descomposición es favorecida por la acción de microor-
+ganismos (hongos, bacterias y protozoos). Se caracteriza por su color negruzco 
+debido a que contiene una gran cantidad de carbono. Se encuentra principal-
+mente en la capa superficial de los suelos con gran actividad biológica.
+
+En el humus o tierra negra es habitual hallar lombrices y otros animales.
+
+Misma composición, distinto origen
+Los materiales producidos por la acción biológica de los seres vivos, aun 
+cuando tienen la misma composición y la misma estructura que algunos 
+minerales, no son considerados como tales porque tienen distinto origen.
+
+Otros materiales presentes en el suelo
+
+El petróleo es una mezcla de materiales con composición muy variable, que 
+se halla a gran profundidad en el suelo. Se formó por la descomposición de 
+los restos de plantas y animales, en un proceso que duró millones de años.  
+
+En el suelo también pueden encontrarse otros materiales, producidos 
+como resultado de las acciones y la actividad humanas (por eso son llama-
+dos antropogénicos), que pueden tener la misma composición que algunos 
+minerales, como el sarro de las cañerías, que tiene la misma composición que 
+el mármol.
+
+35
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios36
+
+El “ingeniero industrial” y  el cruce de los Andes
+
+Vamos a poner el foco en un aspecto no considerado frecuentemente al 
+analizar el proceso histórico que dio lugar al hito conocido como “el cruce de 
+los Andes”.
+
+Fray Luis Beltrán nació en 1785. Ingresó a la orden de los francisca-
+nos en Chile, pero al enterarse de la Revolución de Mayo se enlistó 
+como capellán en las filas de los revolucionarios chilenos. En 1814 
+emigró a Mendoza junto con algunos jefes derrotados y fue presenta-
+do al general San Martín. Primero, lo nombraron capellán; sin embar-
+go, como tenía muchas capacidades técnicas (era matemático, físico, 
+químico, arquitecto, herrero, carpintero) fue nombrado como personal 
+de maestranza. 
+En octubre de 1815, San Martín se preparaba para el cruce de los 
+Andes. Contaba con 1634 soldados de infantería, 1000 de caballe-
+ría y 220 artilleros, con 10 cañones de distinto calibre. Sin embargo, 
+había problemas que resolver: vestir y alimentar a las tropas y poner 
+en condiciones de uso las armas, que se hallaban en general en mal 
+estado. La pólvora y las municiones eran escasas también.
+San Martín llamó entonces a Fray Luis Beltrán y lo nombró teniente 
+
+Cruce de los 
+Andes, óleo 
+de Pedro 
+Maggi.
+
+PArA PrOfundizAr  
+el Análisis
+
+
+
+materiaLes,
+aGUa Y sUeLo
+
+eL sUeLo 37
+
+•	 En equipos de cuatro compañeros lean detenidamente el texto e indiquen los 
+procesos tecnológicos que desarrolló Luis Beltrán para solucionar los problemas 
+a los que se enfrentaba el Ejército de los Andes. Explíquenlos brevemente.
+•	 Averigüen en qué zonas del país se extraen salitre, oro, plomo, azufre y 
+bórax. Elaboren un cuadro en el que describan los usos que se le da a cada 
+uno de estos minerales en el país.
+
+de artillería el 1º de marzo de 1815. Al comando de 300 trabaja-
+dores, Beltrán fundió cañones, balas, granadas y preparó todos los 
+implementos necesarios para el cruce. Contaba, además, con 120 
+técnicos y artesanos.
+Para los uniformes, Beltrán construyó una tejeduría para proveer los 
+paños que las damas de Mendoza cosían, y una tintorería. 
+En la industria minera de Cuyo se obtenían oro y plomo y se realizaba 
+una explotación intensiva de salitre, azufre y bórax, por lo cual se logró 
+extraer los materiales para la fabricación de la pólvora y los metales que 
+alimentaban las fraguas, que permitían construir más armamento. Para 
+la producción específica de pólvora, se instaló un laboratorio químico 
+bajo la dirección del ingeniero Álvarez Condarco, y se obtuvo un pro-
+ducto de calidad superior al que se fabricaba y traía del extranjero.
+Beltrán también diseñó los aparejos que hicieron posible transportar 
+los cañones a través de las montañas.
+
+Fray Luis Beltrán 
+en la fábrica  
+de armas, en  
+el campamento  
+El Plumerillo.
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios38
+
+esPAciO de  
+exPerienciAs
+
+Observación de fenómenos
+
+La observación es una forma de indagación científica. Es un medio para ob-
+tener información directa acerca del mundo. 
+
+Observar no es solo “mirar”. Se trata de detenerse en todos los detalles que 
+resulten singulares y en todas las variaciones que se puedan percibir con una 
+mirada atenta. 
+
+Para realizar una observación:
+1. Generalmente se tiene un propósito específico. 
+2. Se la planea cuidadosa y sistemáticamente. 
+3. Se debe llevar, por escrito, una descripción detallada de lo observado.
+4. Se deben repetir los experimentos en las mismas condiciones, para validar 
+los datos registrados.
+
+En todas las experiencias que siguen vamos a detenernos especialmente 
+en la observación de ciertos fenómenos. Es importante la descripción detalla-
+da de las observaciones que se realicen: esto permitirá notar si hay cambios 
+importantes que brinden información sobre los fenómenos que ocurren en 
+las experiencias.
+
+Observación de los componentes del suelo
+
+En este experimento podrán observar y contrastar suelos con distintas carac-
+terísticas, formados por partículas diferentes. Por ejemplo, suelos arenosos 
+(compuestos por gran cantidad de arena) y arcillosos (compuestos por gran 
+cantidad de arcilla). Podrán identificar cuáles partículas decantan* primero y 
+cuáles permanecen en suspensión en función del contenido de cada mues-
+tra de tierra.
+
+Los materiales que van a necesitar son:
+- Botellas de plástico transparente, con tapa (tantas como la cantidad de 
+muestras que consigan para analizar), todas del mismo tamaño.
+- Embudo, cucharitas.
+- Media taza de muestras de tierra de diferentes lugares y profundidades 
+(tanto de la capa más superficial como de las siguientes).
+
+1. Coloquen las muestras de tierra en las botellas (con el embudo, si está 
+seca; con las cucharitas, si está húmeda y no se desliza). Añadan agua hasta 
+las tres cuartas partes de la botella, aproximadamente. Tapen bien las bote-
+llas y agítenlas vigorosamente. Déjenlas reposar. 
+
+* Se denomina decantación 
+rocedimiento de separación 
+de materiales que no se 
+mezclan entre sí (líquidos 
+y sólidos, o todos líquidos) 
+en el cual se aprovecha la 
+acción de la gravedad. 
+
+
+
+materiaLes,
+aGUa Y sUeLo
+
+eL sUeLo 39
+
+2. Observen las diferentes capas que se formaron en las botellas. Esto se 
+produjo por la sedimentación* de las partículas de suelo. Tomen nota de todo 
+lo que consideren relevante (disposición de las capas, colores de cada una, 
+etcétera).
+
+* La sedimentación  
+es el proceso por el cual 
+los materiales sólidos que 
+se encuentran suspen-
+didos en un líquido se 
+depositan en el fondo.
+
+3. Ahora, dejen las botellas en reposo por uno o dos días, algunas de ellas 
+en la oscuridad (por ejemplo, dentro de una caja cerrada) y otras a la luz (por 
+ejemplo, cerca de la ventana).
+4. Pasado ese tiempo, golpeen levemente las botellas. Observarán burbujas 
+de gas, que indican la presencia de actividad biológica. Registren todo lo 
+observado.
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios40
+
+esPAciO de  
+exPerienciAs
+
+Las muestras arenosas, con partículas de rocas, se asientan primero, for-
+mando sedimentos de colores suaves. Las que contienen humus son más 
+oscuras y, según su composición, contienen materiales que pueden flotar en 
+la superficie. 
+
+Los depósitos o capas de sedimentos están formados por partículas que 
+tienen distintos tamaños y distinta composición. Si se mide la altura de las 
+capas de sedimentos depositados en las botellas, se puede calcular el por-
+centaje que cada capa representa del total de la muestra y relacionar estos 
+porcentajes con la composición total de la muestra y también con su ubica-
+ción en profundidad. 
+
+¿Qué pasa con la luz? En la tierra hay millones de microorganismos (bac-
+terias, hongos y levaduras) que, como resultado de las reacciones químicas 
+de su metabolismo, producen gases. La mayoría de estos microorganismos 
+necesitan luz y oxígeno. ¿De dónde sale el oxígeno? Es el que se encuentra 
+disuelto en el agua.
+
+Las burbujas de gas de la muestra que está puesta a la luz se deben a la 
+actividad biológica de los microorganismos presentes en el suelo. Esto puede 
+compararse con lo que sucede en la muestra que está a oscuras.
+
+Observación de la presencia de aire en el suelo
+
+La presencia de aire en el suelo no es continua en todas partes. En realidad, está 
+localizado en los espacios o poros que dejan las partículas sólidas entre sí. El 
+aire que hay en el suelo tiene, por lo general, más humedad que el aire que 
+compone la atmósfera. Cuando su humedad relativa es óptima, está próxima 
+al 100%. El contenido de dióxido de carbono es, por lo general, más alto y el 
+del oxígeno más bajo que el del aire atmosférico. 
+
+¿Cómo se puede comprobar si esto es realmente así? Para ello van a ne-
+cesitar los mismos materiales que para la experiencia anterior, solo que esta 
+vez el agua que utilizarán debe ser hervida y enfriada.
+
+¿Por qué es preciso hacer hervir el agua? Porque cuando el agua hierve, el 
+oxígeno disuelto en el agua se elimina. Entonces, si se obtienen burbujas en 
+las botellas, se deberán al aire del suelo y no a la actividad biológica de los 
+microorganismos (como en el experimento anterior).
+
+¿Por qué se debe enfriar el agua? Porque la botella se puede ablandar y 
+pueden quemarse al manipularla.
+
+Con estas dos experiencias podemos ver cómo, al variar las condiciones 
+del experimento, las observaciones pueden dar información diferente.
+
+
+
+materiaLes,
+aGUa Y sUeLo
+
+eL sUeLo 41
+
+De acuerdo con la composición que un suelo tenga, manifestará distintas 
+propiedades. Las posibilidades de crecimiento de los vegetales dependen de 
+las características del suelo en el cual se desarrollan. Las flores de ciertas 
+plantas, por ejemplo, tienen un color u otro en relación con la acidez del suelo 
+en que crecen. 
+
+La acidez* de las sustancias se mide con una escala numérica denomina-
+da escala de pH (se pronuncia “pe hache”), que va desde un valor muy próxi-
+mo a 0 hasta 14. Los valores más bajos corresponden a las sustancias ácidas 
+(los más cercanos a 0) y los más altos (los más cercanos a 14) a sustancias 
+llamadas básicas*. Esto permite clasificar a las sustancias desde el punto de 
+vista de su acidez.
+
+El valor 7 corresponde a la neutralidad. El agua pura, por ejemplo, tiene pH 7, 
+es decir, no es ácida ni básica: es neutra. El estómago humano contiene ácido 
+clorhídrico, cuyo pH es 2. El jugo de limón tiene un pH aproximado a 4; el agua 
+jabonosa, pH 8; y la soda cáustica, que se usa como destapacañerías, pH 12.
+
+Es útil conocer el pH de las sustancias porque, muchas veces, pueden 
+cambiar sus propiedades al variar el pH. Por ejemplo, las propiedades del 
+suelo varían de acuerdo con su pH.
+
+* Los ácidos son sus-
+tancias con sabor agrio, 
+colorean de rojo el tornasol 
+y dan reacciones quími-
+cas con ciertos metales, 
+produciendo un gas. 
+* Las bases son sustancias 
+con sabor amargo, colorean 
+el tornasol de azul y tienen 
+textura jabonosa al tacto.
+
+El color de las flores de hortensia
+Los pétalos de las flores de las plantas de hortensia tienen pigmentos que 
+generan colores diferentes de acuerdo con la acidez de los suelos en los cuales 
+se desarrollan. 
+La planta utiliza agua, que lleva sustancias disueltas en ella. En un suelo áci-
+do, las flores que dará la planta serán rosadas. El mismo efecto puede lograr-
+se agregando jugo de limón al agua de riego. En un suelo básico, en cambio, 
+las flores serán azules. Para obtener este efecto en un suelo ácido, se puede 
+agregar una solución jabonosa al agua de riego. 
+
+ProPiedades deL 
+sUeLo: La acideZ
+
+Tornasol: Tintura que se 
+obtiene de ciertos líque-
+nes. Adquiere color rojo 
+en presencia de disolu-
+ciones acidas y azul en 
+las básicas. Se lo conoce 
+como “indicador de pH”.
+
+Hortensia azul, típica  
+de la zona del  
+Delta del Paraná.
+
+
+
+* Estimar es el proceso  
+por el cual se obtiene  
+un valor numérico 
+aproximado.
+
+Determinación de la acidez
+
+La composición química de las sustancias no es algo que pueda verse a 
+simple vista, ni siquiera con un microscopio. Los químicos idean experimen-
+tos que les permiten deducir las características químicas y, a veces, la com-
+posición de las sustancias mediante algún fenómeno observable, como un 
+cambio de color o el desprendimiento de burbujas. 
+
+Los indicadores son un tipo de sustancia que, cuando se mezclan con 
+otra sustancia de la cual nos interesa conocer las características, producen 
+algún cambio visible e “indican” si esa otra sustancia que queremos conocer 
+es ácida o básica. 
+
+La mayoría de los indicadores de pH producen un cambio de color. 
+¿Alguna vez tomaron té con limón? ¿Observaron algún cambio al agre-
+
+garle el jugo del limón al té? ¿Se preguntaron por qué sucede esto? El té es 
+un indicador de pH y al mezclarse con una sustancia como el jugo de limón 
+indica que este es un ácido, cambiando de color.
+
+Es posible estimar* la acidez del suelo mediante un experimento sencillo, 
+para el cual solo se necesitan materiales de uso cotidiano: 
+
+- recipientes de vidrio transparente, 
+- muestras de suelos, 
+- hojas de repollo colorado, 
+- cucharitas.
+
+Cómo preparar un indicador de pH casero
+
+Existe un grupo de pigmentos responsable de la coloración roja, azul o vio-
+leta de muchas flores, frutas y hortalizas. Por ejemplo, el repollo colorado, los 
+pétalos de rosas, las uvas, las frambuesas, contienen estas sustancias colo-
+readas, que se pueden utilizar como indicadores de pH. 
+1. Preparar una solución indicadora de pH hirviendo repollo colorado en agua 
+o preparando un “machacado” de sus hojas en alcohol. Al hacerlo, obtendrán 
+un líquido coloreado cuyo color cambia según se ponga en contacto con un 
+ácido o una base. 
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios42
+
+esPAciO de  
+exPerienciAs
+
+Solución indicadora de pH preparada con repollo colorado.
+
+
+
+2. Prueben el líquido que obtuvieron primero con una sustancia ácida conocida, 
+como el jugo de limón. Para ello, coloquen el líquido coloreado (que ahora se 
+llamará solución indicadora de pH) en distintos vasos transparentes, hasta tres 
+cuartos de su volumen, aproximadamente. Luego, agreguen gotas de jugo de 
+limón a uno de ellos y observen si se produce algún cambio y de qué tipo es. 
+Ese será el color de referencia para las sustancias ácidas. A otro vaso, agré-
+guenle jabón o, si tienen, unas gotas de limpiador líquido con amoníaco. 
+
+Observen si se produce algún cambio y de qué tipo es. Ese será el color 
+de referencia para las sustancias básicas.
+
+Algunos de los colores que adquiere el extracto de repollo colorado al cambiar el pH. 
+El pH de la disolución aumenta hacia la derecha.
+
+Determinación de la acidez del suelo
+
+Ahora ensayen con diferentes muestras de suelo con las que trabajaron en 
+la actividad anterior. 
+1. Coloquen la muestra de suelo que quieren estudiar en un recipiente con 
+agua. Observarán que el agua queda turbia. Para eliminar esta turbidez, dejen 
+reposar una hora el preparado (tal como lo hicieron con la botella de sedi-
+mentación). 
+2. Luego, con una cucharita, agreguen un poco de la mezcla incógnita a la 
+sustancia indicadora de pH. De acuerdo con el color que se obtenga, podrán 
+estimar el pH de la muestra de suelo.
+
+eL sUeLomateriaLes,
+aGUa Y sUeLo 43
+
+a. Con jugo de limon. b. Con jabón.
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios44
+
+Un tipo especial de rocas: las rocas calcáreas
+
+El componente principal de las rocas calcáreas es el carbonato de calcio, una 
+sal muy poco soluble: esto significa que el agua pura no la disuelve en una 
+medida apreciable. 
+
+El agua de lluvia, rica en dióxido de carbono recogido de la atmósfera, tiene 
+la capacidad de disolver en cierta medida las rocas calcáreas. 
+
+Con el paso de los siglos, este efecto erosivo* del agua de lluvia, junto con 
+la acción de los ríos subterráneos, ha formado cuevas. 
+
+El agua de lluvia se filtra a través de la roca superficial y transporta di-
+sueltas en ella sales de calcio solubles, como el bicarbonato de calcio, ha-
+
+estaLactitas 
+
+Y estaLaGmitas
+
+* La erosión es el proceso 
+natural que desgasta  
+continuamente los  
+suelos y rocas de la corteza 
+terrestre, como resultado 
+de la acción combinada 
+de varios factores, como 
+la temperatura, el agua, el 
+viento y los seres vivos.
+
+Estalactitas y estalagmitas.
+
+mármoL Y 
+
+cáscara de HUevo
+
+cia el interior de la cueva. En un 
+momento, las gotas asoman por el 
+techo de la cueva. En el interior de 
+esta, el aire es pobre en dióxido de 
+carbono, porque solo en el exterior 
+este compuesto se forma continua-
+mente debido a las combustiones y a 
+la respiración de los seres vivos. Allí 
+se forma nuevamente carbonato de 
+calcio, la sal insoluble, que forma un 
+depósito o bien donde asoma la gota, 
+en el techo de la cueva, o bien sobre 
+el piso, donde la gota cae. Gota tras 
+gota, año tras año, siglo tras siglo, 
+crecen hacia abajo las estalactitas 
+y hacia arriba las estalagmitas, junto 
+con otras concreciones calcáreas de 
+formas muy variadas.
+
+El mármol es un tipo de roca muy compacta formada también, principalmente, 
+por carbonato de calcio. Las cáscaras de los huevos de las aves y los reptiles 
+también están compuestas por carbonato de calcio. 
+
+Para hacer la cáscara de los huevos, la gallina “toma” el dióxido de carbo-
+no del aire y lo transforma, mediante reacciones químicas de su metabolismo, 
+en carbonato de calcio. 
+
+Una mirada a Las 
+rocas Y mineraLes
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+
+
+
+materiaLes,
+aGUa Y sUeLo
+
+eL sUeLo 45
+
+El adobe es una mezcla compuesta por un 20% de arcilla y un 80% de arena 
+y agua. Esta mezcla se coloca en moldes y se deja secar al sol y al aire. Para 
+evitar que se agriete al secarse, se suele agregar paja, crin de caballo o pasto 
+seco a la preparación, lo que permite una unión apropiada. La construcción 
+con adobe se usa mucho en las regiones de clima seco.
+
+caL Y adobe
+
+El adobe tiene la ventaja de regular la temperatura interna de las construc-
+ciones: en tiempo caluroso es fresco y mantiene el calor durante el invierno.
+
+Este material se disuelve con la lluvia, por lo que, generalmente, requiere 
+un mantenimiento sostenido, que suele hacerse con el agregado de sucesi-
+vas capas de mezcla. 
+
+Para mantener por más tiempo las paredes externas se utiliza cal en la 
+mezcla. ¿Por qué? Porque esta contiene calcio que, con el dióxido de carbono 
+de la atmósfera, produce una reacción química que da como resultado carbo-
+nato de calcio, lo que protege a las capas externas de la construcción.
+
+Elaboración de  
+ladrillos de adobe.
+
+“Hierve el agua” es un sistema de  
+cascadas petrificadas en Oaxaca, 
+México. Se formaron hace miles de 
+años por el escurrimiento de agua con 
+alto contenido de carbonato de calcio.
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios46
+
+esPAciO de  
+exPerienciAs
+
+Fabricación de una estalactita
+
+Con materiales sencillos, y un poco de paciencia, se pueden fabricar estalacti-
+tas. Los materiales que van a necesitar son: agua caliente; una jarra de vidrio; 
+un hilo de algodón o una hebra de lana de, aproximadamente 40 cm; dos clips 
+de metal o algún objeto pequeño que haga peso al atarlo de los extremos del 
+hilo; dos frascos de vidrio; una cuchara; una taza de bicarbonato de sodio (se 
+consigue en farmacias o en casas de repostería) y un plato pequeño.
+
+Procedimiento
+
+1. En una jarra con agua caliente, disuelvan el bicarbonato de sodio. Revuel-
+van bien. Agreguen a cada frasco de vidrio un poco de esta solución. 
+2. Coloquen los frascos en un lugar donde no los muevan por varios días y, 
+entre ellos, el plato.
+3. Aten uno o dos clips (u otro objeto pequeño que agregue peso) a los 
+extremos del hilo. Sumerjan cada extremo del hilo en uno de los frascos, y 
+asegúrense de que estos queden hundidos en la solución de bicarbonato. 
+El hilo debe quedar extendido sobre el platito.
+4. Dejen el dispositivo que armaron quieto por varios días, y observen y regis-
+tren las transformaciones que se producen.  
+
+Formación sólida de carbonato de 
+sodio en el hielo.
+
+¿Qué sucede?
+
+La solución de bicarbonato moja 
+el hilo y sube por capilaridad: el 
+hilo se empieza a impregnar con la 
+solución. Como está a la intemperie, 
+el agua en la que está disuelto el 
+bicarbonato se evapora. El bicarbo-
+nato se concentra y solidifica. Ade-
+más, en el ambiente hay dióxido de 
+carbono que reacciona químicamen-
+te con el bicarbonato y forma una 
+sal insoluble, el carbonato de sodio. 
+Como el hilo se sigue empapando 
+con la solución de los frascos y el 
+agua continúa evaporándose, crece 
+el tamaño del sólido que se forma.
+
+
+
+materiaLes,
+aGUa Y sUeLo
+
+eL sUeLo 47
+
+Dióxido de carbono en las cáscaras de huevo
+
+Como dijimos antes, las cáscaras de huevo se forman a partir de dióxido de 
+carbono, que se transforma por medio de procesos metabólicos. Ese dióxido 
+de carbono puede recuperarse. 
+
+Para ello basta con sumergir un huevo en vinagre y se observará que la 
+superficie del huevo se rodea de burbujas. 
+
+¿Qué son estas burbujas? Son burbujas de dióxido de carbono que se 
+desprenden debido a la reacción química que se produce entre el carbonato 
+de calcio que forma parte de la cáscara y el vinagre, que es un ácido. 
+
+Si se deja el huevo en contacto con el vinagre durante un tiempo suficien-
+temente largo, se podrá observar que la totalidad de la cáscara se disuelve 
+en el vinagre.
+
+Esta experiencia se puede repetir con trocitos de mármol, caparazones de 
+moluscos, cáscaras de huevos de reptiles: se observará la misma reacción de 
+desprendimiento de burbujas y disolución del material.
+
+Cáscaras de verano e invierno
+Por experiencia, los granjeros saben que en verano la cáscara de los huevos 
+de gallina  es más frágil. Esto se debe a que, como los pollos no sudan, respi-
+ran más frecuentemente para aliviar el exceso de calor, emitiendo más aire 
+caliente del que inspiran. Cuanto más calor sienten, más alta es la frecuencia 
+de respiración. 
+El problema es que, espirando a ritmo tan acelerado, emiten más dióxido de 
+carbono que el que toman, con lo que se deposita menos carbonato de calcio 
+en las cáscaras. 
+¿Cómo solucionan ese pequeño inconveniente metabólico los granjeros? 
+Dando de tomar soda a las gallinas, que es agua con dióxido de carbono 
+disuelto.  El dióxido de carbono que los animales tragan mientras beben, 
+reemplaza las pérdidas causadas por la respiración.
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios48
+
+Las arcillas
+
+Las arcillas son rocas que suelen descomponerse en uno o varios minerales 
+arcillosos. Están compuestas por partículas muy pequeñas, de alrededor de 
+una milésima de milímetro: mil partículas en fila formarían una fila de un mi-
+límetro de largo.  
+
+Cuando se mezcla arcilla con agua, sus pequeñas partículas no se depo-
+sitan en el fondo y permanecen en suspensión, ensuciando el agua. Se dice 
+que forman coloides, que son mezclas intermedias entre las completamente 
+homogéneas, o soluciones, y las heterogéneas, en las que se pueden distin-
+guir varias fases, como una mezcla de agua, rocas y arena.
+
+El término arcilla se usa habitualmente con diferentes significados. Desde el 
+punto de vista mineralógico, las arcillas son, en su mayoría, compuestos de 
+silicio con características particulares. 
+
+Para un ceramista, una arcilla es un material natural que cuando se mezcla 
+con agua en la cantidad adecuada se convierte en una pasta con caracterís-
+ticas plásticas, que puede moldearse fácilmente. 
+
+Cuando se cocina, la arcilla forma materiales duros denominados cerámi-
+cos. Con materiales de este tipo se fabrican, por ejemplo, ladrillos y tejas.
+
+mineraLoGÍa
+
+aLfarerÍa Y cerámica
+
+Tejas cerámicas.
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+
+
+
+materiaLes,
+aGUa Y sUeLo
+
+eL sUeLo 49
+
+La invención de la cerámica se pro-
+dujo cuando se hicieron necesarios 
+recipientes para almacenar el exce-
+dente de las cosechas producido por 
+la práctica de la agricultura. En un 
+principio esta cerámica se modelaba 
+a mano y tan solo se dejaba secar al 
+sol o cerca del fuego. Más adelante 
+comenzó a decorarse con motivos 
+geométricos mediante incisiones en 
+
+la pasta seca. Su cada vez más compleja, perfecta y bella elaboración deter-
+minó la aparición de un nuevo oficio: el del alfarero.
+
+Antiguamente, en las zonas rurales, era común que entre los vecinos se 
+ayudaran a construir las casas. Hacían adobes y tejas. El molde para el adobe 
+era un cajón de madera que tenía el tamaño de un ladrillo, lo que resultaba 
+fácil de manipular. ¿Cuál era el molde para hacer las tejas? Una vez prepa-
+rada la pasta de arcilla, se amasaba bien y se lo moldeaba sobre la pierna. 
+La porción de la pierna que está inmediatamente encima de la rodilla era el 
+molde para facilitar el “encastre” de las tejas, con un extremo más angosto y 
+otro más ancho, una sobre otra. Hoy, la fabricación de tejas y cerámicos para 
+la construcción mantiene algunas técnicas originales, aunque tiene un proce-
+samiento industrial. La materia prima que se usa es cuidadosamente extraída 
+y mezclada en proporciones muy ajustadas. 
+
+Una porción de la arcilla empleada se extrae de zonas próximas a los ríos. 
+Pero una dificultad a la que se enfrentan los fabricantes es la presencia de 
+caracoles o fragmentos de caparazones en ella. ¿Recuerdan qué compuesto 
+químico forma los caracoles? Carbonato de calcio. Cuando los cerámicos 
+son horneados, el carbonato de calcio se descompone en óxido de calcio y 
+dióxido de carbono. Este último, al ser gaseoso, escapa de la mezcla a alta 
+temperatura con una pequeña explosión que rompe el cerámico o lo astilla. 
+Por lo tanto, deteriora el producto.
+
+Los artesanos alfareros y los ceramistas también aplican los conocimien-
+tos químicos, ya que les permiten mejorar la calidad de sus piezas.
+
+La mayoría de las arcillas que se utilizan en la industria son óxidos de sili-
+cio, de aluminio y de magnesio. En la actualidad, muchos implementos de 
+avanzada tecnología se fabrican a partir de arcilla común: artículos sanita-
+rios, baldosas, azulejos, cerámica artística, porcelana, pintura y cosméticos, 
+entre otros.
+
+Alfarería precolombina.
+
+economÍa e indUstria
+
+
+
+Minerales bellos y valiosos
+
+Existe una gran variedad de minerales en nuestro planeta, pero algunos se ca-
+racterizan por su gran belleza y por el valor que le otorgan los seres humanos.
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios50
+
+La mayoría de los minerales están formados por varios elementos en forma 
+de compuestos. Pero existen muchos que están formados por un solo ele-
+mento, a los cuales se los llama minerales nativos. Entre ellos se encuentran 
+la plata, el oro, el azufre, el cobre, el platino, el bismuto y el carbono en sus 
+dos formas: grafito y diamante.
+
+Plata.
+
+Piedras Preciosas
+
+Esmeralda.
+
+mineraLes nativos
+
+Algunos minerales tienen una belleza extraordinaria  y un gran valor, como las 
+esmeraldas. Estos reciben el nombre de piedras preciosas o gemas. Su valor 
+radica, además de en su belleza, en que son muy escasos en la naturaleza. 
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+M
+
+in
+is
+
+te
+rio
+
+ d
+e 
+
+E
+du
+
+ca
+ci
+
+ón
+ y
+
+ C
+ie
+
+nc
+ia
+
+ d
+e 
+
+E
+sp
+
+añ
+a
+
+
+
+materiaLes,
+aGUa Y sUeLo
+
+eL sUeLo 51
+
+Piedras semiPreciosas
+
+En nuestro país se extrae una piedra semipreciosa llamada rodocrosita. Su nombre deriva de su color: presenta 
+vetas rojas y rosadas (rhodón, en latín, significa “rosa”). Es muy abundante en la zona de Catamarca. 
+
+Bauxita, mineral que se emplea para la obtención de aluminio. Hematita, mineral del que se obtiene hierro.
+
+Pirita, que se emplea en la obtención de azufre y de hierro.
+
+Usos de aLGUnos mineraLes
+
+Existen también otros minerales de gran belleza, pero más abundantes y de 
+menor pureza, que se denominan piedras semipreciosas.
+
+Los minerales son recursos no renovables. Se formaron a lo largo de mu-
+chos millones de años, en un proceso muy lento. Si se los explota sin control 
+pueden agotarse de manera irrecuperable, ya que las condiciones en las 
+cuales se formaron (de presión y temperatura, entre otras), ya no existen en 
+la actualidad.
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+
+M
+in
+
+is
+te
+
+rio
+ d
+
+e 
+E
+
+du
+ca
+
+ci
+ón
+
+ y
+ C
+
+ie
+nc
+
+ia
+ d
+
+e 
+E
+
+sp
+añ
+
+a
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios52
+
+El suelo es uno de los recursos naturales más importantes, por ello es nece-
+sario protegerlo mediante un uso racional que permita sostener un equilibrio 
+entre su explotación y el acelerado incremento de las necesidades de la 
+población humana.
+
+¿Cuáles son los usos principales que se dan al suelo? 
+Este recurso se destina, fundamentalmente, a las actividades agropecua-
+
+rias, la explotación minera y petrolífera y la extracción de materias primas 
+para la alfarería y la cerámica, entre otros usos.
+
+El suelo es esencial para la vida, así como el aire y el agua. Si se lo utiliza 
+de manera adecuada, puede ser considerado un recurso renovable. De lo 
+contrario, se transforma en un recurso no renovable, ya que tarda muchísi-
+mos años en recuperarse de una explotación inadecuada y puede incluso, no 
+recuperarse.
+
+Cuando se arroja basura al suelo, se altera la composición de este, ya que 
+los desechos pasan a formar parte del suelo por acción de los microorga-
+nismos que están presentes en él. La biodegradación es el proceso natural 
+mediante el cual los materiales se descomponen por la acción de esos mi-
+croorganismos. Sin embargo, algunos residuos tardan muchísimo tiempo en 
+degradarse y, entretanto, resultan contaminantes para el ambiente.
+
+¿Cuánto tarda la biodegradación de algunos residuos?
+
+Tipo de desecho Tiempo de degradación
+Desechos orgánicos 3 semanas a 4 meses
+Telas de algodón y/o lino 1 a 5 meses
+Tejido de lana 1 año
+Cuero 3 a 5 años
+Papel 3 semanas a 2 meses
+Madera 2 a 3 años
+Envase de aluminio  350 a 400 años
+Plásticos 500 años
+
+La acciÓn deL ser HUmano
+sobre eL sUeLo
+
+
+
+materiaLes,
+aGUa Y sUeLo
+
+eL sUeLo 53
+
+Un problema mundial
+
+El 5 de junio se conmemora el Día Mundial del Medio Ambiente: en el año 
+2006, este día estuvo dedicado a dar a conocer una gran preocupación mun-
+dial: la desertización de la Tierra. El siguiente es un fragmento del discurso 
+que en esa fecha dio Kofi Annan, en ese momento, Secretario General de la 
+Naciones Unidas, en el cual envía un llamado a “proteger las tierras áridas y 
+evitar la pobreza”.
+
+Proteger las tierras áricas y evitar la pobreza
+Las tierras áridas se encuentran en todas las regiones, cubren más del 40% de 
+la superficie de la Tierra y albergan a casi 2.000 millones de personas, la  
+tercera parte de la población mundial. Para la mayoría de los habitantes de 
+las tierras áridas, la vida es dura y el futuro suele ser precario. Viven al  
+margen en los ámbitos ecológico, económico y social. Es fundamental que no 
+descuidemos a esas personas ni a los frágiles hábitats de los cuales dependen.
+En todo el planeta, la pobreza, el uso no sostenible de la tierra y el cambio 
+climático están haciendo de las tierras áridas desiertos, y la desertificación, a 
+su vez, conduce a la pobreza o la exacerba. Se estima que entre el 10 y el 20% 
+de las tierras áridas ya están degradadas. El problema es particularmente 
+agudo en el África subsahariana y el Asia meridional, donde la degradación 
+de las tierras áridas es un grave obstáculo para la erradicación de la pobreza 
+y el hambre extremos y pone en peligro los esfuerzos encaminados a  
+asegurar la sustentabilidad del medio ambiente. Esos objetivos, que los  
+gobiernos del mundo se han comprometido a alcanzar para 2015, son  
+componentes indispensables del compromiso más general de lograr un  
+futuro más seguro para la humanidad.
+La desertificación es un proceso difícil de invertir, pero puede prevenirse. 
+Proteger y restaurar las tierras áridas no solo aliviará a las zonas urbanas del 
+mundo de su carga cada vez mayor, sino que además contribuirá a lograr un 
+mundo más pacífico y más seguro. También ayudará a preservar paisajes y 
+culturas que se remontan a los orígenes de la civilización y forman una parte 
+indispensable de nuestro patrimonio cultural.
+En este Día Mundial del Medio Ambiente, en el año que marca el décimo 
+aniversario de la entrada en vigor de la Convención de las Naciones Unidas 
+de Lucha contra la Desertificación, insto a los gobiernos y a las comunidades 
+de todo el mundo a prestar atención a los problemas que plantea la vida en 
+las márgenes de los desiertos, para que las personas que allí viven puedan 
+vislumbrar un futuro de paz, salud y progreso social. 
+
+Reflexiones
+- Investiguen mas acerca  
+de la desertificación: 
+  - ¿Cómo se produce? 
+  - ¿Qué riesgos trae? 
+- Averigüen dónde hay 
+tierras áridas en nuestro 
+país y si hay procesos 
+de desertificación.
+
+1
+
+
+
+ministerio de edUcacion,
+ciencia 
+Y tecnoLoGia
+
+nAP
+nUcLeos de 
+aPrendiZaJes Prioritarios54
+
+Las piedras preciosas
+
+Busquen información acerca de las características más apreciadas en una 
+piedra preciosa. 
+•	 Para profundizar en el desarrollo del tema, formen grupos con sus compa-
+ñeros e investiguen cuáles eran las piedras preciosas y semipreciosas que se 
+utilizaban en América en la época precolombina. Elaboren un informe en el 
+cual detallen las características y los usos que se le daban a estas piedras. 
+
+¿Cuidamos nuestro suelo?
+
+Investiguen cuáles son las principales actividades relacionadas con el uso del 
+suelo en la localidad en la que viven y también cuáles son los principales tipos 
+de residuos que se producen en su comunidad, dónde se los deposita y como 
+se los procesa. Averigüen cómo afectan al suelo estas actividades.
+
+Suelo y desarrollo sustentable
+
+•	 Lean el siguiente texto.
+
+Qué es el Desarrollo sostenible o sustentable
+
+El desarrollo sostenible, también muchas veces denominado desa-
+rrollo sustentable, es un concepto intangible que propone integrar el 
+concepto de crecimiento económico sin afectar el medio ambiente. 
+Apunta a obtener un balance justo entre las necesidades de la huma-
+nidad y los recursos del planeta, es decir, arbitrar entre los costos y 
+beneficios de corto y largo plazo. Implica mejorar la calidad de vida 
+de las generaciones actuales velando por el futuro del planeta y las 
+oportunidades de las generaciones futuras.
+
+“Luego, yo digo que la Tierra pertenece a cada generación durante 
+su curso, por entera y en su propio derecho. La segunda generación 
+la recibe libre de deudas y gravámenes; la tercera, de la segunda, y 
+así por el estilo. Si la primera la carga con una deuda, luego la Tierra 
+pertenecería a la muerte y no a la generación viviente. Por eso, nin-
+
+PArA PrOfundizAr  
+el Análisis
+
+
+
+eL sUeLomateriaLes,
+aGUa Y sUeLo 55
+
+guna generación puede contraer deudas más grandes que las que 
+pueden ser pagadas en el curso de su propia existencia.” 
+
+Thomas Jefferson, 1789. 
+Fuente: www.educared.org.ar/entrepadres/seccion03/04
+
+•	 ¿Qué piensan acerca de las palabras de Thomas Jefferson, pronunciadas 
+en 1789? ¿Creen que la sociedad actual las tiene en cuenta?
+•	 Busquen información sobre el desarrollo sustentable en la Argentina y en 
+distintos países del mundo. En el sitio http://www.ambiente.gov.ar, por ejem-
+plo, entre otras propuestas interesantes para investigar, pueden encontrar 
+información sobre el Programa Municipios Sustentables. Averigüen en qué 
+consiste y en qué lugares se está aplicando actualmente.
+•	 Propongan un programa de diez acciones sencillas que permitan “mejorar 
+la calidad de vida de las generaciones actuales y brinden oportunidades a las 
+generaciones futuras”. Un tema posible de trabajo puede ser la protección de 
+nuestros bosques nativos. Sobre este tema en particular pueden encontrar 
+datos en www.avina.net
+•	 Luego, vean la posibilidad de dar a conocer su programa en alguna publi-
+cación que exista en su escuela o en algún medio de comunicación local.
+
+
+
+cOlOfón
+datos deL coLofÓn
+
+
+	01_quim_7.pdf
+	02_quim_7.pdf
+

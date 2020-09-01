@@ -1,0 +1,7399 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3Movilización Nacional por la Mejora de los Aprendizajes
+
+Estimada/estimado 
+Profesor/Profesora:
+
+La ruta de aprendizaje que te ofrecemos a continuación tiene la intención de brindarte orientaciones para  trabajar con los niños 
+y niñas de nuestros pueblos originarios con el fin de desarrollar  sus 
+capacidades comunicativas, en especial la de comprensión lectora.
+
+El propósito es que ayudes a potenciar   esta capacidad de manera 
+armónica y concordante con su contexto y en su lengua materna, a 
+través de experiencias afectivas y sociales que les permita desarrollarse 
+como personas, con sus potencialidades, con autonomía y de acuerdo 
+a las necesidades y características socio culturales de su entorno.
+
+Esperamos que el desarrollo de esta ruta de aprendizaje te sea grato, 
+que acompañe tu quehacer y que puedas integrarlo a tu experiencia 
+como profesor o profesora, así podrás desarrollar esta capacidad en 
+niños y niñas   de zonas bilingües, permitiendo mejores condiciones 
+para su aprendizaje a lo largo de su vida.
+
+Esta ruta de aprendizaje es solo una propuesta, esperamos que 
+pongas toda tu creatividad y compromiso para mejorarla y adaptarla 
+a las caracteristicas de tus estudiantes.
+
+Te invitamos a ser parte de esta gran tarea.
+
+¡Éxitos en esta experiencia!
+
+
+
+
+
+5Movilización Nacional por la Mejora de los Aprendizajes
+
+INTRODUCCIÓN 5
+
+1.  El desarrollo de la comprensión lectora en niños y 
+niñas que tienen una lengua originaria como lengua 
+materna
+
+7
+
+2.  Etapa de familiarización con el código alfabético 9
+
+3.  ¿Cómo facilitar el aprendizaje de los niños y niñas  
+en comprensión de textos?
+
+13
+
+4.  ¿Cómo evaluamos los aprendizajes en comprensión 
+de textos?
+
+61
+
+INDICE
+
+
+
+
+
+7Movilización Nacional por la Mejora de los Aprendizajes
+
+El desarrollo de la competencia de comprensión de textos busca que los estudiantes  lean con comprensión y sentido crítico textos informativos y literarios de diversa 
+magnitud y complejidad, que puedan explicar lo leído y dar su opinión así como ser 
+capaces de leer y dar significado a los diferentes códigos existentes en su sociedad y 
+cultura.
+
+Los Pueblos originarios tradicionalmente han desarrollado diversas formas propias de 
+expresión oral que dan cuenta de su cosmovisión, pero no desarrollaron la escritura 
+utilizando el código alfabético. En estos contextos, son otras las escrituras y las lecturas 
+plasmadas en tejidos, señales, pinturas, diseños faciales, corporales, etc.
+
+Por esta razón, la escritura alfabética está siendo desarrollada a través de la Educación 
+Intercultural Bilingüe en el marco del derecho de los niños, niñas y adolescentes a 
+aprender en su lengua y en castellano como segunda lengua. Esta constituye una  
+herramienta que les permitirá estar en igualdad de condiciones con otros miembros 
+de la sociedad nacional. 
+
+Desde esta perspectiva, el sistema educativo debe implementar acciones para el 
+desarrollo escrito, para lo que se requiere la normalización de las lenguas originarias, 
+investigación lingüística, elaboración de diversos materiales, entre otros aspectos, 
+todo esto con la participación de los hablantes y las organizaciones indígenas que los 
+representan.
+
+En la escuela los docentes también deberán establecer alianzas con comuneros y 
+líderes para brindar condiciones necesarias que ayuden al desarrollo de este tipo de 
+comunicación escrita, para lo que será necesario construir un mundo letrado en todos 
+los espacios donde transitan los estudiantes: el aula, el local escolar y la comunidad. 
+
+Reconocemos que el proceso de enseñanza – aprendizaje de la lectura comprensiva 
+en lengua originaria exigirá desarrollar mayores competencias en los docentes, trabajo 
+continuo y mejores prácticas pedagógicas. El reto está planteado.
+
+INTRODUCCIÓN
+
+
+
+
+
+9Movilización Nacional por la Mejora de los Aprendizajes
+
+EL DESARROLLO DE 
+LA COMPRENSIÓN 
+LECTORA EN NIÑOS 
+Y NIÑAS QUE TIENEN 
+UNA LENGUA 
+ORIGINARIA COMO 
+LENGUA MATERNA
+
+1
+
+
+
+10     Movilización Nacional por la Mejora de los Aprendizajes
+
+A continuación te presentamos una tabla que resume los aprendizajes de los niños y niñas 
+con lenguas originarias de 5 años, primer grado y segundo grado en comprensión de textos. 
+Esta información te permitirá tener una idea de lo que se debe lograr en cada grado, de 
+manera que sepas hacia donde orientar tu trabajo en el aula.
+
+5 años Primer grado Segundo grado
+
+Formula hipótesis 
+sobre la escritura 
+en situaciones 
+comunicativas.
+
+Utiliza su conocimiento 
+del código escrito para 
+leer diversos tipos de 
+textos.
+
+Utiliza su conocimiento 
+del código escrito para 
+leer diversos tipos de  
+textos (consolidación 
+del código escrito).
+
+Interpreta íconos, 
+señales y símbolos 
+en situaciones 
+comunicativas.
+
+Identifica información 
+explicita contenida  
+en imágenes o textos 
+leídos por el maestro.
+
+Identifica información 
+explicita contenida en 
+el texto y/o imágenes.
+
+Formula y comprueba 
+hipótesis sobre la 
+información contenida 
+en imágenes, textos 
+con imágenes o textos 
+leídos por el maestro.
+
+Formula y comprueba 
+hipótesis sobre la 
+información contenida 
+en los textos e 
+imágenes leídos por 
+ellos mismos o por el 
+maestro.
+
+Hace inferencias en
+imágenes, textos con 
+imágenes o en textos 
+leídos por el maestro.
+
+Hace inferencias en 
+textos con imágenes 
+leídos, con o sin ayuda 
+del  maestro.
+
+Opina sobre el 
+contenido con 
+imágenes o textos 
+leídos por el maestro 
+de las imágenes, textos.
+
+Opina sobre las 
+imágenes y textos 
+leídos por ellos mismos 
+o con ayuda del 
+maestro.
+
+
+
+11Movilización Nacional por la Mejora de los Aprendizajes
+
+PARA LOS NIÑOS Y NIÑAS DEL NIVEL INICIAL 5 
+AÑOS Y PRIMEROS GRADOS
+
+Asumimos que la lectura es un proceso de construcción de la 
+comprensión de textos auténticos, por ello es necesario que 
+promuevas que los niños y niñas de tu aula entren en contacto 
+con diferentes tipos de texto en su lengua materna en los 
+espacios a los cuales tienen acceso: comunidad, hogar, escuela 
+y aula, lo que favorecerá el inicio de la lectura con código 
+alfabético y desarrollará una actitud positiva hacia ella.
+
+Para ello sugerimos desarrollar las siguientes acciones:
+
+I. TEXTUALIZAR LOS DIFERENTES ESPACIOS A 
+LOS QUE TIENEN ACCESO LOS NIÑOS Y NIÑAS
+
+a. La comunidad
+
+   Conjuntamente con otros docentes motiva a las autoridades 
+y demás comuneros para que asuman la tarea de letrar la 
+comunidad y así favorecer no solo el acceso a la cultura 
+escrita de niños y niñas, sino facilitar a los pobladores 
+y visitantes la ubicación de los diferentes lugares de la 
+comunidad.
+
+Es importante recordar que 
+los niños y niñas con lenguas 
+originarias del nivel inicial, 
+primer y segundo grado de 
+educación primaria deben 
+desarrollar su capacidad de 
+compresión lectora en su 
+lengua materna.
+
+ETAPA DE 
+FAMILIARIZACIÓN 
+CON EL CÓDIGO
+ALFABÉTICO 
+
+2
+
+
+
+12     Movilización Nacional por la Mejora de los Aprendizajes
+
+   Recuerda que esta acción debe surgir según la necesidad 
+y el criterio de uso cultural que decidan los pobladores 
+(literacidad auto-generada) con la ayuda de los maestros. En 
+este sentido, pueden confeccionar carteles de bienvenida, 
+avisos, letreros que indiquen el nombre del pueblo o de 
+las instituciones, mapas con lugares para visitar, algunas 
+señales de seguridad o advertencia, entre otras.
+
+b.  La institución educativa
+
+   Coloca  carteles  en  tu  I.E.  para  denominar  o  dar advertencias  
+sobre algunos espacios (Por ejemplo hisp’anak’uchu - 
+servicios higiénicos, tawa ñiqin - cuarto grado, umalliq wasi 
+- dirección) o señalizar las salidas en caso de sismo, entre 
+otras. Busca oportunidades  para comunicarte con los niños 
+y niñas a través de textos. Algunos de estos carteles pueden 
+ser elaborados con letras o con símbolos.
+
+c.  El aula
+
+•	 Carteles para designar sectores de aprendizaje
+
+   Organiza tu aula en sectores y coloca carteles para 
+designarlos. El nombre del sector debe responder a la 
+acción que se realiza en ese espacio y puede ser creado por 
+los niños y niñas. Para favorecer la comprensión del texto 
+(“lectura del texto”) se recomienda acompañarlo con un 
+soporte gráfico.
+
+•	 Carteles para motivar la lectura de diferentes textos
+
+   Hay otros carteles que puedes utilizar para organizar 
+algunas acciones en el aula, desarrollar la autonomía  de 
+los niños y niñas con lenguas originarias y acercarlos a la 
+lectura de diferentes textos.  Podrías utilizar:
+
+   - Cartel de asistencia.
+   - Cartel de normas de convivencia.
+   - Cartel de responsabilidades.
+   - Calendario con actividades más importantes del mes.
+
+   Selecciona los que son pertinentes a la edad y cultura de 
+los niños y niñas de tu aula, luego coloca el título junto con 
+ellos y motiva su lectura diariamente. Por ejemplo: Leamos 
+el cuadro: ¿a quién le toca repartir los materiales hoy?
+
+   Acompaña estos carteles con imágenes cuando sea 
+necesario.
+
+              
+
+LLAQTAP
+A KAMAC
+
+HINA WA
+SI
+
+HAMPINA
+ WASI
+
+
+
+13Movilización Nacional por la Mejora de los Aprendizajes
+
+d) El hogar
+
+   Investiga qué tipo de textos son utilizados con mayor 
+frecuencia en el hogar. La mayoría de padres y madres 
+de familia siempre tienen en casa algún texto como un 
+calendario, afiches u otros, con los cuales los niños y niñas 
+pueden ir familiarizándose con el mundo escrito.
+
+   A partir de esto puedes  consensuar con los padres y madres, 
+hermanos u otro familiar que sepa escribir para que ellos 
+mismos creen textos escritos de manera libre, que no se 
+circunscriban a un formato determinado. Motiva para que 
+escojan un lugar especial y de fácil acceso a todos donde 
+colocarán el texto y lo leerán en familia.
+
+   Los textos son de libre elección, entre ellos tenemos: 
+calendarios, afiches, avisos, relatos, canciones, poesías, 
+adivinanzas, recetas, notas, etc.
+
+   Recuerda que todos los textos que utilizamos para letrar 
+los diferentes espacios deben estar escritos en la lengua 
+materna de los niños y niñas.
+
+II. USO DE TEXTOS ICONO VERBALES *
+En las lenguas de tradición oral se necesita un mayor apoyo de 
+las imágenes para que los niños y niñas relacionen el texto con 
+el significado del mismo, de esta forma será mucho más fácil 
+que elaboren hipótesis e inferencias que les permita una mejor 
+comprensión del texto, así  como  el reconocimiento del código 
+alfabético.
+
+Para ello puedes utilizar Láminas en formato grande que   
+serán interpretadas por el grupo  y que luego se colocarán en 
+algún lugar visible del aula.
+
+Otro recurso icóno verbal del que puedes echar mano son 
+los diccionarios visuales (de animales, plantas, objetos, etc.). 
+Estos diccionarios son producto de un proyecto desarrollado 
+con los niños y niñas y estarán constituidos, inicialmente, por 
+elementos conocidos propios de su espacio y culturas. En cada 
+página del diccionario se coloca la imagen del animal, planta 
+u objeto (puede estar dibujado o ser recortado de revistas o 
+periódicos). De acuerdo a las características y expectativas de 
+tus alumnos puedes agregar también el significado, que será 
+costruido y dictado por los mismos niños y niñas. atuq
+
+* Llamamos texto icono verbal a aquellos cuyo contenido tienen imágenes o dibujo y texto.
+
+
+
+14     Movilización Nacional por la Mejora de los Aprendizajes
+
+NIVEL INICIAL
+
+¿Qué deben aprender los niños y niñas de 5 años en lectura?
+
+CAPACIDAD INDICADORES
+
+Formula hipótesis sobre 
+la escritura en situaciones 
+comunicativas.
+
+•	Diferencia dibujo de escritura en diversos textos.
+•	Reconoce palabras significativas como su nombre, 
+
+nombre de compañeros, nombre de objetos y seres 
+de su entorno a partir de indicios.
+
+Interpreta íconos, señales 
+y símbolos en situaciones 
+comunicativas.
+
+•	Explica el significado de íconos, señales y símbolos 
+de su entorno.
+
+•	Responde con acciones al observar  señales y 
+símbolos de su entorno sociocultural.
+
+Identifica información 
+explícita contenida en  
+imágenes o textos leídos por 
+el maestro.
+
+•	Menciona  personas, roles, acciones, lugares, 
+tiempo y emociones de imágenes o textos leídos 
+por el maestro.
+
+•	Ordena imágenes respetando la secuencia del  
+texto
+
+Formula y comprueba 
+hipótesis sobre la 
+información contenida 
+en imágenes, textos con 
+imágenes o textos leídos por 
+el maestro.
+
+•	Predice el tipo de texto a partir de algunos indicios 
+(título, imágenes, silueta, palabras significativas)
+
+•	Se anticipa al mensaje de imágenes a partir de 
+indicios.
+
+•	Se anticipa al contenido de la imagen o texto a 
+partir de algunas pistas.
+
+•	Comprueba sus hipótesis sobre el texto o imágenes 
+durante o después de la lectura del maestro.
+
+Hace inferencias de 
+imágenes, textos con 
+imágenes o de textos leídos 
+por el maestro.
+
+•	  Propone el título de la imagen o texto al término 
+de la observación o lectura.
+
+•	Deduce la causa de un hecho observado en 
+imágenes o en textos leídos por el maestro.
+
+•	Deduce las cualidades de los personajes en textos 
+leídos por el maestro.
+
+Opina sobre el contenido 
+de las imágenes, textos con 
+imágenes o textos leídos por 
+el maestro.
+
+•	Explica oralmente sus impresiones (hechos, ideas, 
+preferencias, etc.) sobre las imágenes o textos 
+escuchados.
+
+•	Da razones sobre sus gustos y preferencias en 
+relación a las imágenes o textos.
+
+
+
+15Movilización Nacional por la Mejora de los Aprendizajes
+
+3
+¿CÓMO FACILITAR EL 
+APRENDIZAJE DE LOS 
+NIÑOS Y NIÑAS  EN 
+COMPRENSIÓN DE 
+TEXTOS?
+
+En esta sección encontrarás sugerencias de activida-
+des para acercar a los niños y niñas de pueblos ori-
+ginarios al mundo letrado y desarrollar capacidades 
+de comprensión de textos. Se presentan también 
+algunas recomendaciones que debes considerar al 
+seleccionar los “textos que leen” para que respondan 
+a sus características culturales.
+
+
+
+16     Movilización Nacional por la Mejora de los Aprendizajes
+
+LECTURA DE LA CULTURA MATERIAL, 
+NATURALEZA Y MATERIAL GRÁFICO
+
+En la cultura andina y amazónica no es muy 
+frecuente la presencia de textos escritos, pero 
+
+sí se cuenta con códigos plasmados en diferentes 
+objetos de su cultura material como son: telares, 
+
+vestimenta, artesanía, ceramios, pinturas faciales, entre 
+otros, que deben ser analizados en el aula por los niños y niñas para 
+
+comprender su significado.
+
+La naturaleza que rodea al niño y niña constituye también un espacio 
+importante de lectura, en la cual observan las diferentes señales, las relacionan 
+
+e interpretan, como por ejemplo: las nubes grises anuncian la llegada de la lluvia, 
+las hormigas con alas anuncian la sequía, entre otras. Si bien este aprendizaje no 
+
+necesariamente lo desarrollan en la escuela, debe ser recogido por la maestra o 
+maestro para trasladar las capacidades desarrolladas a la comprensión de 
+
+textos.
+
+En relación a la lectura de material gráfico, se selecciona inicialmente 
+el que responda a la realidad sociocultural y geográfica de los 
+niños y niñas (situaciones cotidianas, festividades  o actividades 
+
+de la comunidad) y luego aquellos que contengan información 
+nueva de otras culturas para que pueden ir ampliando  sus conocimientos. 
+
+Cuidar que las láminas a ser mostradas reflejen en lo posible la realidad. La 
+selección debe ser de acuerdo a las capacidades a desarrollar (graduar desde 
+
+las más sencillas y con pocos detalles hasta las más complejas que contengan 
+más detalles).
+
+Las actividades que te presentamos como ejemplo en este 
+documento son parte de una unidad didáctica, vale decir 
+de una unidad de aprendizaje o proyecto de aprendizaje.
+
+Con la finalidad de hacer pertinente estas rutas de aprendizajes se han diseñado las 
+actividades recogiendo algunos aspectos de la realidad andina y amazónica.
+
+Las sugerencias presentadas no siempre corresponderán a tu contexto socio cultural, 
+pero te dan pistas para que diseñes tus propias actividades de aprendizaje.
+
+A continuación te presentamos un ejemplo de la realidad de la selva baja.
+
+
+
+17Movilización Nacional por la Mejora de los Aprendizajes
+
+Puedes cubrir la lámina con papel  
+para generar expectativa. El papel 
+
+se divide en varias partes para ir 
+descubriéndola por etapas.
+
+Recuerda que el niño y  la  niña de los Andes y la Amazonía ven a la naturaleza 
+como un ser  viviente (la planta, el aire, el agua … todo tiene vida) por lo tanto su 
+relación con ella es de persona a persona.
+
+De la forma como plantees tus actividades dependerá que aprendan  “a leer la 
+naturaleza” desde su propia cosmovisión.
+
+a. Preparando la actividad
+
+Las láminas relacionadas con actividades propias de la 
+comunidad o épocas climáticas deben ser observadas 
+cuando éstas se están desarrollando. Con ello será 
+más fácil que los niños y niñas con lenguas originarias 
+se motiven  y  comprendan el significado del texto, 
+porque van a encontrar en él muchos elementos 
+conocidos que se relacionan con sus vivencias y 
+saberes.
+
+Antes de iniciar la actividad debes asegurarte de 
+colocar la lámina en un lugar visible y ubicar a los 
+niños y niñas de tal forma que puedan observarla en 
+su totalidad sin dificultad (puede ser en media luna o 
+doble fila, de acuerdo a la cantidad de niños y niñas).
+
+Por ejemplo, puedes utilizar como recurso para generar  
+expectativa en los niños y niñas el cubrir la lámina con 
+un papel. El papel se divide en varias partes para ir 
+descubriendola por etapas. También puedes utilizar 
+una tela u otro elemento que tengas a la mano.
+
+b.  Desarrollando la actividad
+
+Toda actividad de lectura de imágenes referidas a la 
+naturaleza se debe iniciar observando el contexto que 
+rodea al niño y niña. Es importante que ellos se puedan 
+interrelacionar con ella y la “lean” (conversar con ella). 
+Esta vivencia genera también procesos de compresión 
+lectora, por cuanto el aprendizaje no es solo cognitivo 
+sino también de convivencia donde intervienen todos 
+los sentidos.
+
+ACTIVIDAD N° 01:  ¿Cómo está el río?
+
+
+
+18     Movilización Nacional por la Mejora de los Aprendizajes
+
+Presenta la lámina cubierta y, luego, retira  un pedazo del papel 
+que cubre la lámina dejando al descubierto una parte de ella y 
+pregunta:
+
+¿Qué podemos ver en esta lámina?
+
+Los niños y niñas observan con detenimiento los pocos 
+elementos que se pueden ver y hacen algunas hipótesis sobre 
+los seres y objetos   que están parcialmente tapados.  Para seguir 
+fomentando la expectativa formula nuevas preguntas como:
+
+¿Qué lugar será?
+
+Durante todo momento fomenta la libre pero ordenada inter-
+vención de los niños y niñas, promueve la participación por tur-
+nos respetando las normas elaboradas por todos y todas para 
+su aula.
+
+Luego de haber generado expectativa, descubre totalmente la 
+lámina para que los niños y niñas comprueben sus hipótesis 
+iniciales. Deja unos minutos para que comenten, contrasten 
+y verifiquen lo manifestado inicialmente, antes de pasar a la 
+siguiente etapa
+
+Antes de realizar  una observación detenida y guiada por tí, es 
+importante que comiences por una observación espontánea 
+donde los niños y niñas expresen libremente lo que observan 
+(tanto lo que ven físicamente  como lo que no es visible a los 
+ojos) y lo relacionen con sus experiencias. 
+
+Realiza preguntas que permitan que el niño y la niña den a 
+conocer el contenido y características de la lámina. Te sugerimos 
+algunas preguntas como:
+
+¿Quiénes están en la lámina?
+
+¿Cuántos hay?
+
+¿De qué color son?
+
+¿Qué otros elementos observamos?
+
+Con estas preguntas estás ayudando a que los niños y niñas 
+localicen información en la lámina y a que tengan una 
+comprensión literal  (solo lo que está presente, tal y como se 
+ve). Si solo realizas este tipo de preguntas estarías haciendo 
+una descripción de las características de la escena.
+
+Indicador:
+Se anticipa al 
+contenido de la 
+imagen a partir de 
+algunas pistas.
+
+Indicador:
+Comprueba sus 
+hipótesis sobre las 
+imágenes durante la 
+observación.
+
+Indicador:
+Menciona 
+personas, roles, 
+acciones,lugares,tiempo 
+y emociones en 
+imágenes o textos 
+leídos por el maestro.
+
+
+
+19Movilización Nacional por la Mejora de los Aprendizajes
+
+Formula otras preguntas que los ayude a relacionar todos los 
+elementos de la lámina, por ejemplo:
+
+¿En dónde está el joven?
+
+¿Hasta dónde le llega el agua?
+
+¿Qué están haciendo los patos? 
+
+El establecer relaciones entre los elementos de la lámina les 
+permitirá pasar al siguiente nivel de comprensión, como es el 
+inferencial (decir las causas, consecuencias, formular ideas que 
+no están presentes en la lámina pero que sí se pueden deducir). 
+Por ejemplo:
+
+¿Por qué lo harán?
+
+A partir de todos los elementos visualizados (solos o con tu 
+ayuda) los niños y niñas podrán relacionar y descubrir qué es 
+la época de vaciante (época en que las aguas del río bajan). 
+Pregunta ahora:
+
+¿Qué época del año es?, ¿cómo lo sabes?
+
+Es probable que  niños y niñas realicen comentarios relacionados 
+con lo que ellos hacen en ésta época del año.
+ 
+Finalmente, realiza esta última pregunta para desarrollar la 
+capacidad de sintetizar en pocas palabras el contenido de la  
+imagen.
+
+¿Qué nombre le ponemos a esta lámina?
+
+Las respuestas pueden ser diversas, pero si has guiado 
+adecuadamente la lectura y comprensión de la lámina con tus 
+preguntas, todas ellas van a apuntar a la época de la baja del 
+caudal en los ríos.
+
+Indicador:
+Deduce la causa 
+de un hecho en 
+
+imágenes o  textos 
+leído por el maestro.
+
+Indicador:
+Propone el título de 
+
+la imagen al término 
+de la observación.
+
+Las sugerencias presentadas  no siempre corresponderán a tu contexto socio 
+cultural, pero te dan pistas para que diseñes tus propias actividades de aprendizaje.
+
+A continuación te presentamos un ejemplo de la realidad andina.
+
+
+
+20     Movilización Nacional por la Mejora de los Aprendizajes
+
+ACTIVIDAD N° 02:  El taller de Don Simón
+
+a. Preparando la actividad
+
+Previamente realiza junto con los 
+niños y niñas la visita al taller de un 
+artesano que elabore mates. En el lugar 
+motívalos para que lo entrevisten, 
+observen los distintos tipos de mate 
+que se pueden elaborar y descubran el 
+valor comunicativo de estos elementos.
+
+b.  Desarrollando la actividad
+
+Ya en el aula organiza a los niños y niñas en pequeños grupos y 
+entrégales a cada uno un mate burilado. Incentívalos para que 
+lo manipulen y observen de tal forma que tengan un mayor 
+acercamiento al material. Procura conseguir mates grandes y con 
+imágenes de un solo tema (en este caso baile/fiesta) para cada 
+grupo.
+
+Formula preguntas que permitan expresar lo que es evidente 
+en la imagen (nivel literal):
+
+¿Quiénes están dibujados en el mate?
+¿Cómo están vestidos?¿Qué están haciendo?
+
+Pasa ahora a realizar preguntas que motiven la apreciación de 
+otros elementos y la relación con sus vivencias (festividades de 
+la zona).
+
+¿Qué otros elementos observamos?
+
+Indicador:
+Menciona personas, 
+roles, acciones, lugares, 
+tiempo y emociones 
+en imágenes o textos 
+leídos por el maestro.
+
+Recuerda también formular preguntas que focalicen 
+aquellos elementos que los niños y niñas puedan 
+relacionar para sacar conclusiones y comprender en 
+su totalidad el mensaje.
+
+
+
+21Movilización Nacional por la Mejora de los Aprendizajes
+
+Por lo general los mates burilados describen costum-
+bres, fiestas o actividades propias de la comunidad. Los 
+niños y niñas a partir del análisis de otros indicios como 
+el tipo de aves, flores, frutos presentes o tipo de ves-
+timenta que has focalizado con la pregunta formulada 
+anteriormente:
+
+¿Por qué están bailando?
+
+¿Qué están celebrando?
+
+¿Cómo lo sabes?
+
+Si has facilitado el análisis de este objeto de la cultura material, los 
+niños y niñas emitirán una respuesta válida para el contexto.
+
+Recuerda que los textos deben ir acompañados por imágenes que 
+brinden pistas a los niños y niñas para descubrir el significado del 
+texto que están leyendo. El tamaño debe ser apropiado al número de 
+niños que lo van a observar y a la distancia en que se van a ubicar.
+
+LECTURA DE TEXTOS ESCRITOS
+La lectura de textos en el nivel incial se desarrollará siempre con 
+la asistencia de la maestra.  Las actividades que selecciones deben 
+estar encaminadas a introducir a los niños y niñas al mundo escrito y 
+el aprendizaje de la lecto – escritura se dará recién en primer grado.
+
+Los textos que utilices para acercar a los niños y niñas al código 
+alfabético y desarrollar la comprensión lectora deben estar 
+relacionados con su cultura para facilitar su comprensión. 
+Elige diferentes tipos de textos para que los niños y niñas de 
+pueblos originarios los conozcan, estos deben  ser variados y 
+deben permitir el disfrute (cuentos, rimas, trabalenguas, etc), 
+obtener información o hacer cosas nuevas(instructivos, recetas) 
+Paulatinamente introduce textos con temas de otras culturas que 
+llamen la atención de tu grupo de estudiantes.
+
+Al seleccionar los textos en una lengua andina o amazónica es 
+necesario que previamente   analices si se prestan  para elaborar 
+preguntas de diferente nivel de comprensión, identifiques las 
+palabras significativas y las palabras nuevas que van a incrementar 
+el vocabulario de niños y niñas.
+
+
+
+22     Movilización Nacional por la Mejora de los Aprendizajes
+
+ACTIVIDAD N° 03:  La siembra
+
+Indicador:
+Menciona personas, 
+roles, acciones, lugares, 
+tiempo y emociones 
+en imágenes o textos 
+leídos por el maestro.
+
+a. Preparando la actividad
+
+Desarrolla  esta  actividad  durante  la  época  de siembra (puede 
+ser la siembra adelantada, intermedia o atrasada). Realiza 
+primero la visita a algún espacio donde estén desarrollando 
+esta actividad o asegúrate de que la hayan realizado todos en 
+familia, según la  tradición cultural.
+
+b.  Desarrollando la actividad
+
+Ubica a los niños y niñas en media luna y promueve que 
+observen la lámina (recuerda   asegurarte de que todos puedan 
+mirar con facilidad al texto) y deja que se expresen libremente. 
+Por lo general hacen un listado de los objetos y seres que 
+observan relacionándolos, en algunos casos, con sus vivencias.
+
+Guía la observación inicial que hacen niños y niñas con preguntas 
+sobre las diferentes personas y acciones que se encuentran en 
+la parte gráfica del texto, de tal forma que relacionen la imagen 
+con lo escrito.
+
+¿Qué imágenes observamos?
+
+¿Qué están haciendo las personas?
+ 
+
+¡Qué fiesta!
+Hoy será una fiesta
+porque hay que sembrar,
+con cantos y bailes,
+hay que festejar.
+
+Las limpias semillas
+ya se perderán,
+en morenos surcos
+ya se quedarán.
+
+Y la buena tierra
+su corazón abrirá,
+y a la semilla
+si la abrigará.
+
+
+
+23Movilización Nacional por la Mejora de los Aprendizajes
+
+Cambia el foco de la atención hacia la parte escrita con la 
+siguiente pregunta y promueve la diferencia  entre imágenes 
+y código escrito:
+
+Además de las imágenes, 
+
+¿Qué más observan?
+En posteriores actividades incluye, además de la pregunta 
+anterior, otras como: ¿conoces algunas de las palabras que 
+están escritas?, ¿sabes qué significan estas palabras? (esto 
+siempre y cuando el niño ya tenga acercamiento a diferentes 
+textos escritos en el aula, escuela y comunidad).
+
+Pasaremos ahora a trabajar la comprensión del texto. Primero 
+nos anticiparemos a su contenido para que los niños y las niñas  
+formulen algunas hipótesis. Les preguntamos:
+
+¿De qué se tratará el texto? 
+
+¿Por qué piensan eso?
+
+Permite que los niños y niñas formulen diferentes hipótesis. 
+En forma natural ellos y ellas van a ir relacionando el texto con 
+las imágenes que observan y las utilizarán para sustentar sus 
+respuestas.
+
+Se pasa ahora a la siguiente etapa. Invítalos a escuchar y 
+acompañar la lectura que realizas en voz alta con palabras 
+como: “Ahora vamos a leer”. Es importante que leas en forma 
+pausada y dando la entonación adecuada, crea pequeños 
+espacios para que los niños y niñas comenten brevemente 
+sobre lo que escuchan y comparen con sus hipótesis iniciales.
+
+Indicador:
+Se anticipa al contenido 
+
+de la imagen o texto a 
+partir de algunas pistas.
+
+Recuerda:  Es importante que la maestra lea con 
+anticipación el texto y ensaye la debida entonación.
+
+Realiza preguntas para llevarlos a comprender el texto:
+
+¿Por qué hay fiesta?
+
+Con esta pregunta ayudas a los niños y niñas a recuperar 
+información evidente en el texto que más adelante, con ayuda 
+de otras preguntas, relacionarán para deducir nuevas ideas o 
+significados que no son muy evidentes (así como en el trabajo 
+que se hizo con las imágenes).
+
+Indicador:
+Menciona personas, 
+
+roles, acciones, lugares, 
+tiempo y emociones 
+
+en imágenes o textos 
+leídos por el maestro.
+
+
+
+24     Movilización Nacional por la Mejora de los Aprendizajes
+
+¿Cómo se festeja la siembra?
+
+Esta es una pregunta de nivel literal cuya respuesta no es muy 
+evidente por lo tanto si no obtuvieras respuestas, por parte de 
+los niños y niñas, lee nuevamente la parte del texto donde se 
+encuentra la información y vuelve a preguntarles.
+
+Ahora realiza preguntas del nivel inferencial:
+
+¿Por qué las personas están contentas?
+
+La respuesta a este tipo de preguntas no la van a encontrar 
+textualmente sino que tendrán que inferir a partir de la 
+información que has ayudado a focalizar y con las preguntas 
+iniciales.
+
+Finaliza la actividad con una pregunta donde niños y niñas 
+libremente  den  a conocer sus preferencias por el contenido o 
+tipo de texto.
+
+¿Te gustó el texto?
+
+¿Por qué te gusta?
+
+Indicador:
+Explica oralmente sus 
+impresiones (hechos, 
+ideas, preferencias, 
+etc.) sobre  textos 
+escuchados.
+
+Indicador:
+Menciona personas, 
+roles, acciones en 
+textos leídos por el 
+maestro.
+
+Recuerda que: 
+El desarrollo de las capacidades no se logra con una 
+sola actividad, por ello es necesario que la lectura para 
+la comprensión de textos se realice una o dos veces a 
+la semana durante la hora del cuento, o mediante el 
+desarrollo de unidades y utilizando diferentes tipos de 
+textos.
+
+Recuerda hacer también la segunda pregunta donde 
+los niños y las niñas fundamenten sus preferencias. 
+Algunos evidencian en este momento sus vivencias, 
+creencias, sentimientos, etc. Si es necesario vuelve a leer 
+el texto completo. Algunos niños “leerán” junto contigo 
+cuando el texto es corto, como en este caso.
+
+Indicador:
+Deduce la causa 
+de un hecho en 
+imágenes o texto 
+leído por el maestro.
+
+
+
+25Movilización Nacional por la Mejora de los Aprendizajes
+
+PICHQA WATAYUQ 
+WARMAKUNAPAQ
+
+Amawta masiykuna, llaqtapa 
+kasqanmanhina sumaqta 
+allinchaykuspa, warmakunapa 
+yachaynin llanllarichinapaq 
+llamkarisunchik:
+
+Siqita qawasun
+
+Warmachakunaman allinta qawachiy, hinaspa  tapuy:
+
+QUECHUA: CHANKA
+
+Indicador:
+Propone el título de la 
+
+imagen al término de la 
+observación.
+
+Indicador:
+Deduce la causa de un 
+
+hecho en imágenes o textos 
+leídos por el maestro.
+
+Indicador:
+Se anticipa al contenido 
+de la imagen a partir de 
+
+algunos indicios.
+
+ ¿Imakunatataq qawachkanchik?
+¿Pikunataq kachkan?
+
+¿Imatataq rurachkanku?
+
+¿Qarikuna imatataq hapichkanku?,
+ ¿Imapaqcha?
+
+¿Tayta imatataq hamutachkanman?
+
+¿Imaraykucha huk qari ñawpaqpi huktaq 
+qipapi kachkanku?
+
+¿Ima ruraypicha kachkanku?,
+¿Imanasqa?
+
+¿Imaynatataq kay siqita sutichasunman?
+
+Indicador:
+Menciona  personas, roles, 
+
+acciones, lugares, tiempo y 
+emociones de imágenes o 
+
+textos leídos por el maestro.
+
+
+
+26     Movilización Nacional por la Mejora de los Aprendizajes
+
+QUECHUA: COLLAO
+
+T’ikakuna qhawayta tukuspa, wawakunata tapusunchik:
+
+¿Maytan rirqanchik? ¿Imakunatan qhawamurqanchik?
+¿Imakunatataq tayta mama yachachiwarqanchik?
+
+Yachay wasipi, rapipi munasqanchikta rurasqanchikman hina siq’isun, 
+atisqanchikman hinataq qillqasunchik, chaymantaqaq ñawinchasunchik.
+
+Tayta mamachikman yachay wasipi rurasqanchikta willasunchik.
+
+YURAKUNAPA T’IKANKUNATA ÑAWINCHASPA
+
+Paray killakunapi yurakuna, t’ikamunkuña.Chaytam runakuna ñawinchanku. 
+T’ikasqanmanhinas mikhuykunaqa miranqa.
+
+Chaypaqqa, tayta mamakunatan yanapawananchikpaq waharikusunchik. Hinaqa, 
+wawakunawan tayta mamakunawan allinta rimanakuspa wawakunawan t’ikakuna 
+qhawaq lluqsisunchik.
+
+Wawakunata rimarisunchik:
+
+¿Ima t’ikakunatan qamkuna riqsinkichik ?
+¿Imaraykutaq yurakunari t’ikamunku?
+¿Imatataq t’ikakunari willawanchik?
+
+Wawakunawan tayta 
+mamawan kuska t’ikakunata 
+qhawamusunchik, chaymanta 
+tayta mamata t’ikakunaq 
+willakuyninmanta uyarisunchik:
+
+Kisaq t’ikan hatun ruruyuq 
+misk’isapacha kan chayqa allin
+
+papa kananpaqmi.
+
+Waraq’u achkhata t’ikan 
+chayqa, achkha mikhuykuna 
+
+kanananpaqmi.
+Indicador:
+Explica el significado 
+de las señales y 
+símbolos de su 
+entorno.
+
+
+
+27Movilización Nacional por la Mejora de los Aprendizajes
+
+PRIMER GRADO SEGUNDO GRADO
+
+CAPACIDAD INDICADORES CAPACIDAD INDICADORES
+
+Utiliza  su 
+conocimiento del 
+código escrito para 
+leer diversos tipos de 
+textos.
+
+•	 Señala palabras que conoce  (repertorio 
+
+de palabras conocidas) en textos del aula 
+
+(Tablas, horarios, carteles de asistencia, 
+
+instrucciones, cuentos, etc.).
+
+•	 Decodifica  palabras nuevas utilizando 
+
+algunos indicios  de palabras  conocidas 
+
+(letras, sonidos similares,  forma de las 
+
+palabras, etc.)
+
+Utiliza su 
+
+conocimiento del 
+
+código escrito para 
+
+leer diversos tipos de  
+
+textos (consolidación 
+
+del código escrito).
+
+Decodifica y comprende textos breves y 
+
+sencillos de diverso tipo
+
+Identifica  
+información explícita 
+contenida  en el texto 
+y/o imágenes.
+
+•	 Ubica datos e información que se 
+
+encuentra en diferentes partes del texto.
+
+•	 Ubica datos e información que se 
+
+encuentra al inicio, medio y final del 
+
+texto.
+
+•	 Ordena las acciones según cómo 
+
+sucedieron  en un texto narrativo.
+
+Identifica  
+
+información explícita 
+
+contenida  en el texto 
+
+y/o imágenes.
+
+•	 Ubica datos e información que se 
+
+encuentra en diferentes partes del texto.
+
+•	 Ubica datos e información que se en-
+
+cuentra al inicio, medio y final del texto.
+
+•	 Ordena las acciones según cómo sucedie-
+
+ron  en un texto narrativo.
+
+Formula hipótesis 
+sobre la información 
+contenida en los 
+textos e imágenes 
+leídos por ellos 
+mismos o por el 
+maestro.
+
+•	 Expresa sus  hipótesis  sobre  el 
+
+contenido del texto a partir de indicios 
+
+encontrados en él. (título, imágenes, 
+
+silueta del texto, palabras significativas).
+
+•	 Se anticipa al contenido  del texto 
+
+respondiendo  a preguntas, durante la 
+
+lectura.
+
+•	 Comprueba sus hipótesis sobre el texto 
+
+durante o después de la lectura.
+
+Formula hipótesis 
+
+sobre la información 
+
+contenida en los 
+
+textos e imágenes 
+
+leídos por ellos 
+
+mismos o por el 
+
+maestro.
+
+•	 Expresa sus  hipótesis  sobre  el conteni-
+
+do del texto a partir de indicios encon-
+
+trados en él (título, imágenes, silueta 
+
+del texto, palabras significativas).
+
+•	 Se anticipa al contenido  del texto 
+
+respondiendo  a preguntas durante la 
+
+lectura.
+
+•	 Comprueba sus hipótesis sobre el texto 
+
+durante o después de la lectura.
+
+Hace inferencias en 
+textos con imágenes 
+leídos,  con o sin 
+ayuda del  maestro.
+
+•	 Deduce el tema central del texto.
+
+•	 Deduce el propósito del  texto.
+
+•	 Deduce la causa de un hecho o idea que 
+
+se presenta en el texto.
+
+•	 Deduce las cualidades de los personajes.
+
+•	 Deduce el significado de palabras a 
+
+partir de información explícita.
+
+Hace inferencias 
+
+en textos, con o sin 
+
+imágenes, leídos 
+
+por él.
+
+•	 Deduce el tema central del texto.
+
+•	 Deduce el propósito del  texto.
+
+•	 Deduce la causa de un hecho o idea que 
+
+se presenta en el texto
+
+•	 Deduce las cualidades de los personajes.
+
+•	 Deduce el significado de palabras a 
+
+partir de información explícita.
+
+Opina sobre las 
+imágenes y textos 
+leídos por ellos 
+mismos o con ayuda 
+del maestro.
+
+•	 Da razones que justifican su opinión 
+
+sobre hechos e ideas de las imágenes o  
+
+textos.
+
+•	 Justifica la presencia o ausencia de 
+
+algunos elementos de los textos 
+
+(imagen, título, etc.).
+
+Reflexiona sobre 
+
+el texto leído 
+
+argumentando sus 
+
+opiniones.
+
+Opina sobre sucesos o ideas del texto 
+
+Justifica la presencia o ausencia de algunos 
+
+elementos de los textos (imagen, título, 
+
+etc.).
+
+NIVEL PRIMARIA
+¿Qué deben aprender los niños y niñas de primer y segundo grado de primaria? – III ciclo
+
+
+
+28     Movilización Nacional por la Mejora de los Aprendizajes
+
+¿CÓMO  FACILITAMOS EL 
+APRENDIZAJES DE LA LECTURA DE  
+LOS NIÑOS Y NIÑAS  DE PRIMER Y 
+
+SEGUNDO GRADO EN UN AULA 
+MULTIGRADO?
+
+Como profesor y profesora deberás elaborar una unidad didáctica 
+(UD) y en ella planificarás un proceso completo de enseñanza y 
+
+aprendizaje para un determinado tiempo.
+
+Recuerda que la unidad didáctica tiene un carácter  globalizador porque los 
+aprendizajes (capacidades, actitudes y saberes) se deben organizar en torno a una 
+
+actividad o acontecimiento del calendario comunal u otra actividad local.
+
+En las escuelas unidocentes y aulas multigrado se debe elaborar una 
+sola unidad didáctica para trabajar con todos los grados.
+
+A continuación te mostraremos algunos ejemplos de cómo 
+puedes apoyar a tus niños y niñas en el tercer ciclo. Es necesario 
+que reconozcas que hay determinadas actividades que tendrás 
+
+que trabajar de manera diferenciada en primer y segundo grado,  
+sobre todo en los primeros meses del año, porque los de primer grado 
+
+recién estarán aprendiendo a leer, mientras que los de segundo grado ya 
+deberán estar en condiciones de consolidar su código escrito.
+
+Las actividades que te presentamos como 
+ejemplo  en este documento son parte de una 
+unidad didáctica, vale decir de una unidad de 
+
+aprendizaje o proyecto de aprendizaje.
+
+
+
+29Movilización Nacional por la Mejora de los Aprendizajes
+
+UNIDAD DIDÁCTICA:  ¡Vamos todos a pescar!
+(primer grado)
+
+ACTIVIDAD N° 01: Leemos este cuadro para saber quiénes atraparon estos peces
+
+¿Quiénes atraparon estos peces?
+
+Niños/as
+
+Peces Dibujo de 
+palometa
+
+Dibujo de
+ sábalo
+
+Dibujo de
+ bagre
+
+Dibujo de 
+bujurqui
+
+Saumag
+
+Visho
+
+Mika
+
+SoiSame
+
+Tutrik
+
+El cuadro que acabamos de presentar es una tabla de doble entrada. 
+En las columnas se han colocado los nombres de los estudiantes y en 
+el eje de las filas se han colocado los peces que atraparon durante la 
+pesca.
+
+Los niños y niñas con lenguas originarias del primer grado deberán 
+familiarizarse con este tipo de texto, por eso se recomienda que en un 
+primer momento estas tablas surjan de actividades que ellos realizan 
+cotidianamente,  de tal manera que encuentren significado a este tipo 
+de texto.
+
+A continuación te presentamos una secuencia orientada a que los 
+niños y niñas comprendan estos textos:
+
+a.  Preparando la actividad:
+
+•	 Los niños y niñas de toda la escuela desarrollaron la actividad de 
+pesca. Han vivido una serie de experiencias emocionantes, algunos 
+atraparon peces con anzuelo, otros con flecha y algunos niños no 
+atraparon ningún pez.
+
+•	 A partir de esta actividad elabora un cartel como el que te acabamos 
+de mostrar y pégalo en una de las paredes de tu aula.
+
+
+
+30     Movilización Nacional por la Mejora de los Aprendizajes
+
+b. Desarrollando la actividad:
+•	 Con ayuda de los niños y niñas registra en esta tabla qué 
+
+peces atraparon y quiénes lo hicieron.
+
+•	 Pide a los niños que observen por un momento este cartel 
+y luego conversa con ellos:
+
+¿Para qué usamos este cártel?
+
+¿Por qué crees que el cártel tiene este título?
+¿Qué información crees que tiene?
+
+El propósito de estas preguntas es que los niños y niñas elaboren 
+algunas hipótesis sobre los textos antes de leerlos. Ellos deberán 
+“entrenarse” en estos procesos, por lo que se recomienda 
+confrontar a los niños y niñas  indígenas con diferentes tipos de 
+escritos y ayudarlos a encontrar el significado del uso de cartel 
+o tablas, en este caso.
+
+¿Qué aparece en las filas? (señala las filas)
+¿Qué aparece en las columnas? (señala las columnas)
+¿Qué símbolo hemos puesto para reconocer qué 
+peces atrapamos?
+
+Para responder estas preguntas los niños y niñas deben 
+observar la información que se presenta tanto en las filas como 
+en las columnas de la tabla y agruparlas en alguna categoría. Si 
+es nesesario indícales que en las filas está su nombre y el de sus 
+compañeros, y en las columnas están dibujadas las especies de 
+peces que atraparon.
+
+•	 Pide a los niños que reconozcan sus nombres. Cada uno 
+se pone de pie y señala su nombre en la tabla. Luego 
+pregúntales:
+
+¿Quiénes atraparon palometas?, ¿y bagres?, 
+¿y sábalos?
+¿Qué peces atraparon Saumag y Mika?
+
+Indicador:
+Expresa sus  hipótesis  
+sobre  el contenido 
+del texto a partir de 
+indicios encontrados 
+en él (título, imágenes, 
+silueta del texto.
+
+Indicador:
+Se anticipa al 
+contenido del texto 
+respondiendo a  
+preguntas durante 
+la lectura.
+
+Indicador:
+Ubica datos e 
+información que 
+se encuentra en 
+diferentes partes 
+del texto.
+
+Indicador:
+Ubica datos e 
+información que 
+se encuentra en 
+diferentes partes 
+del texto.
+
+
+
+31Movilización Nacional por la Mejora de los Aprendizajes
+
+Indicador:
+Decodifica palabras 
+
+nuevas utilizando 
+algunos indicios  de 
+palabras conocidas 
+
+(letras, sonidos 
+similares, forma de las 
+
+palabras, etc.).
+
+¿Quién es el mejor pescador de la clase?
+
+También puedes usar el cuadro para hacer preguntas como:
+
+¿Qué pasaría si el título fuera “nos organizamos para 
+
+limpiar el salón de clases”?
+
+¿Qué pasaría si no existieran las filas y las columnas?
+
+Si los niños y niñas no saben leer sus nombres aprovecha 
+la actividad para desarrollar esta capacidad realizando las 
+siguientes acciones:
+
+•	 Invita a los niños y niñas a organizarse en grupos de dos a 
+cuatro integrantes. Puedes pedir a los niños de los grados 
+mayores que te apoyen en la organización, la entrega de 
+letras móviles y el monitoreo de esta actividad.
+
+•	 Motiva para que los niños y niñas, con ayuda de las letras 
+móviles, formen su nombre y el nombre de los compañeros 
+de su grupo. Este es un momento oportuno para hablar 
+sobre el uso de las mayúsculas al escribir nombres propios. 
+Te sugerimos guiarlos a través de las siguientes preguntas:
+
+Si a este nombre le cambiamos una letra 
+¿Qué pasará? ¿Dirá lo mismo?
+
+¿Qué dirá? ¿Qué palabras comienzan con Saumag?
+
+s a u m a g
+
+s a u m a t
+•	
+
+Indicador:
+Deduce información.
+
+Indicador:
+Justifica la presencia 
+
+o ausencia de algunos 
+elementos de los textos 
+
+(imagen, título, etc.).
+
+Indicador:
+Da razones que justi-
+
+fican su opinión sobre 
+hechos e ideas de las 
+
+imágenes o textos.
+
+
+
+32     Movilización Nacional por la Mejora de los Aprendizajes
+
+Ayuda a los niños a construir nuevas palabras a partir de la 
+asociación de las palabras conocidas. Responde sus preguntas 
+sobre cómo se escriben determinadas palabras.
+
+•	 Pídeles a los niños que copien en su cuaderno las palabras 
+que han construido y que las muestren a sus compañeros 
+de clase.
+
+•	 Es importante saber que en las escuelas bilingües el 
+docente deberá CONOCER el funcionamiento de la lengua 
+indígena con la que trabaja, ya que no es lo mismo una 
+lengua con características silábicas como el castellano, que 
+una aglutinante como el kandozi, quechua o ashaninka. 
+El trabajo con el código alfabético debe ser planificado y 
+pertinente a las características de la lengua indígena.
+
+Al inicio puedes proponer tú el cambio y hacer las preguntas 
+arriba mencionadas para que, luego,  sean los mismos niños los 
+que propongan estos cambios.
+
+Sobre los nombres
+
+Una de las estrategias más potentes para iniciar la 
+enseñanza del código alfabético con los niños y niñas es 
+su propio nombre, porque se considera que  es un texto 
+con un significado especial para todas las personas y que 
+no cambia con el tiempo. Sin embargo, hay que tener 
+en cuenta que en determinados contextos de pueblos 
+originarios, los niños y niñas pueden tener a lo largo de 
+su vida diferentes nombres, y en otros casos poseen dos 
+nombres, uno en castellano (para relacionarse con la 
+sociedad nacional) y otro en la lengua originaria de su 
+pueblo. Como docente intercultural debes saber cómo 
+se definen los nombres en el pueblo indígena con el que 
+trabajas, cómo está permitido llamar a las personas y 
+cómo les gusta a los niños y niñas que los llamen.
+
+
+
+33Movilización Nacional por la Mejora de los Aprendizajes
+
+ACTIVIDAD N° 02: Leemos una historia
+
+¡QUÉ RICO TIMBUCHE!
+
+Visho y yo estábamos bañándonos en el río. De pronto vimos 
+un tremendo sábalo. Agarré mi flecha y lo atrapé.
+
+Primero, lo llevamos a casa y se lo entregamos a nuestra mamá.
+
+Después, ella lo cocinó.
+
+Finalmente, nos sirvió el timbuche acompañado con unos ricos plátanos.
+
+Este es un texto narrativo de estructura sencilla que deberá ir 
+acompañado de una imagen. Los niños y niñas de primer grado 
+deben leer textos con características semejantes. Siguiendo con 
+el proyecto de pesca, desarrollamos esta lectura y proponemos 
+las siguientes acciones:
+
+a.   Preparando la actividad
+
+•	 Escribe el texto en un papelógrafo para que puedas guiar la 
+lectura de los niños y niñas.
+
+b.  Desarrollando la actividad
+
+•	 Lee el texto en voz alta.
+
+•	 Muestra a los niños y niñas cuatro imágenes con acciones 
+de esta historia y pídeles que las ordenen tal y como sucedió 
+en el cuento.
+
+¿Qué pasó primero? ¿Qué ocurrió luego?
+
+¿Qué pasó después?
+
+¿Cómo termina la historia?
+
+Indicador:
+Ordena las acciones 
+
+según cómo sucedieron  
+en un texto narrativo.
+
+
+
+34     Movilización Nacional por la Mejora de los Aprendizajes
+
+Aquí es necesario que los niños y niñas comprendan lo más 
+importante de una historia: la secuencia. En las distintas lenguas 
+originarias encontraremos palabras o frases que se utilizan 
+comúnmente en los relatos y que marcan la secuencia de los 
+acontecimientos. Cuando elabores un texto debes tener en 
+cuenta estas palabras que los estudiantes están acostumbrados 
+a oír y que podrán identificarlas con mayor facilidad cuando 
+hagas ejercicios como éste.
+
+¿Cómo eran los niños de la historia?
+¿Eran hábiles pescadores?
+¿Por qué?
+
+Indicador:
+Deduce las cualidades 
+de los personajes.
+
+Aquí los niños y niñas deben 
+reconocer que la principal acción 
+que realizan los niños de la historia 
+es haber atrapado al pez para que 
+su mamá lo cocine y puedan comer 
+ese día.
+
+Este momento es oportu-
+no para conversar sobre 
+las características y cua-
+lidades de las personas 
+y  qué curaciones o con-
+ductas se deben seguir 
+para poder ser buen pes-
+cador. También puedes co-
+mentar sobre los valores que 
+son apreciados en la co-
+mundad, por ejemplo: ser 
+responsable, trabajador, 
+diestro en el uso de instru-
+mentos de caza o pesca, 
+entre otros.
+
+
+
+35Movilización Nacional por la Mejora de los Aprendizajes
+
+UNIDAD DIDÁCTICA:  ¡Vamos todos a pescar!
+(segundo grado)
+
+ACTIVIDAD N° 01: Conozcamos distintos tipos de textos
+
+ Texto 1: 
+EL BAGRE
+ 
+
+El bagre es un pez que vive en las partes fangosas de los ríos, 
+pero puede pasar la mayor parte de su vida en el mar.  El 
+color más común de este pez es el gris. No tiene escamas y 
+posee una cabeza y hocico grande. Tiene unas largas barbas, 
+por lo que también se le conoce como “pez gato”. Su carne es 
+sabrosa y con pocas espinas.
+
+Texto 2:
+
+EL BAGRECICO
+
+Un viejo bagre, contaba:  “Yo conozco el mar. Cuando joven 
+viaje a él, y he vuelto”. Tanto oírlo, un bagrecico le dijo: “Yo 
+también quiero conocer el mar”. – “Bien. Yo tenía tu edad 
+cuando realicé la gran proeza” –dijo el anciano. Vivían en un 
+riachuelito de la selva alta del Perú.
+
+Y el bagrecico salió nadando con mucha energía, dejándose 
+llevar, venciendo al río de las mil vueltas, con las aletas y 
+barbitas extendidas,  durmiendo bajo el amparo de las verdes 
+cortinas de limo.
+
+Pasó muchas aventuras en su viaje: En una poza casi muerde 
+un anzuelo, en otra oportunidad cayó en la red de un 
+pescador  y una tarde lluviosa pudo escapar de ser devorado 
+por un pez muy grande.
+
+Después de tanto viaje, por fin logró conocer el mar, 
+emocionado decidió regresar a casa.
+
+El retorno fue mucho más difícil para él, sin embargo después 
+de muchos esfuerzos, logró llegar por fin a su hogar.
+
+Francisco Izquierdo Ríos
+(Adaptación)
+
+En esta actividad se presentan dos textos, uno descriptivo y otro 
+narrativo. El objetivo de esta actividad es que los niños identifiquen 
+los rasgos de cada texto y, a partir de ellos, deduzcan la intención 
+con la cual fueron escritos.
+
+
+
+36     Movilización Nacional por la Mejora de los Aprendizajes
+
+a.   Preparando la actividad
+
+•	 Escribe cada texto en un papelógrafo para que los niños y niñas  
+puedan leerlo fácilmente.
+
+•	 Prepara una copia de ambos textos para cada estudiante.
+•	 Copia en otros papelógrafos los siguientes cuadros.
+
+Texto 1
+¿De qué  se habla 
+en en el texto?
+
+¿Qué se dice del 
+bagre?
+
+¿Para qué se 
+escribió el texto?
+
+Texto 2
+¿De qué  se habla 
+en en el texto?
+
+¿Qué se dice del 
+bagre?
+
+¿Para qué se 
+escribió el texto?
+
+b.  Desarrollando la actividad
+
+Esta actividad se divide en tres momentos:
+
+Primer momento: Análisis de las características del primer texto
+
+•	 Los niños y niñas contarán todo lo que saben acerca del bagre: 
+dónde viven, de qué se alimentan, en qué época se reproducen, con 
+qué instrumentos de pesca se les atrapa, etc. (en esta parte todos los 
+niños y niñas de otros grados pueden participar)
+
+•	 Reparte el texto a los niños y pídeles que lean de manera silenciosa.
+
+•	 Pega en la pizarra el papelógrafo con el texto 1.
+
+EL BAGRE
+
+El bagre es un pez que vive en las partes fangosas 
+de los ríos, pero puede pasar la mayor parte de su 
+
+vida en el mar.  El color más común de este pez 
+es el gris. No tiene escamas y posee una cabeza y 
+
+hocico grande. Tiene unas largas barbas, por lo que 
+también se le conoce como “pez gato”. Su carne es 
+
+sabrosa y con pocas espinas.
+
+Indicador:
+Decodifica y comprende 
+textos breves y sencillos 
+de diverso tipo.
+
+
+
+37Movilización Nacional por la Mejora de los Aprendizajes
+
+•	 Cuando los niños y niñas han terminado de leer, pega la tabla junto al 
+papelógrafo.
+
+•	 Haz las preguntas de la tabla y escribe en ella las respuestas de los 
+niños y niñas.
+
+Texto 1
+Deducen el tema 
+central del texto.
+
+¿De qué  se habla 
+en en el texto?
+
+Del bagre.
+
+Ubica datos e 
+información que 
+se encuentran en 
+diferentes partes del 
+texto.
+
+¿Qué se dice del 
+bagre?
+
+Es un pez sin 
+escamas, tiene 
+barbas y su carne es 
+muy rica.
+
+Deduce el propósito 
+de un texto.
+
+¿Para qué se 
+escribió el texto?
+
+Para contarnos 
+como es un bagre.
+
+Segundo momento: Análisis de las características del segundo texto.
+
+•	 Sigue la misma secuencia que has seguido con el primer texto. Pega 
+el papelógrafo con el segundo texto.
+
+EL BAGRECICO
+
+Un viejo bagre, contaba: - “Yo conozco el mar. Cuando joven viaje a él, y he 
+vuelto”. Tanto oírlo, un bagrecico le dijo: “Yo también quiero conocer el mar”. – 
+“Bien. Yo tenía tu edad cuando realice la gran proeza” –dijo el anciano. Vivían 
+en un riachuelito de la selva alta del Perú.
+
+Y el bagrecico salió nadando con mucha energía, dejándose llevar, venciendo al río 
+de las mil vueltas, con las aletas y barbitas extendidas, durmiendo bajo el amparo 
+de las verdes cortinas de limo.
+
+Pasó muchas aventuras en su viaje: En una poza casi muerde un anzuelo, en otra 
+oportunidad cayó en la red de un pescador y una tarde lluviosa pudo escapar de ser 
+devorado por un pez muy grande.
+
+Después de tanto viaje, por fin logró conocer el mar, emocionado decidió regresar a 
+casa.
+
+El retorno fue mucho más difícil para él, sin embargo después de muchos esfuerzos 
+logró llegar a por fin a su hogar.
+
+Francisco Izquierdo Ríos
+(Adaptación)
+
+
+
+38     Movilización Nacional por la Mejora de los Aprendizajes
+
+Texto 2
+¿De qué  se habla 
+en en el texto?
+
+Del bagrecico.
+
+¿Qué se dice del 
+bagre?
+
+Que el bagrecico sale a conocer el mar y 
+vive muchas aventuras.
+
+¿Para qué se 
+escribió el texto?
+
+Para contarnos cómo el bagrecico llegó a 
+conocer el mar.
+
+Tercer momento: comparación de ambos textos.
+
+•	 Formula las siguientes preguntas para facilitar la comparación:
+
+¿El texto 1 y 2 dicen lo mismo sobre el bagre?
+
+¿Ambos textos se han escrito con el mismo propósito?
+¿Saben cómo se llama los textos que dicen las carac-
+terísticas de los animales? (si los niños no lo saben les 
+
+explicas que son  descripciones).
+
+¿Conocen cómo se llaman los textos que nos cuentan 
+la historia de un personaje? (si los niños no lo saben, 
+condúcelos a descubrir que son  cuentos).
+
+Una vez que has conversado con los niños y niñas sobre la 
+intención de cada texto, se darán cuenta que estas intenciones 
+son distintas. El primer texto sirve para dar información y el 
+segundo para contarnos una historia.
+
+•	 Finalmente coloca unos carteles con los tipos de textos que 
+identificaron.
+
+¿De quién se 
+habla en...
+
+¿Qué se dice en... ¿Para qué se 
+escribió...
+
+Texto 1 Del bagre
+Es un pez sin esca-
+mas, tiene barbas y 
+es muy rico en sopa.
+
+Para contarnos 
+como es un 
+bagre.
+
+Texto 2 Del bagrecito
+
+Que el bagrecico 
+sale a conocer el 
+mar y vive muchas 
+aventuras.
+
+Para contarnos 
+cómo el bagre-
+cico llegar a 
+conocer el mar.
+
+Descripción
+
+Cuento
+
+Indicador:
+Deduce el propósito 
+de un texto.
+
+
+
+39Movilización Nacional por la Mejora de los Aprendizajes
+
+ACTIVIDAD N° 02: Formulando hipótesis
+
+Un viejo pescador que vendía pescado en el mercado atrapó con su 
+red a un enorme pez. Al sacarlo, el pez le dijo:”¡suéltame por favor, 
+que me sofoco fuera del agua! No puedo respirar”. El pescador no 
+sabía si soltar o no al pez. Pero se dio cuenta de que era un pez 
+grande por el que pagarían un buen precio.
+
+Ansioso por ganar más dinero, el pescador decidió no hacerle caso 
+al pez. El pez nuevamente le dijo: “Por favor, suéltame, no puedo 
+respirar”.
+Burlándose de la dificultad del pez para respirar fuera del agua, el 
+pescador le dijo: “¡Tonto!¡Respira!¿No ves cómo lo hago yo?
+
+De pronto una enorme ola se acercó peligrosamente a la pequeña 
+barca del pescador.La frágil barca se volteó y el pescador cayó al 
+agua. El pez aprovechó y escapó de la red. Mientras tanto, el pescador 
+se quejaba de que no podía respirar y suplicaba que lo sacaran del 
+agua. El pez no sabía si ayudar o no al pescador. Pero se acordó de lo 
+que había dicho el pescador cuando él estaba en la red.
+
+Entonces el pez le dijo al pescador: “¡Tonto!¡Respira! ¿No ves cómo 
+lo hago yo? ¡Respira dentro del agua y verás lo que es bueno!”, y, 
+diciendo esto, se fue.
+
+INFORME DE RESULTADOS PARA EL DOCENTE
+COMPRENSIÓN LECTORA ECE 2008
+
+En esta actividad se presenta una narración con dos personajes y 
+algunos diálogos. Los elementos del cuento son familiares para los 
+niños y la extensión también es adecuada. Todos los niños y niñas 
+de segundo grado deberían poder leer textos como éste.
+
+El texto se presenta segmentado en varias partes. El objetivo es 
+que los estudiantes vayan formulando hipótesis acerca de lo que 
+ocurrirá antes de que puedan leer la siguiente parte del texto.
+
+a.   Preparando la actividad
+
+•	 Escribe el texto para cada grupo. Luego, recorta cada tira tal 
+como está indicado en las líneas punteadas.
+
+•	 Agrupa el material de tal manera que puedas ir repartiendo 
+una tira a cada grupo (de dos a tres niños) a medida que vayan 
+avanzando en la lectura.
+
+•	 Copia el texto en un papelógrafo y córtalo de la misma manera. 
+Esto les servirá a los estudiantes como una guía.
+
+
+
+40     Movilización Nacional por la Mejora de los Aprendizajes
+
+b.  Desarrollando la actividad
+
+Esta actividad tiene tres momentos. En cada momento se lee 
+una tira del cuento y se hace la hipótesis acerca de lo que podría 
+ocurrir, excepto al final.
+
+Primer momento: 
+
+Recoge los saberes previos preguntándoles cómo pescan en su 
+comunidad, qué instrumentos usan para pescar, qué conductas 
+y prohibiciones se aplican durante la pesca, etc.
+
+Pega la primera tira de papelógrafo en la pizarra y reparte la 
+primera tira del cuento a todos los niños para que la lean.
+
+Un viejo pescador que vendía pescado en el mercado 
+atrapó con su red a un enorme pez. Al sacarlo, el pez le 
+dijo:”¡suéltame por favor, que me sofoco fuera del agua! No 
+puedo respirar”. El pescador no sabía si soltar o no al pez. 
+Pero se dio cuenta de que era un pez grande por el que 
+pagarían un buen precio.
+
+Escribe la primera pregunta en la pizarra:
+
+¿El pescador soltó o no soltó al pez?
+
+¿Por qué?
+
+Acoge las respuestas de los niños y niñas y sus justificaciones. 
+Oriéntalos a  decidir por la que es más probable. Según el texto, 
+la respuesta más probable es “No soltó al pez”. La justificación 
+debe girar en torno a que el pescador prefería el dinero.
+
+Segundo momento: 
+
+•	 Pega la segunda tira de papelógrafo en la pizarra y reparte 
+la segunda tira del cuento a todos los grupos para que la 
+lean. Ayuda a los niños y niñas a comprobar sus hipótesis.
+
+•	 Al llegar al final de la tira, formula la siguiente pregunta en 
+la pizarra:
+
+¿Qué pasará con la barca?
+¿Cómo lo sabes?
+
+Indicador:
+Expresa sus hipótesis 
+sobre el contenido 
+del texto a partir de 
+indicios  encontrados 
+en él (título, imágenes, 
+silueta del texto, 
+palabras significativas).
+
+Indicador:
+Comprueba sus 
+hipótesis sobre 
+el texto durante 
+o después de la 
+lectura.
+
+
+
+41Movilización Nacional por la Mejora de los Aprendizajes
+
+La frágil barca se volteó y el pescador cayó al agua. El 
+pez aprovechó y escapó de la red. Mientras tanto, el 
+pescador se quejaba de que no podía respirar y suplicaba 
+que lo sacaran del agua. El pez no sabía si ayudar o no 
+al pescador. Pero se acordó de lo que había dicho el 
+pescador cuando él estaba en la red.
+
+Se formula la pregunta en la pizarra:
+
+¿El pez salvó al pescador?
+
+¿Por qué?
+
+•	 Acoge las respuestas de los niños. Sus justificaciones deben 
+ser consistentes con el texto. Por ejemplo, si el niño responde 
+“no”, debe justificar así: “porque el pescador se burló de él”.
+
+Entonces, se pega la última tira de papelógrafo y se reparte 
+la tira final a los estudiantes. Con ello se descubre la última 
+parte del texto.
+
+•	 Acoge las respuestas de los niños y niñas. Es muy probable 
+que ellos intuyan que la barca se va a hundir. Lo importante 
+es encontrar pistas de por qué se va a hundir. Los niños 
+deberán responder: “porque el barco era pequeño” o 
+“porque la ola era enorme”. 
+
+Tercer momento: 
+
+•	 Se procede de la misma manera como en los dos momentos 
+anteriores, comprobando la hipótesis formulada.
+
+Entonces el pez le dijo al pescador: “¡Tonto!¡Respira!¿No ves 
+cómo lo hago yo? ¡Respira dentro del agua y verás lo que es 
+bueno!”, y, diciendo esto, se fue.
+
+
+
+42     Movilización Nacional por la Mejora de los Aprendizajes
+
+QUECHUA: COLLAO
+
+INTI RAYMI KILLAPI YACHAYNINCHIKKUNA
+
+Yachaywasipi llamk’anata wakichispa
+
+•	 Tukuy pata ayllukunapi tiyaq irqichakunaqa yachankun ch’uñu 
+ruraymanta, chayta yachaspan kay qillqata hina rurayta atiwaq.
+
+•	 Chayta ruranapaqqa yachaqkunawanmi rimanayki.
+
+•	 Chay qillqataqa yachay wasi ukhupin sumaqta churawaq.
+
+Qallariy
+
+•	 Rimarisunchik ¿Ima killapitaq kunanri kachkanchik? ¿Imakunatan kay 
+killapi ruranku? ¿Imakunapin qamkuna yanapakunkichik? ¿Pikunataq 
+ch’uñuta ruranku?
+
+•	 Kunanqa chay qillqata hurquspa pirqaman k’askachisunchik.
+
+•	 Llapanchik allinta qhawasunchik.
+
+Ch’uñu ruraymanta
+
+Ñawpaqtaqa papataraq akllayku. 
+Chaymanta ichhu pataman qasa 
+hap’inanpaq chay papata masayku. 
+Tutamantanqa qhawaq riyku. Mana allin 
+hap’isqa kaptinqa ch’isinkuyta unuchawan 
+ch’aqchuspa saqimullaykutaq. Allin 
+hap’isqa kan chayqa wachu wachuta 
+huñuyku hinaspa saruyku.
+Allin ch’akisqa kaptinña pallanpuyku 
+siq’achapi. 
+
+Hinaqa taqichaman churapuyku.
+Taqimanqa inciensowan 
+q’apaykachikuspam churapuyku. Huk 
+rumichatawan mana tukurikunanpaq 
+churaykuyku.
+
+Qillqaq: Ignacia Quispe León irqicha
+K’arwi ayllumanta
+
+
+
+43Movilización Nacional por la Mejora de los Aprendizajes
+
+1 kaq ñiqi (1º grado) 2 kaq ñiqi (2º grado)
+
+¿Imakunataq siq’ipiri rikukuchkan?
+¿Kunan pachapi rurachkankuñachu?
+¿Qamkunari ch’uñu rurayta yachankichikchu?
+
+¿Imatataq kay qillqapa sutinpi 
+nichkanman?
+
+¿Imatataq qhawachkankichik chay 
+ninaykichispaqri?
+
+¿May simikunatataq riqsichkankichik?
+
+¿Imanichkanmanta kay qillqapa sutinpi?
+
+¿Imatataq qhawachkankichik chay ninaykichispaqri?
+
+¿May simikunatataq riqsichkankichik?
+
+¿Imanichkanmantaq llapanpiri?
+
+¿Imata ñawincharispataq chaytari nichkankichik?
+
+¿Pitaq qillqamusqari?
+
+¿Maypitaq tiyasqa?
+
+Kunanqa qillqata ñawinchasunchik
+
+•	 Allinta rimaspa chay qillqata ñawinchay (Kimsa kutipas kanmanmi).
+
+Ñawinchana qillqa
+
+Llamk’arispaña
+
+Chay qillqata qhawachispa irqichakunawan rimariychik:
+
+•	 ¿Imapaqtaq qillqakunari allin?
+•	 ¿Imataq siq’ipiri kachkan?
+•	 ¿Ima sutiyuqtaq chay qillqari kachkanman?
+•	 ¿Imatataq nichkanman qillqapa sunqunpi?
+
+Qillqata qhawaspa rimariychik:
+
+Indicador:
+Expresa sus hipótesis sobre el 
+
+contenido del  texto a partir 
+de indicios encontrados en él 
+
+(título, imágenes, silueta del  
+texto,  palabras  significativas).
+
+Ch’uñu ruraymanta
+
+Ñawpaqtaqa papataraq akllayku. Chaymanta ichhu pataman qasa hap’inanpaq 
+chay papata masayku. Tutamantanqa qhawaq riyku. Mana allin hap’isqa kaptinqa 
+ch’isinkuyta unuchawan ch’aqchuspa saqimullaykutaq. Allin hap’isqa kan chayqa 
+huñuyku wachu wachuta hinaspa saruyku.
+
+Allin ch’akisqa kaptinña pallanpuyku siq’achapi. Hinaqa taqichaman churapuyku. 
+Taqimanqa inciensowan q’apaykachikuspan churapuyku. Huk rumichatawan mana 
+tukurikunanpaq churaykuyku.
+
+Qillqaq: Ignacia Quispe León irqicha
+K’arwi ayllumanta
+
+
+
+44     Movilización Nacional por la Mejora de los Aprendizajes
+
+2do grado 1er grado
+- Siq’isunchik ch’uñu rurayta.
+- Uranpi qillqasun sutinta 
+
+yachasqanchikkunatawan.
+
+- Siq’isunchik huk    
+  ch’uñuchata.
+- Sutinta churasunchik.
+
+-  Huk qillqachata 
+ñawinchasqanchikmanta 
+paqarichisunchik:
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+
+ch’uñu
+ch’u – ñu  -ku – na
+-Huk rimaykunata 
+
+paqarichisun:
+  ch’uñucha, ch’isi, ch’aki, 
+
+ch’aki ch’uñu
+
+Kunanqa llapanwan watikmanta kaytañataq hunt’achisunchik
+
+Qillqa ¿Imamantataq 
+qillqapi rimakun?
+
+¿Imaynataq chayri 
+kasqa?
+
+¿Imapaqtaq 
+qillqanman karqan?
+
+Ch’uñu ruraymanta
+
+Deducen el tema 
+central
+
+de un texto.
+
+Ubica datos e informa-
+ción que se encuentran 
+en diferentes partes del 
+
+texto.
+
+Deducen el propósito
+de un texto.
+
+Kunanqa irqichakunawan rimariychik (Iskaynin 
+ñiqiwan)
+ 
+•	 ¿Imamanta yachaytaq kasqa?
+•	 ¿Maykunapitaq chaytari ñawinchachkankichik?
+•	 ¿Hinatapunichu yuyaychakurqankichik?
+•	 ¿Imatataq ñawpaqtari rurasqaku? ¿Hinaspari?  
+
+¿Chaymantari? ¿Imaynatataq tukusqakuri? 
+•	 ¿Mana allinta qasa papata hap’iptinri ch’uñu 
+
+lluqsinmanchu?
+•	 ¿Imapaqtaq unuchawanri ch’isinkuyta 
+
+ch’aqchusqaku?
+•	 ¿Imanaptintaq inciensowan q’apaykachispari 
+
+taqiman ch’uñuta apaykuna?
+•	 ¿Mana rumichawan churasunman hinari 
+
+imaynataq kanman?
+
+•	 ¿Allinchu chay tayta mamapa yachayninkuna?
+
+Indicador:
+Da razones que justifican su 
+opinión sobre hechos e ideas 
+de las imágenes o textos.
+
+Indicador:
+Ordena las acciones según 
+cómo sucedieron en un 
+texto narrativo.
+
+Indicador:
+Ubica datos e información 
+que se encuentra en 
+diferentes partes del  texto.
+
+Indicador:
+Decodifica palabras 
+
+nuevas utilizando algu-
+nos indicios de palabras 
+
+conocidas (letras, soni-
+dos similares, forma de 
+
+las palabras, etc.).
+
+
+
+45Movilización Nacional por la Mejora de los Aprendizajes
+
+QILLQA ÑAWICHANAPAQ
+Amawta masiykuna, llaqtapa kasqanmanhina sumaqta allinchaykuspa, 
+warmakunapa yachaynin llanllarichinapaq llamkasunchik.
+
+QUECHUA: CHANKA
+
+TARPUY
+
+Kay quya raymi, kantaray, aya marqay killakunapi tarpukunankupaqqa 
+runakunaqa allpankunatam llaqtanpi siñalkunata qawaspanku pichanku, 
+tikranku, ima.
+
+Hinaspa, pacha mamaman allin kawsayninku lluqsinanpaq 
+haywakunku. chaymantañataq aynikunku llamkayninku 
+qallarinankupaq.
+
+Papa, sara, uqa, ulluku, hawas, maswa, lliw muhukuna 
+tarpunankupaqña sumaqta allinchanku, ichaqa kay muhukunataqa 
+tupaqnin killallapi tarpunku. Allin llamkanankupaqtaq aqata 
+upyanku, mikunata mikunku, kukata ima akunku.
+
+
+
+46     Movilización Nacional por la Mejora de los Aprendizajes
+
+Manaraq qillqata qawachispa, kay tapukuykunata tapukuy:
+
+HUK ÑIQI, ISKAY ÑIQI WARMAKUNAPAQ
+
+¿Ima killapitaq kachkanchik?
+
+¿Imatataq kay killapi tayta 
+mamanchik rurachkanku?
+
+¿Llapaykichikpachu llamkachkanku?
+
+¿Imamantataq kay qillqa kanman?
+¿Kay qillqapa sutinpi ima 
+nichkanmantaq?
+¿Chiqapchu chay rimasqaykichik?,
+¿Imaynanpi?,
+¿Maypitaq nichkan?,
+¿Imaraykutaq ninki?
+
+¿Imata  qawaspataq llamkanku?,
+¿Imaynanpi?
+¿Imakunatataq tarpunku?
+¿Allin kawsaykuna  lluqsinanpaq , 
+imatataq ruranku?
+¿Imatataq  llamkanankupaq 
+upyanku, mikunku, akunku?
+
+Kay  qillqapa  sutinwan - nisqanwan 
+¿Tupanchu?, ¿imanasqa?
+Mana tupaqnin killapi 
+tarpuptinchikqa, ¿Imaynataq 
+kanman?
+
+Indicador:
+Expresa sus  hipótesis 
+
+sobre el contenido del 
+texto a partir de indicios 
+
+encontrados en el (título, 
+imágenes, silueta del texto,
+
+palabras significativas).
+
+Indicador:
+Se anticipa al contenido 
+del texto respondiendo 
+a preguntas, durante la 
+
+lectura.
+
+Indicador:
+Ubica datos e 
+
+información que se 
+encuentra en diferentes 
+
+partes del texto.
+
+Indicador:
+Da razones que justifican 
+su opinión sobre hechos 
+e ideas de las imágenes 
+
+o textos.
+
+Qillqata 
+qawachispa
+
+Qillqata 
+ñawichaspaña
+
+
+
+47Movilización Nacional por la Mejora de los Aprendizajes
+
+HUK ÑIQIPA LLAMKAY
+
+YUYU QURACHAMANTA
+(Taki)
+
+Chakra patanpi yuyu quracha (kuti)
+pallakusunchik, yanukusunchik
+kay suma sumaq qurachanchikta.
+
+Quyu rapicha, miski mikuycha
+quyu tullucha, miski mikuycha.
+
+Kusisqallaña mikukurusun
+kay suma sumaq qurachanchikta.
+
+Kay qillqata manaraq ñawinchachkaspa sumaqta 
+qawachiy, musyanankupaq hina (ñawpaqta 
+pakawaqpas, tikrawaqpas) hinaspa tapukuy:
+
+¿Ima qillqataq?, ¿Imaynanpi?
+¿Imamantataq rimachkanman?
+
+Tapukuykunata kutichisqanmanhina, qamñataq 
+takiy, chaymantañataq paykunawan kuska 
+takiykuychik:
+
+¿kay taki sumaqchu kasqa?, ¿Imanasqa?
+
+¿Imatataq yuyumanta rurasqaku?
+¿Ima niraqtaq yuyu kasqa?
+¿Imaynataq mikuy kasqa?
+
+Indicador:
+Se anticipa al contenido de 
+
+la imagen o texto a partir de 
+algunas pistas
+
+Indicador:
+Ubica datos e información 
+
+que se encuentran en 
+diferentes partes del texto.
+
+Indicador:
+Explica oralmente sus 
+
+impresiones (hechos, ideas, 
+preferencias, etc.) sobre 
+
+textos escuchados.
+
+
+
+48     Movilización Nacional por la Mejora de los Aprendizajes
+
+SHIPIBO
+
+NATO OXEN TEETININ JANE: ¡MISHKINON BOKANWE!
+(reken axeaibo)
+
+Ja tee ati 1:  Nato chitemeran ika wishabo yoyo anon akanwe, tsoabaonki yapa bia ixon non 
+onanon.
+
+¿Tsoabaonki nato yapa bia?
+
+Yapabo
+
+Bakebo
+pichá sipan moxobaton make
+
+Nita
+
+Kate
+
+Sani
+
+Meni
+
+Rona
+
+Nato wisha riki chitemeran aka, rabebioxon yoyo ati nenkeakin itan namaankin. Nenkeakin 
+yoyo atinkora non ake bakebaon jane. Namaankin yoyo atinkora non ake yapabaon jane, 
+bakebaon ja mishkikin biabo.
+
+Neskara chitémeran ika wishaboribira non bakebaon jaskaakin yoyo ati onana iti jake. 
+Netetibi jaton akai jawekiainxon non jato amaboai neskara  wishabo jatobetanbi non akai 
+oinax bakebo kikini itan jakoni axekanai wisha yoyo axon jain yoiyai joibo ninkati, jaskaxon 
+wetsaboribi yoiti atipanke jawen ninkata joibo.
+
+Jaskarabo bakebo amatikopi, ramara en mia axonai, jaskaakin bakebo kirika yoyo axon 
+ninkatinin axeati, yoyo aresama iti kopi. Kirika wishabora aresama iki, jawe joi jato yoikin itan 
+onamakin wishakanariki, rama oinwe jaskaakin jato amaboti:
+
+a.     Axeanoxon japari ati:
+
+•	 Jatibi kirika akai bakebaonra moa mishkitainbakana iti jake. Meskobora bakebo 
+winoibakanke yapa mishki boax, jatiribibaon aibake mishkikin yapa bikin, wetsabaon 
+aibake jawebi biamakin.
+
+•	 Nato axonra non chitémeran wishai, jan já yapa biabo onanti kopi, bochiki non aka jisá. 
+Nato chité bakeboketan ani kirikain min aka jishtishaman ikain taxnanwe.
+
+
+
+49Movilización Nacional por la Mejora de los Aprendizajes
+
+b.    Axeakin jaskaakin aboti:
+
+•	 Yapa bibakana onanoxon, nato chitémeran bakebo 
+yokabokin wishawe, jatobetan jaton oinonbi wishabowe 
+já yapa jan biabo.
+
+•	 Bakebo yoiwe nato chitemeran ika joibo oinkanon, moa 
+oinyonkanapekao jatobetan yoyo iwe, neskaakin min 
+jato yokatai:
+
+¿Jawe onantikopiki neskara chité non aka?   
+
+    
+
+¿Jawekopimein nato chité janeya iki? 
+
+¿Jawemein jain noa yoiai?
+
+Non bakebora meskó wishabo oini axeamapari iki, jakopira 
+yoyo akamatianbipari nato yokabo non akai jaton onanabo 
+noa yoikanon ixon. Meskoakinbo non jato yokatai, benamakin 
+wisha jaskati yoyo ikai nokokanai kaman. Jaskaakin min jato 
+yokaboresai:
+
+¿Nato nenkiti kaa joyokanki jawe wisha iki? (metoai)
+¿Nato namani kaa joyokanki jawe wisha iki? (metoai)
+¿Jawenki já yapa bikanabo non onantia?
+
+Nato non yokatabo yoinoxonra bakebaon ointi jake ja 
+chitemeran ika wishabo, nenketi itan namani kaa joyobaon. 
+Non jato yoiyai, nenketi kaa joyokan riki jawen jane itan jabe 
+kirika akai bakebaon janeribi; ja namani kaa joyokan riki já 
+yapa bikanabo onanti.
+
+•	 Bakebo yoiwe ja chitémeranoa jaton jane wisha 
+merakanon.  
+Westiorabo kawanxon jaton jane chitémeran 
+ika metoai.
+
+•	 Bakebo yoiwe tsamabo akanon jaskaxon teebo seneanti 
+kopi, tsamabo iti jake 2 iamax 4 joniabo. Jaskaribiakin 
+anicha bake yoiwe mia akinon, kirika xatebo meniti itan 
+jane wishakanaibo mia oinkinon.
+
+Indicador:
+Expresa sus hipótesis  
+
+sobre el contenido del 
+texto a partir de indicios 
+
+encontrados en él (título, 
+imágenes, silueta del texto, 
+
+palabras significativas).
+
+Indicador:
+Se anticipa al contenido  
+del texto respondiendo  
+a  preguntas, durante la 
+
+lectura.
+
+Indicador:
+Ubica datos e 
+
+información que se 
+encuentran en diferentes 
+
+partes del texto.
+
+Indicador:
+Señala palabras que 
+
+conoce  (repertorio de 
+palabras conocidas) en 
+textos del aula (Tablas, 
+
+horarios, carteles de 
+asistencia, instrucciones, 
+
+cuentos, etc.).
+
+
+
+50     Movilización Nacional por la Mejora de los Aprendizajes
+
+•	 Bakebaonra kirika xate meniabaon jaton jane “wishai”, 
+jaskaribiakin jabe tsinkita bakebaon janeribi.
+Nato atinko oinwe bakebaon onanshamano, minra yoiti 
+jake jonin jane wishakin anin peoti, jakoankin wishatinin 
+axekanti kopi.
+Nato jawekiboribira min ati atipanke, mia shinan meniboi 
+riki ea:
+
+Nato janenkoniara westiora xate non tsekai, ¿jaweki winota? 
+¿ja iwana jisabiki yoiai? ¿jawe ikiai? ¿jawe joiboribiki Nitan jane 
+wisha jisatonin peokotai?
+
+n i t a
+
+k a t e
+
+Minpari jato oxonwe: westiora kirika xate tsekaxon jawen 
+toan wetsa xate rakanxon yokawe, ramakan ¿jawe ikiai neno? 
+Jaskaaxon bakebaon yoyo akanai joi wishabo.
+
+Moa axexonra bakebaon jatonbi neskaaxon yoyo akania. 
+Jaskaaxon yoyo aboira bakebo jakoni yoyo atin axekana iti jake.
+
+•	 Rama wetsa joibo ati bakebo akinwe, moa jaton onana 
+joinkoxon peomawe. Jaton yokataibo jaskaakin atibo 
+jato yoiwe, ninkatishamanki jato yoiyara bakebaon 
+jakonshamankin akanai.
+
+•	 Bakebo yoiwe jaton wishaa joibo itan janebo jaton kirikain 
+wishakanon. Moa keyokin wishaxon jabe kirika akaibo 
+oimakanai.
+
+•	 Nato chité min akatoninra wetsa yokaboribi min bakebo 
+atipanke, neskaakin:
+
+¿Tsoabaonkan picha bia?¿sipankan? ¿moxobatonkan?
+¿makekan? ¿Jawe yapaki Nita betan Katen bia?
+
+¿Tsonkan icha yapa bia?
+¿Tsoarin ja mecha?
+¿Tsonki ichamabires bia?
+
+Indicador:
+Decodifica  palabras 
+nuevas utilizando algunos 
+indicios de palabras  
+conocidas (letras, sonidos 
+similares, forma de las 
+palabras, etc.).
+
+Indicador:
+Ubica datos  e infor-
+mación que se en-
+cuentran en diferentes 
+partes del texto.
+
+Indicador:
+Deduce información.
+
+
+
+51Movilización Nacional por la Mejora de los Aprendizajes
+
+¿Jawekeskamein ikeanke nato wishakan jane, 
+neskaakin non aka “Tonon mishkinon bokanwe” 
+akin non aka. Matonka ¿jawekeska shinanai?
+
+ 
+ 
+
+¿Chité axomabi non wishamein onanti itan 
+ninkati ikeanke?
+
+Indicador:
+Da razones que justifican su 
+
+opinión sobre hechos e ideas de 
+las imágenes o  textos.
+
+Indicador:
+Justifica la presencia o ausencia 
+
+de algunos elementos de los 
+textos (imagen, título, etc.).
+
+Ja tee ati 2: Yoyo anon akanwe non paronko jaabo
+
+IMIRIA IAN
+
+Imiría ianriki non paromea weaman kax jaki nokoti. Ja 
+ian riki kikinshaman ani pasan ewa raka rakatani, 
+
+yapabora ikai betashibotani, meskoshanman 
+jiwibora ja ian kesha iaketanke ochoxonbi oinax 
+jaon manai manaiti jisashamanbo.
+
+Imiria ianmanra jake icha yapabo, nato ipo, make, 
+wame, amakiri. Jaskaribira jake jenemea yoinabo, kabori, 
+
+koriapiri, sapen itan wetsaboribi. Jabo piira jainoa jonibo jakanke. 
+Jaskaribi ja ian kexa ika niikanra jake icha jiwi, nato konxan, 
+
+wishtininti, aná. Ja jiwibo nontiaxra jonibo yomerai 
+bokanai, ianman, paron itan wean taebaon.
+
+Nato ianra itinke Okaya paronko. Nenora nokokanai 
+icha jonibo, non paromea itan ochokea wetsa 
+
+paromea joniboribi. Imiria ian jatibia yoikanaitian 
+onankasi bekanabo.
+
+
+
+52     Movilización Nacional por la Mejora de los Aprendizajes
+
+Proyecto: ¡YOINABAONRIBIRA YOMERAI!
+(SEGUNDO GRADO)
+Ja tee ati 1: Wetsa wishaboribi onanbonon akanwe
+
+Neskara wishabora bakebaon yoyo ati jake, ikaxbi iti jake ribojoya. 
+Nato wishara moa nenkecha iki, jaskara jain jaabo jato onamanoxon 
+wisha. Ja jato axeakin, neskaakin awe:
+
+a.   Axeanonxon japari ati
+
+•	 Nato wisha jato yoyo axonwe.
+
+•	 Kirika akin peowai bakebo axeati kopi nato wishá ani kirikain 
+wishawe.
+
+b.  Axeakin jaskaakin aboti
+
+•	 Bakebo yoyo akina pekao. Neskaakin yokawe:
+
+¿Jaweranoarin Imiria ian? ¿jawekeskarin Imiria ian?
+¿jawe yapaboki Imiria iaman ja? ¿jawe jiwiboki Imiria kexa 
+jaa? ¿Tsoaboki jain bekanai? ¿jawekopi?
+
+Nenora bakebaon onana iti jake jawe jawekiboki Imiaria iaman 
+jaa ixon, jaskaxon ja jawekibo koiranti kopi, ja jawekibo keyotima 
+kopi, chini bakebaonribi ati kopi.
+
+Nenoribira bakebobetan noa yoyo iti jake, wetsankoniax bekanai 
+jonibo jakon akin jato biti, non jeman bekanabo oinrestima 
+jato  jakoanxon raenankinti, non axe iki jato jowe ati, meratabo 
+jawekiamati. 
+
+Indicador:
+Da razones que 
+justifican su opinión 
+sobre hechos e ideas 
+de las imágenes o  
+textos.
+
+Wisha 1
+
+TONKO KOSHOSHKA
+
+Tonko Koshoshka riki jenemea yoina, ikaxbi pítima, jawen yora 
+wisotani raxkaonma, icha xetaya, renenketani, banxkanya itan 
+jina pextincha jan winax nonoai.
+
+Jarake rabekeska koshoshka, tonko koshoshka itan joshin 
+koshoshka, nato chinita riki jene beaitian panx iki betashiai. 
+
+Tonko koshoskaninra yomeraxon jakon yapashamanbores piai. 
+Nato koshoskabora non paron jake.
+
+
+
+53Movilización Nacional por la Mejora de los Aprendizajes
+
+Wisha 2:
+
+KOSHORI
+
+Westiora neteronki, Koshori paronbicho itibi Imiria iaman kaa iki, jain 
+yapa icha yoikanai ninkatax. Yomerakas ikax ochó ikebi kaa iki.
+
+Kakin, nokokin oinaronki ikai, ian tae chimakayain, joxo manxan, piti 
+manxan, manxanteo itan abo tsamata yapa jokonai pii.
+
+Ishtokainxonki, Koshorinin Abo chankatina yokatai:
+
+•	 Aboshoko, ¿jawe  yapashamanboki nato Imiria ianmameax jokonai?
+
+Abon kewinai:
+
+•	 Meskó yapara ikai, nato: bawin, tsontsoro, payari itan wetsaboribi. 
+Yapa icha ikebira en nokon pia sekeke. Koka papa Manxanteonra 
+yoiai mia kikin mecha joni, jenemeranbo kaxon yomerai ikax, 
+minra akonai.
+
+Jaskaakin Abon yoiya Koshori yapa icha oinax jainbi baneta iki, 
+yomeraxon pipiti. Jaskataxronki Koshori yomerai kaxbi Imiria joni 
+banenike.
+
+Nenora rabekeska wisha non ake:  jisá yoiya, wetsa winota yoiya. 
+Naton non bakebo onanmakasai riki meskoakin wishatibo itanribi 
+non onamai jaweati jaskakin wishakanaborin ixon. Nato shinanbo 
+bakebaon jatonribi nokoabo iti jake. Jato yokabokin non akina.
+
+a.    Axeanoxon japari ati
+
+•	 Nato wishabo ani kirikain jato wishaxonwe, bakebaon jakoankin oinkanti kopi.
+
+•	 Ja rabé wishabi bakebaon yoyo ati, maxko pein jato wishaxonwe, westiorabo 
+jato menipaketi kopi.
+
+•	 Nato rabe chitebi ani kirikain wishawe. Neskaakin:
+
+Wisha 1
+
+¿Jaweki yoyo ikarin 
+nato wisha?
+
+¿Jawekeskaki 
+koshoshka yoiyai?
+
+¿Jaweati akanarin 
+nato wisha?
+
+
+
+54     Movilización Nacional por la Mejora de los Aprendizajes
+
+Wisha 2
+
+¿Jaweki yoyo ikarin 
+nato wisha?
+
+¿Jawekeskaki 
+koshoshka yoiyai?
+
+¿Jaweati akanarin 
+nato wisha?
+
+b.   Axeakin jaskaakin aboti
+
+Nato axetiainra kimishakeska jaweki non oinai. 
+
+Rekenpari: Non onanai jaskaakin reken wisha aka, jisá yoiya
+
+•	 Bakebaon yoiyai jaton onanabo, koshoshkaki yoyo ikanai: 
+jaweranoki jakana, jaweki pikanai, jawetianki bakeakanai, 
+wetsaboribi jaton onanabo(nenoribi ikanti jake wetsa 
+chitekan ika anicha bakeboribi)
+
+•	 Maxko pein wishabo bakebo menipakeai, jaskaxon jato 
+yoiyai neteshamaxon yoyo akanti.
+
+•	 Wishá 1 ani kirikain wisha boanxon pisarain taxnanai.
+
+TONKO KOSHOSHKA
+
+Tonko Koshoshka riki jenemea yoina, ikaxbi pítima, 
+jawen yora wisotani raxkaonma, icha xetaya, 
+renenketani, banxkanya itan jina pextincha jan winax 
+nonoai.
+
+ Jarake rabekeska koshoshka, tonko koshoshka itan 
+joshin koshoshka, nato chinita riki jene beaitian panx 
+iki betashiai. 
+
+Tonko koshoskaninra yomeraxon jakon 
+yapashamanbores piai. Nato koshoskabora non 
+paron 
+
+Indicador:
+Decodifica y 
+comprende textos 
+breves y sencillos de 
+diverso tipo.
+
+
+
+55Movilización Nacional por la Mejora de los Aprendizajes
+
+•	 Chitémeran ika yokabo jato yokawe. Bakebaon yoiyai chibamakin, 
+jaton wishnonbi chitéain wishawe. Chinita namani ka chiteainpari 
+wishayamawe.
+
+Wisha 1
+
+¿Jaweki yoyo 
+ikarin nato wisha? Koshoshka jaskara jisa, jain jai tan jan piabo yoiya.
+
+¿Jawekeskaki 
+koshoshka yoiyai?
+
+jenemea yoina, ikaxbi pítima, yora wisotani 
+raxkaonma, icha xetaya, renenketani, banxkanya 
+itan jina pextincha jan winax nonoai.
+Nato paron jake rabekeska koshoshka, tonko 
+koshoshka itan  joshin koshoshka,  yomeraxon 
+jakon yapashamanbores piaibo. 
+
+¿Jaweati akanarin 
+nato wisha? Jato onamanoxon aka.
+
+Rabeain ati: Non onanai jaskaakin rabeain wisha aka, jaskara 
+winotabo.
+
+•	 Rekeain min awanakeskaribiakin awe. Ani kirikanin wisha 
+taxnanwe.
+
+KOSHORI
+
+Westiora neteronki, paronbicho itibi Koshori kaa iki Imiria iaman, 
+jain yapa icha yoikanai ninkatax. Yomerakas ikax ochó ikebi kaa iki.
+Kakin, nokokin oinaronki ikai, ian tae chimakayain, joxo manxan, 
+piti manxan, manxanteo itan abo tsamata yapa jokonai pii.
+Ishtokainxonki, Koshorinin abo chankatina yokatai:
+
+- Aboshoko, ¿jawe  yapashamanboki nato Imiria ianmameax 
+jokonai? 
+
+Abon kewinai:
+
+- Meskó yapara ikai, nato: bawin, tsontsoro, payari itan wetsaboribi. 
+Yapa icha ikebira en nokon pia sekeke. Koka papa Manxanteonra 
+yoiai mia kikin mecha joni, jenemeranbo kaxon yomerai ikax, minra 
+akonai.
+
+Jaskaakin abon yoiya, Koshori, yapa icha oinax jainbi baneta iki, 
+yomeraxon pipiti. Jaskataxronki Koshori yomerai kaxbi Imiria joni 
+banenike.
+
+Deduce el 
+tema central 
+
+del texto.
+
+Ubica datos e 
+información que 
+
+se encuentran 
+en diferentes 
+
+partes del texto.
+
+Deduce el 
+propósito de 
+
+un texto.
+
+
+
+56     Movilización Nacional por la Mejora de los Aprendizajes
+
+Wisha 2
+¿Jaweki yoyo ikarin nato wisha?
+
+¿ Jawekeskaki koshori yoiyai?
+
+¿Jaweati akanarin nato wisha?
+
+¿ Tsoki yoyo 
+ikarin …
+
+¿jaweki yoiyai … ¿jaweati 
+wishakanarin…
+
+¿jawe janerin 
+jaskara wisha …
+
+... wisha 1 Koshoshkaki Jenemea yoina ikaxbi pítima, 
+yapa piai, yomekas, jabe 
+yomeraxon papan noa piro tabi 
+kawa noeshaman pikinai. 
+
+Noa onamanoxon 
+jawekeskarin 
+koshoshka ixon 
+itan jan akaibo noa  
+yoinoxon.
+
+... wisha 2 Koshoriki Koshori paronbicho iti, Imirain 
+kaxon nokoai, abo wetsa 
+yoinabori. Yomerakas ikax yapa  
+icha oinax jainbi iakeax Imiría 
+joni baneni.
+
+Noa ninkamanoxon 
+wetsa jonibo 
+winokanibo.
+
+Indicador:
+Deduce el 
+propósito de 
+un texto.
+
+¿ Tsoki yoyo 
+ikarin …
+
+¿jaweki yoiyai … ¿jaweati 
+wishakanarin…
+
+¿jawe janerin 
+jaskara wisha …
+
+... wisha 1 Koshoshkaki Jenemea yoina ikaxbi pítima, 
+yapa piai, yomekas, jabe 
+yomeraxon papan noa piro 
+tabi kawa noeshaman pikinai. 
+
+Noa onamanoxon 
+jawekeskarin 
+koshoshka ixon 
+itan jan akaibo noa  
+yoinoxon.
+
+Jisá yoiya
+
+... wisha 2 Koshoriki Koshori paronbicho iti, Imirain 
+kaxon nokoai, abo wetsa 
+yoinabori. Yomerakas ikax 
+yapa  icha oinax jainbi iakeax 
+Imiría joni baneni.
+
+Noa ninkamanoxon 
+wetsa jonibo 
+winokanibo.
+
+kointo
+
+Kimishain ati: Ja rebe wishabi oinbekonai
+
+ Ja rabe wishabi chitemera wishaxon, awe bakebo yokakin:
+
+¿Wisha 1 itan 2 ikainki ja joiribi onamakanai?
+¿Ja rabe wishabikanbiki jaskaakinbires noa ninkamai?
+
+¿Matonka onana, jisa yoiyai wishaki jawe jane iki? (bakebaon 
+onanyamaketian non yoiyai: jisá yoiya).
+
+¿Matonka onana jonibo winokani yoiyai wishakan jane? (bakebaon 
+onanyamaketian, yokaboxon nokomawe yoikanti jake kointo akin).
+
+Yoyo ixonra bakebaon ninkata itan onankana iti jake jaskabiresma ja rabe wisha, 
+reken wishakan noa yoiai jawen jisá, wetsa wishakan noa ninkamai winokani joibo.
+
+•	 Senentiainbi bakebobetan wishakin bochoawe ja chinita joyó, moa min 
+ayamawanabo.
+
+
+
+57Movilización Nacional por la Mejora de los Aprendizajes
+
+ASHANINKA
+
+“TSAME ANTSAMETAKOTERO YOTANTSIPANKO”
+
+Yotaneripe: 1º
+Intanakearone anteri:
+ 
+•	 Ankanteri jananeki iramayete sabiri, irampa, kantiri, koshitari, pishibakintsi, 
+
+kotsiro itsamejeitakotantyarori yotantsipanko.
+
+•	 Tekera intanakearo intsamejeite añabentakotero okoaperotantari ankitetakayero 
+yotantsipanko.
+
+•	 Apatojeiteri jananekipe itsamejeitantyari kametsa.
+
+•	 Ashitoajeitanake antsametakotantyarori yotantsipanko.
+
+•	 Intanakearo  meka antaberentsi.
+
+•	 Amenapiniteri jananekipe itsamejeitantyari kametsa.
+
+•	 Atsonkakerorika antsametakotero yotantsipanko, ankenkitsatakajeri jananekipe.
+
+•	 Iro añabentankosanoteri amayetakeri atsametantyari. Ankemeri jananekipe 
+impajiriayetero maroni yamajeitakeri.
+
+Iyotakoteri jananekipe:
+
+•	 Ari meka obametantatsiri intsirekakotero ñanarentsi.
+
+•	 Tekera añanatanakero ñanarentsi ankanteri 
+jananekipe iramenero shiyakantsi aisati 
+sankenatainchari impoiji asampiteri:
+
+¿Paita shiyakantakotachari?
+
+•	 Ankemeri jananekipe ikantayeteri.
+
+Antaberentsi
+
+Okitetantyari yotantsipanko jaoka ankeaje 
+añanatantyari, maroni shirampari yamajeitake 
+sabiri irori tsinane amajeitake kantiri  jero 
+pishibakintsi. Irokantacha Aroshi yamake 
+irampa irori Saori amake kotsiro.
+
+Indicador:
+Deduce el propósito del texto.
+
+
+
+58     Movilización Nacional por la Mejora de los Aprendizajes
+
+¿Paita okantakotiri sankenarentsi?
+
+•	 Ankanteri jananekipe inkenkishiriajeitya
+•	 Añanatero meka ñanarentsi ikemantabakearori   
+
+okantakotiri. Asampitiyari:
+
+¿Akakero pikenkishiriajeitakari?
+
+•	 Añanatajero sankenarentsi, ikemantabajearori 
+jananakipe.
+
+•	 Asampijeiteri ikenkishiriantyari.
+
+¿Paita ajeitanakeri tsinane otsametantyari?
+¿Paita okobantari ankitetakayero yotantsipanko?
+¿Okoaperota amitakotabakaya 
+antaberentsiki?¿Paitakea?
+
+•	 Añanatakajeri jananekipe sankenarentsi.
+•	 Ankanteri ijikotero ñantsi iyotabakeri. Ankemeri aparope.
+•	 Ankanteri intsapatakotero ñantsipe.
+
+•	 Asankenatero ñantsipe paperiki impoiji antsirekakotero.
+
+Indicador:
+Expresa sus 
+hipótesis sobre el 
+contenido del texto 
+a partir de indicios 
+encontrados en el.
+
+Indicador:
+Comprueba sus 
+hipótesis sobre el 
+texto durante o 
+después de la lectura.
+
+Indicador:
+Decodifica palabras 
+nuevas utilizando 
+indicios de palabras 
+conocidas (letras, 
+sonidos similares, 
+formas de las 
+palabras, etc.
+
+•	 Añanatakayeri jananekipe aparope ñantsi.
+
+•	 Amperi paperi jananekipe isankenatantyari aparoni ñantsi 
+inebetakari.
+
+•	 Añanatakayeri ñantsi isankenatakeri paperiki.
+
+•	 Añanatakayeri maroni jananeki isankenayetakeri aparope.
+
+•	 Intsirekakotero yotantsipankoki isankenajeitakeri aparope.
+
+•	 Ari oberayempa antabetakayeri jananekipe, ampitakajeri 
+pashiniki kitaiteri.
+
+sabiri kotsiro irampa kantiri
+
+
+
+59Movilización Nacional por la Mejora de los Aprendizajes
+
+AWAJÚN
+
+NAMAK MAAKU WEGAGMI
+Augbau : 1°
+
+Jintiaku takastin: Cartel tutaiya nunu diisa yaa ima kuashat namakan mae nunu dekami
+
+a.   Jintiamu nagkamku takastin:
+
+•	 Uchi aidaujai takat nagkamattaku augmatmainai entsa nija namak maawagbau pachisa. 
+Nuniaku tumainai, juju iwainag juka maki makichik uchi aidau namakan maawaja nuna 
+etsejui, nuniau asamtai shiig diistajum tumainai.
+
+¿Yaa juju namak aidaunash maawaje?
+
+Namak
+
+Uchi
+aidau tsuutsum pepen chuwiu katiish
+
+Tuyas X X
+
+Waniak X X X
+
+Paati X X
+
+Tiwi X X
+
+Yanas X
+
+•	 Juna diisagmatai, augmatmainai maki makichik uchi aidaush wajina maawaje 
+nunu pachisa. Nuniaku inimainai: ¿Tuyasash wajupa namaknash mae?, ¿Yaa 
+ima kuashtash namaknash mae?, ¿wagka betekash machaje namaknash?, 
+¿namaknash wajiyaik maawaje?, ¿utugkatasa namaknash maawaje? aatsa 
+inimainai.
+
+•	 Ashi augmattsa ukuaku, uchi aidau juna iwainag anmamtin tikich umikmi tumainai, tusa 
+tsentsaka achimtija (cartel) umika papí augtai tanishjin juki ditajai adumainai.
+
+b.   Jintia emaku takastin:
+
+•	 Ashi dutika umiku asa nuigtushkam nunu tsentsakbaunmash uchi aidau daajish ashi 
+agaja batsatka, uchi aidau dita namak mawagbaun adaiyinakui tsentsagbaunum ditá 
+daaji batsata nuwi mamiksa wají namakna maawaje nuwi betekush sapagtumainai (x).
+
+
+
+60     Movilización Nacional por la Mejora de los Aprendizajes
+
+•	 Dutika ashí amuka ukuaku, yabai uchi aidau diistajum juju umikag nunú tusa tumainai.
+
+¿Yaa juju namak aidaunash maawaje?
+
+Namak
+
+Uchi
+aidau tsuutsum pepen chuwiu katiish
+
+Tuyas X X
+
+Waniak X X X
+
+Paati X X X
+
+Tiwi X X
+
+Yanas X X X X
+
+Pinas X
+
+Sanchum X X
+
+Kakias X X
+
+Wepiu X X
+
+Shimpu X X X
+
+•	 Juna diisagmatai, ditajai ijuntuja takasbauwa nunu pachisa augmatmainai.
+
+¿Wagka juju cartel tutaiya dusha takaji?
+¿Juju cartel tutaiya dusha wagkag daajish 
+aan adaitukji?
+
+¿Juju cartel najanag dusha wajina pachisa 
+etsejua?
+
+Indicador:
+Expresa sus hipótesis sobre el 
+contenido del texto a partir de 
+indicios encontrados en él (título, 
+imágenes, silueta del texto, 
+palabras significativas).
+
+Indicador:
+Se anticipa al contenido  
+del texto respondiendo  a  
+preguntas, durante la lectura.
+
+
+
+61Movilización Nacional por la Mejora de los Aprendizajes
+
+Juju uchi iniag juka, cartel najanamu aumtiktsuk, díta 
+anentaibaun titinme tusa dutiknawai. Dutika dekapenak  
+dekatnume jutika agaja nuigtu tikich wegantu agagbau 
+aidaunash dekatnume tusa dutikmainai. Antsaik, jutishkam 
+atumainai uchi aidaushkam junin najanamu nuigtu tikich 
+niimtin aina dusha wajinak augmatuinawa tusa pachisa.
+
+¿Juju cartel tutaiya nuna yakin dekatkau tesakbauwa 
+nuwish waji wainjume?
+¿Wají wainjume dekatkau yantamnum tsentsakbauwa 
+nuwish?
+¿Wají dakumkamu akuiya jutí namak maamush 
+yupichuchish mamikiaji?
+
+Juju inibaun dewatsuk aiktinme takuik shiig ujamainai. 
+Tumainai, dekatkau menanum agagbauwa awig, amina 
+nuigtu kumpagmi daaji aidau agagbau awai tusa. Untsu, yaki 
+pee tsentsakbau awa nuwig díta namak maamu aina nunú 
+dakumkamu ainawai tusa ujamainai.
+
+•	 Imatika ujaku asa, uchi aidau maki makichik untsuka amina 
+daagmish tuwaita nunu ejeta tumainai.  Tusa ujaku asa uchi 
+aidau untsumainai maki makichik wajakiag daajin uwejen 
+mamikiatnume tusa.
+
+•	 Dutika uchi nuwauch aismagkush aidaushkam maki 
+makichik akanja ijumjata jimagkesh nuniashkumesh ipak 
+usumtakesh. Nu dutikakmek uchi numpasu atutkata 
+tumainai, uchi tsakatush aidau akanbaunum nuigtuskam 
+unuimaku wasugkamtai letra móvil tutaiya nu tinamka 
+takainakui diyamunmashkam.
+
+•	  Jujú unuimaku wasugkamtai letras móviles tutaiya nujai 
+uchi aidauk daajin najanmain ainawai antsag dita kumpaji 
+daaji aidaunashkam. Juju takaku pujusa yupichu ditajaish 
+chichamainai wajutiya chicham muuntaish nuniashkuish 
+chicham yaijaish agataiyita nunu pachisa.
+Nuniaku tumainai: Juju dáa najanamua nuwi makichik letra 
+tutaiya nunú
+
+¿yapajiamash wajukawainkita?, ¿betekash chichakaj 
+augmainait?, ¿Wajintuk chichakainta augmash?, ¿Wají 
+chichamak nagkamnawainta juju chicham akankamu “ya” 
+tutaiya nujaish?, taku tikichish inimainai
+
+Indicador:
+Ubica datos e 
+
+información que 
+se encuentran en 
+diferentes partes 
+
+del texto
+
+Indicador:
+Señala palabras que 
+
+conoce  (repertorio de 
+palabras conocidas) 
+
+en textos del aula 
+(Tablas, horarios, 
+
+carteles de asistencia, 
+instrucciones, 
+cuentos, etc.).
+
+
+
+62     Movilización Nacional por la Mejora de los Aprendizajes
+
+y a n a s
+
+y a n a t
+
+Indicador:
+Decodifica  palabras nuevas 
+utilizando algunos indicios de 
+palabras  conocidas (letras, sonidos 
+similares,  forma de las palabras, etc.).
+
+Indicador:
+Ubica datos e 
+información que se 
+encuentra en diferentes 
+partes del texto.
+
+Indicador:
+Deduce información.
+
+Indicador:
+Da razones que 
+justifican su opinión 
+sobre hechos e ideas de 
+las imágenes o textos.
+
+Indicador:
+Justifica la presencia 
+o ausencia de algunos 
+elementos de los textos 
+(imagen, título, etc.).
+
+c.   Jintia ashimku takastin:
+
+Ashi takasa ashimku, uchi aidaujai augmatmainai unuimaku takasbauwa nunu pachisa. 
+Dutikaku atumshakam jumamtin jeemin takastajum, yatsum eemkaujai nuniashkumesh 
+apa yaimpakmatai ame wakejamu pachisam umikta tumainai.
+
+¿Yaa aidauwa tsuutsumnash achikagme?, 
+¿katiishnash? nuigtu ¿chuwiunash?
+¿Waji namakna achikagme Waniakush,
+
+ Kakiasjaish?
+
+¿Yaa namaknash tinamjash ima
+ kuashtash mae?
+¿Juti ainag nuwish yaa ima kuashtash mae 
+namaknash?
+¿Yanasush wagka ima kuastash namaknash mae?
+¿Yaa ima ujumkesh mae namaknash?
+
+¿Wajukawainkita juju cartel tutai takasag nuna daaji 
+yapagtua  “ ijuntusa papí augtai agáji tsuwamjami”, 
+
+tamash?
+
+¿Wajuk juwakainta juju cartel tutaiya nuwi tesaja 
+akanjamunum chicham agagbau nuigtu dakumkamu 
+awa nunu atsugmash ?
+
+Letra móvil tutaiya nujai, chicham najanku uchi iniasagmi inimsatin agagbauwa nunu, 
+nagkama inimainai, dutika agkan idaimainai dita wakejamun yapajiatnume unuimainak 
+chichaman najanatnume tusa.
+
+Tujash dutika ditak unuimak takastinme tusa idaikuish tuke yaimainai chicham tikich aidaun 
+dita wakejamun najanatatus inimainakuish.
+
+•	 Nuna dutika unuimak chichaman najanainakui papigmin agagtajum tumainai 
+antsagmek kumpajum aidaushkam idaktustajum ditashkam wainkatnume atum 
+takasbaugmin tumainai.
+
+•	 Untsu, juju cartel tajig nunu uchi aidaujai takaku pujusa inimsatasa wakejakuik 
+inimainai aatus:
+
+
+
+63Movilización Nacional por la Mejora de los Aprendizajes
+
+En esta sección te presentamos lo que entendemos por 
+evaluación, sus propósitos y la manera de llevarla a cabo. 
+Además, te damos algunas recomendaciones para evaluar las 
+capacidades referidas a la comprensión de textos.
+
+¿Qué es evaluar los aprendizajes?
+
+La evaluación de los aprendizajes es un proceso pedagógico 
+continuo, sistemático, participativo y flexible, que forma parte 
+del proceso de enseñanza y  aprendizaje.
+
+La evaluación, como proceso pedagógico inherente a la 
+enseñanza y al aprendizaje, te permite observar, recoger, analizar 
+e interpretar información relevante acerca de las necesidades, 
+posibilidades, dificultades y logros de aprendizaje de los niños 
+y niñas, con la finalidad de reflexionar, emitir juicios de valor 
+y tomar decisiones pertinentes y oportunas para mejorar tus 
+estrategias de enseñanza y lograr avances en el aprendizaje de 
+tus estudiantes.
+
+Un error común es considerar en la evaluación aspectos que 
+no tienen que ver con el logro de la capacidad, por ejemplo la 
+revisión de cuaderno, el énfasis en la caligrafía y ortografía, entre 
+otros. Son aspectos irrelevantes para evaluar la comprensión 
+de textos.
+
+4
+¿CÓMO EVALUAMOS 
+LOS APRENDIZAJES 
+EN COMPRENSIÓN 
+DE TEXTOS?
+
+
+
+64     Movilización Nacional por la Mejora de los Aprendizajes
+
+¿Qué evaluamos?
+Se evalúa la competencia a partir de las capacidades, 
+conocimientos y actitudes del área, para lo cual es necesario 
+formular indicadores de logro que te permitan observar lo 
+que sabe hacer cada niño o niña  respecto a la capacidad.
+
+¿Para qué evaluamos?
+•	 Para  reflexionar  sobre  la  pertinencia  de  las  estrategias  
+
+didácticas aplicadas.
+
+•	 Para  tomar  decisiones  que  ayuden  al  niño  y  niña  a  
+mejorar  sus aprendizajes.
+
+•	 Para que los estudiantes pueda reconocer sus logros, 
+afianzar lo aprendido y superar sus dificultades.
+
+•	 Para tener argumentos claros para explicar a los padres 
+de familia cómo pueden ayudar a sus hijos e  hijas en la 
+escuela.
+
+NIVEL INICIAL – 5 AÑOS
+
+La evaluación de la lectura en inicial 5 años tiene como 
+finalidad identificar el nivel en el que se encuentran los niños 
+y las niñas con respecto a las capacidades de lectura. Esta 
+actividad se debe llevar a cabo en situaciones reales, en las 
+que las imágenes se leen con diversos propósitos.
+
+La imagen que se propone para la lectura, y las capacidades 
+e indicadores, corresponden al inicio del año escolar. 
+Posteriormente se puede proponer la lectura de textos cortos 
+y sencillos acompañados de imágenes que expresen lo que 
+dice el texto.
+
+EJEMPLO 1: 
+Lectura de imágenes
+
+Querida madre 
+danos siempre 
+
+tus frutos.
+
+Gracias Apus
+ por darnos aguita 
+
+para nuestra 
+Pachamama
+
+
+
+65Movilización Nacional por la Mejora de los Aprendizajes
+
+¿QUÉ EVALUAR? ¿CÓMO EVALUAR? ¿CON QUÉ EVALUAR?
+
+Capacidad Indicador Preguntas escritas y/o orales Observación Instrumentos
+
+Identifica 
+información 
+explícita contenida
+en imágenes o 
+textos leídos por el
+maestro.
+
+Menciona personas, 
+roles, acciones, 
+lugares, tiempo 
+y emociones en 
+imágenes o textos 
+leídos por el 
+maestro.
+
+¿Quiénes son las 
+personas que están en 
+la imagen?
+
+¿Qué están haciendo?
+
+¿Dónde están?
+
+¿Tu familia y tú hacen 
+igual la siembra?
+
+Pide al niño o niña 
+que mire la imagen 
+con atención, dile que 
+encierre en un círculo a 
+las mujeres que están 
+trabajando.
+Observa si puede 
+identificarlos, pídele 
+que te comente si es 
+igual el trabajo que 
+hacen los varones y las
+mujeres.
+
+•	  Lista de cotejo.
+
+•	   Ficha de 
+aplicación.
+
+Formula hipótesis 
+sobre la escritura 
+en situaciones 
+comunicativas.
+
+Diferencia dibujo 
+de escritura en 
+diversos textos.
+
+Encierra en un círculo 
+donde dice algo o 
+donde está  escrito 
+algo.
+
+Pide al niño y niña 
+que encierre en un 
+círculo donde dice algo 
+o donde está escrito 
+algo. Observa si el niño 
+es capaz de reconocer 
+las palabras escritas
+que aparecen en la 
+lámina.
+
+Hace inferencias 
+en imágenes, 
+textos con 
+imágenes o textos 
+leídos por el 
+maestro.
+
+Deduce la causa 
+de un hecho 
+observado en 
+imágenes o en 
+textos leídos por el 
+maestro.
+
+Señala al hombre que 
+está solo y pregunta: 
+¿por qué estará solo?
+Si llueve, ¿que pasaría 
+con nuestra siembra?
+¿Qué crees que le está 
+diciendo la señora a la
+pachamama?
+
+
+
+66     Movilización Nacional por la Mejora de los Aprendizajes
+
+¿Cómo registras la información que recogiste en esta evaluación?
+Hay muchas formas de registrar la información que has recogido. 
+A continuación te mostramos un ejemplo:
+
+LISTA DE COTEJO: puedes registrar los resultados en una tabla como la siguiente:
+
+Identifica 
+información 
+
+explícita contenida 
+en imágenes o 
+
+textos leídos por el 
+maestro
+
+Hace inferencias en 
+imágenes, textos 
+con imágenes o 
+
+textos leídos por el 
+maestro
+
+Opina sobre el contenido de las 
+imágenes, textos con imagenes ó textos 
+
+leídos por el maestro
+
+Apellidos y
+Nombres
+
+Menciona 
+personas, 
+roles, acciones, 
+lugares, tiempo 
+y emociones en 
+imágenes o textos
+
+Diferencia dibujo 
+de escritura en 
+diversos textos
+
+Deduce la causa de 
+un hecho o idea
+
+Explica oralmente 
+sus impresiones 
+(hechos, ideas, 
+preferencias, 
+etc.) sobre las 
+imágenes o textos 
+escuchados.
+
+1
+Wawasonco
+Wawasonco Efrain
+
+SI SI SI NO
+
+2
+Huillcahuaman
+Condori María
+
+NO SI SI SI
+
+3 Tutrik Irar Milk SI SI SI NO
+
+4 Saumag Mayak SI SI NO NO
+
+5
+Rodríguez Larios
+Jorge
+
+SI SI SI NO
+
+¿Cómo lees estos resultados?
+En forma individual
+
+Revisa los procesos de cada uno de tus niños y niñas. Por ejemplo Efrain Wawasonco es 
+capaz de reconocer personas y roles en imágenes; diferencia dibujo de escritura y deduce la 
+causa de un hecho observándola en la imagen. Sin embargo, todavía no logra opinar ni da 
+razones sobre los textos que el maestro le lee.
+
+En forma grupal
+
+Además de ver los procesos de cada niño y niña, es importante también ver los avances 
+de todo tu grupo. Por ejemplo: todos los estudiantes diferencian dibujo de escritura en la 
+lámina, pero más de la mitad no puede explicar oralmente sus impresiones sobre la imagen.
+
+
+
+67Movilización Nacional por la Mejora de los Aprendizajes
+
+QUECHUA COLLAO
+
+CAPACIDAD INTERPRETA ÍCONOS, SEÑALES Y SÍMBOLOSEN SITUACIONES COMUNICATIVAS
+
+N° Indicador Explica el significado de íconos, señales y símbolos de su entorno
+
+1 Luisa Santos Mamani Aschallataraq
+
+2 Siwar Quispe Huamán Allin
+
+3 María Llasa Condori Allin
+
+4 Raymi Lopez Huanca Aschallataraq
+
+5 Raymi Lopez Huanca Allin
+
+6 Urpi Santos Carpio Allin
+
+¿Qué haces con esta información?
+Deberás TOMAR DECISIONES.
+
+¿Qué puedes hacer?
+Tendrás que regresar al texto y evaluar tus estrategias que permitan al niño y niña 
+expresarse con mayor libertad y espontaneidad sobre sus impresiones.
+
+Waraq’u achkhata t’ikan 
+chayqa, achkha mikhuykuna 
+
+kanananpaqmi.
+
+Kisaq t’ikan hatun ruruyuq 
+misk’isapacha kan chayqa allin
+
+papa kananpaqmi.
+
+
+
+68     Movilización Nacional por la Mejora de los Aprendizajes
+
+CAPACIDAD INDICADORES PREGUNTAS ORALES INSTRUMENTOS
+
+Interpreta íconos, señales 
+y símbolos en situaciones 
+comunicativas.
+
+Explica el significado de 
+íconos, señales y símbolos 
+de su entorno.
+
+¿Ima t’ikakunatan 
+qamkuna riqsinkichik?
+¿Imaraykutaq yurakuna, 
+khiskakuna ima 
+t’ikamunku?
+¿Imatataq t’ikakunari 
+willawanchik?
+¿Maytan rirqanchik?
+
+Siq’isqanta chaninchay.
+Rimasqanta chaninchay.
+
+NIVEL PRIMARIO  PRIMER GRADO
+
+EJEMPLO 1:  Lectura de imágenes
+
+Proyecto: ¡vamos a pescar! 
+Periodo: Primer trimestre 
+Descripción con imágenes
+
+Mi papá
+
+Cuando llegó a la
+
+una rica
+
+patarashca.
+
+mi preparó
+
+tarrafa mijano.
+
+cuando se encontró con un gran
+
+fué al a pescar con su
+
+José río
+
+ casa mamá
+
+
+
+69Movilización Nacional por la Mejora de los Aprendizajes
+
+INDICADORES PREGUNTAS Observación Observación
+
+Utiliza su conocimiento 
+del código escrito para leer 
+diversos tipos de textos.
+
+Lee palabras asociándolas 
+con algunas pistas de 
+palabras conocidas 
+(letras conocidas, sonidos 
+similares, forma de las 
+palabras).
+
+Señala qué palabras 
+puede leer y responde
+¿qué dice?
+En tarjetas léxicas con 
+palabras extraídas del 
+texto, selecciona algunas 
+de ellas y lee lo que dice.
+
+Lista de cotejo
+Evaluación 
+escrita
+
+Recupera información en 
+imágenes o textos leídos por 
+ellos mismos o con ayuda del 
+maestro.
+
+Ubica datos e información 
+que se encuentran en 
+lugares evidentes de los 
+textos que leen.
+
+¿A dónde se 
+fue José?
+
+Se le pide al niño que 
+señale ¿a dónde se fue 
+José?
+
+Hace inferencias en textos 
+con imágenes leídos por ellos 
+mismos o con ayuda
+del maestro
+
+Deducen el tema central 
+de un texto.
+
+¿De qué trata 
+el texto?
+
+¿Cómo registras la información que recogiste en esta evaluación?
+Existen diferentes formas de registrar la información que has recogido. A continuación te 
+mostramos una lista de cotejo que puede servir de ejemplo:
+
+CAPACIDADES
+
+Utiliza su conocimiento 
+del código escrito para leer 
+diversos tipos de textos.
+
+Recupera información en 
+imágenes o textos leídos 
+por ellos mismos o con 
+ayuda del maestro.
+
+Hace inferencias en tex-
+tos con imágenes leídos 
+por ellos mismos o con 
+ayuda del maestro
+
+INDICADORES Lee palabras asociándolas con 
+algunas pistas de palabras 
+conocidas (letras conocidas, 
+sonidos similares, forma de las 
+palabras).
+
+Ubica datos e información 
+que se encuentran en lugares 
+evidentes de los textos que 
+leen.
+
+Deduce el tema central de 
+un texto.
+
+NOMBRES
+
+Saumag SÍ NO NO
+
+Soi Same SÍ SÍ SÍ
+
+María SÍ NO NO
+
+Visho SÍ SÍ SÍ
+
+Juan NO NO NO
+
+
+
+70     Movilización Nacional por la Mejora de los Aprendizajes
+
+¿Cómo lees estos resultados?
+En forma individual
+
+Revisa los procesos de cada uno de tus niños y niñas. Por ejemplo, 
+Saumag puede decodificar y leer algunas palabras conocidas, pero 
+no logra ubicar datos en el texto ni deducir la idea central; pero Soi 
+Same sí logra leer palabras, ubicar los datos y deducir la idea central.
+
+¿Y qué sucede con Juan? ¿cómo está en logros de aprendizaje?
+
+En forma grupal
+
+Además de ver los procesos de cada niño, también deberás ver los 
+avances de todo tu grupo. Por ejemplo, la mayoría de estudiantes 
+lee palabras asociándolas con algunas pistas de palabras conocidas, 
+pero más de la mitad no pueden ubicar datos ni deducir el tema 
+central de un texto.
+
+¿Qué haces con esta información?
+Deberás TOMAR DECISIONES.
+
+¿Qué puedes hacer?
+Tendrás que regresar al texto para volver a leer y reformular tus 
+preguntas para evidenciar los datos y deducir el tema central de un 
+texto.
+
+NIVEL PRIMARIO  SEGUNDO GRADO
+
+EJEMPLO 2:  Lectura de una anécdota con imágenes.
+
+¡Un gran susto!
+
+Un día Juan fue a anzuelear a la orilla de una quebrada y estuvo 
+pescando largo rato. El viento era tan fuerte que le impedía 
+escuchar a los animales cuando estos se acercaban.
+
+Juan estaba muy concentrado en su pesca, cuando en eso… sintió 
+una escopeta a la altura de su oreja. Asustado gritó: ¡no me mates, 
+no toqué tus cosas! Enseguida se volteó lentamente y se dio con la 
+sorpresa de que era un oso hormiguero 
+que había pasado su trompa por 
+encima de su hombro. ¡Qué tal 
+susto!
+
+
+
+71Movilización Nacional por la Mejora de los Aprendizajes
+
+¿QUÉ EVALUAR? ¿CÓMO EVALUAR? ¿CON QUÉ EVALUAR?
+
+Capacidad Indicadores Preguntas orales o escritas Instrumentos
+
+Recupera información 
+en los textos leídos 
+por ellos mismos
+
+Ubica datos e información 
+que se encuentran en 
+lugares evidentes de los 
+textos que leen.
+
+Menciona el orden en el 
+que se suceden los hechos 
+y acciones de un texto.
+
+¿Dónde se encontraba Juan?
+¿Qué estaba haciendo?
+
+Ordena las acciones 
+enumerando del 1 al 4
+
+Hace inferencias en 
+textos que lee.
+
+Deduce la causa de un 
+hecho o idea de texto.
+
+Deduce el tema central de 
+un texto.
+
+Deduce el propósito de un 
+texto.
+
+¿Por qué se asustó Juan?
+
+¿De qué trata el texto?
+
+¿Para qué fue escrito este 
+texto?
+
+Opina sobre el 
+contenido y la forma 
+de los textos que lee.
+
+Da razones que justifican 
+su opinión,gustos y 
+preferencias sobre hechos 
+e ideas de un texto.
+
+¿Estás de acuerdo con la 
+reacción de Juan?
+
+¿Cómo hubieras reaccionado 
+tú?
+
+
+
+72     Movilización Nacional por la Mejora de los Aprendizajes
+
+Ahora te mostraremos un ejemplo de prueba escrita para segundo grado.
+
+1.   Escribe V si es verdadero o F si es falso.
+
+¿Dónde se encontraba Juan?
+
+Juan estaba en el monte. (           )
+
+Juan estaba en la orilla de una quebrada. (           )
+ 
+¿Qué estaba haciendo Juan?
+
+Estaba pescando (           )
+
+Estaba cazando (           )
+
+2.   Numera los enunciados del 1 al 4 según corresponde el orden de la lectura.
+
+Juan dijo: “no me mates, no toqué tus cosas”
+
+Era un oso hormiguero el que había asustado al niño.
+
+El viento soplaba muy fuerte mientras Juan pescaba.
+
+Un día Juan se fue a anzuelear a una quebrada.
+
+3.   Marca la imagen del animal que asustó a Juan.
+
+4.  Responde a las siguientes preguntas:
+
+•	 ¿De qué trata la lectura?
+•	 ¿Para qué fue escrito este texto?
+•	 ¿Estás de acuerdo con la reacción de Juan?
+•	 ¿Cómo hubieras reaccionado tú?
+
+
+
+73Movilización Nacional por la Mejora de los Aprendizajes
+
+¿Cómo registras la información que recogiste en esta evaluación?
+Existen diferentes formas de registrar la información que has recogido, a continuación te 
+mostramos un ejemplo:
+
+CAPACIDADES
+Recupera información en 
+los textos leídos por ellos 
+
+mismos.
+
+Hace inferencias 
+en textos que lee.
+
+Opina sobre 
+el contenido 
+y la forma de 
+los textos que 
+
+lee.
+
+INDICADORES Ubica datos e 
+información 
+que se encuen-
+tran en lugares 
+evidentes de 
+los textos que 
+leen.
+
+Menciona el 
+orden en el 
+que se suceden 
+los hechos y 
+acciones de un 
+texto.
+
+Deduce la causa 
+de un hecho o 
+idea de texto.
+
+Deduce el tema 
+central de un 
+texto.
+
+Deduce el 
+propósito de un 
+texto.
+
+Da razones que 
+justifican su 
+opinión, gustos 
+y preferencias 
+sobre hechos 
+e ideas de un 
+texto.
+
+NOMBRES
+
+Saumag SÍ SÍ SÍ SÍ SÍ SÍ
+
+Soi Same SÍ SÍ SÍ SÍ SÍ NO
+
+María SÍ SÍ SÍ SÍ NO NO
+
+Visho SÍ SÍ SÍ SÍ SÍ SÍ
+
+Juan SÍ SÍ NO NO NO NO
+
+¿Cómo lees estos resultados?
+En forma individual
+
+Revisa los procesos de cada uno de tus niños y niñas. Por ejemplo, Yatsi puede recuperar 
+información literal, pero todavía no logra hacer inferencias ni opinar acerca de lo que leyó. 
+Sin embargo, Yumín y Pedro sí pueden dar información de lo que leyeron y opinar sobre los 
+mismos.
+
+En forma grupal
+
+Una lectura de logros de todo el grupo te permitirá revisar como funciona toda la clase. 
+Por ejemplo, en este caso todo los estudiantes pueden recuperar información en los textos 
+leídos, una mayoría hace inferencias y pocos son los que pueden opinar del texto leído.
+
+¿Qué haces con esta información?
+Deberás TOMAR DECISIONES.
+
+
+
+74     Movilización Nacional por la Mejora de los Aprendizajes
+
+QUECHUA COLLAO
+
+¿Qué puedes hacer?
+Tendrás que regresar al texto para volver a leer y reformular tus preguntas para evidenciar 
+los datos y deducir la causa, el tema central y el propósito de un texto. A fin de lograr que 
+los niños y niñas logren opinar. Tú como maestro/a deberás crear un clima de confianza y 
+participación en clase. No invalides ninguna respuesta, así sea una sola palabra y anímalos a 
+expresar sus ideas con libertad.
+
+Ch’uñu ruraymanta
+Primer y segundo grados
+
+¿QUÉ EVALUAR? ¿CÓMO EVALUAR? ¿CON QUÉ EVALUAR?
+
+Capacidad Indicadores Preguntas escritas y/o 
+orales
+
+Observación Instrumentos
+
+Utiliza su 
+conocimiento del 
+código escrito 
+para leer diversos 
+tipos de textos.
+
+Se anticipan al contenido 
+del texto a partir de 
+algunos indicios.
+
+1° y 2° 
+Huch’uy rapipi siq’ichakunata 
+simi qillqawan tupanachiy: 
+c’huñu, papa, wachu, taqi, 
+rumi .
+
+Tupanachisqanta 
+qhaway
+
+Rurasqanman 
+hina qhawaspa 
+chaninchay
+
+Qillqasqapi 
+chaninchayRecupera 
+
+información 
+en imágenes o 
+textos leídos por 
+ellos mismos o 
+con ayuda del 
+maestro.
+
+Expresa sus hipótesis 
+sobre el contenido 
+del texto a partir de 
+indicios encontrados 
+en el (título, imágenes, 
+silueta del texto, palabras 
+significativas). 
+
+Decodifica palabras 
+nuevas utilizando algunos 
+indicios de palabras 
+conocidas (letras, sonidos 
+similares, forma de las 
+palabras, etc.).
+
+1° grado
+¿Imataq qillqasqapa sutinpi 
+nisqa?
+
+2° grado
+¿Imataq qillqasqapa sutinpi 
+nisqa?
+¿Maypitaq papatari 
+churasqaku?
+¿Imaynatataq 
+waqaychapusqakuri?
+¿Pitaq qillqamusqari?
+Maypitaq tiyasqa tiyaqri?
+
+
+
+75Movilización Nacional por la Mejora de los Aprendizajes
+
+¿QUÉ EVALUAR? ¿CÓMO EVALUAR? ¿CON QUÉ EVALUAR?
+
+Capacidad Indicador Preguntas escritas y/o 
+orales
+
+Observación Instrumentos
+
+Ordena las acciones 
+según cómo sucedieron 
+en un texto narrativo.
+
+1° grado
+Kay kimsa siq’ikunata 
+ñawinchasqanchikman hina 
+wakichiy.
+
+2° grado
+¿Imatataq ñawpaqtari 
+rurasqaku? 
+¿Hinaspari?¿Chaymantari? 
+¿Imaynatataq tukusqakuri?
+
+Wakichisqanta 
+qhaway
+
+Rurasqanman 
+hina qhawaspa 
+chaninchay
+
+Qillqapi 
+chaninchay
+
+Hace 
+inferencias 
+en textos con 
+imágenes 
+leídos por 
+ellos mismos o 
+con ayuda del 
+maestro.
+
+Deduce la causa de un 
+hecho o idea del texto.
+
+2° grado
+¿Mana allinta qasa 
+papata hap’iptinri ch’uñu 
+lluqsinmanchu?
+¿Imapaqtaq unuchawanri 
+ch’isinta ch’aqchusqaku?
+
+¿Imanaptintaq inciensowan 
+q’apaykachispari taqiman 
+ch’uñuta apaykuna?
+
+Deduce el tema central 
+de un texto.
+
+1° y 2° grados
+¿Ima yachaymantataq 
+kasqa?
+
+Opina sobre 
+el contenido 
+y la forma de 
+las imágenes 
+y los textos 
+leídos por 
+ellos mismos o 
+con ayuda del 
+maestro.
+
+Da razones que justifican 
+su opinión sobre hechos 
+e ideas de las imágenes 
+o textos.
+Explica oralmente sus 
+impresiones (hechos, 
+ideas, preferencias, etc.) 
+sobre textos escuchados.
+
+2° grado
+¿Mana rumichawan 
+churasunman hinari imataq 
+kanman?
+¿Allinchu chay tayta 
+mamapa yachayninkuna?
+
+
+
+76     Movilización Nacional por la Mejora de los Aprendizajes
+
+REGISTRO AUXILIAR SUGERIDO
+
+INDICADORES
+Utiliza su 
+conocimiento 
+del código
+escrito para 
+leer diversos 
+tipos
+de textos.
+
+Recupera información en imá-
+genes o textos leídos por ellos 
+mismos o con ayuda del maestro.
+
+Hace inferencias en textos 
+con imágenes leídos por 
+ellos mismos o con ayuda del 
+maestro.
+
+Opina sobre 
+el contenido 
+y la forma de 
+las imágenes 
+y los textos 
+leídos por ellos 
+mismos o
+con ayuda del 
+maestro.
+
+N°
+NOMBRES
+
+Se anticipan al 
+contenido del 
+texto a partir 
+de algunos
+indicios.
+
+Expresa sus hipó-
+tesis sobre el con-
+tenido del texto a 
+partir de indicios 
+encontrados en él 
+(título, imágenes, 
+silueta del texto, 
+palabras signifi-
+cativas).
+
+Ordena las 
+acciones 
+según cómo 
+sucedieron  
+en un texto 
+narrativo.
+
+Deduce la 
+causa de un 
+hecho o idea 
+del texto.
+
+Deduce el 
+tema central 
+de un texto.
+
+Da razones que 
+justifican su 
+opinión, gustos 
+y preferencias 
+sobre hechos 
+e ideas de las 
+imágenes o 
+textos.
+
+1er grado
+
+01 Aroni Pari, 
+Gladis
+
+Manaraqmi Asllataraq Asllataraq Allintaña
+
+02 Salas Mori, 
+Pepito
+
+Allintaña Asllataraq Asllataraq Allintaña
+
+03 Zipe Mamani, 
+Lucio
+
+Asllataraq Asllataraq Manaraq Allintaña
+
+2do grado
+
+04 Conto Quispe, 
+Lupe
+
+Allintaña Asllataraq Allintaña Asllataraq Allintaña Asllataraq
+
+05 Mallku Ochoa, 
+Cuper
+
+Allintaña Asllataraq Allintaña Asllataraq Allintaña Asllataraq
+
+06 Rodo Puca, 
+Simón
+
+Allintaña Asllataraq Allintaña Asllataraq Allintaña Asllataraq
+
+
+
+77Movilización Nacional por la Mejora de los Aprendizajes
+
+¿QUÉ EVALUAR? ¿CÓMO EVALUAR? ¿CON QUÉ EVALUAR?
+
+Capacidad Indicadores Preguntas orales Instrumentos
+
+1er grado y 2do 
+grado
+
+Identifica  
+información 
+expíicita contenida 
+en el texto y/o 
+imágenes.
+
+Ubica datos e 
+información que se 
+encuentran en diferentes 
+partes del texto.
+
+¿Imata qawaspataq 
+llamkanku?,
+¿Imapaq/imarayku?
+¿Imakunatataq tarpunku?
+¿Allin kawsaykuna 
+lluqsinanpaq, imatatatq 
+ruranku?
+¿Imatataq llamkanankupaq 
+akunku, mikunku, upyanku?
+
+Rurasqanta qhawaspa 
+chaninchay
+
+Rimasqanta chaninchay
+
+1er grado y 2do 
+grado
+
+Formula hipótesis 
+sobre la información 
+contenida en los 
+textos e imágenes 
+leídos por ellos 
+mismos o por el 
+maestro.
+
+Expresa sus hipótesis 
+sobre el contenido 
+del texto a partir de 
+indicios encontrados en 
+él. (título, imágenes, 
+silueta del texto, palabras 
+significativas).
+•	Se	anticipa	al	contenido	
+del texto respondiendo 
+a preguntas, durante la 
+lectura.
+
+¿Ima killapitaq kachkanchik?
+¿Imatataq kay killapi tayta 
+mamanchik rurachkan?
+
+¿Llapaykichikpaqchu 
+llamkachkanku?
+
+¿Kay qillqapa sutinpi ima 
+nichkantaq?
+¿Chiqapchu chay 
+rimasqaykichik?,
+¿Imaynanpi?
+¿Maypitaq nichkan?
+
+¿Imaraykutaq ninki?
+
+1er grado
+
+Opina sobre las 
+imágenes y textos 
+leídos por ellos 
+mismos o con ayuda 
+del maestro.
+
+Da razones que justifican 
+su opinión sobre hechos 
+e ideas delas imágenes o 
+textos.
+
+¿Kay qillqasqapa sutin 
+kanman “papa aspiy”, 
+allinchu, manachu?,
+¿Imanasqa?
+¿Killapipuni mana 
+tarpuptinchisqa, imaynataq 
+kanman?
+
+
+
+78     Movilización Nacional por la Mejora de los Aprendizajes
+
+REGISTRO DE EVALUACIÓN
+
+CAPACIDAD
+
+Identifica información 
+explicita contenida en 
+el texto y/o imágenes.
+
+Formula hipótesis sobre la información contenida 
+en los textos e imágenes leídos por ellos mismos 
+o por el maestro.
+
+Opina sobre las 
+imágenes
+y textos leídos por ellos 
+mismos o con ayuda 
+del maestro.
+
+N°
+
+Ubica datos e informa-
+ción que se encuentran 
+en diferentes partes del 
+texto.
+
+Expresa sus hipótesis 
+sobre  el contenido 
+del texto a partir de 
+indicios encontrados
+en él (título, imáge-
+nes, silueta del texto, 
+palabras significati-
+vas).
+
+Se anticipa al 
+contenido del 
+texto respondiendo a  
+preguntas, durante la 
+lectura.
+
+Da razones que 
+justifican su opinión 
+sobre hechos e ideas 
+de las imágenes o 
+textos.
+
+01 Illariy Aschallataraq Aschallataraq Asllataraq Allintaña
+
+02 Inti Allin Asllataraq Asllataraq Allintaña
+
+03 Siwar Aschallataraq Aschallataraq Aschallataraq Allin
+
+04 Raymi Allin Aschallataraq Allin Allin
+
+05 Killa Allin Allin Allin Allin
+
+
+
+79Movilización Nacional por la Mejora de los Aprendizajes
+
+AWAJÚN
+
+¿YAA JUJU NAMAK AIDAUNASH MAAWAJE? 
+Primer grado
+
+¿Yaa juju namak aidaunash maawaje?
+
+Namak
+
+Uchi
+aidau tsuutsum pepen chuwiu katiish
+
+Tuyas X X
+
+Waniak X X X
+
+Paati X X X
+
+Tiwi X X
+
+Yanas X X X X
+
+Pinas X
+
+Sanchum X X
+
+Kakias X X
+
+Wepiu X X
+
+Shimpu X X X
+
+¿QUÉ EVALUAR? ¿CÓMO EVALUAR? ¿CON QUÉ EVALUAR?
+
+Capacidad Indicadores Preguntas escritas
+ y/o orales
+
+Observación Instrumentos
+
+Utiliza su 
+conocimiento 
+del código 
+escrito para 
+leer diversos 
+tipos de 
+textos.
+
+Señala palabras 
+que conoce 
+(repertorio de 
+palabras) en 
+textos del aula 
+(tablas y textos)
+
+-Relaciona palabras e 
+imágenes que se encuentran 
+en el texto (tsuutsum – 
+pepen – chuwiu - katiish).
+-Usa tarjetas de palabras 
+para relacionar (tsuutsum
+– pepen – chuwiu - katiish).
+
+-Prueba escrita
+
+
+
+80     Movilización Nacional por la Mejora de los Aprendizajes
+
+Yabai iwaintajame uchi aidau primer grado aujuidau susam takainak dita unuimag wegamujin 
+iwainakui dekatia nuna.
+
+Tujash  aneaku  ata,  uchi  nuwauch  aismagkush  aidauk  eke  imatikag aujuinatsui nuniau 
+asamtai ame autumainitme.
+
+1.  Tsentsakam achimtikata dakumkamu aina nuna daajijai.
+
+Chuwiu
+
+Tsuutsum
+
+Pepen
+
+2.   Cartel tutainum dakumkamua nuwiya diisam Tuyasash tuu namakna mae nuna daajin 
+nugkanchijin nenentu awa nunu ushuijata.
+
+Tsuutsum Chuwiu Pepen
+
+3.   Juju dakumkamua nunú diisam ijumjata dekatkauk yaig aina nuwi nagkamsam 
+namak apu aina nuwi ejekum nuniakum número tutaiya nunú agatjata tentea agka 
+ukukbauwa nuwi.
+
+
+
+81Movilización Nacional por la Mejora de los Aprendizajes
+
+4.   ¿Kakiasash wagkag imatikash machiawa namaknash?
+
+5.   ¿Wajina pachisag etsejua cartel tutai jutí ausamag dusha? Inibaun betek etseja nunu 
+tsentsakta sapagkeam (X).
+
+Namak maamun 
+pachis
+
+Yujag aidau juukbaun
+Kuntin kajegbaun 
+
+pachis
+
+6.   Jujú  aikta,  ¿Pínasash  tikich  tsawantin  entsa  nijaa  namak  maamunmash aan 
+kuashtash achikat? ¿wagka?.
+
+
+
+
+
+
+
+
