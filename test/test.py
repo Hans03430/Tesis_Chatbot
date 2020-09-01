@@ -22,7 +22,7 @@ def foo(a, b):
     return a + b
 
 if __name__ == "__main__":
-    '''documents = ['/home/hans/Documentos/Tesis_Chatbot/data/raw/txt/3/CTA/biodiversidad_docente.txt']
+    #documents = ['/home/hans/Documentos/Tesis_Chatbot/data/raw/txt/3/CTA/biodiversidad_docente.txt']
     descriptive = pd.DataFrame(columns=['DESPC', 'DESSC', 'DESWC', 'DESPL', 'DESPLd', 'DESSL', 'DESSLd', 'DESWLsy', 'DESWLsyd', 'DESWLlt', 'DESWLltd'])
     word_information = pd.DataFrame(columns=['WRDNOUN', 'WRDVERB', 'WRDADJ', 'WRDADV', 'WRDPRO', 'WRDPRP1s', 'WRDPRP1p', 'WRDPRP2s', 'WRDPRP2p', 'WRDPRP3s', 'WRDPRP3p'])
     syntactic_pattern_density = pd.DataFrame(columns=['DRNP', 'DRVP', 'DRNEG'])
@@ -35,25 +35,33 @@ if __name__ == "__main__":
     try:
         tca = TextComplexityAnalizer('es')
         
-        for filepath in documents: # For each file
-            with open(filepath, 'r') as f:
-                text = f.read()
-                start = time.time()
-                descriptive_row = tca.calculate_descriptive_indices_for_one_text(text)
-                word_count = descriptive_row['DESWC']
-                mean_words_per_sentence = descriptive_row['DESSL']
-                mean_syllables_per_word = descriptive_row['DESWLsy']
-                descriptive = descriptive.append(descriptive_row, ignore_index=True)
-                word_information = word_information.append(tca.calculate_word_information_indices_for_one_text(text, word_count), ignore_index=True)
-                syntactic_pattern_density = syntactic_pattern_density.append(tca.calculate_syntactic_pattern_density_indices_for_one_text(text, word_count), ignore_index=True)
-                syntactic_complexity = syntactic_complexity.append(tca.calculate_syntactic_complexity_indices(text), ignore_index=True)
-                connective = connective.append(tca.calculate_connective_indices(text, word_count), ignore_index=True)
-                lexical_diversity = lexical_diversity.append(tca.calculate_lexical_diversity_density_indices_for_one_text(text), ignore_index=True)
-                readability = readability.append(tca.calculate_readability_indices(text, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word), ignore_index=True)
-                referential_cohesion = referential_cohesion.append(tca.calculate_referential_cohesion_indices(text=text), ignore_index=True)
-                end = time.time()        
-                filename = filepath.split('/')[-1]   
-                print(f'Tiempo demorado para {filename}: {end - start} segundos.')
+        #for filepath in documents: # For each file
+            #with open(filepath, 'r') as f:
+                #text = f.read()
+        text = '''
+Hoy es un día como ningún otro. Las aves están volando y los perros salen a pasear.
+La familia de la casa de la derecha se irá de paseo por toda esta semana, por lo que nos encomendaron cuidar la casa.
+
+Para ello, mi hermana se encargará de cuidar en las mañanas, mientras que yo, en las tardes.
+Lo mejor de aquello se se nos encomendó, es que ustedes obtendrán las ganancias. Tú no debes hacer mucho.
+'''
+        start = time.time()
+        descriptive_row = tca.calculate_descriptive_indices_for_one_text(text)
+        word_count = descriptive_row['DESWC']
+        mean_words_per_sentence = descriptive_row['DESSL']
+        mean_syllables_per_word = descriptive_row['DESWLsy']
+        descriptive = descriptive.append(descriptive_row, ignore_index=True)
+        word_information = word_information.append(tca.calculate_word_information_indices_for_one_text(text, word_count), ignore_index=True)
+        syntactic_pattern_density = syntactic_pattern_density.append(tca.calculate_syntactic_pattern_density_indices_for_one_text(text, word_count), ignore_index=True)
+        syntactic_complexity = syntactic_complexity.append(tca.calculate_syntactic_complexity_indices_for_one_text(text), ignore_index=True)
+        connective = connective.append(tca.calculate_connective_indices_for_one_text(text, word_count), ignore_index=True)
+        lexical_diversity = lexical_diversity.append(tca.calculate_lexical_diversity_density_indices_for_one_text(text), ignore_index=True)
+        readability = readability.append(tca.calculate_readability_indices_for_one_text(text, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word), ignore_index=True)
+        referential_cohesion = referential_cohesion.append(tca.calculate_referential_cohesion_indices_for_one_text(text=text), ignore_index=True)
+        end = time.time()  
+        print(f'Tiempo demorado: {end - start} segundos.')
+                #filename = filepath.split('/')[-1]   
+                #print(f'Tiempo demorado para {filename}: {end - start} segundos.')
 
     except Exception as e:
         raise e
@@ -65,7 +73,8 @@ if __name__ == "__main__":
         print(connective)
         print(lexical_diversity)
         print(readability)
-        print(referential_cohesion)'''
+        print(referential_cohesion)
+
     '''da = ObtainedTextDA()
     print(BASE_DIRECTORY)
     ot = ObtainedText(text='Prueba 3', grade=1, filename='omg.txt')
@@ -106,6 +115,6 @@ if __name__ == "__main__":
     except Exception as e:
         raise e'''
 
-    da = ObtainedTextDA()
+    '''da = ObtainedTextDA()
     texts = da.select_all_as_dataframe()
-    print(texts)
+    print(texts)'''
