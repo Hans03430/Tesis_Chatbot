@@ -5,7 +5,7 @@ ACCEPTED_LANGUAGES = {
 }
 
 LANGUAGES_DICTIONARY_PYPHEN = {
-    'es': 'es_core_news_lg'
+    'es': 'es'
 }
 
 BASE_DIRECTORY = os.path.dirname(os.path.abspath(__file__)).replace('/src/processing', '')
