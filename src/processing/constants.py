@@ -1,7 +1,7 @@
 import os
 
 ACCEPTED_LANGUAGES = {
-    'es': 'es'
+    'es': 'es_core_news_sm'
 }
 
 LANGUAGES_DICTIONARY_PYPHEN = {
