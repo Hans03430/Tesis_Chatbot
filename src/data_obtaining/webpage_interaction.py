@@ -4,7 +4,7 @@ from aiohttp import ClientSession
 from bs4 import BeautifulSoup
 
 async def get_webpage_as_bs(session: ClientSession, url: str) -> BeautifulSoup:
-    """
+    '''
     Obtains an html webapge as a BeautifulSoup object
 
     This function converts a static webpage into a beautiful Soup object, for ease of
@@ -16,7 +16,7 @@ async def get_webpage_as_bs(session: ClientSession, url: str) -> BeautifulSoup:
 
     Returns:
     BeautifulSoup: The BeautifulSoup object that represents the webpage found by the url
-    """
+    '''
     try:
         webpage = await session.get(url)
         html_text = await webpage.read()
