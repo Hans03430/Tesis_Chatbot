@@ -15,7 +15,13 @@ def split_text_into_paragraphs(text: str) -> List[str]:
     Returns:
     List[str]: A list of paragraphs.
     """
-    return text.split('\n\n')
+    text_aux = text.strip()
+    paragraphs = text_aux.split('\n\n') # Strip any leading whitespaces
+
+    for p in paragraphs:
+        p = p.strip()
+
+    return [p for p in paragraphs if len(p) > 0] # Don't count empty paragraphs
 
 
 def split_text_into_sentences(text: str, language: str='es') -> List[str]:

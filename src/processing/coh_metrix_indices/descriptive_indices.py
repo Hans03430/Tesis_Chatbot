@@ -67,9 +67,8 @@ class DescriptiveIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers  
             sentences = 0
-
             for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['syllable splitter', 'parser', 'tagger', 'ner'], n_process=threads):
-                for _ in doc.sents:
+                for s in doc.sents:
                     sentences += 1
             
             return sentences
@@ -136,7 +135,7 @@ class DescriptiveIndices:
                         counter.extend(current_result)
 
             stat_results = StatisticsResults()
-             
+            print(counter)
             if statistic_type in ['std', 'all']:
                 stat_results.std = np.std(counter)
             
@@ -174,7 +173,8 @@ class DescriptiveIndices:
         Returns:
         StatisticsResults: The mean and standard deviation of the amount in words in each sentence.
         """
-        count_length_of_sentences = lambda doc: [sum(1 for _ in sentence)
+        count_length_of_sentences = lambda doc: [len([1 for token in sentence
+                                                     if token.is_alpha])
                                                  for sentence in doc.sents]
 
         disable_pipeline = ['syllable splitter', 'parser', 'tagger', 'ner']
