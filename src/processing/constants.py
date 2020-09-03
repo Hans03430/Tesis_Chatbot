@@ -1,3 +1,7 @@
+'''
+This function contains constants that will be used across the entire library.
+'''
+
 import os
 
 ACCEPTED_LANGUAGES = {
