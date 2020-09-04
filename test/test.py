@@ -38,7 +38,11 @@ if __name__ == "__main__":
         #for filepath in documents: # For each file
             #with open(filepath, 'r') as f:
                 #text = f.read()
-        text = '''Prueba oraciones extrañas.
+        text = '''Mi prima perdió su celular. Sin embargo, le compraron
+uno nuevo.
+
+Este celular es uno de última generación, aunque
+a ella no le gusta debido a que es muy grande.
 '''
         start = time.time()
         descriptive_row = tca.calculate_descriptive_indices_for_one_text(text)

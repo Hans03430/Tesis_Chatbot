@@ -135,7 +135,6 @@ class DescriptiveIndices:
                         counter.extend(current_result)
 
             stat_results = StatisticsResults()
-            print(counter)
             if statistic_type in ['std', 'all']:
                 stat_results.std = np.std(counter)
             
