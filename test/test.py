@@ -22,7 +22,7 @@ def foo(a, b):
     return a + b
 
 if __name__ == "__main__":
-    #documents = ['/home/hans/Documentos/Tesis_Chatbot/data/raw/txt/3/CTA/biodiversidad_docente.txt']
+    ''#documents = ['/home/hans/Documentos/Tesis_Chatbot/data/raw/txt/3/CTA/biodiversidad_docente.txt']
     descriptive = pd.DataFrame(columns=['DESPC', 'DESSC', 'DESWC', 'DESPL', 'DESPLd', 'DESSL', 'DESSLd', 'DESWLsy', 'DESWLsyd', 'DESWLlt', 'DESWLltd'])
     word_information = pd.DataFrame(columns=['WRDNOUN', 'WRDVERB', 'WRDADJ', 'WRDADV', 'WRDPRO', 'WRDPRP1s', 'WRDPRP1p', 'WRDPRP2s', 'WRDPRP2p', 'WRDPRP3s', 'WRDPRP3p'])
     syntactic_pattern_density = pd.DataFrame(columns=['DRNP', 'DRVP', 'DRNEG'])
@@ -38,12 +38,20 @@ if __name__ == "__main__":
         #for filepath in documents: # For each file
             #with open(filepath, 'r') as f:
                 #text = f.read()
-        text = '''Mi prima perdió su celular. Sin embargo, le compraron
-uno nuevo.
+#        text = '''Mi prima perdió su celular pero le compraron
+#uno nuevo.
 
-Este celular es uno de última generación, aunque
-a ella no le gusta debido a que es muy grande.
-'''
+#El celular pertenece a la última generación. No obstante,
+#a ella no le gusta debido a que es muy grande.
+
+#Ahora mi prima deberá conseguir un celular más pequeño.
+#'''
+        text = '''Yo juego tenis.
+        Él le dice a ella que ellos no podrán venir.
+        Nosotros vemos la película.
+        Tú eres el mejor.
+        Ustedes tienen hambre.
+        '''
         start = time.time()
         descriptive_row = tca.calculate_descriptive_indices_for_one_text(text)
         word_count = descriptive_row['DESWC']

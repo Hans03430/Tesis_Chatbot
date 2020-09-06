@@ -60,4 +60,5 @@ class NounPhraseTagger:
                                             'end': span.end,
                                             'label': span.label}
                                            for span in filter_spans(noun_phrases)] # Save the noun phrases found
+
         return doc

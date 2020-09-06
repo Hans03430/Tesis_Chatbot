@@ -47,8 +47,8 @@ class VerbPhraseTagger:
         self._matcher = Matcher(nlp.vocab)
 
         if language == 'es': # Verb phrases for spanish
-            self._pattern = [{'POS': {'IN': ['AUX', 'PROPN', 'VERB']} },
-                             {'POS': {'IN': ['SCONJ', 'CONJ']}, 'OP': '*'},
+            self._pattern = [{'POS': {'IN': ['AUX', 'VERB']}, 'OP': '+'},
+                             {'POS': {'IN': ['ADP', 'SCONJ', 'CONJ', 'INTJ']}, 'OP': '*'},
                              {'POS': 'ADP', 'TAG': 'ADP__AdpType=Prep', 'OP': '*'},
                              {'POS': {'IN': ['AUX', 'VERB']}}] # The pattern for verb phrases in spanish
         else: # Support for future languages
@@ -71,4 +71,9 @@ class VerbPhraseTagger:
                                             'label': span.label}
                                            for span in filter_spans(verb_phrase_spans)] # Save the noun phrases found
         
+        for vp in doc._.verb_phrases:
+            print(vp)
+            for token in vp:
+                print(token, token.pos_, token.dep_)
+
         return doc
