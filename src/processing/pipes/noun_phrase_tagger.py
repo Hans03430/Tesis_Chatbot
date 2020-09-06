@@ -3,9 +3,21 @@ from spacy.tokens import Span
 from spacy.util import filter_spans
 
 from src.processing.constants import ACCEPTED_LANGUAGES
+from typing import List
 
-noun_phrases_getter = lambda doc: [doc[span['start']:span['end']]
-                                   for span in doc._.noun_phrases_span_indices]
+
+def noun_phrases_getter(doc: Doc) -> List[Span]:
+    '''
+    Function that returns the negative expressions as a list of Spacy Spans.
+
+    Parameters:
+    doc(Doc): A spacy doc containing the text.
+
+    Returns:
+    List[Span]: A list of spans that represent the negation expressions.
+    '''
+    return [doc[span['start']:span['end']]
+            for span in doc._.noun_phrases_span_indices]
 
 Doc.set_extension('noun_phrases_span_indices', force=True, default=[])
 Doc.set_extension('noun_phrases', force=True, getter=noun_phrases_getter)

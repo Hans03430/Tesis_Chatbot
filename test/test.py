@@ -50,8 +50,8 @@ a ella no le gusta debido a que es muy grande.
         mean_words_per_sentence = descriptive_row['DESSL']
         mean_syllables_per_word = descriptive_row['DESWLsy']
         descriptive = descriptive.append(descriptive_row, ignore_index=True)
-        #word_information = word_information.append(tca.calculate_word_information_indices_for_one_text(text, word_count), ignore_index=True)
-        #syntactic_pattern_density = syntactic_pattern_density.append(tca.calculate_syntactic_pattern_density_indices_for_one_text(text, word_count), ignore_index=True)
+        word_information = word_information.append(tca.calculate_word_information_indices_for_one_text(text, word_count), ignore_index=True)
+        syntactic_pattern_density = syntactic_pattern_density.append(tca.calculate_syntactic_pattern_density_indices_for_one_text(text, word_count), ignore_index=True)
         #syntactic_complexity = syntactic_complexity.append(tca.calculate_syntactic_complexity_indices_for_one_text(text), ignore_index=True)
         #connective = connective.append(tca.calculate_connective_indices_for_one_text(text, word_count), ignore_index=True)
         #lexical_diversity = lexical_diversity.append(tca.calculate_lexical_diversity_density_indices_for_one_text(text), ignore_index=True)
