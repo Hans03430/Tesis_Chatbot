@@ -70,10 +70,5 @@ class VerbPhraseTagger:
                                             'end': span.end,
                                             'label': span.label}
                                            for span in filter_spans(verb_phrase_spans)] # Save the noun phrases found
-        
-        for vp in doc._.verb_phrases:
-            print(vp)
-            for token in vp:
-                print(token, token.pos_, token.dep_)
 
         return doc
