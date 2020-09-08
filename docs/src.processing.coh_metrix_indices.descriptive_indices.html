@@ -43,14 +43,15 @@
 <font color="#000000" face="helvetica, arial"><a name="DescriptiveIndices">class <strong>DescriptiveIndices</strong></a>(<a href="builtins.html#object">builtins.object</a>)</font></td></tr>
     
 <tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
-<td colspan=2><tt><a href="#DescriptiveIndices">DescriptiveIndices</a>(language:&nbsp;str&nbsp;=&nbsp;'es')&nbsp;-&amp;gt;&nbsp;None<br>
+<td colspan=2><tt><a href="#DescriptiveIndices">DescriptiveIndices</a>(nlp,&nbsp;language:&nbsp;str&nbsp;=&nbsp;'es')&nbsp;-&amp;gt;&nbsp;None<br>
 &nbsp;<br>
 This&nbsp;class&nbsp;will&nbsp;handle&nbsp;all&nbsp;operations&nbsp;to&nbsp;obtain&nbsp;the&nbsp;descriptive&nbsp;indices&nbsp;of&nbsp;a&nbsp;text&nbsp;according&nbsp;to&nbsp;Coh-Metrix<br>&nbsp;</tt></td></tr>
 <tr><td>&nbsp;</td>
 <td width="100%">Methods defined here:<br>
-<dl><dt><a name="DescriptiveIndices-__init__"><strong>__init__</strong></a>(self, language: str = 'es') -&gt; None</dt><dd><tt>The&nbsp;constructor&nbsp;will&nbsp;initialize&nbsp;this&nbsp;<a href="builtins.html#object">object</a>&nbsp;that&nbsp;calculates&nbsp;the&nbsp;descriptive&nbsp;indices&nbsp;for&nbsp;a&nbsp;specific&nbsp;language&nbsp;of&nbsp;those&nbsp;that&nbsp;are&nbsp;available.<br>
+<dl><dt><a name="DescriptiveIndices-__init__"><strong>__init__</strong></a>(self, nlp, language: str = 'es') -&gt; None</dt><dd><tt>The&nbsp;constructor&nbsp;will&nbsp;initialize&nbsp;this&nbsp;<a href="builtins.html#object">object</a>&nbsp;that&nbsp;calculates&nbsp;the&nbsp;descriptive&nbsp;indices&nbsp;for&nbsp;a&nbsp;specific&nbsp;language&nbsp;of&nbsp;those&nbsp;that&nbsp;are&nbsp;available.<br>
 &nbsp;<br>
 Parameters:<br>
+nlp:&nbsp;The&nbsp;spacy&nbsp;model&nbsp;that&nbsp;corresponds&nbsp;to&nbsp;a&nbsp;language.<br>
 language(str):&nbsp;The&nbsp;language&nbsp;that&nbsp;the&nbsp;texts&nbsp;to&nbsp;process&nbsp;will&nbsp;have.<br>
 &nbsp;<br>
 Returns:<br>
@@ -133,7 +134,7 @@ Data descriptors defined here:<br>
 <font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
     
 <tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
-<td width="100%"><strong>ACCEPTED_LANGUAGES</strong> = {'es': 'es_core_news_sm'}<br>
+<td width="100%"><strong>ACCEPTED_LANGUAGES</strong> = {'es': 'es_core_news_lg'}<br>
 <strong>Callable</strong> = typing.Callable<br>
 <strong>LANGUAGES_DICTIONARY_PYPHEN</strong> = {'es': 'es'}<br>
 <strong>List</strong> = typing.List</td></tr></table>

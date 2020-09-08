@@ -41,14 +41,15 @@
 <font color="#000000" face="helvetica, arial"><a name="WordInformationIndices">class <strong>WordInformationIndices</strong></a>(<a href="builtins.html#object">builtins.object</a>)</font></td></tr>
     
 <tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
-<td colspan=2><tt><a href="#WordInformationIndices">WordInformationIndices</a>(language:&nbsp;str&nbsp;=&nbsp;'es',&nbsp;descriptive_indices:&nbsp;src.processing.coh_metrix_indices.descriptive_indices.DescriptiveIndices&nbsp;=&nbsp;None)&nbsp;-&amp;gt;&nbsp;None<br>
+<td colspan=2><tt><a href="#WordInformationIndices">WordInformationIndices</a>(nlp,&nbsp;language:&nbsp;str&nbsp;=&nbsp;'es',&nbsp;descriptive_indices:&nbsp;src.processing.coh_metrix_indices.descriptive_indices.DescriptiveIndices&nbsp;=&nbsp;None)&nbsp;-&amp;gt;&nbsp;None<br>
 &nbsp;<br>
 This&nbsp;class&nbsp;will&nbsp;handle&nbsp;all&nbsp;operations&nbsp;to&nbsp;obtain&nbsp;the&nbsp;word&nbsp;information&nbsp;indices&nbsp;of&nbsp;a&nbsp;text&nbsp;according&nbsp;to&nbsp;Coh-Metrix.<br>&nbsp;</tt></td></tr>
 <tr><td>&nbsp;</td>
 <td width="100%">Methods defined here:<br>
-<dl><dt><a name="WordInformationIndices-__init__"><strong>__init__</strong></a>(self, language: str = 'es', descriptive_indices: src.processing.coh_metrix_indices.descriptive_indices.DescriptiveIndices = None) -&gt; None</dt><dd><tt>The&nbsp;constructor&nbsp;will&nbsp;initialize&nbsp;this&nbsp;<a href="builtins.html#object">object</a>&nbsp;that&nbsp;calculates&nbsp;the&nbsp;word&nbsp;information&nbsp;indices&nbsp;for&nbsp;a&nbsp;specific&nbsp;language&nbsp;of&nbsp;those&nbsp;that&nbsp;are&nbsp;available.<br>
+<dl><dt><a name="WordInformationIndices-__init__"><strong>__init__</strong></a>(self, nlp, language: str = 'es', descriptive_indices: src.processing.coh_metrix_indices.descriptive_indices.DescriptiveIndices = None) -&gt; None</dt><dd><tt>The&nbsp;constructor&nbsp;will&nbsp;initialize&nbsp;this&nbsp;<a href="builtins.html#object">object</a>&nbsp;that&nbsp;calculates&nbsp;the&nbsp;word&nbsp;information&nbsp;indices&nbsp;for&nbsp;a&nbsp;specific&nbsp;language&nbsp;of&nbsp;those&nbsp;that&nbsp;are&nbsp;available.<br>
 &nbsp;<br>
 Parameters:<br>
+nlp:&nbsp;The&nbsp;spacy&nbsp;model&nbsp;that&nbsp;corresponds&nbsp;to&nbsp;a&nbsp;language.<br>
 language(str):&nbsp;The&nbsp;language&nbsp;that&nbsp;the&nbsp;texts&nbsp;to&nbsp;process&nbsp;will&nbsp;have.<br>
 descriptive_indices(DescriptiveIndices):&nbsp;The&nbsp;class&nbsp;that&nbsp;calculates&nbsp;the&nbsp;descriptive&nbsp;indices&nbsp;of&nbsp;a&nbsp;text&nbsp;in&nbsp;a&nbsp;certain&nbsp;language.<br>
 &nbsp;<br>
@@ -180,7 +181,7 @@ Data descriptors defined here:<br>
 <font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
     
 <tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
-<td width="100%"><strong>ACCEPTED_LANGUAGES</strong> = {'es': 'es_core_news_sm'}<br>
+<td width="100%"><strong>ACCEPTED_LANGUAGES</strong> = {'es': 'es_core_news_lg'}<br>
 <strong>Callable</strong> = typing.Callable<br>
 <strong>List</strong> = typing.List</td></tr></table>
 </body></html>
