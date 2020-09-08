@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module src.processing.text_complexity_analyzer</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong><a href="src.html"><font color="#ffffff">src</font></a>.<a href="src.processing.html"><font color="#ffffff">processing</font></a>.text_complexity_analyzer</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/hans/Documentos/Tesis_Chatbot/src/processing/text_complexity_analyzer.py">/home/hans/Documentos/Tesis_Chatbot/src/processing/text_complexity_analyzer.py</a></font></td></tr></table>
+    <p></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="spacy.html">spacy</a><br>
+</td><td width="25%" valign=top><a href="time.html">time</a><br>
+</td><td width="25%" valign=top></td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="builtins.html#object">builtins.object</a>
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="src.processing.text_complexity_analyzer.html#TextComplexityAnalyzer">TextComplexityAnalyzer</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="TextComplexityAnalyzer">class <strong>TextComplexityAnalyzer</strong></a>(<a href="builtins.html#object">builtins.object</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt><a href="#TextComplexityAnalyzer">TextComplexityAnalyzer</a>(language:&nbsp;str&nbsp;=&nbsp;'es')&nbsp;-&amp;gt;&nbsp;None<br>
+&nbsp;<br>
+This&nbsp;class&nbsp;groups&nbsp;all&nbsp;of&nbsp;the&nbsp;indices&nbsp;in&nbsp;order&nbsp;to&nbsp;calculate&nbsp;them&nbsp;in&nbsp;one&nbsp;go.&nbsp;It&nbsp;works&nbsp;for&nbsp;a&nbsp;specific&nbsp;language.<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%">Methods defined here:<br>
+<dl><dt><a name="TextComplexityAnalyzer-__init__"><strong>__init__</strong></a>(self, language: str = 'es') -&gt; None</dt><dd><tt>This&nbsp;constructor&nbsp;initializes&nbsp;the&nbsp;analizer&nbsp;for&nbsp;a&nbsp;specific&nbsp;language.<br>
+&nbsp;<br>
+Parameters:<br>
+language(str):&nbsp;The&nbsp;language&nbsp;that&nbsp;the&nbsp;texts&nbsp;are&nbsp;in.<br>
+&nbsp;<br>
+Returns:<br>
+None.</tt></dd></dl>
+
+<dl><dt><a name="TextComplexityAnalyzer-calculate_connective_indices_for_one_text"><strong>calculate_connective_indices_for_one_text</strong></a>(self, text: str, workers: int = -1, word_count: int = None) -&gt; Dict</dt><dd><tt>This&nbsp;method&nbsp;calculates&nbsp;the&nbsp;connectives&nbsp;indices&nbsp;and&nbsp;stores&nbsp;them&nbsp;in&nbsp;a&nbsp;dictionary.<br>
+&nbsp;<br>
+Parameters:<br>
+text(str):&nbsp;The&nbsp;text&nbsp;to&nbsp;be&nbsp;analyzed.<br>
+workers(int):&nbsp;Amount&nbsp;of&nbsp;threads&nbsp;that&nbsp;will&nbsp;complete&nbsp;this&nbsp;operation.&nbsp;If&nbsp;it's&nbsp;-1&nbsp;then&nbsp;all&nbsp;cpu&nbsp;cores&nbsp;will&nbsp;be&nbsp;used.<br>
+word_count(int):&nbsp;The&nbsp;amount&nbsp;of&nbsp;words&nbsp;that&nbsp;the&nbsp;current&nbsp;text&nbsp;has&nbsp;in&nbsp;order&nbsp;to&nbsp;calculate&nbsp;the&nbsp;incidence.<br>
+&nbsp;<br>
+Returns:<br>
+Dict:&nbsp;The&nbsp;dictionary&nbsp;with&nbsp;the&nbsp;connectives&nbsp;indices.</tt></dd></dl>
+
+<dl><dt><a name="TextComplexityAnalyzer-calculate_descriptive_indices_for_one_text"><strong>calculate_descriptive_indices_for_one_text</strong></a>(self, text: str, workers: int = -1) -&gt; Dict</dt><dd><tt>This&nbsp;method&nbsp;calculates&nbsp;the&nbsp;descriptive&nbsp;indices&nbsp;and&nbsp;stores&nbsp;them&nbsp;in&nbsp;a&nbsp;dictionary.<br>
+&nbsp;<br>
+Parameters:<br>
+text(str):&nbsp;The&nbsp;text&nbsp;to&nbsp;be&nbsp;analyzed.<br>
+workers(int):&nbsp;Amount&nbsp;of&nbsp;threads&nbsp;that&nbsp;will&nbsp;complete&nbsp;this&nbsp;operation.&nbsp;If&nbsp;it's&nbsp;-1&nbsp;then&nbsp;all&nbsp;cpu&nbsp;cores&nbsp;will&nbsp;be&nbsp;used.<br>
+&nbsp;<br>
+Returns:<br>
+Dict:&nbsp;The&nbsp;dictionary&nbsp;with&nbsp;the&nbsp;descriptive&nbsp;indices.</tt></dd></dl>
+
+<dl><dt><a name="TextComplexityAnalyzer-calculate_lexical_diversity_density_indices_for_one_text"><strong>calculate_lexical_diversity_density_indices_for_one_text</strong></a>(self, text: str, workers: int = -1) -&gt; Dict</dt><dd><tt>This&nbsp;method&nbsp;calculates&nbsp;the&nbsp;lexical&nbsp;diversity&nbsp;indices&nbsp;and&nbsp;stores&nbsp;them&nbsp;in&nbsp;a&nbsp;dictionary.<br>
+&nbsp;<br>
+Parameters:<br>
+text(str):&nbsp;The&nbsp;text&nbsp;to&nbsp;be&nbsp;analyzed.<br>
+workers(int):&nbsp;Amount&nbsp;of&nbsp;threads&nbsp;that&nbsp;will&nbsp;complete&nbsp;this&nbsp;operation.&nbsp;If&nbsp;it's&nbsp;-1&nbsp;then&nbsp;all&nbsp;cpu&nbsp;cores&nbsp;will&nbsp;be&nbsp;used.<br>
+word_count(int):&nbsp;The&nbsp;amount&nbsp;of&nbsp;words&nbsp;that&nbsp;the&nbsp;current&nbsp;text&nbsp;has&nbsp;in&nbsp;order&nbsp;to&nbsp;calculate&nbsp;the&nbsp;incidence.<br>
+&nbsp;<br>
+Returns:<br>
+Dict:&nbsp;The&nbsp;dictionary&nbsp;with&nbsp;the&nbsp;lexical&nbsp;diversity&nbsp;indices.</tt></dd></dl>
+
+<dl><dt><a name="TextComplexityAnalyzer-calculate_readability_indices_for_one_text"><strong>calculate_readability_indices_for_one_text</strong></a>(self, text: str, workers: int = -1, mean_syllables_per_word: int = None, mean_words_per_sentence: int = None) -&gt; Dict</dt><dd><tt>This&nbsp;method&nbsp;calculates&nbsp;the&nbsp;readability&nbsp;indices&nbsp;and&nbsp;stores&nbsp;them&nbsp;in&nbsp;a&nbsp;dictionary.<br>
+&nbsp;<br>
+Parameters:<br>
+text(str):&nbsp;The&nbsp;text&nbsp;to&nbsp;be&nbsp;analyzed.<br>
+workers(int):&nbsp;Amount&nbsp;of&nbsp;threads&nbsp;that&nbsp;will&nbsp;complete&nbsp;this&nbsp;operation.&nbsp;If&nbsp;it's&nbsp;-1&nbsp;then&nbsp;all&nbsp;cpu&nbsp;cores&nbsp;will&nbsp;be&nbsp;used.<br>
+mean_syllables_per_word(int):&nbsp;The&nbsp;mean&nbsp;of&nbsp;syllables&nbsp;per&nbsp;word&nbsp;in&nbsp;the&nbsp;text.<br>
+mean_words_per_sentence(int):&nbsp;The&nbsp;mean&nbsp;amount&nbsp;of&nbsp;words&nbsp;per&nbsp;sentences&nbsp;in&nbsp;the&nbsp;text.<br>
+&nbsp;<br>
+Returns:<br>
+Dict:&nbsp;The&nbsp;dictionary&nbsp;with&nbsp;the&nbsp;readability&nbsp;indices.</tt></dd></dl>
+
+<dl><dt><a name="TextComplexityAnalyzer-calculate_referential_cohesion_indices_for_one_text"><strong>calculate_referential_cohesion_indices_for_one_text</strong></a>(self, text: str, workers: int = -1) -&gt; Dict</dt><dd><tt>This&nbsp;method&nbsp;calculates&nbsp;the&nbsp;referential&nbsp;cohesion&nbsp;indices&nbsp;and&nbsp;stores&nbsp;them&nbsp;in&nbsp;a&nbsp;dictionary.<br>
+&nbsp;<br>
+Parameters:<br>
+text(str):&nbsp;The&nbsp;text&nbsp;to&nbsp;be&nbsp;analyzed.<br>
+workers(int):&nbsp;Amount&nbsp;of&nbsp;threads&nbsp;that&nbsp;will&nbsp;complete&nbsp;this&nbsp;operation.&nbsp;If&nbsp;it's&nbsp;-1&nbsp;then&nbsp;all&nbsp;cpu&nbsp;cores&nbsp;will&nbsp;be&nbsp;used.<br>
+&nbsp;<br>
+Returns:<br>
+Dict:&nbsp;The&nbsp;dictionary&nbsp;with&nbsp;the&nbsp;readability&nbsp;indices.</tt></dd></dl>
+
+<dl><dt><a name="TextComplexityAnalyzer-calculate_syntactic_complexity_indices_for_one_text"><strong>calculate_syntactic_complexity_indices_for_one_text</strong></a>(self, text: str, workers: int = -1) -&gt; Dict</dt><dd><tt>This&nbsp;method&nbsp;calculates&nbsp;the&nbsp;syntactic&nbsp;complexity&nbsp;indices&nbsp;and&nbsp;stores&nbsp;them&nbsp;in&nbsp;a&nbsp;dictionary.<br>
+&nbsp;<br>
+Parameters:<br>
+text(str):&nbsp;The&nbsp;text&nbsp;to&nbsp;be&nbsp;analyzed.<br>
+workers(int):&nbsp;Amount&nbsp;of&nbsp;threads&nbsp;that&nbsp;will&nbsp;complete&nbsp;this&nbsp;operation.&nbsp;If&nbsp;it's&nbsp;-1&nbsp;then&nbsp;all&nbsp;cpu&nbsp;cores&nbsp;will&nbsp;be&nbsp;used.<br>
+&nbsp;<br>
+Returns:<br>
+Dict:&nbsp;The&nbsp;dictionary&nbsp;with&nbsp;the&nbsp;syntactic&nbsp;complexity&nbsp;indices.</tt></dd></dl>
+
+<dl><dt><a name="TextComplexityAnalyzer-calculate_syntactic_pattern_density_indices_for_one_text"><strong>calculate_syntactic_pattern_density_indices_for_one_text</strong></a>(self, text: str, workers: int = -1, word_count: int = None) -&gt; Dict</dt><dd><tt>This&nbsp;method&nbsp;calculates&nbsp;the&nbsp;syntactic&nbsp;pattern&nbsp;indices&nbsp;and&nbsp;stores&nbsp;them&nbsp;in&nbsp;a&nbsp;dictionary.<br>
+&nbsp;<br>
+Parameters:<br>
+text(str):&nbsp;The&nbsp;text&nbsp;to&nbsp;be&nbsp;analyzed.<br>
+word_count(int):&nbsp;The&nbsp;amount&nbsp;of&nbsp;words&nbsp;that&nbsp;the&nbsp;current&nbsp;text&nbsp;has&nbsp;in&nbsp;order&nbsp;to&nbsp;calculate&nbsp;the&nbsp;incidence.<br>
+&nbsp;<br>
+Returns:<br>
+Dict:&nbsp;The&nbsp;dictionary&nbsp;with&nbsp;the&nbsp;syntactic&nbsp;pattern&nbsp;indices.</tt></dd></dl>
+
+<dl><dt><a name="TextComplexityAnalyzer-calculate_word_information_indices_for_one_text"><strong>calculate_word_information_indices_for_one_text</strong></a>(self, text: str, workers: int = -1, word_count: int = None) -&gt; Dict</dt><dd><tt>This&nbsp;method&nbsp;calculates&nbsp;the&nbsp;descriptive&nbsp;indices&nbsp;and&nbsp;stores&nbsp;them&nbsp;in&nbsp;a&nbsp;dictionary.<br>
+&nbsp;<br>
+Parameters:<br>
+text(str):&nbsp;The&nbsp;text&nbsp;to&nbsp;be&nbsp;analyzed.<br>
+workers(int):&nbsp;Amount&nbsp;of&nbsp;threads&nbsp;that&nbsp;will&nbsp;complete&nbsp;this&nbsp;operation.&nbsp;If&nbsp;it's&nbsp;-1&nbsp;then&nbsp;all&nbsp;cpu&nbsp;cores&nbsp;will&nbsp;be&nbsp;used.<br>
+word_count(int):&nbsp;The&nbsp;amount&nbsp;of&nbsp;words&nbsp;that&nbsp;the&nbsp;current&nbsp;text&nbsp;has&nbsp;in&nbsp;order&nbsp;to&nbsp;calculate&nbsp;the&nbsp;incidence.<br>
+&nbsp;<br>
+Returns:<br>
+Dict:&nbsp;The&nbsp;dictionary&nbsp;with&nbsp;the&nbsp;word&nbsp;information&nbsp;indices.</tt></dd></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>ACCEPTED_LANGUAGES</strong> = {'es': 'es_core_news_lg'}<br>
+<strong>Dict</strong> = typing.Dict</td></tr></table>
+</body></html>

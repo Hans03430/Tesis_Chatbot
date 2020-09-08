@@ -1,7 +1,7 @@
 import pandas as pd
 import time
 
-from src.processing.text_complexity_analizer import TextComplexityAnalizer
+from src.processing.text_complexity_analyzer import TextComplexityAnalyzer
 
 from src.processing.coh_metrix_indices.syntactic_complexity_indices import SyntacticComplexityIndices
 import spacy
@@ -33,7 +33,7 @@ if __name__ == "__main__":
     referential_cohesion = pd.DataFrame()
 
     try:
-        tca = TextComplexityAnalizer('es')
+        tca = TextComplexityAnalyzer('es')
         
         #for filepath in documents: # For each file
             #with open(filepath, 'r') as f:
@@ -46,16 +46,11 @@ if __name__ == "__main__":
 
 #Ahora mi prima deberá conseguir un celular más pequeño.
 #'''
-        text = '''El hermoso exótico perro negro de mi vecino saltó la cerca.
-
-Mi mamá salió de compras. Todo fue divertido porque la pasamos bien.
-Tu me dijiste que ellos no querian estar con ustedes. Además, ustedes me aburren.
-Nosotros salimos de paseo mientras yo estoy enfermo y ella esta durmiendo.
-Juan no ha hecho su tarea. Sin embargo, igual aprobó el curso. A decir verdad, el curso no sirve mucho.
-        ''' 
-        
+        with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt.bak/2/Comunicación/aprende_conmigo_4.txt', 'r') as f:
+            text = f.read()
+            
         start = time.time()
-        descriptive_row = tca.calculate_descriptive_indices_for_one_text(text)
+        '''descriptive_row = tca.calculate_descriptive_indices_for_one_text(text)
         word_count = descriptive_row['DESWC']
         mean_words_per_sentence = descriptive_row['DESSL']
         mean_syllables_per_word = descriptive_row['DESWLsy']
@@ -65,7 +60,7 @@ Juan no ha hecho su tarea. Sin embargo, igual aprobó el curso. A decir verdad, 
         syntactic_complexity = syntactic_complexity.append(tca.calculate_syntactic_complexity_indices_for_one_text(text=text), ignore_index=True)
         connective = connective.append(tca.calculate_connective_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
         lexical_diversity = lexical_diversity.append(tca.calculate_lexical_diversity_density_indices_for_one_text(text=text), ignore_index=True)
-        readability = readability.append(tca.calculate_readability_indices_for_one_text(text, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word), ignore_index=True)
+        readability = readability.append(tca.calculate_readability_indices_for_one_text(text, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word), ignore_index=True)'''
         referential_cohesion = referential_cohesion.append(tca.calculate_referential_cohesion_indices_for_one_text(text=text), ignore_index=True)
         end = time.time()  
         print(f'Tiempo demorado: {end - start} segundos.')
