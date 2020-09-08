@@ -6,7 +6,6 @@ import numpy as np
 import spacy
 
 from src.processing.constants import ACCEPTED_LANGUAGES
-from src.processing.pipes.noun_phrase_tagger import NounPhraseTagger
 from src.processing.utils.utils import split_text_into_paragraphs
 
 
@@ -15,11 +14,12 @@ class SyntacticComplexityIndices:
     This class will handle all operations to find the synthactic complexity indices of a text according to Coh-Metrix.
     '''
 
-    def __init__(self, language: str='es') -> None:
+    def __init__(self, nlp, language: str='es') -> None:
         '''
         The constructor will initialize this object that calculates the synthactic complexity indices for a specific language of those that are available.
 
         Parameters:
+        nlp: The spacy model that corresponds to a language.
         language(str): The language that the texts to process will have.
 
         Returns:
@@ -29,9 +29,7 @@ class SyntacticComplexityIndices:
             raise ValueError(f'Language {language} is not supported yet')
         
         self.language = language
-        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['ner'])
-        self._nlp.add_pipe(self._nlp.create_pipe('sentencizer'))
-        self._nlp.add_pipe(NounPhraseTagger(language), after='parser')
+        self._nlp = nlp
 
     def get_mean_number_of_modifiers_per_noun_phrase(self, text: str, workers: int=-1) -> float:
         '''
@@ -52,13 +50,10 @@ class SyntacticComplexityIndices:
             paragraphs = split_text_into_paragraphs(text) # Find all paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             modifiers_per_noun_phrase = []
-            
-            '''for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['sentencizer', 'ner'], n_process=threads): # Calculate with multiprocessing 
-                for nph in doc._.noun_phrases:
-                    modifiers_per_noun_phrase.append(sum(1 for token in nph if token.pos_ == 'ADJ'))'''
-            
+            disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['parser', 'tagger', 'noun phrase tagger']]
+
             modifiers_per_noun_phrase = [sum(1 for token in nph if token.pos_ == 'ADJ')
-                                         for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['sentencizer', 'ner'], n_process=threads)
+                                         for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)
                                          for nph in doc._.noun_phrases]
 
             return np.mean(modifiers_per_noun_phrase)
@@ -82,8 +77,9 @@ class SyntacticComplexityIndices:
             paragraphs = split_text_into_paragraphs(text) # Find all paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             words_before_main_verb = []
+            disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['parser', 'tagger']]
             
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['noun phrase tagger', 'ner'], n_process=threads): # Calculate with multiprocessing 
+            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads): # Calculate with multiprocessing 
                 for sent in doc.sents:
                     left_words = []
                     for token in sent:

@@ -5,7 +5,7 @@ This function contains constants that will be used across the entire library.
 import os
 
 ACCEPTED_LANGUAGES = {
-    'es': 'es_core_news_sm'
+    'es': 'es_core_news_lg'
 }
 
 LANGUAGES_DICTIONARY_PYPHEN = {

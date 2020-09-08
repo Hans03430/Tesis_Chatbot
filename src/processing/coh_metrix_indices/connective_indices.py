@@ -7,23 +7,19 @@ import string
 from typing import Callable
 from typing import List
 from src.processing.coh_metrix_indices.descriptive_indices import DescriptiveIndices
-from src.processing.constants import ACCEPTED_LANGUAGES, LANGUAGES_DICTIONARY_PYPHEN
-from src.processing.pipes.causal_connectives_tagger import CausalConnectivesTagger
-from src.processing.pipes.logical_connectives_tagger import LogicalConnectivesTagger
-from src.processing.pipes.adversative_connectives_tagger import AdversativeConnectivesTagger
-from src.processing.pipes.temporal_connectives_tagger import TemporalConnectivesTagger
-from src.processing.pipes.additive_connectives_tagger import AdditiveConnectivesTagger
+from src.processing.constants import ACCEPTED_LANGUAGES
 from src.processing.utils.utils import split_text_into_paragraphs
 
 class ConnectiveIndices:
     '''
     This class will handle all operations to obtain the connective indices of a text according to Coh-Metrix
     '''
-    def __init__(self, language: str='es', descriptive_indices: DescriptiveIndices=None) -> None:
+    def __init__(self, nlp, language: str='es', descriptive_indices: DescriptiveIndices=None) -> None:
         '''
         The constructor will initialize this object that calculates the connective indices for a specific language of those that are available.
 
         Parameters:
+        nlp: The spacy model that corresponds to a language.
         language(str): The language that the texts to process will have.
 
         Returns:
@@ -35,12 +31,7 @@ class ConnectiveIndices:
             raise ValueError(f'The descriptive indices analyzer must be of the same language as the word information analyzer.')
         
         self.language = language
-        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['parser', 'ner'])
-        self._nlp.add_pipe(CausalConnectivesTagger(self._nlp, language), after='tagger')
-        self._nlp.add_pipe(LogicalConnectivesTagger(self._nlp, language), after='tagger')
-        self._nlp.add_pipe(AdversativeConnectivesTagger(self._nlp, language), after='tagger')
-        self._nlp.add_pipe(TemporalConnectivesTagger(self._nlp, language), after='tagger')
-        self._nlp.add_pipe(AdditiveConnectivesTagger(self._nlp, language), after='tagger')
+        self._nlp = nlp
         self._incidence = 1000
 
         if descriptive_indices is None: # Assign the descriptive indices to an attribute
@@ -90,7 +81,7 @@ class ConnectiveIndices:
         Returns:
         float: The incidence of causal connectives per {self._incidence} words.
         """
-        disable_pipeline = ['parser', 'ner', 'logical connective tagger', 'adversative connective tagger', 'temporal connective tagger', 'additive connective tagger']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['causal connective tagger', 'tagger']]
         causal_connectives_counter = lambda doc: len(doc._.causal_connectives)
         
         return self._get_connectives_incidence(text, disable_pipeline=disable_pipeline, count_connectives_function=causal_connectives_counter, workers=workers)
@@ -107,7 +98,7 @@ class ConnectiveIndices:
         Returns:
         float: The incidence of logical connectives per {self._incidence} words.
         """
-        disable_pipeline = ['parser', 'ner', 'causal connective tagger', 'adversative connective tagger', 'temporal connective tagger', 'additive connective tagger']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['logical connective tagger', 'tagger']]
         logical_connectives_counter = lambda doc: len(doc._.logical_connectives)
         
         return self._get_connectives_incidence(text, disable_pipeline=disable_pipeline, count_connectives_function=logical_connectives_counter, workers=workers)
@@ -124,7 +115,7 @@ class ConnectiveIndices:
         Returns:
         float: The incidence of adversative connectives per {self._incidence} words.
         """
-        disable_pipeline = ['parser', 'ner', 'causal connective tagger', 'logical connective tagger', 'temporal connective tagger', 'additive connective tagger']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['adversative connective tagger', 'tagger']]
         adversative_connectives_counter = lambda doc: len(doc._.adversative_connectives)
         
         return self._get_connectives_incidence(text, disable_pipeline=disable_pipeline, count_connectives_function=adversative_connectives_counter, workers=workers)
@@ -141,7 +132,7 @@ class ConnectiveIndices:
         Returns:
         float: The incidence of temporal connectives per {self._incidence} words.
         """
-        disable_pipeline = ['parser', 'ner', 'causal connective tagger', 'logical connective tagger', 'adversative connective tagger', 'additive connective tagger']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['temporal connective tagger', 'tagger']]
         temporal_connectives_counter = lambda doc: len(doc._.temporal_connectives)
         
         return self._get_connectives_incidence(text, disable_pipeline=disable_pipeline, count_connectives_function=temporal_connectives_counter, workers=workers)
@@ -158,7 +149,7 @@ class ConnectiveIndices:
         Returns:
         float: The incidence of additive connectives per {self._incidence} words.
         """
-        disable_pipeline = ['parser', 'ner', 'causal connective tagger', 'logical connective tagger', 'adversative connective tagger', 'temporal connective tagger']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['additive connective tagger', 'tagger']]
         additive_connectives_counter = lambda doc: len(doc._.additive_connectives)
         
         return self._get_connectives_incidence(text, disable_pipeline=disable_pipeline, count_connectives_function=additive_connectives_counter, workers=workers)
@@ -176,7 +167,7 @@ class ConnectiveIndices:
         Returns:
         float: The incidence of all connectives per {self._incidence} words.
         """
-        disable_pipeline = ['parser', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['causal connective tagger', 'logical connective tagger', 'adversative connective tagger', 'temporal connective tagger', 'additive connective tagger', 'causal connective tagger', 'tagger']]
         all_connectives_counter = lambda doc: len(doc._.causal_connectives) + len(doc._.logical_connectives) + len(doc._.adversative_connectives) + len(doc._.temporal_connectives) + len(doc._.additive_connectives)
         
         return self._get_connectives_incidence(text, disable_pipeline=disable_pipeline, count_connectives_function=all_connectives_counter, workers=workers)

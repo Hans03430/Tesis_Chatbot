@@ -2,18 +2,19 @@ import multiprocessing
 import spacy
 import string
 
-from src.processing.constants import ACCEPTED_LANGUAGES, LANGUAGES_DICTIONARY_PYPHEN
+from src.processing.constants import ACCEPTED_LANGUAGES
 from src.processing.utils.utils import split_text_into_paragraphs
 
 class LexicalDiversityIndices:
     '''
     This class will handle all operations to obtain the lexical diversity indices of a text according to Coh-Metrix
     '''
-    def __init__(self, language: str='es') -> None:
+    def __init__(self, nlp, language: str='es') -> None:
         '''
         The constructor will initialize this object that calculates the lexical diversity indices for a specific language of those that are available.
 
         Parameters:
+        nlp: The spacy model that corresponds to a language.
         language(str): The language that the texts to process will have.
 
         Returns:
@@ -23,7 +24,7 @@ class LexicalDiversityIndices:
             raise ValueError(f'Language {language} is not supported yet')
         
         self.language = language
-        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['parser', 'ner'])
+        self._nlp = nlp
 
     def get_type_token_ratio_between_all_words(self, text: str, workers=-1) -> float:
         """
@@ -44,13 +45,10 @@ class LexicalDiversityIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             tokens = []
+            disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
-            '''for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'ner'], n_process=threads):
-                for token in doc:
-                    if token.is_alpha: # Gather all tokens in lowercase
-                        tokens.append(token.text.lower())'''
             tokens = [token.text.lower()
-                      for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'ner'], n_process=threads)
+                      for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)
                       for token in doc
                       if token.is_alpha]
 
@@ -75,13 +73,10 @@ class LexicalDiversityIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             tokens = []
+            disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
-            '''for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'ner'], n_process=threads):
-                for token in doc:
-                    if token.is_alpha and token.pos_ in ['NOUN', 'VERB', 'ADJ', 'ADV']: # Gather all nouns, verbs, adjectives or adverbs in lowercase
-                        tokens.append(token.text.lower())'''
             tokens = [token.text.lower()
-                      for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['parser', 'ner'], n_process=threads)
+                      for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)
                       for token in doc
                       if token.is_alpha and token.pos_ in ['NOUN', 'VERB', 'ADJ', 'ADV']]
             

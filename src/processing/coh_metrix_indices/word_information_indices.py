@@ -11,11 +11,12 @@ class WordInformationIndices:
     '''
     This class will handle all operations to obtain the word information indices of a text according to Coh-Metrix.
     '''
-    def __init__(self, language: str='es', descriptive_indices: DescriptiveIndices=None) -> None:
+    def __init__(self, nlp, language: str='es', descriptive_indices: DescriptiveIndices=None) -> None:
         '''
         The constructor will initialize this object that calculates the word information indices for a specific language of those that are available.
 
         Parameters:
+        nlp: The spacy model that corresponds to a language.
         language(str): The language that the texts to process will have.
         descriptive_indices(DescriptiveIndices): The class that calculates the descriptive indices of a text in a certain language.
 
@@ -28,11 +29,11 @@ class WordInformationIndices:
             raise ValueError(f'The descriptive indices analyzer must be of the same language as the word information analyzer.')
         
         self.language = language
-        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['parser', 'ner'])
+        self._nlp = nlp
         self._incidence = 1000
 
         if descriptive_indices is None: # Assign the descriptive indices to an attribute
-            self._di = DescriptiveIndices(language)
+            self._di = DescriptiveIndices(language=language, nlp=nlp)
         else:
             self._di = descriptive_indices
 
@@ -80,7 +81,7 @@ class WordInformationIndices:
         float: The incidence of nouns per {self._incidence} words.
         '''
         noun_condition = lambda token: token.is_alpha and token.pos_ == 'NOUN'
-        disable_pipeline = ['parser', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=noun_condition, workers=workers)
 
@@ -97,7 +98,7 @@ class WordInformationIndices:
         float: The incidence of verbs per {self._incidence} words.
         '''
         verb_condition = lambda token: token.is_alpha and token.pos_ == 'VERB'
-        disable_pipeline = ['parser', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=verb_condition, workers=workers)
 
@@ -114,7 +115,7 @@ class WordInformationIndices:
         float: The incidence of adjectives per {self._incidence} words.
         '''
         adjective_condition = lambda token: token.is_alpha and token.pos_ == 'ADJ'
-        disable_pipeline = ['parser', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=adjective_condition, workers=workers)
 
@@ -131,7 +132,7 @@ class WordInformationIndices:
         float: The incidence of adverbs per {self._incidence} words.
         '''
         adverb_condition = lambda token: token.is_alpha and token.pos_ == 'ADV'
-        disable_pipeline = ['parser', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=adverb_condition, workers=workers)
 
@@ -148,7 +149,7 @@ class WordInformationIndices:
         float: The incidence of personal pronouns per {self._incidence} words.
         '''
         personal_pronoun_condition = lambda token: token.is_alpha and 'PronType=Prs' in token.tag_
-        disable_pipeline = ['parser', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
 
@@ -167,7 +168,7 @@ class WordInformationIndices:
         if self.language == 'es':
             personal_pronoun_condition = lambda token: token.is_alpha and 'Number=Sing' in token.tag_ and 'Person=1' in token.tag_ and 'PronType=Prs' in token.tag_
         
-        disable_pipeline = ['parser', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
 
@@ -186,7 +187,7 @@ class WordInformationIndices:
         if self.language == 'es':
             personal_pronoun_condition = lambda token: token.is_alpha and 'Number=Plur' in token.tag_ and 'Person=1' in token.tag_ and 'PronType=Prs' in token.tag_
         
-        disable_pipeline = ['parser', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
 
@@ -205,7 +206,7 @@ class WordInformationIndices:
         if self.language == 'es':
             personal_pronoun_condition = lambda token: token.is_alpha and 'Number=Sing' in token.tag_ and 'Person=2' in token.tag_ and 'PronType=Prs' in token.tag_
         
-        disable_pipeline = ['parser', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
 
@@ -224,7 +225,7 @@ class WordInformationIndices:
         if self.language == 'es':
             personal_pronoun_condition = lambda token: token.is_alpha and 'Number=Plur' in token.tag_ and 'Person=2' in token.tag_ and 'PronType=Prs' in token.tag_
         
-        disable_pipeline = ['parser', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
 
@@ -243,7 +244,7 @@ class WordInformationIndices:
         if self.language == 'es':
             personal_pronoun_condition = lambda token: token.is_alpha and 'Number=Sing' in token.tag_ and 'Person=3' in token.tag_ and 'PronType=Prs' in token.tag_
         
-        disable_pipeline = ['parser', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
 
@@ -262,6 +263,6 @@ class WordInformationIndices:
         if self.language == 'es':
             personal_pronoun_condition = lambda token: token.is_alpha and 'Number=Plur' in token.tag_ and 'Person=3' in token.tag_ and 'PronType=Prs' in token.tag_
         
-        disable_pipeline = ['parser', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)

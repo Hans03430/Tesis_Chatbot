@@ -11,11 +11,12 @@ class ReadabilityIndices:
     This class will handle all operations to find the readability indices of a text according to Coh-Metrix.
     '''
 
-    def __init__(self, language: str='es', descriptive_indices: DescriptiveIndices=None) -> None:
+    def __init__(self, nlp, language: str='es', descriptive_indices: DescriptiveIndices=None) -> None:
         '''
         The constructor will initialize this object that calculates the readability indices for a specific language of those that are available.
 
         Parameters:
+        nlp: The spacy model that corresponds to a language.
         language(str): The language that the texts to process will have.
         descriptive_indices(DescriptiveIndices): The class that calculates the descriptive indices of a text in a certain language.
 
@@ -28,10 +29,10 @@ class ReadabilityIndices:
             raise ValueError(f'The descriptive indices analyzer must be of the same language as the word information analyzer.')
         
         self.language = language
-        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['ner'])
+        self._nlp = nlp
 
         if descriptive_indices is None: # Assign the descriptive indices to an attribute
-            self._di = DescriptiveIndices(language)
+            self._di = DescriptiveIndices(language=language, nlp=nlp)
         else:
             self._di = descriptive_indices
 

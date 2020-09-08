@@ -1,3 +1,4 @@
+import spacy
 import time
 
 from typing import Dict
@@ -10,7 +11,15 @@ from src.processing.coh_metrix_indices.referential_cohesion_indices import Refer
 from src.processing.coh_metrix_indices.syntactic_complexity_indices import SyntacticComplexityIndices
 from src.processing.coh_metrix_indices.syntactic_pattern_density_indices import SyntacticPatternDensityIndices
 from src.processing.coh_metrix_indices.word_information_indices import WordInformationIndices
-
+from src.processing.pipes.negative_expression_tagger import NegativeExpressionTagger
+from src.processing.pipes.noun_phrase_tagger import NounPhraseTagger
+from src.processing.pipes.syllable_splitter import SyllableSplitter
+from src.processing.pipes.verb_phrase_tagger import VerbPhraseTagger
+from src.processing.pipes.causal_connectives_tagger import CausalConnectivesTagger
+from src.processing.pipes.logical_connectives_tagger import LogicalConnectivesTagger
+from src.processing.pipes.adversative_connectives_tagger import AdversativeConnectivesTagger
+from src.processing.pipes.temporal_connectives_tagger import TemporalConnectivesTagger
+from src.processing.pipes.additive_connectives_tagger import AdditiveConnectivesTagger
 
 class TextComplexityAnalizer:
     '''
@@ -30,14 +39,25 @@ class TextComplexityAnalizer:
             raise ValueError(f'Language {language} is not supported yet')
         
         self.language = language
-        self._di = DescriptiveIndices(language)
-        self._spdi = SyntacticPatternDensityIndices(language, self._di)
-        self._wii = WordInformationIndices(language, self._di)
-        self._sci = SyntacticComplexityIndices(language)
-        self._ci = ConnectiveIndices(language)
-        self._ldi = LexicalDiversityIndices(language)
-        self._ri = ReadabilityIndices(language)
-        self._rci = ReferentialCohesionIndices(language)
+        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['ner'])
+        self._nlp.add_pipe(self._nlp.create_pipe('sentencizer'))
+        self._nlp.add_pipe(SyllableSplitter(language), after='sentencizer')
+        self._nlp.add_pipe(NounPhraseTagger(language), after='parser')
+        self._nlp.add_pipe(VerbPhraseTagger(self._nlp, language), after='noun phrase tagger')
+        self._nlp.add_pipe(NegativeExpressionTagger(self._nlp, language), after='verb phrase tagger')
+        self._nlp.add_pipe(CausalConnectivesTagger(self._nlp, language), after='tagger')
+        self._nlp.add_pipe(LogicalConnectivesTagger(self._nlp, language), after='tagger')
+        self._nlp.add_pipe(AdversativeConnectivesTagger(self._nlp, language), after='tagger')
+        self._nlp.add_pipe(TemporalConnectivesTagger(self._nlp, language), after='tagger')
+        self._nlp.add_pipe(AdditiveConnectivesTagger(self._nlp, language), after='tagger')
+        self._di = DescriptiveIndices(language=language, nlp=self._nlp)
+        self._spdi = SyntacticPatternDensityIndices(language=language, nlp=self._nlp, descriptive_indices=self._di)
+        self._wii = WordInformationIndices(language=language, nlp=self._nlp, descriptive_indices=self._di)
+        self._sci = SyntacticComplexityIndices(language=language, nlp=self._nlp)
+        self._ci = ConnectiveIndices(language=language, nlp=self._nlp, descriptive_indices=self._di)
+        self._ldi = LexicalDiversityIndices(language=language, nlp=self._nlp)
+        self._ri = ReadabilityIndices(language=language, nlp=self._nlp, descriptive_indices=self._di)
+        self._rci = ReferentialCohesionIndices(language=language, nlp=self._nlp)
 
     def calculate_descriptive_indices_for_one_text(self, text: str, workers: int=-1) -> Dict:
         '''

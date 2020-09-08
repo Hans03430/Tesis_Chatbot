@@ -6,9 +6,6 @@ from typing import Callable
 from typing import List
 from src.processing.coh_metrix_indices.descriptive_indices import DescriptiveIndices
 from src.processing.constants import ACCEPTED_LANGUAGES
-from src.processing.pipes.noun_phrase_tagger import NounPhraseTagger
-from src.processing.pipes.verb_phrase_tagger import VerbPhraseTagger
-from src.processing.pipes.negative_expression_tagger import NegativeExpressionTagger
 from src.processing.utils.utils import split_text_into_paragraphs
 
 
@@ -17,11 +14,12 @@ class SyntacticPatternDensityIndices:
     This class will handle all operations to find the synthactic pattern density indices of a text according to Coh-Metrix.
     '''
 
-    def __init__(self, language: str='es', descriptive_indices: DescriptiveIndices=None) -> None:
+    def __init__(self, nlp, language: str='es', descriptive_indices: DescriptiveIndices=None) -> None:
         '''
         The constructor will initialize this object that calculates the synthactic pattern density indices for a specific language of those that are available.
 
         Parameters:
+        nlp: The spacy model that corresponds to a language.
         language(str): The language that the texts to process will have.
         descriptive_indices(DescriptiveIndices): The class that calculates the descriptive indices of a text in a certain language.
 
@@ -34,14 +32,11 @@ class SyntacticPatternDensityIndices:
             raise ValueError(f'The descriptive indices analyzer must be of the same language as the word information analyzer.')
         
         self.language = language
-        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['ner'])
-        self._nlp.add_pipe(NounPhraseTagger(language), after='parser')
-        self._nlp.add_pipe(VerbPhraseTagger(self._nlp, language), after='noun phrase tagger')
-        self._nlp.add_pipe(NegativeExpressionTagger(self._nlp, language), after='verb phrase tagger')
+        self._nlp = nlp
         self._incidence = 1000
 
         if descriptive_indices is None: # Assign the descriptive indices to an attribute
-            self._di = DescriptiveIndices(language)
+            self._di = DescriptiveIndices(language=language, nlp=nlp)
         else:
             self._di = descriptive_indices
 
@@ -87,7 +82,9 @@ class SyntacticPatternDensityIndices:
         int: The incidence of noun phrases per {self._incidence} words.
         '''
         count_noun_phrases = lambda doc: len(doc._.noun_phrases)
-        disable_pipeline = ['verb phrase tagger', 'negative expression tagger', 'ner']
+        disable_pipeline = [pipe 
+                            for pipe in self._nlp.pipe_names
+                            if pipe not in ['noun phrase tagger', 'tagger', 'parser']]
 
         return self._get_syntactic_pattern_density(text, disable_pipeline=disable_pipeline, sp_counter_function=count_noun_phrases, workers=workers)
 
@@ -104,7 +101,9 @@ class SyntacticPatternDensityIndices:
         int: The incidence of verb phrases per {self._incidence} words.
         '''
         count_verb_phrases = lambda doc: len(doc._.verb_phrases)
-        disable_pipeline = ['noun phrase tagger', 'negative expression tagger', 'parser', 'ner']
+        disable_pipeline = [pipe 
+                            for pipe in self._nlp.pipe_names
+                            if pipe not in ['verb phrase tagger', 'tagger']]
 
         return self._get_syntactic_pattern_density(text, disable_pipeline=disable_pipeline, sp_counter_function=count_verb_phrases, workers=workers)
             
@@ -121,6 +120,8 @@ class SyntacticPatternDensityIndices:
         int: The incidence of negation expressions per {self._incidence} words.
         '''
         count_negation_expressions = lambda doc: len(doc._.negation_expressions)
-        disable_pipeline = ['verb phrase tagger', 'noun phrase tagger', 'parser', 'ner']
+        disable_pipeline = [pipe 
+                            for pipe in self._nlp.pipe_names
+                            if pipe not in ['negative expression tagger', 'tagger']]
 
         return self._get_syntactic_pattern_density(text, disable_pipeline=disable_pipeline, sp_counter_function=count_negation_expressions, workers=workers)

@@ -15,11 +15,12 @@ class DescriptiveIndices:
     '''
     This class will handle all operations to obtain the descriptive indices of a text according to Coh-Metrix
     '''
-    def __init__(self, language: str='es') -> None:
+    def __init__(self, nlp, language: str='es') -> None:
         '''
         The constructor will initialize this object that calculates the descriptive indices for a specific language of those that are available.
 
         Parameters:
+        nlp: The spacy model that corresponds to a language.
         language(str): The language that the texts to process will have.
 
         Returns:
@@ -29,9 +30,10 @@ class DescriptiveIndices:
             raise ValueError(f'Language {language} is not supported yet')
         
         self.language = language
-        self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['tagger', 'parser', 'ner'])
+        '''self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['tagger', 'parser', 'ner'])
         self._nlp.add_pipe(self._nlp.create_pipe('sentencizer'))
-        self._nlp.add_pipe(SyllableSplitter(language), after='sentencizer')
+        self._nlp.add_pipe(SyllableSplitter(language), after='sentencizer')'''
+        self._nlp = nlp
 
     def get_paragraph_count_from_text(self, text: str) -> int:
         """
@@ -67,8 +69,10 @@ class DescriptiveIndices:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers  
             sentences = 0
-            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=['syllable splitter', 'parser', 'tagger', 'ner'], n_process=threads):
-                for s in doc.sents:
+            disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'sentencizer']
+
+            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=disable_pipeline, n_process=threads):
+                for _ in doc.sents:
                     sentences += 1
             
             return sentences
@@ -93,7 +97,7 @@ class DescriptiveIndices:
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             total_words = 0
 
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=['syllable splitter', 'parser', 'tagger', 'ner'], n_process=threads):
+            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=self._nlp.pipe_names, n_process=threads):
                 for token in doc:
                     if token.is_alpha:
                         total_words += 1
@@ -156,7 +160,7 @@ class DescriptiveIndices:
         
         count_length_of_paragraphs = lambda doc: sum(1 for _ in doc.sents)
 
-        disable_pipeline = ['syllable splitter', 'parser', 'tagger', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'sentencizer']
 
         return self._get_mean_std_of_metric(text, disable_pipeline=disable_pipeline, counter_function=count_length_of_paragraphs, statistic_type='all', workers=workers)
 
@@ -176,7 +180,7 @@ class DescriptiveIndices:
                                                      if token.is_alpha])
                                                  for sentence in doc.sents]
 
-        disable_pipeline = ['syllable splitter', 'parser', 'tagger', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'sentencizer']
 
         return self._get_mean_std_of_metric(text, disable_pipeline=disable_pipeline, counter_function=count_length_of_sentences, statistic_type='all', workers=workers)
 
@@ -195,7 +199,7 @@ class DescriptiveIndices:
                                               for token in doc
                                               if token.is_alpha]
 
-        disable_pipeline = ['sentencizer', 'syllable splitter', 'parser', 'tagger', 'ner']
+        disable_pipeline = self._nlp.pipe_names
 
         return self._get_mean_std_of_metric(text, disable_pipeline=disable_pipeline, counter_function=count_letters_per_word, statistic_type='all', workers=workers)
 
@@ -214,6 +218,6 @@ class DescriptiveIndices:
                                                 for token in doc
                                                 if token.is_alpha and token._.syllables is not None]
 
-        disable_pipeline = ['sentencizer', 'parser', 'tagger', 'ner']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'syllable splitter']
 
         return self._get_mean_std_of_metric(text, disable_pipeline=disable_pipeline, counter_function=count_syllables_per_word, statistic_type='all', workers=workers)

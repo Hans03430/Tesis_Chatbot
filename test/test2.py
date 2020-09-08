@@ -9,7 +9,4 @@ if __name__ == "__main__":
     text = '''El profesor dio por acabada la lección.
 '''
     doc = nlp(text)
-    print()
-    for sent in doc.sents:
-        for token in sent:
-            print(token, token.tag_, token.pos_, token.dep_)
+    print(nlp.pipe_names)
