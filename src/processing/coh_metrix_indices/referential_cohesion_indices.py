@@ -3,6 +3,7 @@ import numpy as np
 
 import spacy
 
+from itertools import permutations
 from spacy.tokens import Span
 from src.processing.constants import ACCEPTED_LANGUAGES
 from src.processing.utils.statistics_results import StatisticsResults
@@ -98,18 +99,21 @@ class ReferentialCohesionIndices:
         else:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
-            results = []
+            #results = []
             sentences = []
 
             # Process the tags of all sentences using multiprocessing
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
-                for sentence in doc.sents:
-                    sentences.append(sentence)
+            sentences = [sentence
+                         for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)
+                         for sentence in doc.sents]
 
             # Iterate over all pair of sentences
-            for sent_one in sentences:
+            '''for sent_one in sentences:
                 for sent_two in sentences:
                     results.append(sentence_analyzer(sent_one, sent_two, self.language))
+'''         
+            results = [sentence_analyzer(prev, cur, self.language)
+                       for prev, cur in permutations(sentences, 2)]
 
             stat_results = StatisticsResults() # Create empty container
 

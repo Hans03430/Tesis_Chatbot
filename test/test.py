@@ -46,8 +46,6 @@ if __name__ == "__main__":
 
 #Ahora mi prima deberá conseguir un celular más pequeño.
 #'''
-        #with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt.bak/2/Arte/orientaciones-ensenanza-arte-cultura.txt', 'r') as f:
-            #text = f.read()
         text = '''Johann Sebastian Bach nació en Eisenach, en el Ducado de Sajonia-Eisenach (en la actual Turingia, Alemania), el 21 de marzo de 1685, el mismo año que Georg Friedrich Händel y Domenico Scarlatti. La fecha de su nacimiento corresponde al calendario juliano, pues los alemanes aún no habían adoptado el calendario gregoriano, por el cual la fecha corresponde al 31 de marzo. Fue el octavo hijo (el hijo mayor tenía 14 años cuando Johann Sebastian nació)​ del matrimonio formado entre Maria Elisabetha Lämmerhirt y Johann Ambrosius Bach, director de los músicos de la ciudad.5​ Su padre fue quien probablemente le enseñó a tocar el violín y los fundamentos de la teoría musical.6 Su tío Johann Christoph Bach lo introdujo en la práctica del órgano.
 
 Su madre falleció en 1694, cuando Johann Sebastian tenía nueve años, y su padre —que ya le había dado las primeras lecciones de música— falleció ocho meses después.​ Johann Sebastian, huérfano con diez años, se fue a vivir y estudiar con su hermano mayor, Johann Christoph Bach, organista en la iglesia de San Miguel (Michaeliskirche) de Ohrdruf, una ciudad cercana.8 Allí copiaba, estudiaba e interpretaba música, incluyendo la de su propio hermano, a pesar de estar prohibido hacerlo porque las partituras eran muy valiosas y privadas y el papel de ese tipo era costoso.9​ Aprendió teoría musical y composición, además de tocar el órgano, y recibió lecciones de su hermano, que lo adiestró en la interpretación del clavicordio. Johann Christoph le dio a conocer las obras de los grandes compositores del Sur de Alemania de la época, como Johann Pachelbel (que había sido maestro de Johann Christoph)1 y Johann Jakob Froberger; de compositores del Norte de Alemania;​ de los franceses, como Jean-Baptiste Lully, Louis Marchand y Marin Marais, así como del clavecinista italiano Girolamo Frescobaldi. También en esa época estudió teología, latín, griego, francés e italiano en el gymnasium de la localidad.1
@@ -75,6 +73,8 @@ En 1713, le ofrecieron un puesto en Halle cuando aconsejó a las autoridades dur
 
 En 1717, ocurre en Dresde el anecdótico intento de duelo musical con Louis Marchand (se dice que Marchand abandonó la ciudad tras escuchar previamente y a escondidas a Bach). Ese mismo año, con motivo del fallecimiento del maestro de capilla (o Kapellmeister) de la corte de Anhalt-Köthen y con la mediación del duque Ernesto Augusto, el príncipe Leopoldo ofreció a Bach el puesto vacante, que aceptó. Esto disgustó al duque de Weimar y cuando el compositor presentó su renuncia ordenó su arresto por algunas semanas en el castillo antes de aceptarla. Según una traducción del informe del secretario del tribunal, fue encarcelado durante casi un mes antes de ser despedido desfavorablemente: 
 '''
+        with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt.bak/2/Arte/orientaciones-ensenanza-arte-cultura.txt', 'r') as f:
+            text = f.read()
             
         start = time.time()
         '''descriptive_row = tca.calculate_descriptive_indices_for_one_text(text)
