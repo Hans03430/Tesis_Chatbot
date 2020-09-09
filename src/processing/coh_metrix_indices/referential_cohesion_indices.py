@@ -108,10 +108,6 @@ class ReferentialCohesionIndices:
                          for sentence in doc.sents]
 
             # Iterate over all pair of sentences
-            '''for sent_one in sentences:
-                for sent_two in sentences:
-                    results.append(sentence_analyzer(sent_one, sent_two, self.language))
-'''         
             results = [sentence_analyzer(prev, cur, self.language)
                        for prev, cur in permutations(sentences, 2)]
 
