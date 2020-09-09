@@ -56,27 +56,30 @@ class ReferentialCohesionIndices:
         else:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
-            prev = None
+            #prev = None
             results = []
 
-        for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
-            for sentence in doc.sents:
-                if prev is not None:
-                    results.append(sentence_analizer(prev, sentence, self.language))
-                prev = sentence # Update the previous sentence
+            '''for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
+                for sentence in doc.sents:
+                    if prev is not None:
+                        results.append(sentence_analizer(prev, sentence, self.language))
+                    prev = sentence # Update the previous sentence'''
+            self._nlp.get_pipe('referential cohesion adjacent sentences analyzer').sentence_analyzer = sentence_analizer
+            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
+                results.extend(doc._.referential_cohesion)
 
-        stat_results = StatisticsResults() # Create empty container
+            stat_results = StatisticsResults() # Create empty container
 
-        if len(results) == 0:
-            return stat_results
-        else:
-            if statistic_type in ['mean', 'all']:
-                stat_results.mean = np.mean(results)
+            if len(results) == 0:
+                return stat_results
+            else:
+                if statistic_type in ['mean', 'all']:
+                    stat_results.mean = np.mean(results)
 
-            if statistic_type in ['std', 'all']:
-                stat_results.std = np.std(results)
-            
-            return stat_results
+                if statistic_type in ['std', 'all']:
+                    stat_results.std = np.std(results)
+                
+                return stat_results
 
     def _calculate_overlap_for_all_sentences(self, text: str, disable_pipeline: List, sentence_analizer: Callable, statistic_type: str='all', workers: int=-1) -> StatisticsResults:
         '''
@@ -104,28 +107,28 @@ class ReferentialCohesionIndices:
             results = []
             sentences = []
 
-        # Process the tags of all sentences using multiprocessing
-        for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
-            for sentence in doc.sents:
-                sentences.append(sentence)
+            # Process the tags of all sentences using multiprocessing
+            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
+                for sentence in doc.sents:
+                    sentences.append(sentence)
 
-        # Iterate over all pair of sentences
-        for sent_one in sentences:
-            for sent_two in sentences:
-                results.append(sentence_analizer(sent_one, sent_two, self.language))
+            # Iterate over all pair of sentences
+            for sent_one in sentences:
+                for sent_two in sentences:
+                    results.append(sentence_analizer(sent_one, sent_two, self.language))
 
-        stat_results = StatisticsResults() # Create empty container
+            stat_results = StatisticsResults() # Create empty container
 
-        if len(results) == 0:
-            return stat_results
-        else:
-            if statistic_type in ['mean', 'all']:
-                stat_results.mean = np.mean(results)
+            if len(results) == 0:
+                return stat_results
+            else:
+                if statistic_type in ['mean', 'all']:
+                    stat_results.mean = np.mean(results)
 
-            if statistic_type in ['std', 'all']:
-                stat_results.std = np.std(results)
-            
-            return stat_results
+                if statistic_type in ['std', 'all']:
+                    stat_results.std = np.std(results)
+                
+                return stat_results
 
     def get_noun_overlap_adjacent_sentences(self, text: str, workers: int=-1) -> float:
         '''
@@ -140,7 +143,7 @@ class ReferentialCohesionIndices:
         '''
         disable_pipeline = [pipe
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['sentencizer', 'tagger']]
+                            if pipe not in ['sentencizer', 'tagger', 'referential cohesion adjacent sentences analyzer']]
         return self._calculate_overlap_for_adjacent_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analizer=analize_noun_overlap, statistic_type='mean').mean
 
     def get_noun_overlap_all_sentences(self, text: str, workers: int=-1) -> float:
@@ -157,7 +160,7 @@ class ReferentialCohesionIndices:
         disable_pipeline = [pipe
                             for pipe in self._nlp.pipe_names
                             if pipe not in ['sentencizer', 'tagger']]
-        return self._calculate_overlap_for_adjacent_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analizer=analize_noun_overlap, statistic_type='mean').mean
+        return self._calculate_overlap_for_all_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analizer=analize_noun_overlap, statistic_type='mean').mean
 
     def get_argument_overlap_adjacent_sentences(self, text: str, workers: int=-1) -> float:
         '''
@@ -172,7 +175,7 @@ class ReferentialCohesionIndices:
         '''
         disable_pipeline = [pipe
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['sentencizer', 'tagger']]
+                            if pipe not in ['sentencizer', 'tagger', 'referential cohesion adjacent sentences analyzer']]
         return self._calculate_overlap_for_adjacent_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analizer=analize_argument_overlap, statistic_type='mean').mean
 
     def get_argument_overlap_all_sentences(self, text: str, workers: int=-1) -> float:
@@ -204,7 +207,7 @@ class ReferentialCohesionIndices:
         '''
         disable_pipeline = [pipe
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['sentencizer', 'tagger']]
+                            if pipe not in ['sentencizer', 'tagger', 'referential cohesion adjacent sentences analyzer']]
         return self._calculate_overlap_for_adjacent_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analizer=analize_stem_overlap, statistic_type='mean').mean
 
     def get_stem_overlap_all_sentences(self, text: str, workers: int=-1) -> float:
@@ -236,7 +239,7 @@ class ReferentialCohesionIndices:
         '''
         disable_pipeline = [pipe
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['sentencizer', 'tagger']]
+                            if pipe not in ['sentencizer', 'tagger', 'referential cohesion adjacent sentences analyzer']]
         return self._calculate_overlap_for_adjacent_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analizer=analize_stem_overlap, statistic_type='all')
 
     def get_content_word_overlap_all_sentences(self, text: str, workers: int=-1) -> StatisticsResults:
@@ -268,7 +271,7 @@ class ReferentialCohesionIndices:
         '''
         disable_pipeline = [pipe
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['sentencizer', 'tagger']]
+                            if pipe not in ['sentencizer', 'tagger', 'referential cohesion adjacent sentences analyzer']]
         return self._calculate_overlap_for_adjacent_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analizer=analize_anaphore_overlap, statistic_type='all').mean
 
     def get_anaphore_overlap_all_sentences(self, text: str, workers: int=-1) -> float:
