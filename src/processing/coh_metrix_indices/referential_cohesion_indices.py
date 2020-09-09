@@ -56,14 +56,8 @@ class ReferentialCohesionIndices:
         else:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
-            #prev = None
             results = []
 
-            '''for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
-                for sentence in doc.sents:
-                    if prev is not None:
-                        results.append(sentence_analizer(prev, sentence, self.language))
-                    prev = sentence # Update the previous sentence'''
             self._nlp.get_pipe('referential cohesion adjacent sentences analyzer').sentence_analyzer = sentence_analizer
             for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
                 results.extend(doc._.referential_cohesion)
