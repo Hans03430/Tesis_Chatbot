@@ -148,7 +148,8 @@ class WordInformationIndices:
         Returns:
         float: The incidence of personal pronouns per {self._incidence} words.
         '''
-        personal_pronoun_condition = lambda token: token.is_alpha and 'PronType=Prs' in token.tag_
+        if self.language == 'es':
+            personal_pronoun_condition = lambda token: token.is_alpha and 'PronType=Prs' in token.tag_
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
