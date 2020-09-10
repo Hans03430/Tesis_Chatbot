@@ -73,8 +73,8 @@ En 1713, le ofrecieron un puesto en Halle cuando aconsejó a las autoridades dur
 
 En 1717, ocurre en Dresde el anecdótico intento de duelo musical con Louis Marchand (se dice que Marchand abandonó la ciudad tras escuchar previamente y a escondidas a Bach). Ese mismo año, con motivo del fallecimiento del maestro de capilla (o Kapellmeister) de la corte de Anhalt-Köthen y con la mediación del duque Ernesto Augusto, el príncipe Leopoldo ofreció a Bach el puesto vacante, que aceptó. Esto disgustó al duque de Weimar y cuando el compositor presentó su renuncia ordenó su arresto por algunas semanas en el castillo antes de aceptarla. Según una traducción del informe del secretario del tribunal, fue encarcelado durante casi un mes antes de ser despedido desfavorablemente: 
 '''
-        with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt.bak/2/Arte/orientaciones-ensenanza-arte-cultura.txt', 'r') as f:
-            text = f.read()
+        #with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt.bak/2/Arte/orientaciones-ensenanza-arte-cultura.txt', 'r') as f:
+            #text = f.read()
             
         start = time.time()
         descriptive_row = tca.calculate_descriptive_indices_for_one_text(text)
