@@ -43,10 +43,10 @@ class TextComplexityAnalyzer:
         self.language = language
         self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['ner'])
         self._nlp.add_pipe(self._nlp.create_pipe('sentencizer'))
-        self._nlp.add_pipe(SyllableSplitter(language), after='sentencizer')
+        self._nlp.add_pipe(SyllableSplitter(language), after='tagger')
         self._nlp.add_pipe(NounPhraseTagger(language), after='parser')
-        self._nlp.add_pipe(VerbPhraseTagger(self._nlp, language), after='noun phrase tagger')
-        self._nlp.add_pipe(NegativeExpressionTagger(self._nlp, language), after='verb phrase tagger')
+        self._nlp.add_pipe(VerbPhraseTagger(self._nlp, language), after='tagger')
+        self._nlp.add_pipe(NegativeExpressionTagger(self._nlp, language), after='tagger')
         self._nlp.add_pipe(CausalConnectivesTagger(self._nlp, language), after='tagger')
         self._nlp.add_pipe(LogicalConnectivesTagger(self._nlp, language), after='tagger')
         self._nlp.add_pipe(AdversativeConnectivesTagger(self._nlp, language), after='tagger')

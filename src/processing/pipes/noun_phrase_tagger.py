@@ -52,7 +52,6 @@ class NounPhraseTagger:
         '''
         noun_phrases = set()
         for nc in doc.noun_chunks: # We find the noun phrases in the entire document
-
             for np in [nc, doc[nc.root.left_edge.i:nc.root.right_edge.i+1]]:
                 noun_phrases.add(np)
 
@@ -60,5 +59,5 @@ class NounPhraseTagger:
                                             'end': span.end,
                                             'label': span.label}
                                            for span in filter_spans(noun_phrases)] # Save the noun phrases found
-
+        
         return doc
