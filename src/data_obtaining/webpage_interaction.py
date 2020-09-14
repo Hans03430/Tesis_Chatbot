@@ -47,4 +47,4 @@ async def download_document_and_save(session: ClientSession, url: str, dir: str)
                 async with AIOFile(dir, 'wb') as downloaded_file:
                     await downloaded_file.write(document)
         except Exception as e:
-            raise e
+            return

@@ -21,7 +21,7 @@ def split_text_into_paragraphs(text: str) -> List[str]:
     for p in paragraphs:
         p = p.strip()
 
-    return [p for p in paragraphs if len(p) > 0] # Don't count empty paragraphs
+    return [p.strip() for p in paragraphs if len(p) > 0] # Don't count empty paragraphs
 
 
 def split_text_into_sentences(text: str, language: str='es') -> List[str]:
@@ -35,8 +35,9 @@ def split_text_into_sentences(text: str, language: str='es') -> List[str]:
     Returns:
     List[str]: A list of sentences.
     """
-    if not language in ACCEPTED_LANGUAGES:
+    if not language in ACCEPTED_LANGUAGES[language]:
         raise ValueError(f'Language {language} is not supported yet')
+
     nlp = spacy.load(language, disable=['tagger', 'parser', 'ner'])
     nlp.add_pipe(nlp.create_pipe('sentencizer'))
     text_spacy = nlp(text)

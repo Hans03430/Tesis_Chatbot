@@ -1,0 +1,119 @@
+LAS PROYECCIONES CARTOGRÁFICAS.
+
+Las proyecciones cartográficas transforman el modelo esférico de la Tierra en una imagen plana.
+
+Las proyecciones cartográficas según la superficie auxiliar.
+Las proyecciones se pueden clasificar según el tipo de plano auxiliar que se utilice para proyectar la
+superficie del globo terrestre. Así, la proyección puede ser cilíndrica, acimutal o cónica.
+
+Cada uno de estos tres tipos de proyecciones (cilíndrica, acimutal y cónica) tiene asociado un tipo 
+de grilla de coordenadas geográficas.
+
+Proyecciones cilíndricas.
+En la proyección cilíndrica los paralelos y los meridianos se cortan en ángulos de 90º.
+
+La línea de tangencia entre el plano y la esfera es la zona de menos deformación.
+
+Si esta linea se corresponde con el Ecuador, los polos resultan severamente distorsionados.
+
+Proyecciones acimutales.
+En la proyección acimutal los paralelos forman segmentos de círculos concéntricos y los meridianos
+tienden a converger, por lo que la distancia entre ellos disminuye progresivamente.
+
+El punto de tangencia entre el plano y la esfera es la zona de menos deformación.
+
+El borde de la circunferencia es la zona más deformada por la proyección acimutal.
+
+Proyecciones cónicas.
+En la proyección cónica, el vértice del cono se ubica en el eje y une los dos polos. Los meridianos 
+tienden a converger hacia la “punta” del cono y a separarse hacia el sentido opuesto.
+
+La línea de tangencia entre el plano y la esfera es la zona menos afectada por las distorsiones de la 
+proyección. Hacia la parte superior de la línea de tangencia, la distorsión tiende a comprimir la 
+imagen. Y hacia la parte inferior, a expandirla.
+
+Las proyecciones cartográficas según las propiedades geométricas.
+Todas las proyecciones suponen una distorsión. Según el tipo de propiedades que conservan y que 
+distorsionan, las proyecciones se clasifican en: conforme, equivalente y equidistante.
+
+La proyección sinusoidal.
+La proyección sinusoidal es equivalente o equiareal. Conserva las superficies, pero distorsiona las 
+formas geográficas. La franja intertropical y la zona del meridiano central, que en esta imagen 
+coincide con el Meridiano de Greenwich, pero puede variar, son las partes menos afectadas por las 
+distorsiones.
+
+Los paralelos se mantienen rectos. Los paralelos regularmente espaciados proveen una 
+representación precisa de las relaciones latitudinales.
+
+Los meridianos son curvas senoidales, espaciados a intervalos regulares a lo largo de los paralelos.
+La convergencia de los meridianos en los polos preserva la escala este-oeste a lo largo de los 
+paralelos.
+
+La proyección cilíndrica directa.
+
+La proyección cilíndrica es una proyección conforme; dado que conserva los ángulos es posible 
+trazar líneas loxodrómicas de rumbo constante. La proyección cilíndrica más conocida y utilizada es
+la llamada proyección Mercator.
+
+Las formas geográficas sufren severas distorsiones en las zonas alejadas al eje de tangencia. En esta
+imagen, las zonas de altas latitudes tienen sus formas expandidas.
+
+Los polos, que en la esfera son un punto, en la proyección cilíndrica se transforman en una línea.
+
+Gerardus Mercator (1512-1594) fue un cartógrafo flamenco que ideó la proyección que lleva su 
+nombre. Mercator estudió matemática, astronomía y geografía. Dominó también la técnica del 
+grabado y fue constructor de globos terráqueos. La originalidad de la proyección concebida por 
+Mercator consistió en proyectar la superficie de la Tierra en un cilindro tangente a la línea del 
+Ecuador, que apareció por primera vez en un planisferio publicado en 1569. Esta proyección 
+permitió a los navegantes un contorno de los continentes más aproximado a la realidad y, a su vez, 
+facilitó la navegación, ya que podía marcarse en los mapas la dirección que indicaba la bŕujula con 
+las líneas rectas.
+
+La proyección Hammer – Aitoff.
+La proyección cilíndrica es una proyección equiareal, es decir, conserva las superficies. La 
+distorsión se incrementa a medida que aumenta la distancia respecto de los ejes centrales.
+
+El Ecuador es el eje mayor de la elipse. Los paralelos se curvan.
+
+Un meridiano central, que puede ser el Meridiano de Greenwich o cualquier otro, funciona como el 
+eje menor de la elipse.
+
+La proyección Robinson.
+La proyección Robinson es un ensayo para equilibrar los diferentes tipos de distorsiones que supone
+una proyección. Busca no deformar excesivamente ni los ángulos, ni las superficies, ni las formas.
+
+Los paralelos se mantienen rectos y paralelos. Están espaciados a intervalos regulares entre los 38º 
+N y los 38º S, por lo que quedan un poco más atenuadas las distorsiones respecto de las 
+proyecciones equirrectangulares.
+
+Los meridianos están espaciados a intervalos regulares y se curvan sin convergir en los polos.
+
+En 1988, la proyección de Robinson fue adoptada por la revista National Geographic para la 
+elaboración de mapas generales, porque “negociaba” entre las diferentes deformaciones de las 
+proyecciones tradicionales y lograba una imagen más cercana al “aspecto real” de la superficie 
+terrestre. Luego fue reemplazada.
+
+La proyección Mollweide.
+La proyección Mollweide es una proyección equivalente: conserva áreas y distorsiona formas. 
+Tienen una escala norte–sur decreciente hacia los polos y creciente en las proximidades del 
+Ecuador. Las franjas de latitudes medias son las zonas de menor distorsión.
+
+Sacrifica el espaciado regular de los paralelos para preservar las relaciones de área sin 
+distorsionarlas en las zonas marginales.
+
+Los meridianos son elipses redondeadas.
+
+La proyección cónica conforme.
+La proyección cónica conforme conserva los ángulos; por lo tanto, mantiene las distancias. La 
+posibilidad de establecer distancias precisas hace que esta proyección sea utilizada para la 
+navegación aérea.
+
+Los paralelos son arcos de círculos concéntricos.
+La distorsión aumenta progresivamente a medida que aumenta la distancia respecto del paralelo de 
+referencia. Por eso, el hemisferio que no contiene el paralelo de referencia se ve severamente 
+afectado.
+
+Los meridianos son radiales que tienden a converger en un polo.
+
+La proyección cónica conforme de Lambert introduce la variante de utilizar dos paralelos de 
+referencia.
