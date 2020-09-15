@@ -71,22 +71,27 @@ Por otro lado, ella sacará a pasear a su hermoso perro negro.
 
 Ellos jugarán baloncesto con ellas toda la semana.
 Tú me debes mucho dinero y ustedes no lo saben.'''
+
+        text = '''Mi carro es nuevo.
+
+
+Los carros fueron destruidos.'''
         #with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt.bak/2/Arte/orientaciones-ensenanza-arte-cultura.txt', 'r') as f:
             #text = f.read()
             
         start = time.time()
-        #descriptive_row = tca.calculate_descriptive_indices_for_one_text(text)
-        #word_count = descriptive_row['DESWC']
-        #mean_words_per_sentence = descriptive_row['DESSL']
-        #mean_syllables_per_word = descriptive_row['DESWLsy']
-        #descriptive = descriptive.append(descriptive_row, ignore_index=True)
-        #word_information = word_information.append(tca.calculate_word_information_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
-        #syntactic_pattern_density = syntactic_pattern_density.append(tca.calculate_syntactic_pattern_density_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
+        descriptive_row = tca.calculate_descriptive_indices_for_one_text(text)
+        word_count = descriptive_row['DESWC']
+        mean_words_per_sentence = descriptive_row['DESSL']
+        mean_syllables_per_word = descriptive_row['DESWLsy']
+        descriptive = descriptive.append(descriptive_row, ignore_index=True)
+        word_information = word_information.append(tca.calculate_word_information_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
+        syntactic_pattern_density = syntactic_pattern_density.append(tca.calculate_syntactic_pattern_density_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
         syntactic_complexity = syntactic_complexity.append(tca.calculate_syntactic_complexity_indices_for_one_text(text=text), ignore_index=True)
-        #connective = connective.append(tca.calculate_connective_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
-        #lexical_diversity = lexical_diversity.append(tca.calculate_lexical_diversity_density_indices_for_one_text(text=text), ignore_index=True)
-        #readability = readability.append(tca.calculate_readability_indices_for_one_text(text, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word), ignore_index=True)
-        #referential_cohesion = referential_cohesion.append(tca.calculate_referential_cohesion_indices_for_one_text(text=text), ignore_index=True)
+        connective = connective.append(tca.calculate_connective_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
+        lexical_diversity = lexical_diversity.append(tca.calculate_lexical_diversity_density_indices_for_one_text(text=text), ignore_index=True)
+        readability = readability.append(tca.calculate_readability_indices_for_one_text(text, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word), ignore_index=True)
+        referential_cohesion = referential_cohesion.append(tca.calculate_referential_cohesion_indices_for_one_text(text=text), ignore_index=True)
         end = time.time()  
         print(f'Tiempo demorado: {end - start} segundos.')
                 #filename = filepath.split('/')[-1]   
