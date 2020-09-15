@@ -1,3 +1,7 @@
+'''
+This module contains generic functions to reutilze across the "preparation" module.
+'''
+
 from aiofile import AIOFile
 
 async def obtain_text_file_as_string(file_path: str) -> str:
