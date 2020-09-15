@@ -1,5 +1,6 @@
 import spacy
 
+from spacy.tokens import Token
 from typing import List
 
 from src.processing.constants import ACCEPTED_LANGUAGES
@@ -42,3 +43,29 @@ def split_text_into_sentences(text: str, language: str='es') -> List[str]:
     nlp.add_pipe(nlp.create_pipe('sentencizer'))
     text_spacy = nlp(text)
     return [str(sentence) for sentence in text_spacy.sents]
+
+
+def is_content_word(token: Token) -> bool:
+    '''
+    This function checks if a token is a content word: Substantive, verb, adverb or adjective.
+
+    Parameters:
+    token(Token): A Spacy token to analyze.
+
+    Returns:
+    bool: True or false.
+    '''
+    return token.is_alpha and token.pos_ in ['NOUN', 'VERB', 'ADJ', 'ADV']
+
+
+def is_word(token: Token) -> bool:
+    '''
+    This function checks if a token is a word. All characters will be alphabetic.
+
+    Parameters:
+    token(Token): A Spacy token to analyze.
+
+    Returns:
+    bool: True or false.
+    '''
+    return token.is_alpha

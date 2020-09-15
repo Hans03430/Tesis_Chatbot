@@ -7,6 +7,8 @@ from itertools import permutations
 from spacy.tokens import Span
 from src.processing.constants import ACCEPTED_LANGUAGES
 from src.processing.utils.statistics_results import StatisticsResults
+from src.processing.utils.utils import is_word
+from src.processing.utils.utils import is_content_word
 from src.processing.utils.utils import split_text_into_paragraphs
 from typing import Callable
 from typing import List
@@ -299,11 +301,11 @@ def analize_noun_overlap(prev_sentence: Span, cur_sentence: Span, language: str=
     # Place the tokens in a dictionary for search efficiency
     prev_sentence_noun_tokens = {token.text.lower(): None
                                  for token in prev_sentence
-                                 if token.is_alpha and token.pos_ == 'NOUN'}
+                                 if is_word(token) and token.pos_ == 'NOUN'}
 
     for token in cur_sentence:
         if language == 'es':
-            if token.is_alpha and token.pos_ == 'NOUN' and token.text.lower() in prev_sentence_noun_tokens:
+            if is_word(token) and token.pos_ == 'NOUN' and token.text.lower() in prev_sentence_noun_tokens:
                 return 1 # There's cohesion
 
     return 0 # No cohesion
@@ -324,18 +326,18 @@ def analize_argument_overlap(prev_sentence: Span, cur_sentence: Span, language: 
     # Place the tokens in a dictionary for search efficiency
     prev_sentence_noun_tokens = {token.lemma_.lower(): None
                                  for token in prev_sentence
-                                 if token.is_alpha and token.pos_ == 'NOUN'}
+                                 if is_word(token) and token.pos_ == 'NOUN'}
 
     prev_sentence_personal_pronouns_tokens = {token.text.lower(): None
                                               for token in prev_sentence
-                                              if token.is_alpha and 'PronType=Prs' in token.tag_}
+                                              if is_word(token) and 'PronType=Prs' in token.tag_}
 
     for token in cur_sentence: # Iterate every token of the current sentence
         if language == 'es':
-            if token.is_alpha and token.pos_ == 'NOUN' and token.lemma_.lower() in prev_sentence_noun_tokens:
+            if is_word(token) and token.pos_ == 'NOUN' and token.lemma_.lower() in prev_sentence_noun_tokens:
                 return 1 # There's cohesion by noun lemma
 
-            if token.is_alpha and 'PronType=Prs' in token.tag_ and token.text.lower() in prev_sentence_personal_pronouns_tokens:
+            if is_word(token) and 'PronType=Prs' in token.tag_ and token.text.lower() in prev_sentence_personal_pronouns_tokens:
                 return 1 # There's cohesion by personal pronoun
 
     return 0 # No cohesion
@@ -356,11 +358,11 @@ def analize_stem_overlap(prev_sentence: Span, cur_sentence: Span, language: str=
     # Place the tokens in a dictionary for search efficiency
     prev_sentence_content_stem_tokens = {token.lemma_.lower(): None
                                          for token in prev_sentence
-                                         if token.is_alpha and token.pos_ in ['NOUN', 'VERB', 'ADJ', 'ADV']}
+                                         if is_word(token) and token.pos_ in ['NOUN', 'VERB', 'ADJ', 'ADV']}
 
     for token in cur_sentence:
         if language == 'es':
-            if token.is_alpha and token.pos_ == 'NOUN' and token.lemma_.lower() in prev_sentence_content_stem_tokens:
+            if is_word(token) and token.pos_ == 'NOUN' and token.lemma_.lower() in prev_sentence_content_stem_tokens:
                 return 1 # There's cohesion
 
     return 0 # No cohesion
@@ -379,19 +381,19 @@ def analize_content_word_overlap(prev_sentence: Span, cur_sentence: Span, langua
     float: Proportion of tokens that overlap between the current and previous sentences
     '''
     # Place the tokens in a dictionary for search efficiency
-    total_tokens = len([token for token in prev_sentence if token.is_alpha]) + len([token for token in cur_sentence if token.is_alpha])
+    total_tokens = len([token for token in prev_sentence if is_word(token)]) + len([token for token in cur_sentence if is_word(token)])
 
     if total_tokens == 0: # Nothing to compute
         return 0
     else:
         prev_sentence_content_words_tokens = {token.text.lower(): None
                                               for token in prev_sentence
-                                              if token.is_alpha and token.pos_ in ['NOUN', 'VERB', 'ADJ', 'ADV']}
+                                              if is_word(token) and token.pos_ in ['NOUN', 'VERB', 'ADJ', 'ADV']}
         matches = 0 # Matcher counter
 
         for token in cur_sentence:
             if language == 'es':
-                if token.is_alpha and token.pos_ in ['NOUN', 'VERB', 'ADJ', 'ADV'] and token.text.lower() in prev_sentence_content_words_tokens:
+                if is_content_word(token) and token.text.lower() in prev_sentence_content_words_tokens:
                     matches += 1 # There's cohesion
 
         return matches / total_tokens
@@ -412,11 +414,11 @@ def analize_anaphore_overlap(prev_sentence: Span, cur_sentence: Span, language: 
     # Place the tokens in a dictionary for search efficiency
     prev_sentence_pronoun_tokens = {token.text.lower(): None
                                     for token in prev_sentence
-                                    if token.is_alpha and token.pos_ == 'PRON'}
+                                    if is_word(token) and token.pos_ == 'PRON'}
 
     for token in cur_sentence:
         if language == 'es':
-            if token.is_alpha and token.pos_ == 'PRON' and token.text.lower() in prev_sentence_pronoun_tokens:
+            if is_word(token) and token.pos_ == 'PRON' and token.text.lower() in prev_sentence_pronoun_tokens:
                 return 1 # There's cohesion
 
     return 0 # No cohesion

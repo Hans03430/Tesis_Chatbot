@@ -8,6 +8,7 @@ from typing import List
 from src.processing.constants import ACCEPTED_LANGUAGES, LANGUAGES_DICTIONARY_PYPHEN
 from src.processing.pipes.syllable_splitter import SyllableSplitter
 from src.processing.utils.statistics_results import StatisticsResults
+from src.processing.utils.utils import is_word
 from src.processing.utils.utils import split_text_into_paragraphs
 from src.processing.utils.utils import split_text_into_sentences
 
@@ -99,7 +100,7 @@ class DescriptiveIndices:
 
             for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=self._nlp.pipe_names, n_process=threads):
                 for token in doc:
-                    if token.is_alpha:
+                    if is_word(token):
                         total_words += 1
 
             return total_words
@@ -177,7 +178,7 @@ class DescriptiveIndices:
         StatisticsResults: The mean and standard deviation of the amount in words in each sentence.
         """
         count_length_of_sentences = lambda doc: [len([1 for token in sentence
-                                                     if token.is_alpha])
+                                                     if is_word(token)])
                                                  for sentence in doc.sents]
 
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'sentencizer']
@@ -197,7 +198,7 @@ class DescriptiveIndices:
         """
         count_letters_per_word = lambda doc: [len(token)
                                               for token in doc
-                                              if token.is_alpha]
+                                              if is_word(token)]
 
         disable_pipeline = self._nlp.pipe_names
 
@@ -216,7 +217,7 @@ class DescriptiveIndices:
         """
         count_syllables_per_word = lambda doc: [len(token._.syllables)
                                                 for token in doc
-                                                if token.is_alpha and token._.syllables is not None]
+                                                if is_word(token) and token._.syllables is not None]
 
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'syllable splitter']
 

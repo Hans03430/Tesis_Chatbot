@@ -1,3 +1,7 @@
+'''
+This file creates the database to store the downloaded texts.
+'''
+
 from src.preparation import Base
 from src.preparation import engine
 from src.preparation.models.obtained_text import ObtainedText

@@ -4,6 +4,7 @@ from spacy.tokens import Doc
 from spacy.tokens import Token
 
 from src.processing.constants import ACCEPTED_LANGUAGES, LANGUAGES_DICTIONARY_PYPHEN
+from src.processing.utils.utils import is_word
 
 Token.set_extension('syllables', default=None, force=True)
 
@@ -34,7 +35,7 @@ class SyllableSplitter:
         doc(Doc): A Spacy document.
         '''
         for token in doc: # Iterate every token
-            if token.is_alpha:
+            if is_word(token):
                 token._.syllables = self._dic.inserted(token.text).split('-')
         
         return doc

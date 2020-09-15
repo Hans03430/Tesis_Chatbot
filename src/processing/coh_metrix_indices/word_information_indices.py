@@ -5,6 +5,7 @@ from typing import Callable
 from typing import List
 from src.processing.coh_metrix_indices.descriptive_indices import DescriptiveIndices
 from src.processing.constants import ACCEPTED_LANGUAGES
+from src.processing.utils.utils import is_word
 from src.processing.utils.utils import split_text_into_paragraphs
 
 class WordInformationIndices:
@@ -80,7 +81,7 @@ class WordInformationIndices:
         Returns:
         float: The incidence of nouns per {self._incidence} words.
         '''
-        noun_condition = lambda token: token.is_alpha and token.pos_ == 'NOUN'
+        noun_condition = lambda token: is_word(token) and token.pos_ == 'NOUN'
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=noun_condition, workers=workers)
@@ -97,7 +98,7 @@ class WordInformationIndices:
         Returns:
         float: The incidence of verbs per {self._incidence} words.
         '''
-        verb_condition = lambda token: token.is_alpha and token.pos_ == 'VERB'
+        verb_condition = lambda token: is_word(token) and token.pos_ == 'VERB'
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=verb_condition, workers=workers)
@@ -114,7 +115,7 @@ class WordInformationIndices:
         Returns:
         float: The incidence of adjectives per {self._incidence} words.
         '''
-        adjective_condition = lambda token: token.is_alpha and token.pos_ == 'ADJ'
+        adjective_condition = lambda token: is_word(token) and token.pos_ == 'ADJ'
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=adjective_condition, workers=workers)
@@ -131,7 +132,7 @@ class WordInformationIndices:
         Returns:
         float: The incidence of adverbs per {self._incidence} words.
         '''
-        adverb_condition = lambda token: token.is_alpha and token.pos_ == 'ADV'
+        adverb_condition = lambda token: is_word(token) and token.pos_ == 'ADV'
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=adverb_condition, workers=workers)
@@ -149,7 +150,7 @@ class WordInformationIndices:
         float: The incidence of personal pronouns per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: token.is_alpha and token.pos_ == 'PRON' and 'PronType=Prs' in token.tag_
+            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'PronType=Prs' in token.tag_
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
@@ -167,7 +168,7 @@ class WordInformationIndices:
         float: The incidence of personal pronouns in first person and singular form per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: token.is_alpha and token.pos_ == 'PRON' and 'Number=Sing' in token.tag_ and 'Person=1' in token.tag_ and 'PronType=Prs' in token.tag_
+            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'Number=Sing' in token.tag_ and 'Person=1' in token.tag_ and 'PronType=Prs' in token.tag_
         
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
@@ -186,7 +187,7 @@ class WordInformationIndices:
         float: The incidence of personal pronouns in first person and plural form per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: token.is_alpha and token.pos_ == 'PRON' and 'Number=Plur' in token.tag_ and 'Person=1' in token.tag_ and 'PronType=Prs' in token.tag_
+            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'Number=Plur' in token.tag_ and 'Person=1' in token.tag_ and 'PronType=Prs' in token.tag_
         
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
@@ -205,7 +206,7 @@ class WordInformationIndices:
         float: The incidence of personal pronouns in second person and singular form per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: token.is_alpha and token.pos_ == 'PRON' and 'Number=Sing' in token.tag_ and 'Person=2' in token.tag_ and 'PronType=Prs' in token.tag_
+            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'Number=Sing' in token.tag_ and 'Person=2' in token.tag_ and 'PronType=Prs' in token.tag_
         
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
@@ -224,7 +225,7 @@ class WordInformationIndices:
         float: The incidence of personal pronouns in second person and plural form per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: token.is_alpha and token.pos_ == 'PRON' and 'Number=Plur' in token.tag_ and 'Person=2' in token.tag_ and 'PronType=Prs' in token.tag_
+            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'Number=Plur' in token.tag_ and 'Person=2' in token.tag_ and 'PronType=Prs' in token.tag_
         
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
@@ -243,7 +244,7 @@ class WordInformationIndices:
         float: The incidence of personal pronouns in third person and singular form per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: token.is_alpha and token.pos_ == 'PRON' and 'Number=Sing' in token.tag_ and 'Person=3' in token.tag_ and 'PronType=Prs' in token.tag_
+            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'Number=Sing' in token.tag_ and 'Person=3' in token.tag_ and 'PronType=Prs' in token.tag_
         
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
@@ -262,7 +263,7 @@ class WordInformationIndices:
         float: The incidence of personal pronouns in third person and plural form per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: token.is_alpha and token.pos_ == 'PRON' and 'Number=Plur' in token.tag_ and 'Person=3' in token.tag_ and 'PronType=Prs' in token.tag_
+            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'Number=Plur' in token.tag_ and 'Person=3' in token.tag_ and 'PronType=Prs' in token.tag_
         
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 

@@ -7,16 +7,6 @@ from src.processing.coh_metrix_indices.syntactic_complexity_indices import Synta
 import spacy
 
 from src.processing.constants import BASE_DIRECTORY
-from src.processing.data_handler.models.obtained_text import ObtainedText
-from src.processing.data_handler.models.descriptive_index import DescriptiveIndex
-from src.processing.data_handler.models.connective_index import ConnectiveIndex
-from src.processing.data_handler.models.lexical_diversity_index import LexicalDiversityIndex
-from src.processing.data_handler.models.readability_index import ReadabilityIndex
-from src.processing.data_handler.models.referential_cohesion_index import ReferentialCohesionIndex
-from src.processing.data_handler.models.syntactic_complexity_index import SyntacticComplexityIndex
-from src.processing.data_handler.models.syntactic_pattern_density_index import SyntacticPatternDensityIndex
-from src.processing.data_handler.models.word_information_index import WordInformationIndex
-from src.preparation.obtained_text_da import ObtainedTextDA
 
 def foo(a, b):
     return a + b
@@ -85,18 +75,18 @@ Tú me debes mucho dinero y ustedes no lo saben.'''
             #text = f.read()
             
         start = time.time()
-        descriptive_row = tca.calculate_descriptive_indices_for_one_text(text)
-        word_count = descriptive_row['DESWC']
-        mean_words_per_sentence = descriptive_row['DESSL']
-        mean_syllables_per_word = descriptive_row['DESWLsy']
-        descriptive = descriptive.append(descriptive_row, ignore_index=True)
-        word_information = word_information.append(tca.calculate_word_information_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
-        syntactic_pattern_density = syntactic_pattern_density.append(tca.calculate_syntactic_pattern_density_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
+        #descriptive_row = tca.calculate_descriptive_indices_for_one_text(text)
+        #word_count = descriptive_row['DESWC']
+        #mean_words_per_sentence = descriptive_row['DESSL']
+        #mean_syllables_per_word = descriptive_row['DESWLsy']
+        #descriptive = descriptive.append(descriptive_row, ignore_index=True)
+        #word_information = word_information.append(tca.calculate_word_information_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
+        #syntactic_pattern_density = syntactic_pattern_density.append(tca.calculate_syntactic_pattern_density_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
         syntactic_complexity = syntactic_complexity.append(tca.calculate_syntactic_complexity_indices_for_one_text(text=text), ignore_index=True)
-        connective = connective.append(tca.calculate_connective_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
-        lexical_diversity = lexical_diversity.append(tca.calculate_lexical_diversity_density_indices_for_one_text(text=text), ignore_index=True)
-        readability = readability.append(tca.calculate_readability_indices_for_one_text(text, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word), ignore_index=True)
-        referential_cohesion = referential_cohesion.append(tca.calculate_referential_cohesion_indices_for_one_text(text=text), ignore_index=True)
+        #connective = connective.append(tca.calculate_connective_indices_for_one_text(text=text, word_count=word_count), ignore_index=True)
+        #lexical_diversity = lexical_diversity.append(tca.calculate_lexical_diversity_density_indices_for_one_text(text=text), ignore_index=True)
+        #readability = readability.append(tca.calculate_readability_indices_for_one_text(text, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word), ignore_index=True)
+        #referential_cohesion = referential_cohesion.append(tca.calculate_referential_cohesion_indices_for_one_text(text=text), ignore_index=True)
         end = time.time()  
         print(f'Tiempo demorado: {end - start} segundos.')
                 #filename = filepath.split('/')[-1]   

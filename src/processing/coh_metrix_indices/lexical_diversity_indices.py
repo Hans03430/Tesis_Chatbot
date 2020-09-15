@@ -3,6 +3,8 @@ import spacy
 import string
 
 from src.processing.constants import ACCEPTED_LANGUAGES
+from src.processing.utils.utils import is_content_word
+from src.processing.utils.utils import is_word
 from src.processing.utils.utils import split_text_into_paragraphs
 
 class LexicalDiversityIndices:
@@ -50,8 +52,8 @@ class LexicalDiversityIndices:
             tokens = [token.text.lower()
                       for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)
                       for token in doc
-                      if token.is_alpha]
-
+                      if is_word(token)]
+                      
             return len(set(tokens)) / len(tokens)
 
     def get_type_token_ratio_of_content_words(self, text: str, workers=-1) -> float:
@@ -78,6 +80,6 @@ class LexicalDiversityIndices:
             tokens = [token.text.lower()
                       for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)
                       for token in doc
-                      if token.is_alpha and token.pos_ in ['NOUN', 'VERB', 'ADJ', 'ADV']]
-            
+                      if is_content_word(token)]
+                      
             return len(set(tokens)) / len(tokens)

@@ -6,6 +6,7 @@ import numpy as np
 import spacy
 
 from src.processing.constants import ACCEPTED_LANGUAGES
+from src.processing.utils.utils import is_word
 from src.processing.utils.utils import split_text_into_paragraphs
 
 
@@ -83,11 +84,12 @@ class SyntacticComplexityIndices:
                 for sent in doc.sents:
                     left_words = []
                     for token in sent:
-                        if token.pos_ == 'VERB' and token.dep_ == 'ROOT':
+                        if token.pos_ in ['VERB', 'AUX'] and token.dep_ == 'ROOT':
                             break
                         else:
-                            left_words.append(token.text)
-                
+                            if is_word(token):
+                                left_words.append(token.text)
+                                
                     words_before_main_verb.append(len(left_words))
         
             return np.mean(words_before_main_verb)

@@ -1,3 +1,7 @@
+'''
+This module contains the functions and classes to handle data access.
+'''
+
 import sqlalchemy
 
 from sqlalchemy import create_engine
