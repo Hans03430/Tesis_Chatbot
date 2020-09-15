@@ -14,7 +14,7 @@ class DescriptiveIndex(Base):
     __tablename__ = 'DESCRIPTIVE_INDEX'
 
     id = Column('ID', Integer, primary_key=True)
-    obtained_text_id = Column('OBTAINED_TEXT_ID', ForeignKey('OBTAINED_TEXT.ID'))
+    obtained_text_id = Column('OBTAINED_TEXT_ID', ForeignKey('OBTAINED_TEXT.ID'), nullable=False)
     obtained_text = relationship('ObtainedText', back_populates='descriptive_index')
     DESPC = Column('DESPC', Float, nullable=True)
     DESSC = Column('DESSC', Float, nullable=True)
