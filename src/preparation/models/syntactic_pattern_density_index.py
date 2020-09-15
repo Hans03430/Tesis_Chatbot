@@ -1,4 +1,4 @@
-from src.processing.data_handler import Base
+from src.preparation import Base
 from sqlalchemy import Column
 from sqlalchemy import Integer
 from sqlalchemy import Float
@@ -7,21 +7,18 @@ from sqlalchemy.orm import relationship
 from typing import Dict
 
 
-class ConnectiveIndex(Base):
+class SyntacticPatternDensityIndex(Base):
     '''
-    This is the class that represents the connective indices of a text.
+    This is the class that represents the syntactic pattern density indices of a text.
     '''
-    __tablename__ = 'CONNECTIVE_INDEX'
+    __tablename__ = 'SYNTACTIC_PATTERN_DENSITY_INDEX'
 
     id = Column('ID', Integer, primary_key=True)
     obtained_text_id = Column('OBTAINED_TEXT_ID', ForeignKey('OBTAINED_TEXT.ID'))
-    obtained_text = relationship('ObtainedText', back_populates='connective_index')
-    CNCAll = Column('CNCAll', Float, nullable=True)
-    CNCCaus = Column('CNCCaus', Float, nullable=True)
-    CNCLogic = Column('CNCLogic', Float, nullable=True)
-    CNCADC = Column('CNCADC', Float, nullable=True)
-    CNCTemp = Column('CNCTemp', Float, nullable=True)
-    CNCAdd = Column('CNCAdd', Float, nullable=True)
+    obtained_text = relationship('ObtainedText', back_populates='syntactic_pattern_density_index')
+    DRNP = Column('DRNP', Float, nullable=True)
+    DRVP = Column('DRVP', Float, nullable=True)
+    DRNEG = Column('DRNEG', Float, nullable=True)
 
     def to_dict(self) -> Dict:
         '''

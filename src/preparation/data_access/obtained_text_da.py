@@ -1,7 +1,7 @@
 import pandas as pd
 
-from src.processing.data_handler import session
-from src.processing.data_handler.models.obtained_text import ObtainedText
+from src.preparation import session
+from src.preparation.models.obtained_text import ObtainedText
 from typing import List
 
 class ObtainedTextDA:

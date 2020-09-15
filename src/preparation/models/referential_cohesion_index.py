@@ -1,4 +1,4 @@
-from src.processing.data_handler import Base
+from src.preparation import Base
 from sqlalchemy import Column
 from sqlalchemy import Integer
 from sqlalchemy import Float

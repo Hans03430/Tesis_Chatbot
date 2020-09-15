@@ -1,16 +1,16 @@
-from src.processing.data_handler import Base
+from src.preparation import Base
 from sqlalchemy import Column
 from sqlalchemy import Integer
 from sqlalchemy import String
 from sqlalchemy.orm import relationship
-from src.processing.data_handler.models.descriptive_index import DescriptiveIndex
-from src.processing.data_handler.models.connective_index import ConnectiveIndex
-from src.processing.data_handler.models.lexical_diversity_index import LexicalDiversityIndex
-from src.processing.data_handler.models.readability_index import ReadabilityIndex
-from src.processing.data_handler.models.referential_cohesion_index import ReferentialCohesionIndex
-from src.processing.data_handler.models.syntactic_complexity_index import SyntacticComplexityIndex
-from src.processing.data_handler.models.syntactic_pattern_density_index import SyntacticPatternDensityIndex
-from src.processing.data_handler.models.word_information_index import WordInformationIndex
+from src.preparation.models.descriptive_index import DescriptiveIndex
+from src.preparation.models.connective_index import ConnectiveIndex
+from src.preparation.models.lexical_diversity_index import LexicalDiversityIndex
+from src.preparation.models.readability_index import ReadabilityIndex
+from src.preparation.models.referential_cohesion_index import ReferentialCohesionIndex
+from src.preparation.models.syntactic_complexity_index import SyntacticComplexityIndex
+from src.preparation.models.syntactic_pattern_density_index import SyntacticPatternDensityIndex
+from src.preparation.models.word_information_index import WordInformationIndex
 from typing import Dict
 
 
