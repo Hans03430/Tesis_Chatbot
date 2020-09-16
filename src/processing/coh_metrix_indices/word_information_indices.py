@@ -81,7 +81,7 @@ class WordInformationIndices:
         Returns:
         float: The incidence of nouns per {self._incidence} words.
         '''
-        noun_condition = lambda token: is_word(token) and token.pos_ == 'NOUN'
+        noun_condition = lambda token: is_word(token) and token.pos_ in ['NOUN', 'PROPN']
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
 
         return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=noun_condition, workers=workers)

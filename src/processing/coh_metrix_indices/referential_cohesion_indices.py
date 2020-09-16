@@ -368,7 +368,6 @@ def analyze_content_word_overlap(prev_sentence: Span, cur_sentence: Span, langua
         prev_sentence_content_words_tokens = {token.text.lower(): None
                                               for token in prev_sentence
                                               if is_content_word(token)}
-        print(prev_sentence_content_words_tokens)
         matches = 0 # Matcher counter
 
         for token in cur_sentence:
