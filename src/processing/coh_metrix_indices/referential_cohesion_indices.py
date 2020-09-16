@@ -338,11 +338,11 @@ def analyze_stem_overlap(prev_sentence: Span, cur_sentence: Span, language: str=
     # Place the tokens in a dictionary for search efficiency
     prev_sentence_content_stem_tokens = {token.lemma_.lower(): None
                                          for token in prev_sentence
-                                         if is_word(token) and token.pos_ in ['NOUN', 'VERB', 'ADJ', 'ADV']}
+                                         if is_content_word(token)}
 
     for token in cur_sentence:
         if language == 'es':
-            if is_word(token) and token.pos_ == 'NOUN' and token.lemma_.lower() in prev_sentence_content_stem_tokens:
+            if is_word(token) and token.pos_ in ['NOUN', 'PROPN'] and token.lemma_.lower() in prev_sentence_content_stem_tokens:
                 return 1 # There's cohesion
 
     return 0 # No cohesion
