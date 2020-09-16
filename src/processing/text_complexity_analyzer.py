@@ -21,6 +21,7 @@ from src.processing.pipes.adversative_connectives_tagger import AdversativeConne
 from src.processing.pipes.temporal_connectives_tagger import TemporalConnectivesTagger
 from src.processing.pipes.additive_connectives_tagger import AdditiveConnectivesTagger
 from src.processing.pipes.referential_cohesion_adjacent_sentences_analyzer import ReferentialCohesionAdjacentSentencesAnalyzer
+from src.processing.pipes.referential_cohesion_all_sentences_analyzer import ReferentialCohesionAllSentencesAnalyzer
 
 
 class TextComplexityAnalyzer:
@@ -53,6 +54,7 @@ class TextComplexityAnalyzer:
         self._nlp.add_pipe(TemporalConnectivesTagger(self._nlp, language), after='tagger')
         self._nlp.add_pipe(AdditiveConnectivesTagger(self._nlp, language), after='tagger')
         self._nlp.add_pipe(ReferentialCohesionAdjacentSentencesAnalyzer(language), after='sentencizer')
+        self._nlp.add_pipe(ReferentialCohesionAllSentencesAnalyzer(language), after='sentencizer')
         self._di = DescriptiveIndices(language=language, nlp=self._nlp)
         self._spdi = SyntacticPatternDensityIndices(language=language, nlp=self._nlp, descriptive_indices=self._di)
         self._wii = WordInformationIndices(language=language, nlp=self._nlp, descriptive_indices=self._di)

@@ -60,14 +60,14 @@ class ReferentialCohesionIndices:
             doc = self._nlp(text, disable=disable_pipeline)
             stat_results = StatisticsResults() # Create empty container
 
-            if len(doc._.referential_cohesion) == 0:
+            if len(doc._.referential_cohesion_adjacent) == 0:
                 return stat_results
             else:
                 if statistic_type in ['mean', 'all']:
-                    stat_results.mean = np.mean(doc._.referential_cohesion)
+                    stat_results.mean = np.mean(doc._.referential_cohesion_adjacent)
 
                 if statistic_type in ['std', 'all']:
-                    stat_results.std = np.std(doc._.referential_cohesion)
+                    stat_results.std = np.std(doc._.referential_cohesion_adjacent)
                 
                 return stat_results
 
@@ -91,21 +91,18 @@ class ReferentialCohesionIndices:
         elif statistic_type not in ['mean', 'std', 'all']:
             raise ValueError('\'statistic_type\' can only take \'mean\', \'std\' or \'all\'.')
         else:
+            self._nlp.get_pipe('referential cohesion all sentences analyzer').sentence_analyzer = sentence_analyzer
             doc = self._nlp(text, disable=disable_pipeline)
-            # Iterate over all pair of sentences
-            results = [sentence_analyzer(prev, cur, self.language)
-                       for prev, cur in combinations(doc.sents, 2)]
-
             stat_results = StatisticsResults() # Create empty container
 
-            if len(results) == 0:
+            if len(doc._.referential_cohesion_all) == 0:
                 return stat_results
             else:
                 if statistic_type in ['mean', 'all']:
-                    stat_results.mean = np.mean(results)
+                    stat_results.mean = np.mean(doc._.referential_cohesion_all)
 
                 if statistic_type in ['std', 'all']:
-                    stat_results.std = np.std(results)
+                    stat_results.std = np.std(doc._.referential_cohesion_all)
                 
                 return stat_results
 
@@ -138,7 +135,7 @@ class ReferentialCohesionIndices:
         '''
         disable_pipeline = [pipe
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['sentencizer', 'tagger']]
+                            if pipe not in ['sentencizer', 'tagger', 'referential cohesion all sentences analyzer']]
         return self._calculate_overlap_for_all_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analyzer=analyze_noun_overlap, statistic_type='mean').mean
 
     def get_argument_overlap_adjacent_sentences(self, text: str, workers: int=-1) -> float:
@@ -170,7 +167,7 @@ class ReferentialCohesionIndices:
         '''
         disable_pipeline = [pipe
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['sentencizer', 'tagger']]
+                            if pipe not in ['sentencizer', 'tagger', 'referential cohesion all sentences analyzer']]
         return self._calculate_overlap_for_all_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analyzer=analyze_argument_overlap, statistic_type='mean').mean
 
     def get_stem_overlap_adjacent_sentences(self, text: str, workers: int=-1) -> float:
@@ -202,7 +199,7 @@ class ReferentialCohesionIndices:
         '''
         disable_pipeline = [pipe
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['sentencizer', 'tagger']]
+                            if pipe not in ['sentencizer', 'tagger', 'referential cohesion all sentences analyzer']]
         return self._calculate_overlap_for_all_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analyzer=analyze_stem_overlap, statistic_type='mean').mean
 
     def get_content_word_overlap_adjacent_sentences(self, text: str, workers: int=-1) -> float:
@@ -234,7 +231,7 @@ class ReferentialCohesionIndices:
         '''
         disable_pipeline = [pipe
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['sentencizer', 'tagger']]
+                            if pipe not in ['sentencizer', 'tagger', 'referential cohesion all sentences analyzer']]
         return self._calculate_overlap_for_all_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analyzer=analyze_content_word_overlap, statistic_type='all')
 
     def get_anaphore_overlap_adjacent_sentences(self, text: str, workers: int=-1) -> float:
@@ -266,7 +263,7 @@ class ReferentialCohesionIndices:
         '''
         disable_pipeline = [pipe
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['sentencizer', 'tagger']]
+                            if pipe not in ['sentencizer', 'tagger', 'referential cohesion all sentences analyzer']]
         return self._calculate_overlap_for_all_sentences(text=text, workers=workers, disable_pipeline=disable_pipeline, sentence_analyzer=analyze_anaphore_overlap, statistic_type='all').mean
 
 def analyze_noun_overlap(prev_sentence: Span, cur_sentence: Span, language: str='es') -> int:
@@ -363,7 +360,7 @@ def analyze_content_word_overlap(prev_sentence: Span, cur_sentence: Span, langua
     Returns:
     float: Proportion of tokens that overlap between the current and previous sentences
     '''
-    total_tokens = len([token for token in prev_sentence if is_word(token)]) + len([token for token in cur_sentence if is_word(token)])
+    total_tokens = len([token for token in prev_sentence if is_content_word(token)]) + len([token for token in cur_sentence if is_content_word(token)])
 
     if total_tokens == 0: # Nothing to compute
         return 0
@@ -371,12 +368,13 @@ def analyze_content_word_overlap(prev_sentence: Span, cur_sentence: Span, langua
         prev_sentence_content_words_tokens = {token.text.lower(): None
                                               for token in prev_sentence
                                               if is_content_word(token)}
+        print(prev_sentence_content_words_tokens)
         matches = 0 # Matcher counter
 
         for token in cur_sentence:
             if language == 'es':
                 if is_content_word(token) and token.text.lower() in prev_sentence_content_words_tokens:
-                    matches += 1 # There's cohesion
+                    matches += 2 # There's cohesion
 
         return matches / total_tokens
 

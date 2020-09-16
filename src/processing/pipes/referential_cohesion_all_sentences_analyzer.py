@@ -1,13 +1,13 @@
-from itertools import tee
+from itertools import combinations
 from spacy.tokens import Doc
 from spacy.tokens import Token
 
 from src.processing.constants import ACCEPTED_LANGUAGES
 
-Doc.set_extension('referential_cohesion_adjacent', default=[], force=True)
+Doc.set_extension('referential_cohesion_all', default=[], force=True)
 
-class ReferentialCohesionAdjacentSentencesAnalyzer:
-    name = 'referential cohesion adjacent sentences analyzer'
+class ReferentialCohesionAllSentencesAnalyzer:
+    name = 'referential cohesion all sentences analyzer'
 
     def __init__(self, language: str='es') -> None:
         '''
@@ -39,10 +39,7 @@ class ReferentialCohesionAdjacentSentencesAnalyzer:
                      for s in doc.sents
                      if len(s.text.strip()) > 0]
         
-        prev, cur = tee(sentences)
-        next(cur, None)
-        
-        doc._.referential_cohesion_adjacent = [self.sentence_analyzer(prev, cur, self.language)
-                                               for prev, cur in zip(prev, cur)]
+        doc._.referential_cohesion_all = [self.sentence_analyzer(prev, cur, self.language)
+                                          for prev, cur in combinations(sentences, 2)]
 
         return doc

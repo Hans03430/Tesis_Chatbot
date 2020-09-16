@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
 Yo tengo hermosos buenos carros.
 
-carro.
+carros.
 '''
         #with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt.bak/2/Arte/orientaciones-ensenanza-arte-cultura.txt', 'r') as f:
             #text = f.read()

@@ -72,7 +72,7 @@ class DescriptiveIndices:
             sentences = 0
             disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'sentencizer']
 
-            for doc in self._nlp.pipe(paragraphs, batch_size=1, disable=disable_pipeline, n_process=threads):
+            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
                 for _ in doc.sents:
                     sentences += 1
             
