@@ -41,5 +41,6 @@ class ReferentialCohesionAllSentencesAnalyzer:
         
         doc._.referential_cohesion_all = [self.sentence_analyzer(prev, cur, self.language)
                                           for prev, cur in combinations(sentences, 2)]
-
+        print(self.sentence_analyzer)
+        print(doc._.referential_cohesion_all)
         return doc

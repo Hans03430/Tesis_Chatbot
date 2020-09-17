@@ -53,7 +53,8 @@ class LexicalDiversityIndices:
                       for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)
                       for token in doc
                       if is_word(token)]
-                      
+            print(len(tokens))
+            print(len(set(tokens)))
             return 0 if len(tokens) == 0 else len(set(tokens)) / len(tokens)
 
     def get_type_token_ratio_of_content_words(self, text: str, workers=-1) -> float:
@@ -81,5 +82,6 @@ class LexicalDiversityIndices:
                       for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)
                       for token in doc
                       if is_content_word(token)]
-            
+            print(len(tokens))
+            print(len(set(tokens)))
             return 0 if len(tokens) == 0 else len(set(tokens)) / len(tokens)

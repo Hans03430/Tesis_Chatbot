@@ -44,5 +44,5 @@ class ReferentialCohesionAdjacentSentencesAnalyzer:
         
         doc._.referential_cohesion_adjacent = [self.sentence_analyzer(prev, cur, self.language)
                                                for prev, cur in zip(prev, cur)]
-
+        
         return doc

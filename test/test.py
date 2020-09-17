@@ -29,7 +29,7 @@ if __name__ == "__main__":
         text = '''Ellos jugaron todo el día. Asimismo, ellas participaron en el juego.
 
 
-Yo juego con el hermoso gato. A nosotros no nos gusta el gato.
+Yo corro con el hermoso gato. A nosotros no nos gusta el gato.
 Ella tiene mascotas. Además, ella tiene plantas y él no.
 
 Tú jamás dijiste que no, porque ustedes debieron salir temprano en la mañana.
