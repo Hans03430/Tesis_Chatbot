@@ -32,7 +32,7 @@ if __name__ == "__main__":
 Yo juego con el hermoso gato. A nosotros no nos gusta el gato.
 Ella tiene mascotas. Además, ella tiene plantas y él no.
 
-Tú jamás dijiste que no, porque Ustedes debieron salir temprano en la mañana.
+Tú jamás dijiste que no, porque ustedes debieron salir temprano en la mañana.
 '''
         #with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt.bak/2/Arte/orientaciones-ensenanza-arte-cultura.txt', 'r') as f:
             #text = f.read()
