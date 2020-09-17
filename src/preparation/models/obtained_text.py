@@ -11,6 +11,7 @@ from src.preparation.models.referential_cohesion_index import ReferentialCohesio
 from src.preparation.models.syntactic_complexity_index import SyntacticComplexityIndex
 from src.preparation.models.syntactic_pattern_density_index import SyntacticPatternDensityIndex
 from src.preparation.models.word_information_index import WordInformationIndex
+from src.preparation.models.sentence_pair import SentencePair
 from typing import Dict
 
 
@@ -26,6 +27,7 @@ class ObtainedText(Base):
     grade = Column('GRADE', Integer, nullable=False)
     category = Column('CATEGORY', String, nullable=False)
     cluster_grade = Column('CLUSTER_GRADE', Integer, nullable=True)
+    sentence_pair = relationship('SentencePair', uselist=True, lazy='joined', back_populates='obtained_text', cascade='save-update, delete, delete-orphan, merge')
     descriptive_index = relationship('DescriptiveIndex', uselist=False, lazy='joined', back_populates='obtained_text', cascade='save-update, delete, delete-orphan, merge')
     connective_index = relationship('ConnectiveIndex', uselist=False, lazy='joined', back_populates='obtained_text', cascade='save-update, delete, delete-orphan, merge')
     lexical_diversity_index = relationship('LexicalDiversityIndex', uselist=False, lazy='joined', back_populates='obtained_text', cascade='save-update, delete, delete-orphan, merge')

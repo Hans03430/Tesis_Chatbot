@@ -1,5 +1,7 @@
 import spacy
 
+from spacy.tokens import Doc
+from spacy.tokens import Span
 from spacy.tokens import Token
 from typing import List
 
@@ -69,3 +71,17 @@ def is_word(token: Token) -> bool:
     bool: True or false.
     '''
     return token.is_alpha
+
+def split_doc_into_sentences(doc: Doc) -> List[Span]:
+    """
+    This function splits a text into sentences.
+
+    Parameters:
+    text(str): The text to be split into sentences.
+
+    Returns:
+    List[Span]: A list of sentences represented by spacy spans.
+    """
+    return [s
+            for s in doc.sents
+            if len(s.text.strip()) > 0]

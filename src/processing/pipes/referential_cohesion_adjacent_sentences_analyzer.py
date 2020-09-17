@@ -3,6 +3,7 @@ from spacy.tokens import Doc
 from spacy.tokens import Token
 
 from src.processing.constants import ACCEPTED_LANGUAGES
+from src.processing.utils.utils import split_doc_into_sentences
 
 Doc.set_extension('referential_cohesion_adjacent', default=[], force=True)
 
@@ -35,9 +36,7 @@ class ReferentialCohesionAdjacentSentencesAnalyzer:
         if self.sentence_analyzer is None:
             raise AttributeError('No function to analyze referential cohesion between pair of sentences was provided.')
         # Prepare iterators to extract previous and current sentence pairs.
-        sentences = [s
-                     for s in doc.sents
-                     if len(s.text.strip()) > 0]
+        sentences = split_doc_into_sentences(doc)
         
         prev, cur = tee(sentences)
         next(cur, None)

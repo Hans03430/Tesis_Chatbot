@@ -15,7 +15,7 @@ from src.preparation.models.referential_cohesion_index import ReferentialCohesio
 from src.preparation.models.syntactic_complexity_index import SyntacticComplexityIndex
 from src.preparation.models.syntactic_pattern_density_index import SyntacticPatternDensityIndex
 from src.preparation.models.word_information_index import WordInformationIndex
-
+from src.preparation.models.sentence_pair import SentencePair
 
 if __name__ == "__main__":
     Base.metadata.create_all(bind=engine)
