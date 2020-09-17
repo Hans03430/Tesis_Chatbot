@@ -36,8 +36,7 @@ Elaborado por Marina Robles, Emma Näslund-Hadley, María Clara Ramos
 y Juan Roberto Paredes.
 Diseño e ilustración: Sebastián Sanabria.
 Copyright © 2015 Banco Interamericano de Desarrollo. Esta obra está bajo una licencia 
-Creative Commons IGO 3.0  Reconocimiento-NoComercial-SinObraDerivada (CC-IGO BY-
-NC-ND 3.0 IGO) (http://creativecommons.org/licenses/by-nc-nd/3.0/igo/legalcode) y puede 
+Creative Commons IGO 3.0  Reconocimiento-NoComercial-SinObraDerivada (CC-IGO BYNC-ND 3.0 IGO) (http://creativecommons.org/licenses/by-nc-nd/3.0/igo/legalcode) y puede 
 ser reproducida para cualquier uso no comercial otorgando crédito al BID. No se permiten 
 obras derivadas. Cualquier disputa relacionada con el uso de las obras del BID que no pueda 
 resolverse amistosamente se someterá a arbitraje, de conformidad con las reglas de la 
@@ -1107,8 +1106,7 @@ retención de agua.
 
 • Colocar un geotextil o capa aislante que permita separar 
 la zona de filtrado y la zona de recarga. Es posible 
-también usar una malla de nailon tejido (llamada malla-
-sombra), como las empleadas para dar sombra en 
+también usar una malla de nailon tejido (llamada mallasombra), como las empleadas para dar sombra en 
 jardines e invernaderos.
 
 • Formar la zona de filtrado colocando una capa de tierra 
@@ -1516,8 +1514,7 @@ Report. Geneva: United Nations.
 
 • Natural Home and Garden (2012). “Green Gardening; Natural, Organic and Native 
 Gardening Tips. Green Your Life: DIY Repurposed Bird Feeders.” http://www.
-naturalhomeandgarden.com/green-gardening/green-your-life-diy-repurposed-bird-
-feeders.aspx.
+naturalhomeandgarden.com/green-gardening/green-your-life-diy-repurposed-birdfeeders.aspx.
 
 • Rain Gardens (2012). “Beautiful Solutions for Water Pollution.” http://www.
 Raingardens.Org.

@@ -1,4 +1,5 @@
 import asyncio
+import re
 import tika
 
 from aiofile import AIOFile
@@ -8,7 +9,7 @@ from tika import parser
 
 async def convert_pdf_to_txt(pdf_path: str, save_dir: str) -> None:
     """
-    This function converts a pdf file to a txt file
+    This function converts a pdf file to a txt file. It cleans the text.
     
     Parameters:
     pdf_path (str): The path where the pdf to covert is located
@@ -21,7 +22,10 @@ async def convert_pdf_to_txt(pdf_path: str, save_dir: str) -> None:
         tika.initVM()
         pdf_file = parser.from_file(pdf_path)
         async with AIOFile(save_dir, 'w') as text_file:
-            await text_file.write('\n\n'.join(split_text_into_paragraphs(pdf_file['content'])))
+            paragraphs = split_text_into_paragraphs(pdf_file['content'])
+            new_text = '\n\n'.join(paragraphs)
+            new_text = re.sub(r'-\n+', '', new_text)
+            await text_file.write(new_text)
 
     except Exception as e:
         raise e

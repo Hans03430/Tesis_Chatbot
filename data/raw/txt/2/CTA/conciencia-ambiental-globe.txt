@@ -20,8 +20,7 @@ bi
 en
 ta
 
-l -
- G
+l  G
 
 lo
 be
@@ -147,9 +146,7 @@ Pautas para despertar el interés del estudiante y presentar el propósito de
 la actividad.
 
 Lo que sabemos (contextualizado)
-Orientaciones que permiten recoger vivencias, conocimientos, habilida-
-des y creencias, como puntos de partida para el aprendizaje, con pregun-
-tas que buscan conocer los saberes previos de los estudiantes.
+Orientaciones que permiten recoger vivencias, conocimientos, habilidades y creencias, como puntos de partida para el aprendizaje, con preguntas que buscan conocer los saberes previos de los estudiantes.
 
 ¿Qué aprenderemos?
 Formulación de los aprendizajes que se espera lograr en los estudiantes.
@@ -157,10 +154,8 @@ Orientaciones para desarrollar actividades propuestas para dar solución
 al problema.
 
 Buscando soluciones
-Vinculación de los conocimientos previos con los nuevos para su aplica-
-ción; con orientaciones para indagar, explicar, asumir una posición crítica o 
-diseñar prototipos tecnológicos mediante el trabajo autónomo y coopera-
-tivo de los estudiantes en la actividad.
+Vinculación de los conocimientos previos con los nuevos para su aplicación; con orientaciones para indagar, explicar, asumir una posición crítica o 
+diseñar prototipos tecnológicos mediante el trabajo autónomo y cooperativo de los estudiantes en la actividad.
 
 ¿Qué más podemos aprender?
 Orientaciones para desarrollar actividades fuera del ámbito escolar, en las 
@@ -279,16 +274,13 @@ Fuente: http://www.met.igp.gob.pe/clima/HTML/
 
 ¿Qué aprenderemos? 
 Durante un día la temperatura cambia desde valores bajos a altos por 
-efecto de la rotación de la Tierra. La inclinación de los rayos solares au-
-menta desde el amanecer incrementando también la intensidad de la 
+efecto de la rotación de la Tierra. La inclinación de los rayos solares aumenta desde el amanecer incrementando también la intensidad de la 
 luz solar, que alcanza un máximo pasado el mediodía y luego disminuye 
 gradualmente a cero hacia la noche, produciendo las variaciones diarias 
 de temperatura. Este ciclo se llama marcha diaria de temperatura. En 
-meteorología y horticultura, se emplea un termómetro de máximas y mí-
-nimas que, además de la actual, muestra la temperatura más alta y más 
+meteorología y horticultura, se emplea un termómetro de máximas y mínimas que, además de la actual, muestra la temperatura más alta y más 
 baja del día. Este termómetro consiste en un tubo de cristal en forma de 
-U, de tal manera que una mano es un termómetro de mínima, que regis-
-tra la temperatura más baja del día, y la otra mano es un termómetro de 
+U, de tal manera que una mano es un termómetro de mínima, que registra la temperatura más baja del día, y la otra mano es un termómetro de 
 máxima, que registra la temperatura más alta del día.
 
 Buscando soluciones
@@ -308,9 +300,7 @@ El cambio climático
 
 en el Perú y el Mundo
 http://bibliotecavirtual.minam.
-gob.pe/documentos/cambio-
-
-climatico-peru-mundo
+gob.pe/documentos/cambioclimatico-peru-mundo
 
 Dialoguen en torno a las siguientes preguntas:
 
@@ -367,8 +357,7 @@ El clima en el Perú
 http://www.met.igp.gob.pe/clima/HTML/
 
 El clima está cambiando: Escenarios climáticos futuros en el Perú
-http://sinia.minam.gob.pe/documentos/clima-esta-cambiando-
-escenarios-climaticos-futuros-peru
+http://sinia.minam.gob.pe/documentos/clima-esta-cambiandoescenarios-climaticos-futuros-peru
 
 Evaluamos lo aprendido
 • ¿Por qué es importante observar la temperatura?   
@@ -389,9 +378,7 @@ Z_GUIA GLOBE 5DIC 2018.indd   9 12/6/18   1:48 AM
 
 Uso del termómetro de máximas y mínimas
 
-Los estudiantes deben ir familiarizándose con el valor científico de la precisión y su relevancia en toda indaga-
-ción; por ello, la necesidad e importancia de desarrollar la habilidad para el manejo adecuado de los termóme-
-tros y su calibración.
+Los estudiantes deben ir familiarizándose con el valor científico de la precisión y su relevancia en toda indagación; por ello, la necesidad e importancia de desarrollar la habilidad para el manejo adecuado de los termómetros y su calibración.
 
 Temperatura máxima: lee la parte baja del marcador de metal deslizable en el lado derecho del termómetro, 
 a la mitad más cercana del grado Celsius.
@@ -449,7 +436,6 @@ temperatura del
 
 momento
 
--
 +
 
 +
@@ -458,7 +444,6 @@ momento
 
 GLOBE PERÚ
 
--
 +
 
 +
@@ -467,7 +452,6 @@ GLOBE PERÚ
 
 GLOBE PERÚ
 
--
 +
 
 +
@@ -547,8 +531,7 @@ hijo de la lluvia, capaz de atrapar al Sol y a la Luna. Para el cristianismo, in
 Dios y los hombres.
 
 En 1665, Isaac Newton analizó la formación del arco iris en su trabajo referente a la refracción y la reflexión. 
-Este fenómeno óptico ocurre cuando la luz del Sol penetra las gotas de agua y se refleja en las superficies inte-
-riores. Mientras pasa a través de las gotas, la luz se separa en sus colores que la componen, lo que produce un 
+Este fenómeno óptico ocurre cuando la luz del Sol penetra las gotas de agua y se refleja en las superficies interiores. Mientras pasa a través de las gotas, la luz se separa en sus colores que la componen, lo que produce un 
 efecto muy similar al de un prisma.
 
 ¿Qué aprenderemos? 
@@ -716,17 +699,14 @@ Actividad 2
 
 Zona de estudio
 
-Para realizar esta actividad de indagación con éxito, es clave elegir la ubicación de la zona de estudio de atmós-
-fera y montar correctamente el pluviómetro y la caseta meteorológica. Las mediciones de atmósfera se realizan 
+Para realizar esta actividad de indagación con éxito, es clave elegir la ubicación de la zona de estudio de atmósfera y montar correctamente el pluviómetro y la caseta meteorológica. Las mediciones de atmósfera se realizan 
 frecuentemente, de manera que los estudiantes deben poder ir al sitio y volver en el mínimo tiempo posible.
 
-La zona de estudio ideal para ubicar la caseta meteorológica y realizar las mediciones atmosféricas es abier-
-ta, lejos de árboles, edificios y otras estructuras. El área abierta hace que nada interfiera en la precipitación 
+La zona de estudio ideal para ubicar la caseta meteorológica y realizar las mediciones atmosféricas es abierta, lejos de árboles, edificios y otras estructuras. El área abierta hace que nada interfiera en la precipitación 
 creando sombras de lluvia o nieve, el aire contacta libremente con los instrumentos, el calor de los edificios no 
 afecta significativamente a los datos y se puede observar la mayor parte del cielo. Al elegir la zona de estudio, 
 se requiere cierto equilibrio entre lo ideal para las observaciones científicas y las limitaciones logísticas de la 
-institución educativa y sus alrededores. La clave para asegurar la validez de los datos es documentar la natura-
-leza del sitio de estudio de atmósfera y sus alrededores.
+institución educativa y sus alrededores. La clave para asegurar la validez de los datos es documentar la naturaleza del sitio de estudio de atmósfera y sus alrededores.
 
 Árboles, edificios y otras estructuras están todos al menos cuatro veces más lejos que su altura. Por ejemplo, 
 si tu sitio está rodeado de árboles que tienen 10 m de alto, coloca los instrumentos al menos a 40 m de esos 
@@ -744,11 +724,9 @@ termómetro de la luz solar directa cuando se abre la puerta de la caseta.
 
 Observación de nubes
 
-Las mediciones de la cantidad de nubes y de estelas de condensación, del tipo de nubes y de los aerosoles re-
-quieren una visión sin obstáculos del cielo; pero no necesitan la instalación de ningún equipamiento. El centro 
+Las mediciones de la cantidad de nubes y de estelas de condensación, del tipo de nubes y de los aerosoles requieren una visión sin obstáculos del cielo; pero no necesitan la instalación de ningún equipamiento. El centro 
 de un campo de deportes o patio del colegio es una ubicación excelente. La zona de estudio donde se realicen 
-las mediciones de nubes, estelas de condensación y aerosoles no necesariamente debe tener la misma loca-
-ción que el pluviómetro y la caseta meteorológica.
+las mediciones de nubes, estelas de condensación y aerosoles no necesariamente debe tener la misma locación que el pluviómetro y la caseta meteorológica.
 
 Si viven en una ciudad, es probable que no logren encontrar una visión completa del cielo sin obstáculos, 
 por lo que deberán elegir el lugar más abierto posible. Para lugares con obstáculos importantes, tales como 
@@ -768,27 +746,23 @@ En el campo
 2. Los cuatro estudiantes, con los brazos extendidos formando un ángulo de 45° respecto a sus hombros, 
 dirigen su mirada al cielo y recogen el espacio marcado por el límite de sus brazos.
 
-3. Identifican las nubes y calculan qué porcentaje del cielo está cubierto por nubes que no son estelas de con-
-densación. Ello con ayuda de la carta de nubes. Tener cuidado de no mirar directamente al Sol.
+3. Identifican las nubes y calculan qué porcentaje del cielo está cubierto por nubes que no son estelas de condensación. Ello con ayuda de la carta de nubes. Tener cuidado de no mirar directamente al Sol.
 
 4. Anotan la clase de cobertura de nubes que mejor se ajusta a lo que observan.
 
 5. Anotan la clase de cobertura de estelas de condensación que predomina en el porcentaje de cielo cubierto 
 por dichas estelas.
 
-6. Si el cielo está oculto, anotan qué impide verlo. Informan sobre todos aquellos fenómenos, de entre los si-
-guientes, que se observen: niebla, humo, calima, ceniza volcánica, polvo, arena, bruma, lluvia intensa, nieve 
+6. Si el cielo está oculto, anotan qué impide verlo. Informan sobre todos aquellos fenómenos, de entre los siguientes, que se observen: niebla, humo, calima, ceniza volcánica, polvo, arena, bruma, lluvia intensa, nieve 
 intensa, ventisca.
 
 El siguiente consejo puede ayudar a los estudiantes a determinar las alturas de las nubes cúmulos: pídeles que 
 extiendan el brazo y que alineen sus dedos con la nube que están observando. Una buena regla general para 
-usar es que si las ráfagas, rollos, ondas individuales de las nubes son menores que el ancho de un dedo, enton-
-ces son cirrocúmulos. Si no son más anchas que dos dedos, pero son más anchas que uno, es más probable que 
+usar es que si las ráfagas, rollos, ondas individuales de las nubes son menores que el ancho de un dedo, entonces son cirrocúmulos. Si no son más anchas que dos dedos, pero son más anchas que uno, es más probable que 
 sean altocúmulos. Si son más anchas que dos dedos, serán cúmulos (busca nubes aisladas); estratocúmulos 
 (muchas nubes y más anchas que altas, quizá alargadas en bandas); o cumulonimbos (producen precipitación).
 
-Para distinguir entre las alturas de las diferentes nubes estratos, recuerda lo siguiente: cirroestratos son el úni-
-co tipo de nube que produce un halo alrededor del Sol o la Luna. El halo tendrá todos los colores del arco iris. 
+Para distinguir entre las alturas de las diferentes nubes estratos, recuerda lo siguiente: cirroestratos son el único tipo de nube que produce un halo alrededor del Sol o la Luna. El halo tendrá todos los colores del arco iris. 
 Los altostratos apenas cubren el Sol o la Luna, su aspecto generalmente será más oscuro, un color gris medio. 
 Los estratos serán, por lo general, muy grises y muy bajos. La niebla es, de hecho, una nube de tipo estrato a 
 altitud cero.
@@ -832,8 +806,7 @@ se traslada el vapor de agua. A medida que este asciende o se desplaza a latitud
 temperaturas más frías y empieza a condensarse (cambia de estado gaseoso a líquido) para formar nubes y 
 precipitación. En todas las plantas y animales se mueve el agua. Su composición química, por tanto, afectará 
 los ecosistemas terrestres y acuáticos. Si bien la precipitación normal es ligeramente ácida (un pH de al menos 
-5,6), debido a los gases que naturalmente componen la atmósfera de la Tierra, la quema de combustibles fó-
-siles libera gases en la atmósfera que interactúan con el vapor de agua y dan lugar a una precipitación con un 
+5,6), debido a los gases que naturalmente componen la atmósfera de la Tierra, la quema de combustibles fósiles libera gases en la atmósfera que interactúan con el vapor de agua y dan lugar a una precipitación con un 
 pH inferior a 5,6.
 
 Dialoguen en torno a las siguientes preguntas:
@@ -845,8 +818,7 @@ Dialoguen en torno a las siguientes preguntas:
 • ¿Cómo afecta la lluvia ácida a los ecosistemas terrestres, acuáticos, edificios y construcciones de tu localidad?
 
 Buscando soluciones 
-Con tus compañeros y compañeras, observen el plu-
-viómetro ubicado en la caseta meteorológica en el 
+Con tus compañeros y compañeras, observen el pluviómetro ubicado en la caseta meteorológica en el 
 patio del colegio, registren y analicen con el pHmetro 
 digital las características de la muestra obtenida de 
 acuerdo a la tabla 1.
@@ -890,9 +862,7 @@ Conéctate
 Estudio del cambio climático, lluvias
 
 ácidas y turbidez ambiental
-http://sinia.minam.gob.pe/documentos/estudio-
-
-cambio-climatico-lluvias-acidas-turbidez-ambiental
+http://sinia.minam.gob.pe/documentos/estudiocambio-climatico-lluvias-acidas-turbidez-ambiental
 
 Tabla N.°1: Clasifi cación de lluvias según su pH
 
@@ -917,8 +887,7 @@ Luego del diálogo, formulen una hipótesis para la siguiente pregunta:
 
 ¿Cuál es la relación entre las actividades extractivas e industriales y la lluvia ácida?
 
-• Ahora diseñen y organicen actividades para comprobar la hipótesis. Recuerden que cuentan con los ins-
-trumentos del kit GLOBE (la caseta meteorológica, termohigrómetro, pluviómetro, lápiz pH, etc.).
+• Ahora diseñen y organicen actividades para comprobar la hipótesis. Recuerden que cuentan con los instrumentos del kit GLOBE (la caseta meteorológica, termohigrómetro, pluviómetro, lápiz pH, etc.).
 
 • Pueden iniciar su indagación desarrollando las siguientes actividades:
 
@@ -926,8 +895,7 @@ trumentos del kit GLOBE (la caseta meteorológica, termohigrómetro, pluviómetr
 
 - Monitorear la precipitación y usar el pHmetro digital. (Ver anexo 3).
 
-• Con los resultados de sus observaciones, elaboren un organizador gráfico (barras, flujograma) para presen-
-tar los datos obtenidos.
+• Con los resultados de sus observaciones, elaboren un organizador gráfico (barras, flujograma) para presentar los datos obtenidos.
 
 • Contrasten sus resultados con fuentes como las propuestas en el “Conéctate”.
 
@@ -972,19 +940,15 @@ Actividad 3
 18
 
 Los cambios que se pueden estudiar usando los datos GLOBE de precipitación son aquellos que se producen en 
-escalas de tiempo de días a años. ¿Cuál es la variación estacional de la precipitación? ¿Es este año particular-
-mente seco o húmedo en tu zona? ¿Qué es el pH de la precipitación y cómo varía?
+escalas de tiempo de días a años. ¿Cuál es la variación estacional de la precipitación? ¿Es este año particularmente seco o húmedo en tu zona? ¿Qué es el pH de la precipitación y cómo varía?
 
 Es deseable que las mediciones de lluvia sean diarias. Esto proporciona una visión general tanto del patrón 
-como del pH de la precipitación en su centro escolar y también asegura que se compruebe diariamente la su-
-ciedad, excrementos de pájaros, etc.
+como del pH de la precipitación en su centro escolar y también asegura que se compruebe diariamente la suciedad, excrementos de pájaros, etc.
 
 Es importante enviar el valor cero cuando no hay lluvia. Si un centro solamente informa sobre precipitación 
 cuando hay lluvia en el pluviómetro, los usuarios de los datos no sabrán qué ha pasado el resto de los días, lo 
-que puede hacer inservibles los datos. Algunas veces la lluvia se derrama del pluviómetro antes de que la lectu-
-ra haya sido tomada. En este caso, siempre envía “M” (missing – dato perdido) como cantidad. Esto indica a los 
-científicos que usan los datos GLOBE que hubo precipitación en ese día (o período de días) pero que no se ob-
-tuvo una lectura precisa. Si hay menos de medio milímetro en el pluviómetro, envía “T” (traza) como cantidad.
+que puede hacer inservibles los datos. Algunas veces la lluvia se derrama del pluviómetro antes de que la lectura haya sido tomada. En este caso, siempre envía “M” (missing – dato perdido) como cantidad. Esto indica a los 
+científicos que usan los datos GLOBE que hubo precipitación en ese día (o período de días) pero que no se obtuvo una lectura precisa. Si hay menos de medio milímetro en el pluviómetro, envía “T” (traza) como cantidad.
 
 Antes de colocar el pluviómetro, dé una vuelta con los estudiantes por los diferentes espacios del colegio para 
 elegir los mejores lugares donde ubicar este aparato de medición. Según caminen por el recinto, pida a los 
@@ -994,13 +958,10 @@ hacer un croquis para observar los cambios en el colegio y para comprender por q
 determinada.
 
 Observar y hacer un croquis del área alrededor del pluviómetro contribuye a cuatro elementos clave de las 
-buenas prácticas científicas. Primero, los croquis se deben incluir en los cuadernos de ciencias (bitácoras o cua-
-derno de campo) como parte de la documentación de sus observaciones y notas personales de los estudiantes. 
+buenas prácticas científicas. Primero, los croquis se deben incluir en los cuadernos de ciencias (bitácoras o cuaderno de campo) como parte de la documentación de sus observaciones y notas personales de los estudiantes. 
 Segundo, junto con las hojas de datos, debe incluirse en el libro de datos del centro un croquis consensuado. 
 Los datos sobre las condiciones en las que se hacen las mediciones son metadatos importantes –datos sobre 
-datos– y deben guardarse en los registros del centro. Tercero, las hojas de definición del sitio GLOBE y los for-
-mularios de entrada de datos proporcionan espacio para introducir metadatos como comentarios. Los cientí-
-ficos deben comunicar toda la información sobre sus observaciones, que es necesaria para que otros puedan 
+datos– y deben guardarse en los registros del centro. Tercero, las hojas de definición del sitio GLOBE y los formularios de entrada de datos proporcionan espacio para introducir metadatos como comentarios. Los científicos deben comunicar toda la información sobre sus observaciones, que es necesaria para que otros puedan 
 usar sus datos. Cuarto, todos los científicos deben abordar cualquier medición con algo de escepticismo y 
 hacerse a sí mismos preguntas como “¿Qué puede estar influyendo en mis observaciones y haciendo que los 
 datos sean imprecisos o poco representativos?”.
@@ -1034,17 +995,14 @@ Z_GUIA GLOBE 5DIC 2018.indd   18 12/6/18   1:48 AM
 
 ¿Por qué se debe comprobar diariamente el pluviómetro, incluso si sabemos que no ha llovido?
 
-El problema con recipientes como el pluviómetro es que recogen habitualmente más que lluvia. Hojas, sucie-
-dad y otros restos pueden anularlo rápidamente como instrumento científico, debido a que se puede obstacu-
-lizar el embudo, provocando que la lluvia se salga del pluviómetro. Incluso si la suciedad no es tan grande como 
+El problema con recipientes como el pluviómetro es que recogen habitualmente más que lluvia. Hojas, suciedad y otros restos pueden anularlo rápidamente como instrumento científico, debido a que se puede obstaculizar el embudo, provocando que la lluvia se salga del pluviómetro. Incluso si la suciedad no es tan grande como 
 para bloquear el embudo, se puede mezclar con el agua de lluvia e influir sobre el nivel de precipitación o sobre 
 la lectura de pH. Por ello, es importante comprobar diariamente el estado del pluviómetro, para asegurarnos 
 de que esté libre de polvo y suciedad y no contamine la lectura del pH de la lluvia.
 
 ¿Cómo medir el pH de la lluvia ácida?
 
-La lluvia ácida se mide utilizando una escala llamada “pH”. Esta mide el grado de acidez de un objeto. Los nive-
-les que no son muy ácidos se llaman básicos o alcalinos. La escala tiene valores que van del cero (el más ácido) 
+La lluvia ácida se mide utilizando una escala llamada “pH”. Esta mide el grado de acidez de un objeto. Los niveles que no son muy ácidos se llaman básicos o alcalinos. La escala tiene valores que van del cero (el más ácido) 
 al 14 (el más básico). El agua pura o destilada tiene un valor de pH 7, lo que se considera neutro (ni ácido ni 
 básico). La lluvia limpia normal tiene un valor de pH entre 5,6 y 6,5. A valores menores que 5,6 se considera 
 lluvia ácida. Y de esta, la que tiene pH menor que 5 se considera con una acidez riesgosa, tal como se observa 
@@ -1112,20 +1070,16 @@ Lo que sabemos
 • ¿Cómo se forman los vientos?, ¿existen escalas para cuantificarlos?
 
 ¿Qué aprenderemos?  
-La cantidad de vapor de agua que existe en la atmósfera determina la hu-
-medad del aire, cuya fuente principal es la superficie de los océanos.
+La cantidad de vapor de agua que existe en la atmósfera determina la humedad del aire, cuya fuente principal es la superficie de los océanos.
 
 Cuando hay mucha humedad, el vapor forma pequeñas gotas de agua que 
 dan lugar a las nubes y la niebla.
 
-Los instrumentos que registran la humedad son el higrómetro y el psicró-
-metro.
+Los instrumentos que registran la humedad son el higrómetro y el psicrómetro.
 
-El viento es el aire de la atmósfera en movimiento, que se desplaza cons-
-tantemente de forma horizontal, arrastrando nubes e influyendo en la 
+El viento es el aire de la atmósfera en movimiento, que se desplaza constantemente de forma horizontal, arrastrando nubes e influyendo en la 
 temperatura, pues también mueve masas. Los distintos tipos de viento se 
-caracterizan por su dirección y su velocidad, que se miden con anemóme-
-tro y veleta, respectivamente.
+caracterizan por su dirección y su velocidad, que se miden con anemómetro y veleta, respectivamente.
 
 La humedad y los vientos
 Se
@@ -1251,14 +1205,12 @@ La humedad y los vientos. ORIENTACIONES METODOLÓGICAS
 
 Actividad 4
 
-La atmósfera está compuesta por una mezcla de gases, uno de los cuales es vapor de agua. Este pasa a la at-
-mósfera a partir de la evaporación y la transpiración, y se elimina cuando se condensa o precipita. La humedad 
+La atmósfera está compuesta por una mezcla de gases, uno de los cuales es vapor de agua. Este pasa a la atmósfera a partir de la evaporación y la transpiración, y se elimina cuando se condensa o precipita. La humedad 
 es la cantidad de vapor de agua presente en la atmósfera. La humedad relativa hace referencia a esta cantidad 
 en relación con el nivel de saturación del aire.
 
 El aire está saturado cuando la forma líquida y gaseosa del agua está en equilibrio a una temperatura dada. 
-En saturación, la humedad relativa es 100 %. Cuando la humedad relativa supera el 100 %, el aire está sobre-
-saturado y el vapor de agua se condensará o congelará para formar gotas de agua líquida o cristales de hielo.
+En saturación, la humedad relativa es 100 %. Cuando la humedad relativa supera el 100 %, el aire está sobresaturado y el vapor de agua se condensará o congelará para formar gotas de agua líquida o cristales de hielo.
 
 La cantidad de vapor de agua que puede estar presente en el aire en saturación es mayor con el aumento de 
 temperatura, es decir, depende de la temperatura del aire.
@@ -1268,20 +1220,17 @@ ejemplo se puede ver que la temperatura cambia la humedad relativa aun cuando la
 en el aire continúe igual.
 
 En un día tranquilo y despejado, la temperatura del aire tiende a aumentar desde el amanecer hasta la media 
-tarde y después a disminuir hasta el siguiente amanecer. Si la cantidad de humedad en el aire permanece prác-
-ticamente constante durante el curso del día, la humedad relativa variará inversamente con la temperatura. 
+tarde y después a disminuir hasta el siguiente amanecer. Si la cantidad de humedad en el aire permanece prácticamente constante durante el curso del día, la humedad relativa variará inversamente con la temperatura. 
 Es decir, la humedad relativa disminuirá desde la mañana hasta la tarde y aumentará de nuevo al anochecer.
 
-El vapor de agua en la atmósfera es una parte importante del ciclo hidrológico, y realizar mediciones de hume-
-dad relativa ayuda a comprender la rapidez con la que el agua pasa de la superficie de la Tierra a la atmósfera 
+El vapor de agua en la atmósfera es una parte importante del ciclo hidrológico, y realizar mediciones de humedad relativa ayuda a comprender la rapidez con la que el agua pasa de la superficie de la Tierra a la atmósfera 
 y de nuevo a la superficie. Midiendo el vapor de agua en la atmósfera, el clima de un lugar determinado se 
 puede clasificar como árido (seco) o húmedo. La humedad relativa influye en la formación de las nubes y la 
 precipitación; por ello, conocer la cantidad de agua presente en la atmósfera es importante para determinar el 
 tiempo y el clima de una zona.
 
 La humedad relativa también influye en el calentamiento y el enfriamiento del aire. Dado que el agua tiene un 
-calor específico muy superior al del aire, pequeñas cantidades de vapor de agua pueden provocar cambios con-
-siderables en la velocidad con que una masa de aire cambia su temperatura. Esto explica el rápido enfriamiento 
+calor específico muy superior al del aire, pequeñas cantidades de vapor de agua pueden provocar cambios considerables en la velocidad con que una masa de aire cambia su temperatura. Esto explica el rápido enfriamiento 
 por la noche en el desierto, donde la humedad relativa es baja, y el enfriamiento relativamente lento durante 
 la noche en zonas más húmedas.
 
@@ -1321,19 +1270,15 @@ Higrómetro digital
 
 El higrómetro es un instrumento meteorológico con una larga historia. En 
 un inicio, se usaban cabellos humanos u otros, los cuales se envuelven o 
-recogen respondiendo sensiblemente a la humedad de la atmósfera (qui-
-zá alguno de ustedes lo haya experimentado). Hoy en día, usando com-
-puestos de cerámica o metálicos, los higrómetros digitales que miden la 
+recogen respondiendo sensiblemente a la humedad de la atmósfera (quizá alguno de ustedes lo haya experimentado). Hoy en día, usando compuestos de cerámica o metálicos, los higrómetros digitales que miden la 
 resistencia eléctrica también pueden medir la humedad en un amplio 
-rango, siendo así instrumentos ideales para que centros escolares rea-
-licen este tipo de observaciones. Independientemente del instrumento 
+rango, siendo así instrumentos ideales para que centros escolares realicen este tipo de observaciones. Independientemente del instrumento 
 que se utilice, las observaciones de humedad relativa serán útiles para 
 los científicos.
 
 Se debe evitar la exposición del higrómetro a la condensación. Si esta se produce o se tiene previsto que se 
 produzca durante el tiempo en que el instrumento estará expuesto al ambiente en la caseta meteorológica, no 
-dejarlo fuera. Mejor enviar una lectura de 100 % e introducir como comentarios “se está produciendo conden-
-sación” en los metadatos, lo que indicará una deducción, más que una medición, de humedad relativa.
+dejarlo fuera. Mejor enviar una lectura de 100 % e introducir como comentarios “se está produciendo condensación” en los metadatos, lo que indicará una deducción, más que una medición, de humedad relativa.
 
 Calcula la humedad relativa:
 
@@ -1343,8 +1288,7 @@ de datos.
 2. Después lee el valor de la humedad relativa redondeando a la unidad de porcentaje más cercana y registra 
 los datos.
 
-3. Asegúrate de que los indicadores “máx” o “mín” no estén iluminados, porque esto indicaría que el instru-
-mento está configurado para mostrar el valor máximo o mínimo y no el valor real.
+3. Asegúrate de que los indicadores “máx” o “mín” no estén iluminados, porque esto indicaría que el instrumento está configurado para mostrar el valor máximo o mínimo y no el valor real.
 
 4. Vuelve a llevar el higrómetro al salón de clase y guárdalo en un lugar seco.
 
@@ -1385,15 +1329,12 @@ Lo que sabemos
 ¿Sabías que...? 
 Desde épocas preincaicas, la corteza del árbol de la 
 quina, Cinchona officinalis (que figura en el escudo 
-nacional), se usaba para tratar infecciones, inflamacio-
-nes, fiebres y dolores. Cuando los españoles llegaron al 
+nacional), se usaba para tratar infecciones, inflamaciones, fiebres y dolores. Cuando los españoles llegaron al 
 Perú, se dieron cuenta de los beneficios de este árbol. 
-Durante la Segunda Guerra Mundial, miles de solda-
-dos norteamericanos estaban infectados de malaria, 
+Durante la Segunda Guerra Mundial, miles de soldados norteamericanos estaban infectados de malaria, 
 situación en la que el Perú contribuyó con miles de 
 toneladas de cortezas de quina para la salvación de la 
-humanidad. Pero también empezaría su sobreexplota-
-ción y depredación. En nuestro país se debate entre 
+humanidad. Pero también empezaría su sobreexplotación y depredación. En nuestro país se debate entre 
 una lenta recuperación y su inexorable extinción.
 
 Biometría 
@@ -1413,16 +1354,12 @@ Actividad 1
 
 El dato
 Flora amenazada en el Perú
-https://www.serfor.gob.pe/noticias/fauna-silvestre/cientificos-elaboraran-
-nueva-lista-de-especies-amenazadas-de-flora-silvestre-del-peru
+https://www.serfor.gob.pe/noticias/fauna-silvestre/cientificos-elaborarannueva-lista-de-especies-amenazadas-de-flora-silvestre-del-peru
 Quino (árbol) http://www.ecured.cu/Quino_(%C3%A1rbol)
 
-https://www.serfor.gob.pe/noticias/fauna-silvestre/cientificos-elaboraran-
-
-¿Qué aprenderemos?  
+https://www.serfor.gob.pe/noticias/fauna-silvestre/cientificos-elaboraran¿Qué aprenderemos?  
 El estudio de la vegetación: las plantas constituyen parte fundamental de la cadena alimenticia. Su interacción 
-con el suelo, la atmósfera, el agua y los seres vivos nos permite apreciar su importancia en los diferentes proce-
-sos y ciclos que suceden en el medio ambiente. Las plantas absorben y reciclan nutrientes: dióxido de carbono, 
+con el suelo, la atmósfera, el agua y los seres vivos nos permite apreciar su importancia en los diferentes procesos y ciclos que suceden en el medio ambiente. Las plantas absorben y reciclan nutrientes: dióxido de carbono, 
 nitrógeno, azufre y fósforo que están en la atmósfera y en el suelo; absorben agua de los suelos, la incorporan a 
 sus tejidos y transpiran parte de ella a la atmósfera.
 
@@ -1452,9 +1389,7 @@ Zonas del país donde se
 puede encontrar
 
 Adaptado de https://larepublica.pe/
-sociedad/1346907-cambio-climatico-
-afectaria-arbol-quina-medio-ambiente-
-ministerio-ambiente
+sociedad/1346907-cambio-climaticoafectaria-arbol-quina-medio-ambienteministerio-ambiente
 
 Z_GUIA GLOBE 5DIC 2018.indd   26 12/6/18   1:49 AM
 
@@ -1544,13 +1479,11 @@ Mediciones de biometría
 Biometría significa “medición de vida”. ¿Por qué necesitan los científicos hacer medidas de seres vivos? ¿Qué 
 indican sobre el entorno?
 
-Estas medidas forman parte del protocolo de biometría, que se divide en cuatro mediciones diferentes: cober-
-tura del monte alto y el suelo; altura de árboles, arbustos y/o herbáceas; circunferencia de árboles; y biomasa 
+Estas medidas forman parte del protocolo de biometría, que se divide en cuatro mediciones diferentes: cobertura del monte alto y el suelo; altura de árboles, arbustos y/o herbáceas; circunferencia de árboles; y biomasa 
 de gramíneas, que son la hierba y otras plantas similares. Todas miden el tamaño o la cantidad de árboles y 
 plantas.
 
-Las mediciones de seres vivos son importantes para los científicos, porque pueden mostrar la cantidad de nu-
-trientes y gases que almacenan. También muestran la cantidad de carbono y de agua utilizable almacenada en 
+Las mediciones de seres vivos son importantes para los científicos, porque pueden mostrar la cantidad de nutrientes y gases que almacenan. También muestran la cantidad de carbono y de agua utilizable almacenada en 
 los árboles y las plantas.
 
 Altura de los árboles
@@ -1665,8 +1598,7 @@ Z_GUIA GLOBE 5DIC 2018.indd   29 12/6/18   1:49 AM
 30
 
 ¿Sabías que...? 
-La Organización de las Naciones Unidas para la Alimen-
-tación y la Agricultura (FAO) pidió a los gobiernos de 
+La Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) pidió a los gobiernos de 
 América Latina intensificar el manejo de los bosques 
 y reducir la deforestación como medida para mejorar 
 la cantidad y calidad de agua disponible. En el Perú la 
@@ -1697,8 +1629,7 @@ Lo que sabemos
 
 localidad? ¿La vegetación es nativa o introducida?
 
-• ¿Cómo reconocer las características y propieda-
-des de las plantas?
+• ¿Cómo reconocer las características y propiedades de las plantas?
 
 • ¿Por qué es importante observar y registrar las 
 características de la vegetación?
@@ -1711,8 +1642,7 @@ y/o el uso de la superficie de la Tierra. En GLOBE, se utiliza una adaptación d
 por las Naciones Unidas, al que llamamos Sistema de clasificación modificada de la Unesco. [Modified UNESCO 
 Classification System (MUC)].
 
-La cobertura del dosel desempeña un gran papel en la cantidad de luz solar que llega al suelo del bosque. Cuan-
-do hay penetración de una gran cantidad de luz solar en áreas del dosel, puede llegar a desarrollarse un denso 
+La cobertura del dosel desempeña un gran papel en la cantidad de luz solar que llega al suelo del bosque. Cuando hay penetración de una gran cantidad de luz solar en áreas del dosel, puede llegar a desarrollarse un denso 
 sotobosque. Un densímetro casero se usa para mediciones de cobertura del dosel y cobertura vegetal del suelo.
 
 Se
@@ -1732,8 +1662,7 @@ Sector forestal en el 2020
 http://www.fao.org/docrep/007/j4024s/j4024s08.htm
 
 Mapa de deforestación de la Amazonía peruana
-http://bibliotecavirtual.minam.gob.pe/documentos/mapa-
-deforestacion-amazonia-peruana-memoria-descriptiva
+http://bibliotecavirtual.minam.gob.pe/documentos/mapadeforestacion-amazonia-peruana-memoria-descriptiva
 
 Fuente: www.bosques.gob.pe/peru-pais-de-bosques
 
@@ -1777,9 +1706,7 @@ Mapa nacional de cobertura
 vegetal, memoria descriptiva
 http://www.minam.gob.pe/
 patrimonio-natural/wp-content/
-uploads/sites/6/2013/10/MAPA-
-NACIONAL-DE-COBERTURA-
-VEGETAL-FINAL.compressed.pdf
+uploads/sites/6/2013/10/MAPANACIONAL-DE-COBERTURAVEGETAL-FINAL.compressed.pdf
 
 Buscando soluciones 
 Con tus compañeros y compañeras en el patio del 
@@ -1969,8 +1896,7 @@ porcentaje total de la cobertura del suelo.
 ¿Cómo identificar la vegetación dominante y codominante?
 
 Al haber identificado su sitio de estudio, ya tienes una idea general de los tipos de vegetación que allí crecen; 
-ahora deberás identificar los tipos más comunes (dominantes) de vegetación y la segunda vegetación más co-
-mún (codominante) dentro del sitio de estudio. Podrías necesitar esta información al momento de identificar 
+ahora deberás identificar los tipos más comunes (dominantes) de vegetación y la segunda vegetación más común (codominante) dentro del sitio de estudio. Podrías necesitar esta información al momento de identificar 
 la clasificación MUC del sitio, utilizando el protocolo de clasificación MUC.
 
 Los científicos GLOBE también necesitan esta información para estudiar el crecimiento de diferentes tipos 
@@ -2054,12 +1980,10 @@ Lo que sabemos
 
 ¿Qué aprenderemos?  
 Las aves son los organismos más conocidos a nivel mundial cuando se trata de investigaciones sobre el clima. El 
-enorme conjunto de datos recolectados por millones de observadores de aves alrededor del mundo ha permiti-
-do aproximarse a los efectos del cambio climático sobre sus poblaciones.
+enorme conjunto de datos recolectados por millones de observadores de aves alrededor del mundo ha permitido aproximarse a los efectos del cambio climático sobre sus poblaciones.
 
 Las aves son importantes porque ayudan en la dispersión de semillas y a la polinización de las plantas; controlan 
-plagas y cumplen una importante función sanitaria limpiando los desechos orgánicos, ayudándonos con el cui-
-dado de la salud ambiental.
+plagas y cumplen una importante función sanitaria limpiando los desechos orgánicos, ayudándonos con el cuidado de la salud ambiental.
 
 Se
 cc
@@ -2088,8 +2012,7 @@ Z_GUIA GLOBE 5DIC 2018.indd   34 12/6/18   1:49 AM
 35
 
 Buscando soluciones 
-Con tus compañeros y compañeras desde el patio del colegio, observen las aves y determinen qué tipo de ali-
-mentos consumen de acuerdo a la forma del pico.
+Con tus compañeros y compañeras desde el patio del colegio, observen las aves y determinen qué tipo de alimentos consumen de acuerdo a la forma del pico.
 
 Luego del diálogo, formulen una hipótesis para la siguiente pregunta:
 • ¿Cuál es la relación entre la temperatura ambiental y la presencia de aves?
@@ -2159,14 +2082,11 @@ Clasificación de aves. ORIENTACIONES METODOLÓGICAS
 
 Actividad 3
 
-Los científicos hacen clasificaciones de lo que se encuentra en nuestro medio ambiente de acuerdo a observa-
-ciones y características, tales como los tipos de vida, los tipos de bosques o los tipos de rocas. Estas clasifica-
-ciones o categorías nos ayudan a organizarnos y a comprender el mundo natural, pero necesitamos saber cuán 
+Los científicos hacen clasificaciones de lo que se encuentra en nuestro medio ambiente de acuerdo a observaciones y características, tales como los tipos de vida, los tipos de bosques o los tipos de rocas. Estas clasificaciones o categorías nos ayudan a organizarnos y a comprender el mundo natural, pero necesitamos saber cuán 
 exactas son para que sean útiles científicamente. Una matriz de diferencia/error es una herramienta básica 
 utilizada para medir la exactitud de un procedimiento de clasificación.
 
-Esta actividad de aprendizaje introducirá estos conceptos mediante una clasificación de aves muy sencilla, ba-
-sada en la forma de sus picos. Cada grupo de estudiantes clasificará a cada una de las 10 aves siguientes como 
+Esta actividad de aprendizaje introducirá estos conceptos mediante una clasificación de aves muy sencilla, basada en la forma de sus picos. Cada grupo de estudiantes clasificará a cada una de las 10 aves siguientes como 
 herbívoras, carnívoras u omnívoras.
 
 Características y clasificación de aves según su pico
@@ -2175,17 +2095,13 @@ Características y clasificación de aves según su pico
 
 Esta ave (14,5 cm de tamaño) habita en zonas arboladas, 
 de arbustos, y en jardines de Europa, África del Norte, Asia 
-Menor, Oriente Medio y Asia Central. Se alimenta de fru-
-tos secos y semillas, especialmente, de pipas y de maní.
+Menor, Oriente Medio y Asia Central. Se alimenta de frutos secos y semillas, especialmente, de pipas y de maní.
 
 Clasificación: herbívora
 
 6. Zorzal pardo (Turdus grayi)
 
-Esta ave (23-24 cm de tamaño) habita en las selvas abier-
-tas, en las lindes de zonas arboladas y en los claros, nor-
-malmente cerca de arroyos del sureste de México, Améri-
-ca Central y costas de Colombia. Se alimenta de insectos, 
+Esta ave (23-24 cm de tamaño) habita en las selvas abiertas, en las lindes de zonas arboladas y en los claros, normalmente cerca de arroyos del sureste de México, América Central y costas de Colombia. Se alimenta de insectos, 
 gusanos, babosas, lagartijas y frutas.
 
 Clasificación: omnívora
@@ -2194,16 +2110,14 @@ Clasificación: omnívora
 
 Esta ave (21 cm de tamaño) habita en bosques abiertos, 
 parques y jardines en Europa y Asia Occidental, y se ha 
-introducido en América del Norte, América del Sur, Aus-
-tralia Meridional y Nueva Zelanda. Se alimenta de plantas 
+introducido en América del Norte, América del Sur, Australia Meridional y Nueva Zelanda. Se alimenta de plantas 
 y animales.
 
 Clasificación: omnívora
 
 7. Camachuelo picogrueso (Pinicola enucleator)
 
-Esta ave (20 cm de tamaño) vive en los bosques de conífe-
-ras y arbustos del norte y noroeste de América, norte de 
+Esta ave (20 cm de tamaño) vive en los bosques de coníferas y arbustos del norte y noroeste de América, norte de 
 Escandinavia y Siberia. Se alimenta de bayas y yemas que 
 están en el suelo o en las cimas de los árboles.
 
@@ -2212,8 +2126,7 @@ Clasificación: herbívora
 3. Carrizo bicolor (Campylorhynchus griseus)
 
 Esta ave (22 cm de tamaño) vive en las sabanas áridas, 
-matorrales de cactus y bosques abiertos de Colombia, Ve-
-nezuela, norte de Brasil y Guayana. Encuentra insectos y 
+matorrales de cactus y bosques abiertos de Colombia, Venezuela, norte de Brasil y Guayana. Encuentra insectos y 
 huevos de insectos examinando y buscando en las grietas 
 de la tierra.
 
@@ -2221,18 +2134,15 @@ Clasificación: carnívora
 
 8. Arrendajo (Garrulus glandarius)
 
-Esta ave vive en robledales, en países de Europa Occiden-
-tal, desde Asia a Japón y el sureste de Asia. Come insectos, 
+Esta ave vive en robledales, en países de Europa Occidental, desde Asia a Japón y el sureste de Asia. Come insectos, 
 hayucos y bellotas.
 
 Clasificación: omnívora
 
 4. Cotorra de Kramer (Psittacula krameri)
 
-Esta ave (41 cm de tamaño) habita en zonas boscosas des-
-de el este de África Central a Uganda, India, Sri Lanka, y se 
-ha introducido en el Medio y Lejano Oriente, Norteaméri-
-ca, Inglaterra, Países Bajos, Bélgica y Alemania Occidental. 
+Esta ave (41 cm de tamaño) habita en zonas boscosas desde el este de África Central a Uganda, India, Sri Lanka, y se 
+ha introducido en el Medio y Lejano Oriente, Norteamérica, Inglaterra, Países Bajos, Bélgica y Alemania Occidental. 
 Se alimenta de granos o frutas maduras.
 
 Clasificación: herbívora
@@ -2240,8 +2150,7 @@ Clasificación: herbívora
 9. Agateador norteño (Certhia familiaris)
 
 Esta ave (12,5 cm de tamaño) vive en zonas arboladas, 
-principalmente en los bosques de coníferas de Europa Oc-
-cidental y Japón. Se alimenta de insectos y de huevos de 
+principalmente en los bosques de coníferas de Europa Occidental y Japón. Se alimenta de insectos y de huevos de 
 insectos que busca entre la corteza de los árboles.
 
 Clasificación: carnívora
@@ -2249,17 +2158,14 @@ Clasificación: carnívora
 5. Alcaudon brubrú (Nilaus afer)
 
 Esta ave (de 15 cm de tamaño) habita en las sabanas y 
-algunas veces en los límites de los bosques del África tro-
-pical. Come insectos y atrapa alimentos con el ala.
+algunas veces en los límites de los bosques del África tropical. Come insectos y atrapa alimentos con el ala.
 
 Clasificación: carnívora
 
 10. Zorzal ermitaño (Catharus guttatus)
 
-Esta ave (de 15-20 cm de tamaño) habita en zonas arbola-
-das, límites de bosques y en las espesuras de los bosques 
-de América del Norte y Central. Come insectos, arañas, ca-
-racoles, gusanos y salamandras, así como frutas y semillas.
+Esta ave (de 15-20 cm de tamaño) habita en zonas arboladas, límites de bosques y en las espesuras de los bosques 
+de América del Norte y Central. Come insectos, arañas, caracoles, gusanos y salamandras, así como frutas y semillas.
 
 Clasificación: omnívora
 
@@ -2293,8 +2199,7 @@ y de ecosistemas.
 El efecto general del cambio climático muestra que los hábitats de muchas especies se desplazarán hacia los 
 polos o hacia altitudes mayores respecto a sus emplazamientos actuales.
 
-La Red GLORIA fue propuesta en 1997 y se viene ejecutando desde el 2001 como un programa mundial de inves-
-tigación y monitoreo a largo plazo para analizar los cambios en la biodiversidad de los ambientes montañosos. En 
+La Red GLORIA fue propuesta en 1997 y se viene ejecutando desde el 2001 como un programa mundial de investigación y monitoreo a largo plazo para analizar los cambios en la biodiversidad de los ambientes montañosos. En 
 el Perú se han establecido cinco de estos sitios.
 
 Zonas de vida
@@ -2318,8 +2223,7 @@ http://www.uss.edu.pe/uss/descargas/1006/radar/CC_y_Biodiversidad_
 Terrestre_Dr._Martin_Timana_PUCP_PERU.pdf
 
 El Perú y el cambio climático
-http://www.minam.gob.pe/wp-content/uploads/2016/05/Tercera-
-Comunicaci%C3%B3n.pdf
+http://www.minam.gob.pe/wp-content/uploads/2016/05/TerceraComunicaci%C3%B3n.pdf
 
 Lo que sabemos 
 • ¿La temperatura del suelo varía de acuerdo a la profundidad? 
@@ -2333,8 +2237,7 @@ Z_GUIA GLOBE 5DIC 2018.indd   38 12/6/18   1:49 AM
 39
 
 Buscando soluciones 
-Con tus compañeros y compañeras desde el patio del colegio, determinen la temperatura del suelo a dife-
-rentes profundidades; registren la precipitación acumulada, la luz solar, la velocidad del viento; y describan 
+Con tus compañeros y compañeras desde el patio del colegio, determinen la temperatura del suelo a diferentes profundidades; registren la precipitación acumulada, la luz solar, la velocidad del viento; y describan 
 la flora y la fauna representativa del sitio de estudio.
 
 Dialoguen en torno a las siguientes preguntas:
@@ -2359,9 +2262,7 @@ anemómetro, etc.).
 biología. Utilicen la hoja de trabajo del sitio de campo de biología.
 
 • Contrasten los resultados con fuentes como las propuestas en el “Conéctate”.
-• Redacten la conclusión a la que llegaron. Recuerden señalar que es importante incluir en ella las varia-
-
-bles de la hipótesis formulada.
+• Redacten la conclusión a la que llegaron. Recuerden señalar que es importante incluir en ella las variables de la hipótesis formulada.
 
 ¿Qué más podemos aprender?
 A partir de lo aprendido, responde:
@@ -2479,27 +2380,22 @@ Z_GUIA GLOBE 5DIC 2018.indd   40 12/6/18   1:49 AM
 2,5 cm de profundidad y a 0,5 m sobre el suelo. Para obtener la temperatura del suelo bajo tierra, inserta 
 cuidadosamente la punta del termohigrómetro dentro del terreno. Para obtener la temperatura al nivel del 
 suelo, o sobre él, debes insertar el sensor del termohigrómetro a través de un agujero hecho en el fondo de 
-un vaso invertido de papel grueso. El vaso actúa como un escudo alrededor de la punta del termohigróme-
-tro, de forma que la luz directa del Sol y otras fuentes extrañas de calor no causan lecturas inadecuadas. El 
+un vaso invertido de papel grueso. El vaso actúa como un escudo alrededor de la punta del termohigrómetro, de forma que la luz directa del Sol y otras fuentes extrañas de calor no causan lecturas inadecuadas. El 
 sensor del termohigrómetro debe permanecer en el lugar hasta que la temperatura no varíe, por el tiempo 
 de 1 a 2 minutos.
 
-2. Precipitación. ¿Cuál ha sido la cantidad de lluvias durante la estación de crecimiento? Si no se utiliza el me-
-didor de lluvias de GLOBE, se puede obtener información dada por un meteorólogo. Un plantel estudiantil 
+2. Precipitación. ¿Cuál ha sido la cantidad de lluvias durante la estación de crecimiento? Si no se utiliza el medidor de lluvias de GLOBE, se puede obtener información dada por un meteorólogo. Un plantel estudiantil 
 puede utilizar la humedad del suelo del área. ¿Ha llovido últimamente? ¿Existe alguna evidencia: lagos, 
 corrientes, áreas de retención de aguas, charcos?
 
-Utilizando una brújula, los estudiantes pueden determinar la dirección en que sopla el viento. Y emplean-
-do el anemómetro digital pueden determinar la velocidad del aire.
+Utilizando una brújula, los estudiantes pueden determinar la dirección en que sopla el viento. Y empleando el anemómetro digital pueden determinar la velocidad del aire.
 5. Vida animal. Solicita al grupo que revise las clases de animales que hay en cada sitio (insectos, pájaros,
 
 reptiles, peces, ranas o renacuajos). Los estudiantes deben registrar si hay evidencia de la existencia de 
 animales, tales como dispersamientos, huellas, madrigueras u hojas masticadas. Haz una estimación de la 
 población de cada tipo de animal. ¿Cuál predomina?
 
-6. Vida vegetal. Pide a los grupos observar los diferentes tipos de plantas de cada sitio (árboles grandes o peque-
-ños, arbustos, plantas pequeñas, hierbas). Sugiere que registren los tipos más comunes de plantas encontra-
-das en cada lugar. Al realizar un estimativo de la cantidad de cada tipo de planta, ¿cuál predomina?
+6. Vida vegetal. Pide a los grupos observar los diferentes tipos de plantas de cada sitio (árboles grandes o pequeños, arbustos, plantas pequeñas, hierbas). Sugiere que registren los tipos más comunes de plantas encontradas en cada lugar. Al realizar un estimativo de la cantidad de cada tipo de planta, ¿cuál predomina?
 
 Después de haber dado a los estudiantes el tiempo suficiente para investigar cada sitio, solicita que informen 
 sus descubrimientos y compartan sus conocimientos. Luego de haber escuchado todos los informes, se puede 
@@ -2516,8 +2412,7 @@ de los árboles? ¿Qué cantidad llega al suelo? Si la luz solar es absorbida po
 reflectantes como papel aluminio).
 
 4. Viento. ¿Qué cantidad de viento sopla en estos sitios? ¿Se agitan las hojas debido a la 
-brisa? ¿Es el viento lo suficientemente fuerte como para doblar las ramas más peque-
-ñas? ¿Y las más grandes? Logra que los estudiantes usen una hoja de papel que haga las 
+brisa? ¿Es el viento lo suficientemente fuerte como para doblar las ramas más pequeñas? ¿Y las más grandes? Logra que los estudiantes usen una hoja de papel que haga las 
 veces de un rompevientos provisional. Observa la hoja de trabajo de la Escala Beaufort. 
 Un estudiante puede sostener el papel lejos de su cuerpo, mientras los otros observan si 
 este cuelga recto hacia abajo o se agita en un ángulo.
@@ -2548,8 +2443,7 @@ Z_GUIA GLOBE 5DIC 2018.indd   43 12/6/18   1:49 AM
 44
 
 ¿Qué aprenderemos? 
-Según la FAO, los suelos saludables están en la base de la agricultura, la producción de alimentos y la lucha con-
-tra el hambre, y también juegan un rol como reservorios de la biodiversidad. Además, forman parte del ciclo de 
+Según la FAO, los suelos saludables están en la base de la agricultura, la producción de alimentos y la lucha contra el hambre, y también juegan un rol como reservorios de la biodiversidad. Además, forman parte del ciclo de 
 carbono, por lo que su cuidado es necesario si se quiere mitigar y enfrentar el cambio climático.
 
 En este contexto, la observación y la identificación de la caracterización de los suelos favorecen el concepto de 
@@ -2568,12 +2462,9 @@ Dialoguen en torno a las siguientes preguntas:
 La Asamblea General de las Naciones Unidas declaró 
 al 2015 como Año Internacional de los Suelos. Según 
 esta organización, los suelos están en peligro debido 
-a la expansión de las ciudades, la deforestación, el in-
-sostenible uso de la tierra y las prácticas de gestión, la 
-contaminación, el sobrepastoreo y el cambio climáti-
-co. Concluye que, al ritmo actual, la degradación de los 
-suelos amenaza la capacidad de satisfacer las necesi-
-dades de las generaciones futuras.
+a la expansión de las ciudades, la deforestación, el insostenible uso de la tierra y las prácticas de gestión, la 
+contaminación, el sobrepastoreo y el cambio climático. Concluye que, al ritmo actual, la degradación de los 
+suelos amenaza la capacidad de satisfacer las necesidades de las generaciones futuras.
 
 Características físicas 
 Se
@@ -2591,12 +2482,8 @@ l
 Actividad 1
 
 Lo que sabemos 
-• ¿Qué tipo de horizontes o capas tienen los sue-
-
-los? ¿Cómo se formó el suelo de tu localidad?
-• ¿Cómo reconocer las características y propieda-
-
-des físicas de los suelos?
+• ¿Qué tipo de horizontes o capas tienen los suelos? ¿Cómo se formó el suelo de tu localidad?
+• ¿Cómo reconocer las características y propiedades físicas de los suelos?
 • ¿Por qué es importante observar y registrar las
 
 características de los suelos?
@@ -2675,8 +2562,7 @@ Características físicas. ORIENTACIONES METODOLÓGICAS
 
 Actividad 1
 
-Los suelos conforman, en la parte superior de la superficie terrestre, una fina capa llamada pedosfera, un re-
-curso natural muy valioso que afecta profundamente a cada parte del ecosistema. Actúa de filtro y limpia las 
+Los suelos conforman, en la parte superior de la superficie terrestre, una fina capa llamada pedosfera, un recurso natural muy valioso que afecta profundamente a cada parte del ecosistema. Actúa de filtro y limpia las 
 aguas que van pasando a través del suelo. Influye en la química del agua, en la cantidad de esta que se queda 
 como agua subterránea y en la que regresa a la atmósfera para formar la lluvia.
 
@@ -2707,8 +2593,7 @@ suelo, a través de los cuales fluye el agua, el calor y el aire, y por donde la
 los terrones del suelo puede ser granular, en bloque, prismática, columnar o plana. Si el suelo no la tiene, 
 se define como estructura suelta (granos sueltos) o compacta (masa sólida).
 
-• El color del suelo, que refleja tanto su composición como las condiciones pasadas y presentes de óxido-
-reducción, está determinado generalmente por el revestimiento de partículas muy finas de materia orgánica 
+• El color del suelo, que refleja tanto su composición como las condiciones pasadas y presentes de óxidoreducción, está determinado generalmente por el revestimiento de partículas muy finas de materia orgánica 
 humificada (oscuro), óxidos de fierro (amarillo, pardo, anaranjado y rojo), óxidos de manganeso (negro) y 
 otros, o puede ser debido al color de la roca parental. El color se ve afectado también por la humedad del 
 terreno, la cual depende de la escorrentía o de la saturación del agua en el suelo. Normalmente, cuanta más 
@@ -2832,9 +2717,7 @@ consecuentemente, en su capacidad de sostener una
 agricultura productiva.
 
 Las tierras agrícolas se vuelven gradualmente menos 
-productivas por cuatro razones principales: degrada-
-ción de la estructura del suelo, disminución de la mate-
-ria orgánica, pérdida del suelo y pérdida de nutrientes.
+productivas por cuatro razones principales: degradación de la estructura del suelo, disminución de la materia orgánica, pérdida del suelo y pérdida de nutrientes.
 
 Temperatura de los suelos
 Se
@@ -2881,9 +2764,7 @@ El suelo
 
 http://www.fao.org/docrep/006/W1309S/w1309s04.htm#TopOfPage
 
-Fuente: https://www.servindi.org/actualidad-
-noticias/05/04/2018/la-deforestacion-es-la-fuente-principal-de-
-emisiones-globales-del-co2
+Fuente: https://www.servindi.org/actualidadnoticias/05/04/2018/la-deforestacion-es-la-fuente-principal-deemisiones-globales-del-co2
 
 ECUADOR
 
@@ -2906,18 +2787,14 @@ Z_GUIA GLOBE 5DIC 2018.indd   48 12/6/18   1:49 AM
 
 Buscando soluciones 
 Con tus compañeros y compañeras desde el patio del colegio, observen el 
-suelo, determinen la temperatura y completen la hoja de datos de tempe-
-ratura de los suelos, de acuerdo con el esquema que se muestra.
+suelo, determinen la temperatura y completen la hoja de datos de temperatura de los suelos, de acuerdo con el esquema que se muestra.
 Dialoguen en torno a las siguientes preguntas:
 • ¿Cómo obtener datos de la temperatura de los suelos? 
 • ¿Qué tipo de caracterización tienen los suelos de tu localidad?
 Luego del diálogo, formulen una hipótesis para la siguiente pregunta:
-• ¿Qué relación existe entre la caracterización de los suelos y la tempe-
+• ¿Qué relación existe entre la caracterización de los suelos y la temperatura de la localidad?
 
-ratura de la localidad?
-
-• En seguida, diseñen y organicen actividades para comprobar la hipótesis. Recuerden que cuentan con la car-
-ta de nubes, la carta de vientos, los instrumentos del kit GLOBE (termómetros, pluviómetro, anemómetro, etc.).
+• En seguida, diseñen y organicen actividades para comprobar la hipótesis. Recuerden que cuentan con la carta de nubes, la carta de vientos, los instrumentos del kit GLOBE (termómetros, pluviómetro, anemómetro, etc.).
 
 • Pueden iniciar su indagación desarrollando las siguientes actividades:
 - Determinar la temperatura de los suelos por el método estrella, a 5 cm y 10 cm de profundidad.
@@ -3031,14 +2908,11 @@ Temperatura de los suelos. ORIENTACIONES METODOLÓGICAS
 
 Actividad 2
 
-La temperatura de la atmósfera está directamente asociada a la temperatura del suelo porque este es un ais-
-lante del flujo de calor entre la tierra sólida y la atmósfera. En un día soleado, por ejemplo, el suelo absorbe 
+La temperatura de la atmósfera está directamente asociada a la temperatura del suelo porque este es un aislante del flujo de calor entre la tierra sólida y la atmósfera. En un día soleado, por ejemplo, el suelo absorbe 
 energía del Sol y su temperatura aumenta. Por la noche, el suelo libera calor, lo que afecta directamente a la 
 temperatura del aire.
 
-Las temperaturas del suelo pueden ser relativamente bajas en verano o relativamente altas en invierno. Pue-
-den oscilar entre 50 °C en verano, cerca de la superficie del suelo en el desierto (más elevada que la tempera-
-tura máxima del aire), y valores por debajo de las heladas en invierno.
+Las temperaturas del suelo pueden ser relativamente bajas en verano o relativamente altas en invierno. Pueden oscilar entre 50 °C en verano, cerca de la superficie del suelo en el desierto (más elevada que la temperatura máxima del aire), y valores por debajo de las heladas en invierno.
 
 La temperatura del suelo influye de manera significativa en la aparición de los brotes y el crecimiento de las 
 plantas. Por ejemplo, si la temperatura del suelo aumenta, las reacciones químicas suceden más rápido y se 
@@ -3046,16 +2920,13 @@ acelera la germinación de las semillas. Los agricultores utilizan los datos de 
 cuándo conviene cultivar.
 
 La temperatura del suelo también determina los ciclos de vida de seres vivos pequeños. Un ejemplo son los 
-insectos y otros organismos que salen de la tierra dependiendo de la temperatura del terreno. También deter-
-mina si el agua en el suelo se encuentra en estado gaseoso, líquido o sólido. La cantidad y el estado del agua 
+insectos y otros organismos que salen de la tierra dependiendo de la temperatura del terreno. También determina si el agua en el suelo se encuentra en estado gaseoso, líquido o sólido. La cantidad y el estado del agua 
 influyen en las características de cada horizonte de un perfil de suelo. Por ejemplo, en suelos fríos no hay tanta 
 descomposición de materia orgánica porque los microorganismos actúan a velocidades más bajas, quedando 
 un suelo de color más oscuro. El calor intenso en climas tropicales aumenta la erosión y la producción de óxidos 
 de hierro dando al suelo colores rojizos. En latitudes al norte y al sur, a altitudes elevadas, hay capas de suelo 
-que están permanentemente congeladas y que reciben el nombre de permafrost. Si este se derrite, la estructu-
-ra del suelo y el grosor de los horizontes se alteran y las raíces de las plantas sufren daños. A latitudes y altitudes 
-medias, el suelo cercano a la superficie se congela en invierno. La humedad del suelo se evapora por la super-
-ficie. La cantidad de humedad evaporada depende de la presión de vapor de agua del suelo y esta depende de 
+que están permanentemente congeladas y que reciben el nombre de permafrost. Si este se derrite, la estructura del suelo y el grosor de los horizontes se alteran y las raíces de las plantas sufren daños. A latitudes y altitudes 
+medias, el suelo cercano a la superficie se congela en invierno. La humedad del suelo se evapora por la superficie. La cantidad de humedad evaporada depende de la presión de vapor de agua del suelo y esta depende de 
 la temperatura. La humedad que se ha evaporado se ha añadido a la humedad del aire, influyendo en el clima.
 
 “Patrón estrella”
@@ -3063,8 +2934,7 @@ la temperatura. La humedad que se ha evaporado se ha añadido a la humedad del a
 El patrón estrella se trata de muestreos en 12 ubicaciones diferentes dentro de un área de 2 m x 2 m, en forma 
 de estrella y en 12 periodos diferentes.
 
-En cada una de las 12 ubicaciones, se eligen tres puntos a 25 cm uno de otro. En cada punto se toma la tem-
-peratura a 5 cm y otra a 10 cm de profundidad, por lo que en total se recogen 6 medidas por cada ubicación 
+En cada una de las 12 ubicaciones, se eligen tres puntos a 25 cm uno de otro. En cada punto se toma la temperatura a 5 cm y otra a 10 cm de profundidad, por lo que en total se recogen 6 medidas por cada ubicación 
 en la estrella.
 
 Qué se necesita
@@ -3122,8 +2992,7 @@ Procedimiento para la toma de la temperatura
 
 Los puntos negros de la figura B indican los lugares donde se realizarán 
 las mediciones de la temperatura del suelo en la figura que has formado 
-con el pabilo y los clavos. Para ello, debes ubicar solo 8 clavos equidis-
-tantes al punto “X” en los lugares sugeridos, un clavo por cada número 
+con el pabilo y los clavos. Para ello, debes ubicar solo 8 clavos equidistantes al punto “X” en los lugares sugeridos, un clavo por cada número 
 de la figura B. Los otros puntos corresponden a futuras mediciones para 
 determinar la humedad del suelo.
 
@@ -3307,8 +3176,7 @@ el Programa de las Naciones Unidas para el Ambiente (UNEP) y la Sociedad Interna
 (ISSS), un grupo de edafólogos, que representan un rango amplio de instituciones, se reunió en Sofía, Bulgaria, en 
 1980 y 1981, para fortalecer la participación internacional en una continuación del Mapa de Suelos del Mundo 
 (FAO–Unesco, 1971–1981). La reunión decidió lanzar un programa para desarrollar una Base Internacional de 
-Referencia para Clasificación de Suelos (IRB) con el objetivo de alcanzar acuerdos sobre los principales agrupa-
-mientos de suelos a ser reconocidos en una escala global, así como los criterios para definirlos y separarlos.
+Referencia para Clasificación de Suelos (IRB) con el objetivo de alcanzar acuerdos sobre los principales agrupamientos de suelos a ser reconocidos en una escala global, así como los criterios para definirlos y separarlos.
 
 Características químicas
 Se
@@ -3503,8 +3371,7 @@ Z_GUIA GLOBE 5DIC 2018.indd   53 12/6/18   1:49 AM
 
 El pH
 El pH, o la cantidad de iones de hidrógeno en una muestra, es un parámetro que debemos considerar si se 
-estudia el suelo. Como en el ámbito de la hidrología, la escala del pH se utiliza como un indicador de la concen-
-tración de iones de hidrógeno en el suelo. Se disuelve suelo seco tamizado en un volumen específico de agua 
+estudia el suelo. Como en el ámbito de la hidrología, la escala del pH se utiliza como un indicador de la concentración de iones de hidrógeno en el suelo. Se disuelve suelo seco tamizado en un volumen específico de agua 
 de pH conocido. La amplitud con la que el suelo disuelto cambia el pH del agua es un indicador del número de 
 iones que contiene.
 Si el suelo contiene una concentración elevada de iones de hidrógeno, se considera un suelo ácido. Si contiene 
@@ -3536,8 +3403,7 @@ Z_GUIA GLOBE 5DIC 2018.indd   54 12/6/18   1:49 AM
 55
 
 Manejando materiales
-Si se utiliza un pH-metro para medir el pH, hay que asegurarse de que el aparato esté funcionando correcta-
-mente. Los estudiantes deben calibrarlo siguiendo los pasos del manual de uso. En caso de que las pilas no 
+Si se utiliza un pH-metro para medir el pH, hay que asegurarse de que el aparato esté funcionando correctamente. Los estudiantes deben calibrarlo siguiendo los pasos del manual de uso. En caso de que las pilas no 
 tengan carga, habrá que reemplazarlas por unas nuevas o por otras recargadas. 
 En algunas muestras de suelo, especialmente en aquellas ricas en arcilla, no se decantará en el agua después 
 de mezclarlo y no se formará un sobrenadante. En estos casos, después de mezclarlo rigurosamente siguiendo 
@@ -3545,8 +3411,7 @@ el protocolo, hay que colocar el pH-metro o tiras de pH en la parte superior de 
 tomar la lectura de la medición.
 
 Organizando a los estudiantes
-Si un solo equipo está realizando las mediciones de las tres muestras de un horizonte, es conveniente que tra-
-baje con las tres paralelamente y no secuencialmente. Esto permitirá desarrollar todo el protocolo en menos 
+Si un solo equipo está realizando las mediciones de las tres muestras de un horizonte, es conveniente que trabaje con las tres paralelamente y no secuencialmente. Esto permitirá desarrollar todo el protocolo en menos 
 de 45 minutos.
 
 Qué se necesita
@@ -3587,10 +3452,8 @@ Z_GUIA GLOBE 5DIC 2018.indd   55 12/6/18   1:49 AM
 56
 
 ¿Sabías que...? 
-El Día Mundial de Lucha contra la Desertificación y la Sequía se celebra el 17 de junio. Nace como una observan-
-cia de las Naciones Unidas que toma lugar cada año con el fin de crear conciencia en los ciudadanos del mundo 
-sobre los riesgos de la sequía y la escasez de agua en las tierras secas y más allá de ellas, y a fin de llamar la aten-
-ción sobre la importancia del manejo sostenible de la Tierra. Con el lema “No dejes que nuestro futuro se seque”, 
+El Día Mundial de Lucha contra la Desertificación y la Sequía se celebra el 17 de junio. Nace como una observancia de las Naciones Unidas que toma lugar cada año con el fin de crear conciencia en los ciudadanos del mundo 
+sobre los riesgos de la sequía y la escasez de agua en las tierras secas y más allá de ellas, y a fin de llamar la atención sobre la importancia del manejo sostenible de la Tierra. Con el lema “No dejes que nuestro futuro se seque”, 
 se pide a todos tomar medidas de adaptación y resistencia a la escasez de agua, la desertificación y la sequía.
 
 Permeabilidad del suelo
@@ -3637,8 +3500,7 @@ El Perú lucha contra la
 desertificación y la sequía
 http://www.minam.gob.
 pe/notas-de-prensa/
-el-peru-lucha-contra-la-
-desertificacion-y-la-sequia/
+el-peru-lucha-contra-ladesertificacion-y-la-sequia/
 
 Lugar verde
 http://mygranitodearena.
@@ -3782,8 +3644,7 @@ llenando de agua.
 
 Al respecto, hay tres velocidades:
 Flujo insaturado, velocidad de flujo inicial que va llenando los espacios porosos del suelo seco.
-Flujo saturado, velocidad del flujo constante que se introduce en el suelo, determinada por la textura y la es-
-tructura de este.
+Flujo saturado, velocidad del flujo constante que se introduce en el suelo, determinada por la textura y la estructura de este.
 Estancamiento, velocidad de flujo cuando el suelo está totalmente saturado y el agua no es capaz ya de fluir 
 por los poros.
 Antes de comenzar con el protocolo, se debe construir un infiltrómetro para medir la velocidad de infiltración del suelo.
@@ -3803,13 +3664,10 @@ es conveniente hacer la línea para mayor visibilidad.
 externo (en centímetros).
 
 Para que los estudiantes realicen las mediciones con 
-mayor comodidad, es mejor que practiquen el pro-
-tocolo, incluyendo la toma de tiempo, en un lugar 
+mayor comodidad, es mejor que practiquen el protocolo, incluyendo la toma de tiempo, en un lugar 
 donde puedan coger agua con facilidad. En un sitio 
-arenoso, los intervalos de tiempo de infiltración se-
-rán más cortos, por lo que los estudiantes tendrán la 
-oportunidad de realizar más mediciones en un perio-
-do establecido.
+arenoso, los intervalos de tiempo de infiltración serán más cortos, por lo que los estudiantes tendrán la 
+oportunidad de realizar más mediciones en un periodo establecido.
 
 Qué se necesita
 
@@ -3911,14 +3769,10 @@ Z_GUIA GLOBE 5DIC 2018.indd   61 12/6/18   1:49 AM
 
 ¿Sabías que...? 
 El agua cada vez se está convirtiendo en un recurso 
-escaso debido a diferentes factores como la deforesta-
-ción, el mal uso de los recursos y el calentamiento glo-
-bal. Se prevé que en el 2030 el Perú empezará a sentir 
+escaso debido a diferentes factores como la deforestación, el mal uso de los recursos y el calentamiento global. Se prevé que en el 2030 el Perú empezará a sentir 
 seriamente los estragos de la falta de agua.
 
-La Autoridad Nacional del Agua (ANA) vela por la con-
-servación y protección de sus fuentes, de los ecosiste-
-mas y de los bienes naturales asociados a ella.
+La Autoridad Nacional del Agua (ANA) vela por la conservación y protección de sus fuentes, de los ecosistemas y de los bienes naturales asociados a ella.
 
 En 1993, la Asamblea General de las Naciones Unidas 
 designó el 22 de marzo como el Día Mundial del Agua.
@@ -3948,13 +3802,11 @@ Lo que sabemos
 agua que la hacen tan singular y necesaria para 
 todos los seres vivos?
 
-• ¿Por qué es importante observar y registrar las ca-
-racterísticas de las muestras de agua?
+• ¿Por qué es importante observar y registrar las características de las muestras de agua?
 
 ¿Qué aprenderemos? 
 El agua pura es un líquido insípido (sin sabor), incoloro 
-(sin color) e inodoro (sin olor). La que utilizamos nor-
-malmente suele tener disueltas otras sustancias, sobre 
+(sin color) e inodoro (sin olor). La que utilizamos normalmente suele tener disueltas otras sustancias, sobre 
 todo, sales minerales. Su mayor reserva está en los 
 océanos, que contienen el 97 % del agua que existe en 
 la Tierra. Se trata de agua salada, que solo permite la 
@@ -3981,16 +3833,12 @@ https://www.servindi.org/actualidad/84511
 
 Guía para la elaboración de estudios de evaluación de riesgos a la salud 
 y el ambiente en sitios contaminados
-http://www.minam.gob.pe/wp-content/uploads/2015/02/Anexo-R.M.-
-N%C2%B0-034-2015-Guia-ERSA.pdf
+http://www.minam.gob.pe/wp-content/uploads/2015/02/Anexo-R.M.N%C2%B0-034-2015-Guia-ERSA.pdf
 
-Fuente: http://imagenwhatsapp.com/imagen-con-mensaje/45-
-imagenes-para-el-22-de-marzo-dia-mundial-del-agua-45-
-reflexiones-sobre-el-uso-del-agua-para-whatsapp/
+Fuente: http://imagenwhatsapp.com/imagen-con-mensaje/45imagenes-para-el-22-de-marzo-dia-mundial-del-agua-45reflexiones-sobre-el-uso-del-agua-para-whatsapp/
 
 Adaptado de http://elcomercio.pe/
-http://elcomercio.pe/visor/1814746/1124480-uso-agua-retos-peru-
-pais-rico-este-recurso-noticiai/alimentaria/t0455e/T0455E0o.htm
+http://elcomercio.pe/visor/1814746/1124480-uso-agua-retos-perupais-rico-este-recurso-noticiai/alimentaria/t0455e/T0455E0o.htm
 
 Retos de un país rico en agua
 El Perú ocupa el octavo lugar en el ranking
@@ -4212,8 +4060,7 @@ o no, se encuentran en el agua. Estas pruebas implican el uso de herramientas pa
 propiedades que los humanos no pueden percibir directamente.
 
 Iniciando la investigación
-Con la actividad “Detectives del agua”, los estudiantes, mediante el uso de los sentidos, identifican un “alimen-
-to misterioso” (sustancia contaminante) y señalan los procedimientos de laboratorio apropiados para probar 
+Con la actividad “Detectives del agua”, los estudiantes, mediante el uso de los sentidos, identifican un “alimento misterioso” (sustancia contaminante) y señalan los procedimientos de laboratorio apropiados para probar 
 las características del agua.
 
 ¿Qué necesitamos?
@@ -4272,19 +4119,14 @@ Lo que sabemos
 • ¿Por qué es importante observar y registrar la temperatura de las muestras de agua?
 
 ¿Qué aprenderemos? 
-Perú cuenta con importantes recursos hídricos, prove-
-nientes de fuentes naturales. La variación de la tem-
-peratura tiene incidencia sobre diferentes parámetros 
+Perú cuenta con importantes recursos hídricos, provenientes de fuentes naturales. La variación de la temperatura tiene incidencia sobre diferentes parámetros 
 físico-químicos que, a su vez, pueden afectar la calidad 
 de las aguas.
 
-Se estima que el agua dulce está sufriendo un acelera-
-do proceso de pérdida de calidad y cantidad. Por ejem-
-plo, más de la mitad de los principales ríos del planeta 
+Se estima que el agua dulce está sufriendo un acelerado proceso de pérdida de calidad y cantidad. Por ejemplo, más de la mitad de los principales ríos del planeta 
 están gravemente agotados o contaminados, por lo 
 que degradan y contaminan los sistemas y amenazan 
-la salud y el sustento de las personas (Comisión Mun-
-dial sobre el Agua, 2003).
+la salud y el sustento de las personas (Comisión Mundial sobre el Agua, 2003).
 
 Se
 cc
@@ -4304,8 +4146,7 @@ Z_GUIA GLOBE 5DIC 2018.indd   66 12/6/18   1:49 AM
 
 Con tus compañeros y compañeras 
 en el patio del colegio, determinen 
-la temperatura de diferentes mues-
-tras de agua e interpreten gráficos 
+la temperatura de diferentes muestras de agua e interpreten gráficos 
 como el que se presenta aquí.
 
 Buscando soluciones
@@ -4376,21 +4217,18 @@ Temperatura del agua. ORIENTACIONES METODOLÓGICAS
 
 Actividad 2
 
-La temperatura es una medida sencilla de realizar. No obstante, es muy importante porque permite a los cien-
-tíficos entender mejor otras medidas de hidrología, tales como las del oxígeno disuelto, pH y conductividad.
+La temperatura es una medida sencilla de realizar. No obstante, es muy importante porque permite a los científicos entender mejor otras medidas de hidrología, tales como las del oxígeno disuelto, pH y conductividad.
 La temperatura influye en la cantidad y diversidad de vida acuática. Los lagos que son fríos y con poca vida 
 vegetal en invierno florecen en primavera y verano cuando la temperatura del agua aumenta y se mezclan 
 las aguas profundas, ricas en nutrientes, con las superficiales. A causa de esta mezcla y del incremento de la 
-temperatura, el retorno de la primavera es seguido por un periodo de rápido crecimiento de organismos mi-
-croscópicos (animales y vegetales). Muchos peces y otros animales acuáticos también desovan en esta época 
+temperatura, el retorno de la primavera es seguido por un periodo de rápido crecimiento de organismos microscópicos (animales y vegetales). Muchos peces y otros animales acuáticos también desovan en esta época 
 del año cuando el alimento es abundante. Los lagos poco profundos son una excepción en este ciclo, ya que en 
 ellos la mezcla se da todo el año.
 Sin embargo, es importante considerar también que el agua caliente puede ser letal para especies sensibles 
 como la trucha y el salmón, las cuales requieren condiciones de agua fría y rica en oxígeno. El agua caliente 
 tiende a poseer menores niveles de oxígeno disuelto. 
 Finalmente, para entender los modelos de clima local y global, es esencial observar la temperatura del agua. 
-Esta cambia de forma diferente que la temperatura del aire porque el agua tiene una mayor capacidad ca-
-lorífica. El agua también ayuda a cambiar la temperatura del aire a través de los procesos de evaporación y 
+Esta cambia de forma diferente que la temperatura del aire porque el agua tiene una mayor capacidad calorífica. El agua también ayuda a cambiar la temperatura del aire a través de los procesos de evaporación y 
 condensación.
 
 Tomando la muestra de agua
@@ -4408,8 +4246,7 @@ dentro de los 10 minutos (preferiblemente menos). No hay que dejar el balde con 
 expuesta al Sol, antes de realizar las medidas. Tomar otra nueva muestra después de 10 minutos.
 
 Actividades de apoyo
-La medida de la temperatura del agua proporciona una buena oportu-
-nidad para introducir conceptos básicos sobre datos exactos y precisos.
+La medida de la temperatura del agua proporciona una buena oportunidad para introducir conceptos básicos sobre datos exactos y precisos.
 
 • Los datos son exactos cuando la media de la muestra (de las 
 observaciones de los estudiantes) es igual a la media verdadera.
@@ -4420,13 +4257,11 @@ rango estrecho.
 Los resultados pueden ser exactos, aunque sean imprecisos, cuando los 
 estudiantes tienen una amplia dispersión en sus observaciones.
 
-Los resultados pueden ser precisos, aunque inexactos, cuando las medi-
-das de los estudiantes están en un rango muy estrecho, pero la media no 
+Los resultados pueden ser precisos, aunque inexactos, cuando las medidas de los estudiantes están en un rango muy estrecho, pero la media no 
 es igual que la media real.
 
 El protocolo de temperatura de hidrología de GLOBE está diseñado de tal 
-manera que los datos que envía el alumnado sean tanto exactos como pre-
-cisos. Los estudiantes deben realizar al menos tres mediciones y después 
+manera que los datos que envía el alumnado sean tanto exactos como precisos. Los estudiantes deben realizar al menos tres mediciones y después 
 calcular la media. Si alguna de las observaciones se desvía en más de 1 °C 
 de la media, la medida se repite para mejorar la precisión del dato.
 
@@ -4522,15 +4357,12 @@ cambia antes de ser leída; y no leer el termómetro al nivel de los ojos.
 Excepto para la transparencia, la temperatura del agua es tomada antes que otras medidas y tan pronto como 
 sea posible después de haber recogido la muestra, porque la temperatura tiende a cambiar muy rápidamente. 
 Asimismo, se debe leer el valor de la temperatura mientras el bulbo del termómetro se encuentra en el agua, 
-ya que esta lectura puede cambiar rápidamente una vez que el termómetro es retirado de la muestra, especial-
-mente si la temperatura del aire es muy diferente de la del agua o si hace viento. Este puede causar evapora-
-ción que muy pronto baja la temperatura.
+ya que esta lectura puede cambiar rápidamente una vez que el termómetro es retirado de la muestra, especialmente si la temperatura del aire es muy diferente de la del agua o si hace viento. Este puede causar evaporación que muy pronto baja la temperatura.
 Es muy importante que la temperatura del agua sea tomada en el mismo lugar cada semana.
 Puede haber varios grados de diferencia en la temperatura del agua sobre un área pequeña: zonas soleadas 
 frente a las de umbría, zonas más profundas o más superficiales.
 Si se utiliza un termómetro, hay que atarle una cuerda suficientemente larga para que el agua llegue hasta la 
-parte alta del instrumento. Además, atar una goma elástica al final del otro extremo de la cuerda. Los estudian-
-tes deben sujetarse ese extremo en la muñeca cuando tomen la medida de la temperatura para evitar que el 
+parte alta del instrumento. Además, atar una goma elástica al final del otro extremo de la cuerda. Los estudiantes deben sujetarse ese extremo en la muñeca cuando tomen la medida de la temperatura para evitar que el 
 termómetro se caiga o se pierda.
 
 Protocolo de temperatura del agua
@@ -4552,8 +4384,7 @@ Z_GUIA GLOBE 5DIC 2018.indd   69 12/6/18   1:49 AM
 70
 
 ¿Sabías que...? 
-El desarrollo sostenible trata fundamentalmente de las relaciones entre las personas, y entre estas y su me-
-dio ambiente. Está, por tanto, vinculado a los modelos de desarrollo social y económico, donde el elemento 
+El desarrollo sostenible trata fundamentalmente de las relaciones entre las personas, y entre estas y su medio ambiente. Está, por tanto, vinculado a los modelos de desarrollo social y económico, donde el elemento 
 humano es fundamental. De esta forma, tanto las relaciones sociales y económicas entre los pueblos como la 
 relación de estos con los recursos naturales constituyen aquello que facilitará o entorpecerá el proceso hacia 
 la sostenibilidad.
@@ -4578,11 +4409,8 @@ Lo que sabemos
 • ¿Por qué es importante observar y registrar la temperatura y el pH de las muestras de agua?
 
 ¿Qué aprenderemos? 
-El pH del agua se afecta directamente con la temperatura, este es un resultado ligero pero medible. Por ejem-
-plo, el agua pura tiene un pH de 7 únicamente a una temperatura de 25 grados Celsius. Cuando esta se incre-
-menta, el pH disminuye. De igual forma, una disminución de temperatura implica un aumento en el pH. A los 60 
-grados Celsius o 140 grados Fahrenheit, el agua pura muestra un valor de pH de 6,96. En otras palabras, el cam-
-bio es muy ligero y no se puede registrar con técnicas de medición en bruto, tales como tiras de prueba de pH.S
+El pH del agua se afecta directamente con la temperatura, este es un resultado ligero pero medible. Por ejemplo, el agua pura tiene un pH de 7 únicamente a una temperatura de 25 grados Celsius. Cuando esta se incrementa, el pH disminuye. De igual forma, una disminución de temperatura implica un aumento en el pH. A los 60 
+grados Celsius o 140 grados Fahrenheit, el agua pura muestra un valor de pH de 6,96. En otras palabras, el cambio es muy ligero y no se puede registrar con técnicas de medición en bruto, tales como tiras de prueba de pH.S
 
 ec
 ci
@@ -4762,11 +4590,9 @@ es rico en minerales, tales como la calcita o las calizas. Ácidos y bases puede
 agua como productos de la actividad humana.
 El pH tiene una fuerte influencia sobre lo que puede vivir en el agua, pues afecta la mayoría de sus procesos 
 químicos y biológicos. Así pues, los organismos acuáticos tienen determinados rangos de pH que ellos prefieren 
-o necesitan para vivir. Salamandras, ranas y otros anfibios, así como muchos macroinvertebrados, son particu-
-larmente sensibles a los valores extremos de pH. La mayoría de los insectos, anfibios y peces están ausentes en 
+o necesitan para vivir. Salamandras, ranas y otros anfibios, así como muchos macroinvertebrados, son particularmente sensibles a los valores extremos de pH. La mayoría de los insectos, anfibios y peces están ausentes en 
 aguas con pH por debajo de 4,0 o por encima de 10,0. 
-El siguiente esquema muestra los valores de pH de algunas sustancias comunes y los límites letales para algu-
-nas especies de peces.
+El siguiente esquema muestra los valores de pH de algunas sustancias comunes y los límites letales para algunas especies de peces.
 
 Letal para todos 
 los peces
@@ -4827,8 +4653,7 @@ medir la conductividad antes que el pH.
 Calibrando el pHmetro 
 El pHmetro debe ser calibrado antes de cada uso. Si se está midiendo el pH en el sitio de hidrología, entonces 
 el pHmetro debería ser calibrado en el sitio de hidrología también. Si se está midiendo el pH en el laboratorio, 
-entonces el instrumento se debe calibrar antes de tomar la medida. Los instrumentos varían en el procedi-
-miento de calibración, por lo que se deben leer cuidadosamente las instrucciones que vienen con el pHmetro.
+entonces el instrumento se debe calibrar antes de tomar la medida. Los instrumentos varían en el procedimiento de calibración, por lo que se deben leer cuidadosamente las instrucciones que vienen con el pHmetro.
 De igual manera, siga las instrucciones que vienen con el pHmetro para la preparación del electrodo, ya que, 
 en la mayoría de los casos, se necesita poner en agua el electrodo al menos 30 minutos antes de cada uso.
 
@@ -4856,19 +4681,15 @@ Z_GUIA GLOBE 5DIC 2018.indd   73 12/6/18   1:49 AM
 74
 
 ¿Sabías que...? 
-Las enfermedades infecciosas han tenido una gran in-
-fluencia, cambiando el curso de acontecimientos histó-
-ricos, y han dejado huellas indelebles en la evolución 
+Las enfermedades infecciosas han tenido una gran influencia, cambiando el curso de acontecimientos históricos, y han dejado huellas indelebles en la evolución 
 de los pueblos y civilizaciones conocidas. Especies de 
 mosquitos diferentes han causado enfermedades en el 
-continente americano. Un grupo de científicos perua-
-nos encabezado por Klaus Hönninger ha encontrado 
+continente americano. Un grupo de científicos peruanos encabezado por Klaus Hönninger ha encontrado 
 ejemplares de animales y plantas fosilizados en ámbar 
 en un yacimiento de 20 millones de años, en la orilla 
 elevada del río Santiago, afluente del Marañón, en 
 el extremo norte del Perú. (Adaptado de https://rpp.
-pe/peru/actualidad/hallan-insectos-fosilizados-de-ha-
-ce-20-millones-de-anos-en-peru-noticia-356775).
+pe/peru/actualidad/hallan-insectos-fosilizados-de-hace-20-millones-de-anos-en-peru-noticia-356775).
 
 Cazadores de mosquitos
 Se
@@ -4886,9 +4707,7 @@ l
 Actividad 4
 
 Lo que sabemos 
-• ¿Cómo se producen las enfermedades infecciosas?, ¿qué cuidados debemos considerar para evitar las en-
-
-fermedades infecciosas?
+• ¿Cómo se producen las enfermedades infecciosas?, ¿qué cuidados debemos considerar para evitar las enfermedades infecciosas?
 • ¿Qué enfermedades infecciosas se presentan en nuestro territorio?
 
 ¿Qué aprenderemos? 
@@ -4984,8 +4803,7 @@ hablemosdeinsectos.com/
 
 mosquito-aedes-aegypti/
 
-Con tus compañeros y compañe-
-ras, construyan una brújula casera. 
+Con tus compañeros y compañeras, construyan una brújula casera. 
 Luego, en el patio del colegio, con 
 ayuda de la brújula, reconozcan los 
 puntos cardinales y la ubicación del 
@@ -5003,28 +4821,22 @@ Actividad 4
 Los mosquitos son insectos comunes que existen en muchos lugares alrededor del mundo, particularmente 
 en las regiones del trópico y subtropicales. Hay más de 40 géneros y más de 3500 de especies conocidas. Tres 
 de estos géneros, Anopheles, Aedes y Culex, son especies que transmiten enfermedades que impactan en las 
-personas incluyendo malaria, fiebre del dengue y chikungunya, virus del Nilo occidental y virus Zika. Los mos-
-quitos requieren agua para reproducirse y crecer en sus primeras etapas de vida. Los mosquitos hembra ponen 
-huevos en la superficie del agua en sitios de reproducción apropiados. Estos incluyen charcos, neumáticos, es-
-tanques, contenedores, botellas y varios objetos donde se puede acumular el agua. Cada especie de mosquito 
+personas incluyendo malaria, fiebre del dengue y chikungunya, virus del Nilo occidental y virus Zika. Los mosquitos requieren agua para reproducirse y crecer en sus primeras etapas de vida. Los mosquitos hembra ponen 
+huevos en la superficie del agua en sitios de reproducción apropiados. Estos incluyen charcos, neumáticos, estanques, contenedores, botellas y varios objetos donde se puede acumular el agua. Cada especie de mosquito 
 de todos los géneros tiene sus preferencias sobre el sitio de alimentación. Las características del contenedor, 
 tales como el tipo de tapas y el material del que está hecho el contenedor, pueden influir la selección del sitio 
 de alimentación de la hembra. Los huevos eclosionan después de dos días de producir la larva acuática. La larva 
 pasa por cuatro cambios (llamados estadios) desde la instancia de larva al mosquito adulto. La duración de la 
 fase acuática y cada fase diferente de la larva dependen de la temperatura del agua.
-Los patrones estacionales de temperatura y precipitaciones pueden ser alterados por el cambio climático don-
-de tú vives. Estos cambios pueden afectar la dispersión e intensidad de la malaria, fiebre del dengue y otros 
-brotes de enfermedades. Otros factores, tales como el uso de la tierra, contribuyen a la dispersión de enfer-
-medades, así como a proporcionar un hábitat adecuado para que los mosquitos se reproduzcan y crezcan, y en 
+Los patrones estacionales de temperatura y precipitaciones pueden ser alterados por el cambio climático donde tú vives. Estos cambios pueden afectar la dispersión e intensidad de la malaria, fiebre del dengue y otros 
+brotes de enfermedades. Otros factores, tales como el uso de la tierra, contribuyen a la dispersión de enfermedades, así como a proporcionar un hábitat adecuado para que los mosquitos se reproduzcan y crezcan, y en 
 cómo la enfermedad se dispersa entre las personas.
 Los ciclos de vida del mosquito están íntimamente relacionados con su ambiente, y una de las contribuciones 
 más importantes que pueden hacer los estudiantes y los docentes GLOBE es tomar datos ambientales y de los 
 mosquitos. Como se describe en el protocolo, los estudiantes GLOBE pueden identificar mosquitos al menos 
-por género en su estado larvario, el cual es crítico para el entendimiento de la relación entre mosquitos, la en-
-fermedad que pueden provocar y el ambiente. Este tipo de información puede usarse localmente para predecir 
+por género en su estado larvario, el cual es crítico para el entendimiento de la relación entre mosquitos, la enfermedad que pueden provocar y el ambiente. Este tipo de información puede usarse localmente para predecir 
 brotes de la enfermedad, tal como malaria o fiebre del dengue, o cuándo los controles químicos u otros serán 
-más efectivos. Globalmente, hay un esfuerzo mayor para usar los datos de los satélites para predecir el comien-
-zo, declinación y dispersión de las enfermedades transmitidas por vectores. Los datos confiables basados en 
+más efectivos. Globalmente, hay un esfuerzo mayor para usar los datos de los satélites para predecir el comienzo, declinación y dispersión de las enfermedades transmitidas por vectores. Los datos confiables basados en 
 el terreno son absolutamente esenciales para el desarrollo de modelos de computadora realistas basados en 
 datos de los satélites. En muchas partes del mundo, y especialmente en áreas donde la malaria es endémica, 
 suficientes datos basados en el terreno simplemente no están disponibles.
@@ -5033,9 +4845,7 @@ que la población local de mosquitos controla las enfermedades trasmitidas por m
 Los mosquitos requieren agua estancada para reproducirse. Desafortunadamente para los humanos, aun las 
 más pequeñas cantidades de agua (menos de 1 cm3) son suficientes. Aunque es imposible remover todos los 
 sitios de reproducción en áreas donde la malaria es endémica, en algunas situaciones es, sin embargo, un 
-objetivo razonable para los centros educativos GLOBE tomar el rol de liderazgo para reducir los sitios de repro-
-ducción locales minimizando el agua estancada. Simplemente juntando la basura y los contenedores descar-
-tados puede tener un impacto significativo en poblaciones de mosquitos locales. Por ejemplo, los neumáticos 
+objetivo razonable para los centros educativos GLOBE tomar el rol de liderazgo para reducir los sitios de reproducción locales minimizando el agua estancada. Simplemente juntando la basura y los contenedores descartados puede tener un impacto significativo en poblaciones de mosquitos locales. Por ejemplo, los neumáticos 
 descartados constituyen excelentes lugares para ciertas especies de mosquitos que prefieren sitios lejos de la 
 luz directa del Sol. La limpieza y cobertura de contenedores de agua en hogares o vecindarios ha demostrado 
 ser muy efectiva en la reducción de los números de larvas de mosquitos.
@@ -5049,31 +4859,23 @@ Z_GUIA GLOBE 5DIC 2018.indd   76 12/6/18   1:49 AM
 77
 
 Contenedores: puede decidir recoger muestras en contenedores dentro y alrededor de su centro de estudios 
-o casa. Los contenedores de interior se dividen en dos categorías: (1) dentro del baño donde puede haber ja-
-rros de arcilla pequeños o grandes, tanques de cemento o contenedores plásticos; y (2) fuera del baño donde 
-puede haber contenedores con agua, tales como barreras contra hormigas, floreros, platos bajo los refrige-
-radores, bandejas o macetas de plantas, recipiente con agua para mascotas, etc. Hay dos categorías para los 
+o casa. Los contenedores de interior se dividen en dos categorías: (1) dentro del baño donde puede haber jarros de arcilla pequeños o grandes, tanques de cemento o contenedores plásticos; y (2) fuera del baño donde 
+puede haber contenedores con agua, tales como barreras contra hormigas, floreros, platos bajo los refrigeradores, bandejas o macetas de plantas, recipiente con agua para mascotas, etc. Hay dos categorías para los 
 contenedores exteriores: (1) contenedores artificiales y (2) contenedores naturales. Ejemplos de contenedores 
-artificiales son jarros de barro chicos o grandes, tanques de cemento, recipientes plásticos o botellas, latas vie-
-jas, cajas de metal, platos o macetas de plantas, bateas de animales o neumáticos descartados. Los ejemplos 
+artificiales son jarros de barro chicos o grandes, tanques de cemento, recipientes plásticos o botellas, latas viejas, cajas de metal, platos o macetas de plantas, bateas de animales o neumáticos descartados. Los ejemplos 
 de contenedores naturales incluyen tallos de bromeliáceas, bananas, cáscaras de coco y huecos en los árboles. 
 Las larvas de mosquito se recogen de todos los contenedores exteriores dentro de los 15 m a la redonda de la 
 casa o institución educativa. 
-No-contenedores: para la segunda aproximación, puede decidir muestrear hábitats naturales en su comuni-
-dad. Puede muestrear alrededor de su casa o más lejos. Estos hábitats incluyen estanques, arroyos, pantanos, 
+No-contenedores: para la segunda aproximación, puede decidir muestrear hábitats naturales en su comunidad. Puede muestrear alrededor de su casa o más lejos. Estos hábitats incluyen estanques, arroyos, pantanos, 
 charcos a lo largo de las calles o en patios, o áreas agrícolas (ejemplo, campos de arroz). Estos son lugares 
 donde no puede levantar el recipiente y volcar el agua en una red o contenedor. Si está usando un escenario 
-de muestreo repetido, encuentre un sitio que sea fácil de acceder para los estudiantes. El sitio debería ser sufi-
-cientemente grande para que no se seque rápidamente y se pueda muestrear mensualmente.
+de muestreo repetido, encuentre un sitio que sea fácil de acceder para los estudiantes. El sitio debería ser suficientemente grande para que no se seque rápidamente y se pueda muestrear mensualmente.
 Definición de sitio y mapeo: si está muestreando recipientes dentro y fuera de su centro de estudios o casa, 
 entonces necesita suministrar la ubicación de su colegio o casa, debes usar un GPS de tu móvil o tablet.
-Si está muestreando un sitio no-contenedor (ejemplo, estanque o arroyo), necesitará completar la hoja de defi-
-nición de sitio. Si se están muestreando múltiples sitios en su localidad, cada lugar requiere una única definición 
+Si está muestreando un sitio no-contenedor (ejemplo, estanque o arroyo), necesitará completar la hoja de definición de sitio. Si se están muestreando múltiples sitios en su localidad, cada lugar requiere una única definición 
 de sitio completada.
-Cuándo realizar el muestreo: necesitará trabajar con sus estudiantes para identificar una estrategia de mues-
-treo basada en los tipos de preguntas de investigación que formulan los estudiantes, los tipos de equipo que 
-tenga disponibles y los tipos de estaciones que tenga en su ubicación. Además, necesitará tomar en considera-
-ción la logística de tener estudiantes recolectando larvas de mosquito.
+Cuándo realizar el muestreo: necesitará trabajar con sus estudiantes para identificar una estrategia de muestreo basada en los tipos de preguntas de investigación que formulan los estudiantes, los tipos de equipo que 
+tenga disponibles y los tipos de estaciones que tenga en su ubicación. Además, necesitará tomar en consideración la logística de tener estudiantes recolectando larvas de mosquito.
 
 Enfoques de muestreo sugeridos:
 1. Identificar uno o más sitios y muestrear una vez al mes a lo largo del año o durante la estación lluviosa y a
@@ -5087,8 +4889,7 @@ de la estación lluviosa, mientras hay aún agua disponible para reproducirse.
 
 Protocolo de la larva de mosquito
 https://www.globe.gov/documents/11865/354447/Protocolo+
-de+la+Larva+del+Mosquito+-+Gu%C3%ADa+Campo/29779b07-
-be29-4883-b8b1-b92cfa4e1bac
+de+la+Larva+del+Mosquito+-+Gu%C3%ADa+Campo/29779b07be29-4883-b8b1-b92cfa4e1bac
 
 Z_GUIA GLOBE 5DIC 2018.indd   77 12/6/18   1:49 AM
 
@@ -5125,14 +4926,12 @@ alta. El hecho de hacerlos trabajar en equipo hará que la colecta de muestras, 
 sea más rápida. Asegúrese de que haya suficientes sets de equipo para cada grupo (ejemplo, redes, bolsas 
 plásticas, bandejas, y claves de identificación de la larva del mosquito).
 Las tareas que requieren más tiempo son la clasificación e identificación de larvas de mosquito. Para ahorrar 
-tiempo, puede separar a los estudiantes en dos equipos. Los del equipo 1 hacen la clasificación, conteo e iden-
-tificación de la larva del mosquito usando la guía de campo de clasificación, conteo e identificación de larva del 
+tiempo, puede separar a los estudiantes en dos equipos. Los del equipo 1 hacen la clasificación, conteo e identificación de la larva del mosquito usando la guía de campo de clasificación, conteo e identificación de larva del 
 mosquito. Los estudiantes del equipo 2 pueden estar recogiendo una segunda muestra.
 Después de que los estudiantes hayan recogido las larvas de mosquito, los docentes pueden revisar los jarros 
 de larvas de mosquito para verificar que los estudiantes las hayan identificado correctamente. Si no, reúna a los 
 estudiantes para discutir las diferencias del modo de identificar el género o especie del mosquito correctamente.
-Luego que las larvas de mosquito recolectadas por los equipos sean clasificadas y combinadas de jarros diferen-
-tes para cada género o especie, haga a un grupo de estudiantes y usted mismo mire las larvas para asegurarse 
+Luego que las larvas de mosquito recolectadas por los equipos sean clasificadas y combinadas de jarros diferentes para cada género o especie, haga a un grupo de estudiantes y usted mismo mire las larvas para asegurarse 
 de que todas concuerdan con la identificación del mosquito. Luego, cuente las larvas de mosquito y registre los 
 datos en una hoja de datos.
 
@@ -5220,8 +5019,7 @@ predominante, basando tu criterio en el mayor porcentaje de cobertura del cielo 
 foto. Revisa tus clasificaciones por cada una de las diez fotos y regístralas en la columna de clasificación de 
 estudiantes.
 
-Nota: no siempre los tipos de nubes encajan en estas tres categorías básicas. En este ejercicio, primero usa so-
-lamente el esquema de clasificación simplificado. Para practicar con seriedad, corta y dobla o tapa el recuadro 
+Nota: no siempre los tipos de nubes encajan en estas tres categorías básicas. En este ejercicio, primero usa solamente el esquema de clasificación simplificado. Para practicar con seriedad, corta y dobla o tapa el recuadro 
 de hoja de validación de clasificación de nubes de la siguiente hoja.
 
 4. Cuando termine tu reconocimiento, debes registrar los datos de validación de cada foto en la columna de 
@@ -5335,8 +5133,7 @@ Anexo 3
 Investigación de cobertura terrestre
 
 Clinómetro
-Un clinómetro es un instrumento que sirve para medir ángulos. En GLOBE, se utiliza para hallar el ángulo ne-
-cesario que permitirá medir la altura de los árboles. También para determinar obstáculos en el sitio de estudio 
+Un clinómetro es un instrumento que sirve para medir ángulos. En GLOBE, se utiliza para hallar el ángulo necesario que permitirá medir la altura de los árboles. También para determinar obstáculos en el sitio de estudio 
 de atmósfera. Los cálculos corresponden a la aplicación de los principios basados en las propiedades de los 
 triángulos rectángulos. Se construirá y utilizará el clinómetro siguiendo las instrucciones y fórmulas siguientes.
 
@@ -7473,12 +7270,9 @@ Guía de actividad y hoja de trabajo
 
 Nombre del estudiante: _______________________________________ Equipo: _______________________
 
-En el ciclo hidrológico, el movimiento del agua (precipitaciones, aguas superficiales, aguas subterráneas) ero-
-siona constantemente los continentes. Parte del material erosionado es transportado por los ríos a los océanos, 
+En el ciclo hidrológico, el movimiento del agua (precipitaciones, aguas superficiales, aguas subterráneas) erosiona constantemente los continentes. Parte del material erosionado es transportado por los ríos a los océanos, 
 como sólidos en suspensión (por ejemplo, arena, arcilla y limo) o como sustancias disueltas (por ejemplo, sales). 
-Pueden considerarse contaminantes naturales y pueden variar desde calizas disueltas (carbonato cálcico) a mine-
-rales disueltos que contienen metales pesados, tales como plomo, cadmio y zinc. Otras sustancias son introduci-
-das en el sistema hidrológico a través de la actividad humana. Petróleo, aguas residuales, fertilizantes químicos 
+Pueden considerarse contaminantes naturales y pueden variar desde calizas disueltas (carbonato cálcico) a minerales disueltos que contienen metales pesados, tales como plomo, cadmio y zinc. Otras sustancias son introducidas en el sistema hidrológico a través de la actividad humana. Petróleo, aguas residuales, fertilizantes químicos 
 y pesticidas son algunos ejemplos. Una vez que estos materiales están en el agua, todas las formas de vida que 
 usan esa agua son objeto de los efectos de esas sustancias.
 
@@ -7989,8 +7783,7 @@ Webgrafía
 • GLOBE Perú 
  https://globeperu.wordpress.com/ 
 • Guía del maestro GLOBE 
- https://www.globe.gov/es/do-globe/translated-material/espanol-spanish-
-• LA NASA 
+ https://www.globe.gov/es/do-globe/translated-material/espanol-spanish• LA NASA 
  https://www.nasa.gov/about/highlights/En_Espanol.html
 • Mosquito! guía de investigación comunitaria
  https://learninglab.si.edu/collections/mosquito-module-espaol/Muocf4JnVvJR6T5b
@@ -8124,8 +7917,7 @@ gravemente su orden democrático, cualquier Estado Miembro o el Secretario Gener
 convocatoria inmediata del Consejo Permanente para realizar una apreciación colectiva de la situación y 
 adoptar las decisiones que estime conveniente. 
 El Consejo Permanente, según la situación, podrá disponer la realización de las gestiones diplomáticas 
-necesarias, incluidos los buenos oficios, para promover la normalización de la institucionalidad democráti-
-ca.
+necesarias, incluidos los buenos oficios, para promover la normalización de la institucionalidad democrática.
 Si las gestiones diplomáticas resultaren infructuosas o si la urgencia del caso lo aconsejare, el Consejo 
 Permanente convocará de inmediato un período extraordinario de sesiones de la Asamblea General para 
 que ésta adopte las decisiones que estime apropiadas, incluyendo gestiones diplomáticas, conforme a la 
@@ -8219,8 +8011,7 @@ bi
 en
 ta
 
-l -
- G
+l  G
 
 lo
 be

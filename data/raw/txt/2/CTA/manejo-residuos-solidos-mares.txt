@@ -176,8 +176,7 @@ forman una capa sobre el planeta. Esta acumulación de gases evita que el calor 
 permite mantener niveles de temperatura favorable. Sin este efecto, la vida en la Tierra sería poco probable.
 
 Los gases de efecto invernadero (GEI) son variados. Además del CO2 y el vapor de agua (H2O), están el 
-óxido nitroso (N20), el metano (CH4), entre otros. Estos gases son los responsables de absorber y alma-
-cenar parte de la radiación infrarroja emitida por la Tierra, con lo que se produce un calentamiento de 
+óxido nitroso (N20), el metano (CH4), entre otros. Estos gases son los responsables de absorber y almacenar parte de la radiación infrarroja emitida por la Tierra, con lo que se produce un calentamiento de 
 la superficie terrestre. De esta manera, la energía solar que recibe nuestro planeta durante el día no se 
 pierde por completo.
 
@@ -1705,23 +1704,19 @@ Z_GUIA MARES 4DIC 2018.indd   10 12/5/18   1:19 AM
 11
 
 ¿Qué son los gases de efecto invernadero?
-Son los gases cuya presencia en la atmósfera contribuye al efecto invernadero. Los GEI son escasos, represen-
-tan menos del 1 % de la atmósfera. Sus concentraciones atmosféricas resultan del balance entre sus fuentes 
+Son los gases cuya presencia en la atmósfera contribuye al efecto invernadero. Los GEI son escasos, representan menos del 1 % de la atmósfera. Sus concentraciones atmosféricas resultan del balance entre sus fuentes 
 (naturales y artificiales) y sus sumideros (procesos responsables de la destrucción o secuestro de estos gases)3.
 
 Las emisiones de GEI en el Perú
-De acuerdo a estudios comparativos de los informes de actualización de Perú a la Convención Marco de las Na-
-ciones Unidas sobre el Cambio Climático elaborado por el Ministerio del Ambiente del Perú, se puede destacar 
+De acuerdo a estudios comparativos de los informes de actualización de Perú a la Convención Marco de las Naciones Unidas sobre el Cambio Climático elaborado por el Ministerio del Ambiente del Perú, se puede destacar 
 que en los últimos años las emisiones de estos gases han aumentado debido principalmente al crecimiento 
 poblacional y de la economía.
 
-En términos cuantitativos, el mayor incremento entre el inventario de 1994 y el de 2010 se ha dado en el sec-
-tor energía, seguido por agricultura; y en términos cualitativos, el sector que ha crecido más es el de desechos 
+En términos cuantitativos, el mayor incremento entre el inventario de 1994 y el de 2010 se ha dado en el sector energía, seguido por agricultura; y en términos cualitativos, el sector que ha crecido más es el de desechos 
 (180 %), seguido por el de energía (83 %).
 
 De acuerdo al Sistema de Estimaciones de Emisiones de Gases de Efecto Invernadero (SEEG Perú), entre los 
-años 1990 y 2013, las emisiones de GEI por residuos sólidos corresponden a un 5,7 %, de los cuales el 70,1 % es, prin-
-cipalmente, por las emisiones de metano (CH4) y óxido de nitrógeno (N2O) provenientes de los rellenos sanitarios.
+años 1990 y 2013, las emisiones de GEI por residuos sólidos corresponden a un 5,7 %, de los cuales el 70,1 % es, principalmente, por las emisiones de metano (CH4) y óxido de nitrógeno (N2O) provenientes de los rellenos sanitarios.
 
 1.1.2 El calentamiento global y el cambio climático
 
@@ -1765,9 +1760,7 @@ or
 g/
 
 w
-p-
-
-co
+pco
 nt
 
 en
@@ -1823,8 +1816,7 @@ Z_GUIA MARES 4DIC 2018.indd   11 12/5/18   1:19 AM
 
 ¿Qué es el calentamiento global?
 
-El calentamiento global es el incremento de la temperatura media del planeta, de manera sostenida, en un pe-
-riodo dado. Veamos, a modo de ejemplo, cómo ha sido el comportamiento de la temperatura en algunas épocas:
+El calentamiento global es el incremento de la temperatura media del planeta, de manera sostenida, en un periodo dado. Veamos, a modo de ejemplo, cómo ha sido el comportamiento de la temperatura en algunas épocas:
 
 • La temperatura media entre 1850 y 1990 subió 1 °C.
 
@@ -1839,8 +1831,7 @@ mencionado también, este incremento se debe a las actividades humanas.
 
 Consecuencias del calentamiento global
 
-El calentamiento global afecta el equilibrio de los ecosistemas. Aunque las consecuencias aún no han sido me-
-didas en su verdadera dimensión, ya se tienen reportes de los graves daños que causan.
+El calentamiento global afecta el equilibrio de los ecosistemas. Aunque las consecuencias aún no han sido medidas en su verdadera dimensión, ya se tienen reportes de los graves daños que causan.
 
 Entre los efectos más significativos tenemos:
 
@@ -1851,9 +1842,7 @@ Entre los efectos más significativos tenemos:
 • Incremento de la desertificación.
 • Escasez de agua.
 • Inestabilidad atmosférica (huracanes, incendios, etc.).
-• Cambios en las producciones agrarias. Algunos cultivos dejarán de ser rentables, mientras que otros inicia-
-
-rán su producción donde antes no era posible.
+• Cambios en las producciones agrarias. Algunos cultivos dejarán de ser rentables, mientras que otros iniciarán su producción donde antes no era posible.
 • Nuevos desafíos en la salud, aparición de enfermedades tropicales en lugares en los que antes no ocurrían. 
 • Pérdida de biodiversidad, con la consiguiente mengua de riqueza agraria, forestal y ambiental.
 • Desplazamiento de poblaciones, que huyen de lugares cada vez más inhóspitos o de catástrofes naturales,
@@ -2000,8 +1989,7 @@ y generacambios en el clima
 
 * Según la Convención Marco de 
 las Naciones Unidas sobre el 
-Cambio Climá�co (CMNUCC).-
-Fuente:  El cambio climá�co nos 
+Cambio Climá�co (CMNUCC).Fuente:  El cambio climá�co nos 
 afecta a todos. MINAM.
 
 Z_GUIA MARES 4DIC 2018.indd   14 12/5/18   1:19 AM
@@ -2115,8 +2103,7 @@ Revisemos, ¿qué pasa en el
 
 Perú con el cambio climático?
 
-Aunque el cambio climático es un fenómeno que afecta a todo el planeta, sus impactos se presentan con varia-
-ciones de acuerdo con las características de cada región.
+Aunque el cambio climático es un fenómeno que afecta a todo el planeta, sus impactos se presentan con variaciones de acuerdo con las características de cada región.
 
 Efectos del cambio climático en el Perú
 
@@ -2454,8 +2441,7 @@ riesgos del cambio climático.
 
 ¿Qué es vulnerabilidad?
 
-Según el Grupo Intergubernamental de Expertos sobre Cambio Climático (IPCC, 2002), vulnerabilidad es el gra-
-do de susceptibilidad o incapacidad de un sistema para afrontar los efectos adversos ante el cambio climático. 
+Según el Grupo Intergubernamental de Expertos sobre Cambio Climático (IPCC, 2002), vulnerabilidad es el grado de susceptibilidad o incapacidad de un sistema para afrontar los efectos adversos ante el cambio climático. 
 Dependerá del carácter, la magnitud y la rapidez del cambio al que esté expuesto un sistema, así como de su 
 sensibilidad y capacidad adaptativa. En los asentamientos humanos, la población más vulnerable o sensible 
 a los efectos negativos del cambio climático son los adultos mayores, las mujeres, los niños y la población de 
@@ -2467,8 +2453,7 @@ Se entiende por adaptación al cambio climático el ajuste o “acomodo” de lo
 como respuesta a entornos nuevos o cambiantes, a los efectos climáticos proyectados o reales que pueden 
 frenar el daño o aprovechar sus aspectos beneficiosos (IPCC. Glosario de términos, 2011).
 
-La adaptación implica un proceso de adecuación, sostenible y permanente, en respuesta a circunstancias am-
-bientales nuevas y cambiantes, e implica modificar consecuentemente el comportamiento, los medios de vida, 
+La adaptación implica un proceso de adecuación, sostenible y permanente, en respuesta a circunstancias ambientales nuevas y cambiantes, e implica modificar consecuentemente el comportamiento, los medios de vida, 
 la infraestructura, las leyes, las políticas e instituciones en respuesta a los eventos climáticos experimentados o 
 esperados (Ministerio del Ambiente, 2010a).
 
@@ -2768,8 +2753,7 @@ la “resiliencia”.
 
 Algunos alcances para construir el proceso de resiliencia
 
-Las niñas, los niños y los adolescentes tienen derecho a ser protegidos y a participar en las decisiones que afec-
-tan sus vidas. También tienen la capacidad de ser defensores influyentes y dinámicos de la reducción del riesgo 
+Las niñas, los niños y los adolescentes tienen derecho a ser protegidos y a participar en las decisiones que afectan sus vidas. También tienen la capacidad de ser defensores influyentes y dinámicos de la reducción del riesgo 
 de desastres y la adaptación al cambio climático en sus familias, escuelas y comunidades. A ellos y ellas se les 
 debe alentar a participar en intervenciones dirigidas a la construcción de resiliencia5.
 A continuación, se proponen algunas formas y estrategias para promover el desarrollo de la resiliencia en tus 
@@ -2902,8 +2886,7 @@ y guías internacionales, las cuales tienen como objetivo dar credibilidad y ase
 emisión de GEI.
 
 El cálculo de la HC constituye también una estrategia para trabajar con los estudiantes. Tiene la intención de 
-que reflexionen y asuman un cambio de actitud y de comportamiento en lo que se refiere al cuidado del am-
-biente. Permite, a partir de su cuantificación, reflexionar sobre el CO
+que reflexionen y asuman un cambio de actitud y de comportamiento en lo que se refiere al cuidado del ambiente. Permite, a partir de su cuantificación, reflexionar sobre el CO
 
 2
  que emiten a la atmósfera a través de sus
@@ -2914,16 +2897,13 @@ residuos y otros.
 1.2  LA EDUCACIÓN AMBIENTAL: UNA RESPUESTA AL CAMBIO CLIMÁTICO
 
 Uno de los problemas más relevantes que vivimos en los últimos tiempos en relación con la naturaleza es el 
-cambio climático global. Hoy más que nunca se puede evidenciar que se han traspasado los límites de la na-
-turaleza con nuestro accionar. Por ello, es necesario ejecutar prácticas educativas que nos ayuden a generar 
+cambio climático global. Hoy más que nunca se puede evidenciar que se han traspasado los límites de la naturaleza con nuestro accionar. Por ello, es necesario ejecutar prácticas educativas que nos ayuden a generar 
 espacios de reflexión-acción para colaborar con el ambiente.
 
-En el “Manifiesto por una Educación para una Ciudadanía Planetaria (COP 21)”, se nos plantea como reto pen-
-sar en el tipo de ciudadano, ciudadana y sociedad que estamos formando para el mañana. ¿Qué jóvenes le 
+En el “Manifiesto por una Educación para una Ciudadanía Planetaria (COP 21)”, se nos plantea como reto pensar en el tipo de ciudadano, ciudadana y sociedad que estamos formando para el mañana. ¿Qué jóvenes le 
 dejaremos a nuestra Tierra?, pregunta oportuna para reflexionar en nuestra tarea educativa.
 
-La educación tiene que caminar hacia la mejor convivencia, restituyendo la comprensión del valor de la natu-
-raleza, de manera que la educación ambiental sea, realmente, el puente para el inicio de la transición hacia el 
+La educación tiene que caminar hacia la mejor convivencia, restituyendo la comprensión del valor de la naturaleza, de manera que la educación ambiental sea, realmente, el puente para el inicio de la transición hacia el 
 desarrollo sostenible.
 
 Z_GUIA MARES 4DIC 2018.indd   22 12/5/18   1:19 AM
@@ -2939,8 +2919,7 @@ venideras. Lo que implica conocer la capacidad de reposición del planeta y usar
 naturales, con nuevos hábitos, costumbres y tecnologías que den paso a la construcción de un desarrollo 
 que garantice el respeto a los límites de la Madre Tierra y la mejora de las condiciones de vida de los más 
 pobres, procurando la continuidad de la vida en nuestro planeta.
-La Política Nacional de Educación Ambiental (PNEA) define al desarrollo sostenible como aquel que satis-
-face las necesidades del presente sin comprometer las necesidades de las generaciones futuras. En ese 
+La Política Nacional de Educación Ambiental (PNEA) define al desarrollo sostenible como aquel que satisface las necesidades del presente sin comprometer las necesidades de las generaciones futuras. En ese 
 contexto, el futuro de las personas, de la biodiversidad, del agua, del aire o de la vida misma dependerá de 
 las condiciones de sostenibilidad que aseguremos hoy. Esta realidad nos reta a cambios en la manera de 
 pensar y actuar.
@@ -2966,8 +2945,7 @@ cuidado y conservación del entorno natural como garantía para el desenvolvimie
 
 La sostenibilidad es el eje medular del 
 desarrollo. Se refiere a la existencia de 
-condiciones ecológicas, sociales y eco-
-nómicas que permitan hacer posible la
+condiciones ecológicas, sociales y económicas que permitan hacer posible la
 
 vida de la biósfera.
 
@@ -2975,8 +2953,7 @@ Características del desarrollo sostenible
 
 La sostenibilidad es el eje medular del 
 desarrollo. Se refiere a la existencia de 
-condiciones ecológicas, sociales y eco-
-nómicas que permitan hacer posible la
+condiciones ecológicas, sociales y económicas que permitan hacer posible la
 
 Social Económico
 
@@ -3020,17 +2997,14 @@ y futuros, basados en el respeto de la herencia recibida de las pasadas generaci
 El enfoque ambiental es una conceptualización acerca de la relación existente entre la sociedad, su entorno 
 y la cultura8.
 
-El enfoque ambiental es una manera de ver la vida, en este caso, desde el uso sostenible de los recursos natu-
-rales. Busca instalar en las personas el respeto, el cuidado por la naturaleza y el uso racional de los recursos.
+El enfoque ambiental es una manera de ver la vida, en este caso, desde el uso sostenible de los recursos naturales. Busca instalar en las personas el respeto, el cuidado por la naturaleza y el uso racional de los recursos.
 
-Asimismo, implica el desarrollo permanente de la conciencia crítica sobre la problemática ambiental y la con-
-dición del cambio climático a nivel local y global, así como su relación con la salud, la pobreza, la desigualdad 
+Asimismo, implica el desarrollo permanente de la conciencia crítica sobre la problemática ambiental y la condición del cambio climático a nivel local y global, así como su relación con la salud, la pobreza, la desigualdad 
 social, la migración, los conflictos, la seguridad alimentaria, la pérdida de biodiversidad, el agotamiento de los 
 recursos naturales, entre otros (Minedu, 2016).
 
 Toda vez que constituye un accionar educativo, plantea algunos desafíos para la implementación, planificación, 
-ejecución y evaluación de los procesos de enseñanza y aprendizaje, al incorporar los enfoques o perspectivas trans-
-versales que se articulan con los principios de la educación peruana que son la base de la construcción curricular.
+ejecución y evaluación de los procesos de enseñanza y aprendizaje, al incorporar los enfoques o perspectivas transversales que se articulan con los principios de la educación peruana que son la base de la construcción curricular.
 
 ¿Cómo implementar el enfoque ambiental en la gestión escolar?
 
@@ -3044,8 +3018,7 @@ Z_GUIA MARES 4DIC 2018.indd   24 12/5/18   1:19 AM
 
 Los Proyectos Educativos Ambientales Integrados (PEAI)
 
-El enfoque ambiental se implementa desde los proyectos educativos ambientales integrados (PEAI), las unida-
-des didácticas y las sesiones de aprendizaje (en el entendido de que las unidades y sesiones están referidas a 
+El enfoque ambiental se implementa desde los proyectos educativos ambientales integrados (PEAI), las unidades didácticas y las sesiones de aprendizaje (en el entendido de que las unidades y sesiones están referidas a 
 los problemas ambientales), lo cual promueve la participación activa de los diversos actores de la escuela para 
 lograr una “Institución educativa para el desarrollo sostenible”.
 
@@ -3300,11 +3273,8 @@ Z_GUIA MARES 4DIC 2018.indd   26 12/5/18   1:19 AM
 Manejo de residuos sólidos en las II. EE. – MARES. A nivel nacional, generamos cerca de 19 000 toneladas 
 por día de residuos municipales: cada peruano produce en promedio ½ kilo de residuos al día. Este volumen 
 es bajo en comparación con otros países, pero el gran problema es que menos del 50 % de estos residuos se 
-disponen en forma segura en los rellenos sanitarios: en muchos casos, sobre todo en nuestras provincias, ter-
-minan en las calles, los botaderos, los ríos, el mar, causando graves problemas de contaminación.
-Actualmente, contamos con solo 34 rellenos sanitarios en todo el país, en 15 regiones. Esta situación represen-
-ta un problema ambiental significativo, para cuya atención se requiere me jorar el manejo de los residuos sóli-
-dos. Y dado que la comunidad educativa se ve afectada por la presencia de estos residuos al interior y exterior 
+disponen en forma segura en los rellenos sanitarios: en muchos casos, sobre todo en nuestras provincias, terminan en las calles, los botaderos, los ríos, el mar, causando graves problemas de contaminación.
+Actualmente, contamos con solo 34 rellenos sanitarios en todo el país, en 15 regiones. Esta situación representa un problema ambiental significativo, para cuya atención se requiere me jorar el manejo de los residuos sólidos. Y dado que la comunidad educativa se ve afectada por la presencia de estos residuos al interior y exterior 
 de las II. EE., desde MARES se pretende formar a los estudiantes en la responsabilidad de conocer y aplicar las 
 3 R: reducir, reutilizar y reciclar, hacia una cultura ciudadana ambiental. Es un recurso pedagógico que contribuye 
 a la gestión adecuada de los residuos sólidos que se producen en las II. EE., con el propósito de la formación de 
@@ -3315,12 +3285,9 @@ Vida y Verde – ViVe. A través de este PEAI, se propone fortalecer la valoraci
 protegidas (ANP)9  como recurso pedagógico y contribuir al logro de los siguientes objetivos consignados en la 
 Ley N.° 26834, Ley de Áreas Naturales Protegidas:
 
-Propiciar oportunidades para el desarrollo de la investi-
-gación científica.
+Propiciar oportunidades para el desarrollo de la investigación científica.
 
-Propiciar oportunidades para la recreación y el esparci-
-miento al aire libre, así como para un desarrollo turís-
-tico basado en las características naturales y culturales 
+Propiciar oportunidades para la recreación y el esparcimiento al aire libre, así como para un desarrollo turístico basado en las características naturales y culturales 
 del país.
 
 Mantener el entorno natural de los recursos culturales, 
@@ -3329,8 +3296,7 @@ arqueológicos e históricos ubicados en su interior.
 Restaurar ecosistemas deteriorados. 
  La educación en ecoturismo, vivencial y de aventura es
 
-también una propuesta de ViVe. Se espera que las re-
-giones diseñen y presenten los PEAI de la localidad.
+también una propuesta de ViVe. Se espera que las regiones diseñen y presenten los PEAI de la localidad.
 
 9 Las ANP son los espacios continentales y/o marinos del territorio nacional, expresamente reconocidos y declarados como tales, 
 incluyendo sus categorías y zonificaciones, para conservar la diversidad biológica y demás valores asociados de interés cultural, 
@@ -3384,25 +3350,19 @@ y equidad integral, justicia y solidaridad, respeto a toda forma de vida
 
 Mido y reduzco mi huella de carbono y la de mi cole. Este PEAI busca 
 en los estudiantes la reflexión crítica y la toma de conciencia del impacto de 
-sus acciones y estilo de vida en el nivel de emisiones de gases de efecto in-
-vernadero (GEI), así como en la reducción del impacto de estas emisiones, a 
+sus acciones y estilo de vida en el nivel de emisiones de gases de efecto invernadero (GEI), así como en la reducción del impacto de estas emisiones, a 
 través de la medición de la huella de carbono de sí mismos, en la institución 
 educativa y en la familia.
 
-Fomenta prácticas sostenibles para hacer frente al cambio climático y con-
-tribuir en la construcción de una sociedad baja en carbono, acorde con la 
+Fomenta prácticas sostenibles para hacer frente al cambio climático y contribuir en la construcción de una sociedad baja en carbono, acorde con la 
 propuesta de “Instituciones educativas para el desarrollo sostenible”.
 
 Espacio de Vida (EsVi)10. Orientado a la creación, recuperación 
-o aprovechamiento de espacios baldíos o áreas verdes disponi-
-bles en una institución educativa o fuera de ella. 
-Es una propuesta integradora, pues, además de permitir culti-
-var plantas o criar animales, posibilita poner en práctica saberes 
-culturales que contribuyan a la recuperación de especies diver-
-sas y aporten a la conservación de la biodiversidad local (flora, 
+o aprovechamiento de espacios baldíos o áreas verdes disponibles en una institución educativa o fuera de ella. 
+Es una propuesta integradora, pues, además de permitir cultivar plantas o criar animales, posibilita poner en práctica saberes 
+culturales que contribuyan a la recuperación de especies diversas y aporten a la conservación de la biodiversidad local (flora, 
 fauna). Estas son algunas razones por las que es importante la 
-protección y aumento de los servicios provenientes de los ecosis-
-temas11, indispensables para sostener la vida en nuestro planeta 
+protección y aumento de los servicios provenientes de los ecosistemas11, indispensables para sostener la vida en nuestro planeta 
 y reducir vulnerabilidades asociadas al cambio climático.
 
 Z_GUIA MARES 4DIC 2018.indd   28 12/5/18   1:20 AM
@@ -3427,27 +3387,21 @@ indirecta, por un individuo, actividad, organización o producto en un periodo d
 Mitigación. Medidas para reducir las emisiones de gases de efecto invernadero por fuente y/o 
 para incrementar la eliminación de carbono mediante sumideros.
 
-PLANEA. Es un instrumento de gestión que permite establecer acciones específicas, respon-
-sabilidades y metas para la implementación de la Política Nacional de Educación Ambiental. El 
+PLANEA. Es un instrumento de gestión que permite establecer acciones específicas, responsabilidades y metas para la implementación de la Política Nacional de Educación Ambiental. El 
 PLANEA centra sus esfuerzos en desarrollar una educación ambiental que tiene como punto de 
 partida el reconocimiento del ambiente como una realidad inseparable de los individuos, sus 
-sociedades, economía y culturas. Con tal fin, incorpora la relación ambiente y desarrollo y bus-
-ca lograr el cambio hacia una sociedad solidaria, democrática y justa, en el cual el crecimiento 
+sociedades, economía y culturas. Con tal fin, incorpora la relación ambiente y desarrollo y busca lograr el cambio hacia una sociedad solidaria, democrática y justa, en el cual el crecimiento 
 económico se alcance respetando el patrimonio natural y cultural del país por medio de la 
 activa participación de la población en los procesos de gestión ambiental gracias a la existencia 
 de los ciudadanos y ciudadanas conscientes de sus deberes y derechos ambientales.
 
-Riesgo. Condición de la naturaleza, proceso o acontecimiento potencial que implica una ame-
-naza a la salud, seguridad o bienestar de las poblaciones, las actividades o la economía de una 
+Riesgo. Condición de la naturaleza, proceso o acontecimiento potencial que implica una amenaza a la salud, seguridad o bienestar de las poblaciones, las actividades o la economía de una 
 comunidad o diversas entidades gubernamentales. También se puede definir como el producto 
 de tres factores: el peligro, la vulnerabilidad y la magnitud de los daños.
 
-Saberes ancestrales. Acumulación de un sistema complejo de conocimiento de saberes, prác-
-ticas y representaciones que son mantenidas y desarrolladas por la gente a lo largo de la histo-
-ria en su interactuar con su medio ambiente (natural y social).
+Saberes ancestrales. Acumulación de un sistema complejo de conocimiento de saberes, prácticas y representaciones que son mantenidas y desarrolladas por la gente a lo largo de la historia en su interactuar con su medio ambiente (natural y social).
 
-Variabilidad climática. Se refiere a las variaciones de los elementos climáticos, como tempera-
-tura o lluvia, con respecto a su estado medio y observado durante periodos cortos de tiempo.
+Variabilidad climática. Se refiere a las variaciones de los elementos climáticos, como temperatura o lluvia, con respecto a su estado medio y observado durante periodos cortos de tiempo.
 
 Vulnerabilidad. Potencial de un sistema a sufrir daños a causa del cambio climático, teniendo 
 en cuenta las repercusiones de este en el sistema, así como su capacidad de adaptarse.
@@ -3471,11 +3425,9 @@ Z_GUIA MARES 4DIC 2018.indd   30 12/5/18   1:20 AM
 
 2.1.1 ¿Qué son los residuos sólidos?
 
-Es cualquier objeto, material, sustancia o elemento resultante del con-
-sumo o uso de un bien o servicio, del cual su poseedor se desprenda 
+Es cualquier objeto, material, sustancia o elemento resultante del consumo o uso de un bien o servicio, del cual su poseedor se desprenda 
 o tenga la intención u obligación de desprenderse, para ser manejados 
-priorizando la valorización de los residuos y, en último caso, su disposi-
-ción final12.
+priorizando la valorización de los residuos y, en último caso, su disposición final12.
 
 Para Montes (2009), los residuos sólidos pueden ser definidos como “aquellos materiales orgánicos e inorgánicos de 
 naturaleza compacta que han sido desechados luego de consumir su parte vital”. Asimismo, explica que “el concepto 
@@ -3486,9 +3438,7 @@ La forma en la que nos deshacemos de lo que no nos sirve o no necesitamos hace l
 “basura” o segregar “residuos sólidos”. Por ejemplo, cuando ponemos en un solo tacho los desperdicios de 
 comida, papel, latas, envases de plástico, pilas, etc., generamos “basura”; pero cuando los clasificamos, no.
 
-En consecuencia, basura es “la mezcla de dos o más desperdicios que, revueltos entre sí, provocan contami-
-nación y pérdida de recursos naturales”. En cambio, residuo es todo material de desecho que puede ser reuti-
-lizado o reciclado.
+En consecuencia, basura es “la mezcla de dos o más desperdicios que, revueltos entre sí, provocan contaminación y pérdida de recursos naturales”. En cambio, residuo es todo material de desecho que puede ser reutilizado o reciclado.
 
 Es importante entender esta diferencia para segregar los residuos de manera más adecuada y colaborar con la 
 protección del ambiente.
@@ -3536,8 +3486,7 @@ manejo que
 reciben
 
 Estos pueden ser no peligrosos y peligrosos. Son residuos sólidos peligrosos 
-aquellos que por sus características o el manejo al que son o van a ser someti-
-dos representan un riesgo significativo para la salud o el ambiente; pueden ser 
+aquellos que por sus características o el manejo al que son o van a ser sometidos representan un riesgo significativo para la salud o el ambiente; pueden ser 
 generados en las casas, instituciones educativas y, en mayor magnitud, en los 
 centros de salud. Ejemplo: pilas, baterías, medicamentos y aceites.  
 Se considerarán peligrosos los que presenten por lo menos una de las siguientes 
@@ -3549,31 +3498,24 @@ naturaleza
 
 Según su 
 potencial de 
-reaprovecha-
-miento
+reaprovechamiento
 
-Orgánicos: aquellos que tienen la característica de poder desintegrarse o de-
-gradarse rápidamente, transformándose en otro tipo de materia orgánica; son 
+Orgánicos: aquellos que tienen la característica de poder desintegrarse o degradarse rápidamente, transformándose en otro tipo de materia orgánica; son 
 biodegradables (se descomponen naturalmente). Ejemplo: restos de comida, de 
 frutas, de verduras, de carne, etc.
 
-Inorgánicos: aquellos que por sus características químicas sufren una descom-
-posición natural muy lenta. Pueden ser de origen natural, pero no son biode-
-gradables. Ejemplo: envases de plástico, latas, vidrios, etc. En muchos casos, es 
+Inorgánicos: aquellos que por sus características químicas sufren una descomposición natural muy lenta. Pueden ser de origen natural, pero no son biodegradables. Ejemplo: envases de plástico, latas, vidrios, etc. En muchos casos, es 
 imposible su transformación o reciclaje; esto ocurre con el tecnopor y las pilas, 
 que son residuos peligrosos y contaminantes.
 
-Reaprovechables: aquellos que pueden ser reutilizados en un proceso produc-
-tivo y tienen valor comercial. Ejemplo: papel, cartón, vidrio, plásticos, metales, 
+Reaprovechables: aquellos que pueden ser reutilizados en un proceso productivo y tienen valor comercial. Ejemplo: papel, cartón, vidrio, plásticos, metales, 
 electrodomésticos, ropa usada, cáscaras, restos de alimentos, aceite quemado.
 
 No aprovechables: es todo material o sustancia sólidos o semisólidos de origen 
 orgánico e inorgánico, putrescible o no, proveniente de actividades domésticas, 
 industriales, comerciales, institucionales, de servicios, que no ofrece ninguna 
 posibilidad de aprovechamiento, reutilización o reincorporación en un proceso 
-productivo.  Son residuos  sólidos que no tienen ningún valor comercial, requie-
-ren tratamiento  y disposición final  y, por lo tanto, generan  costos de disposi-
-ción. Ejemplo: bolsas de plástico, envases de tecnopor, sorbetes “cañitas”, pilas 
+productivo.  Son residuos  sólidos que no tienen ningún valor comercial, requieren tratamiento  y disposición final  y, por lo tanto, generan  costos de disposición. Ejemplo: bolsas de plástico, envases de tecnopor, sorbetes “cañitas”, pilas 
 usadas, aceite quemado, pañales, etc.
 
 • En equipo, observen el siguiente video: http://www.consumer.es/web/es/medio_ambiente/
@@ -3610,8 +3552,7 @@ EDUCATIVO
 Barrido y limpieza de espacios públicos, segregación, almacenamiento, 
 recolección, valorización, transporte, transferencia, tratamiento, disposición final.
 
-Generación, separación en la fuente (puntos ecológicos), recolección selec-
-tiva, almacenamiento temporal (puntos de acopio), entrega final a las rutas 
+Generación, separación en la fuente (puntos ecológicos), recolección selectiva, almacenamiento temporal (puntos de acopio), entrega final a las rutas 
 selectivas.
 
 Z_GUIA MARES 4DIC 2018.indd   33 12/5/18   1:20 AM
@@ -3626,8 +3567,7 @@ en el Perú
 • ¿Qué son los rellenos sanitarios?
 
 De acuerdo con la Ley de Gestión Integral de Residuos Sólidos, el relleno sanitario es una instalación destinada 
-a la disposición sanitaria y ambientalmente segura de los residuos municipales a superficie o bajo tierra, basa-
-dos en los principios y métodos de la ingeniería sanitaria y ambiental.
+a la disposición sanitaria y ambientalmente segura de los residuos municipales a superficie o bajo tierra, basados en los principios y métodos de la ingeniería sanitaria y ambiental.
 
 Solo el 41,3 % de los residuos sólidos municipales son dispuestos adecuadamente, lo que implica que el 58,7 %   
 termina en botaderos o en el mar o en el río.
@@ -3777,8 +3717,7 @@ no biodegradables.
 3. La mayor utilización de bienes de 
 rápido crecimiento.
 
-4. La alta concentración de la pobla-
-ción en núcleos urbanos.
+4. La alta concentración de la población en núcleos urbanos.
 
 ¿Cómo podemos atenuar las causas del elevado volumen de residuos sólidos que está 
 dañando el ambiente?
@@ -3795,8 +3734,7 @@ Z_GUIA MARES 4DIC 2018.indd   37 12/5/18   1:20 AM
 
 ¿Cuáles son los efectos de los residuos sólidos en el ambiente?
 
-Como hemos visto, los residuos sólidos son materiales de desecho producidos por diversas actividades desa-
-rrolladas por el ser humano. El mal manejo de estos residuos genera problemas en el ambiente, enfermedades 
+Como hemos visto, los residuos sólidos son materiales de desecho producidos por diversas actividades desarrolladas por el ser humano. El mal manejo de estos residuos genera problemas en el ambiente, enfermedades 
 en personas y animales, proliferación de plagas, etc.
 
 A continuación, citaremos algunos efectos producidos por el mal manejo de los residuos sólidos.
@@ -3805,8 +3743,7 @@ a) Efectos en los recursos hídricos
 
 El recurso hídrico está conformado por todos los cuerpos de agua que posee el planeta, tanto superficiales (ríos, 
 lagos, lagunas, quebradas, océanos; nevados, glaciares) como subterráneos (pozos, manantiales). El proceso de 
-contaminación de estos cuerpos de agua es causado por la mala disposición de los residuos que provoca la filtra-
-ción de lixiviados14 a través del suelo, el cual absorbe los líquidos y los lleva hasta donde se encuentran las fuentes 
+contaminación de estos cuerpos de agua es causado por la mala disposición de los residuos que provoca la filtración de lixiviados14 a través del suelo, el cual absorbe los líquidos y los lleva hasta donde se encuentran las fuentes 
 de agua.
 
 Efectos de la contaminación de aguas subterráneas
@@ -3927,8 +3864,7 @@ humanos y contribuyen al efecto invernadero, entre otros
 efectos negativos.
 
 e) Efectos en la salud
-Incidencia en la transmisión de enfermedades. Estos efectos negati-
-vos que produce el mal manejo de residuos sólidos en la salud están 
+Incidencia en la transmisión de enfermedades. Estos efectos negativos que produce el mal manejo de residuos sólidos en la salud están 
 relacionados con las formas de exposición:
 
 • Exposición directa. Contacto directo con los residuos por la 
@@ -4008,8 +3944,7 @@ Z_GUIA MARES 4DIC 2018.indd   39 12/5/18   1:20 AM
 
 40
 
-Asimismo, se puede afirmar que otro factor que pone en riesgo la salud pública y que, por tanto, obliga a dispo-
-ner correctamente los residuos sólidos es la alimentación de animales con basura (vacas, cerdos, cabras, aves) 
+Asimismo, se puede afirmar que otro factor que pone en riesgo la salud pública y que, por tanto, obliga a disponer correctamente los residuos sólidos es la alimentación de animales con basura (vacas, cerdos, cabras, aves) 
 sin vigilancia sanitaria. Esta práctica no es recomendable, ya que se corre el riesgo de propagar diversos tipos de 
 enfermedades, pues no debemos olvidar que estos residuos suelen estar mezclados con desechos infecciosos 
 provenientes de hospitales y centros de salud o de otros lugares contaminados, donde la basura se descarga sin 
@@ -4019,8 +3954,7 @@ Por otro lado, al ofrecerse como recursos alimentarios de algunas especies de av
 actuar para aumentar la densidad de sus poblaciones y, por lo tanto, alterar la diversidad biológica nativa.
 
 Por último, otros riesgos que pueden presentarse por la mala disposición de estos residuos en los botaderos de 
-basura, en las orillas de las carreteras y cerca de los aeropuertos, son los accidentes provocados por la dismi-
-nución de la visibilidad a causa de los humos producidos por las frecuentes quemas de basura o por colisiones 
+basura, en las orillas de las carreteras y cerca de los aeropuertos, son los accidentes provocados por la disminución de la visibilidad a causa de los humos producidos por las frecuentes quemas de basura o por colisiones 
 con las aves asociadas a estos lugares.
 
 ¿Cuánto demoran los residuos sólidos en degradarse?
@@ -4087,8 +4021,7 @@ residuos sólidos con la participación articulada de la comunidad educativa y l
 La industria del plástico utiliza cinco de los seis productos químicos más peligrosos y contaminantes, los cuales 
 contienen elementos altamente tóxicos: cloro, cadmio y plomo.
  
-Tanto la fabricación de plástico como su incineración hacen que en la atmósfera se liberen sustancias cancerí-
-genas llamadas dioxinas.
+Tanto la fabricación de plástico como su incineración hacen que en la atmósfera se liberen sustancias cancerígenas llamadas dioxinas.
 
 La Agencia de Protección Ambiental (EPA, por sus siglas en inglés) indica que el 92 % de plástico que 
 se produce y utiliza no es reciclable. Cada año se consumen en el mundo 100 millones de toneladas de 
@@ -4120,8 +4053,7 @@ residuos sólidos, producto de nuestros malos hábitos de consumo.
 Reducir la generación de residuos sólidos implica ser un consumidor responsable con nuestras actividades 
 cotidianas; por ello, antes de comprar o adquirir un producto o un bien, debemos:
 
-• Pensar y considerar el impacto ambiental de aquello que compramos, valorando los procesos de produc-
-ción, transporte, distribución, consumo y residuos que deja el producto.
+• Pensar y considerar el impacto ambiental de aquello que compramos, valorando los procesos de producción, transporte, distribución, consumo y residuos que deja el producto.
 
 • Poder reconocer “la huella ecológica”16 que determinados estilos de vida y consumismo producen al ambiente.
 • Reconocer los productos y servicios que respeten el medio ambiente y los derechos humanos.
@@ -4129,17 +4061,14 @@ ción, transporte, distribución, consumo y residuos que deja el producto.
 
 2.2. LA IMPORTANCIA DE MARES EN LAS INSTITUCIONES EDUCATIVAS
  
-La institución educativa es un espacio en el que se desarrollan las dinámicas sociales y donde es posible ob-
-servar el comportamiento de las personas, los hábitos y su accionar. A partir de esta observación social, se 
+La institución educativa es un espacio en el que se desarrollan las dinámicas sociales y donde es posible observar el comportamiento de las personas, los hábitos y su accionar. A partir de esta observación social, se 
 configura, por definición, como el espacio propicio para trabajar en la formación de la persona y sus hábitos, su 
 conciencia crítica, su capacidad propositiva, etc.
 
 Uno de los objetivos del trabajo pedagógico en 
 las escuelas es generar una cultura ambiental 
-de consumo responsable, concientizando a to-
-dos los integrantes de la comunidad educativa 
-a iniciar acciones para controlar el exceso de ge-
-neración de residuos y promover la segregación 
+de consumo responsable, concientizando a todos los integrantes de la comunidad educativa 
+a iniciar acciones para controlar el exceso de generación de residuos y promover la segregación 
 adecuada, aprovechar el reciclaje y evitar que se 
 siga contaminando nuestro ambiente.
 
@@ -4188,8 +4117,7 @@ para asegurar la gestión integral de los residuos sólidos.
 ¿Para qué implementar MARES?
 
 Las instituciones educativas de nuestro país deben constituirse en promotoras para la generación de entornos 
-saludables; por ello, MARES es un recurso pedagógico que contribuye a la gestión adecuada de los residuos só-
-lidos que se producen en las II. EE., cuyo propósito es la formación de hábitos y valores ligados a la conservación 
+saludables; por ello, MARES es un recurso pedagógico que contribuye a la gestión adecuada de los residuos sólidos que se producen en las II. EE., cuyo propósito es la formación de hábitos y valores ligados a la conservación 
 del ambiente y ciudades sostenibles.
 
 2.2.2 MARES y las 3 R
@@ -4225,15 +4153,12 @@ Z_GUIA MARES 4DIC 2018.indd   43 12/5/18   1:20 AM
 ¿Qué es REUSAR?
 
 Reusar se refiere a dar un nuevo uso a aquellos residuos que puedan ser usados 
-en su forma original. Por ejemplo, utilizar botellas de PET18  o vidrio para almace-
-nar agua, aceites o alimentos; para crear maceteros, portalapiceros, etc.
+en su forma original. Por ejemplo, utilizar botellas de PET18  o vidrio para almacenar agua, aceites o alimentos; para crear maceteros, portalapiceros, etc.
 
-Debido a que vivimos en una “sociedad desechable”, constantemente somos ins-
-tados a comprar artículos “nuevos” o “mejorados”, aun cuando el que tenemos 
+Debido a que vivimos en una “sociedad desechable”, constantemente somos instados a comprar artículos “nuevos” o “mejorados”, aun cuando el que tenemos 
 puede ser reusado o reparado.
 
-Por el contrario, seamos creativos y pensemos de qué otra forma podemos uti-
-lizar las cosas. Los estudiantes, por ejemplo, pueden emplear su imaginación y 
+Por el contrario, seamos creativos y pensemos de qué otra forma podemos utilizar las cosas. Los estudiantes, por ejemplo, pueden emplear su imaginación y 
 fantasía para reusar los residuos, creando un Espacio de Vida (EsVi) con macetas 
 hechas de botellas, baldes, etc.
 
@@ -4261,8 +4186,7 @@ sintéticas para la confección de prendas de vestir, maletas, frazadas, etc. Es
 reciclar es toda actividad que, mediante un proceso de transformación, permite 
 aprovechar un residuo sólido para cumplir su fin inicial u otros fines.
 
-Cuando reciclamos, disminuimos la demanda de los recursos de nuestro am-
-biente. Esto origina que usemos menos agua, menos energía, y así reducimos la 
+Cuando reciclamos, disminuimos la demanda de los recursos de nuestro ambiente. Esto origina que usemos menos agua, menos energía, y así reducimos la 
 cantidad de emisiones de gases nocivos a la atmósfera.
 
 Algunas recomendaciones a tener en cuenta:
@@ -4327,44 +4251,35 @@ Asimismo, puede realizar las actividades de comercialización y valorización.
 
 Generador. Persona natural o jurídica que, en razón de sus actividades, genera residuos, sea como 
 fabricante, importador, distribuidor, comerciante o usuario. También se considera generador al 
-poseedor de residuos peligrosos, cuando no se pueda identificar al generador real y a los gobier-
-nos municipales a partir de las actividades de recolección.
+poseedor de residuos peligrosos, cuando no se pueda identificar al generador real y a los gobiernos municipales a partir de las actividades de recolección.
 
 Gestión de residuos sólidos. Toda actividad técnica administrativa de planificación, coordinación, 
-concertación, diseño, aplicación y evaluación de políticas, estrategias, planes y programas de ac-
-ción dirigidos al manejo apropiado de los residuos sólidos.
+concertación, diseño, aplicación y evaluación de políticas, estrategias, planes y programas de acción dirigidos al manejo apropiado de los residuos sólidos.
 
-Manejo de residuos. Uso complementario de todas las prácticas que hacen posible gestionar ade-
-cuadamente los residuos en sus etapas de generación, almacenamiento, recolección, transporte y 
+Manejo de residuos. Uso complementario de todas las prácticas que hacen posible gestionar adecuadamente los residuos en sus etapas de generación, almacenamiento, recolección, transporte y 
 destino final.
 
 Manejo de residuos sólidos. Toda actividad técnica operativa de residuos sólidos que involucra  
 manipuleo, acondicionamiento, transporte, transferencia, tratamiento, disposición final o cualquier 
  otro procedimiento técnico operativo utilizado desde la generación hasta la disposición final.
 
-Minimización. Acciones para reducir al mínimo posible la generación de los residuos sólidos, a tra-
-vés de cualquier estrategia preventiva, procedimiento, método o técnica utilizada en la actividad 
+Minimización. Acciones para reducir al mínimo posible la generación de los residuos sólidos, a través de cualquier estrategia preventiva, procedimiento, método o técnica utilizada en la actividad 
 generada.
 
-Plan de manejo. Instrumento de planificación de la gestión integral de los residuos sólidos do-
-miciliarios, a nivel comunal o regional, que identifica las prioridades a desarrollar para mejorar la 
+Plan de manejo. Instrumento de planificación de la gestión integral de los residuos sólidos domiciliarios, a nivel comunal o regional, que identifica las prioridades a desarrollar para mejorar la 
 situación actual.
 
-Reciclaje. Toda actividad que permite aprovechar un residuo sólido mediante un proceso de trans-
-formación para cumplir su fin inicial u otros fines.
+Reciclaje. Toda actividad que permite aprovechar un residuo sólido mediante un proceso de transformación para cumplir su fin inicial u otros fines.
 
-Reducir. Referido a las acciones para disminuir o aminorar la cantidad de los residuos que se ge-
-neran.
+Reducir. Referido a las acciones para disminuir o aminorar la cantidad de los residuos que se generan.
 
 Relleno sanitario. Instalación destinada a la disposición sanitaria y ambientalmente segura de los 
 residuos sólidos en la superficie o bajo tierra, basado en los principios y métodos de la ingeniería 
 sanitaria y ambiental.
 
-Residuo. Sustancia, elemento u objeto que el generador elimina, se propone eliminar o está obli-
-gado a eliminar.
+Residuo. Sustancia, elemento u objeto que el generador elimina, se propone eliminar o está obligado a eliminar.
 
-Residuos sólidos domiciliarios (RSD). Residuos sólidos, basuras, desechos o desperdicios genera-
-dos en viviendas.
+Residuos sólidos domiciliarios (RSD). Residuos sólidos, basuras, desechos o desperdicios generados en viviendas.
 
 Valorización. Cualquier operación cuyo objetivo sea que el residuo, uno o varios de los materiales 
 que lo componen, sea reaprovechado y sirva a una finalidad útil al sustituir a otros materiales o 
@@ -4480,8 +4395,7 @@ enfoque ambiental de forma transversal. Estos se formulan a partir de la prioriz
 que responden al contexto de la institución educativa. Además, los PEAI promueven actividades articuladas en 
 las sesiones de aprendizaje favoreciendo el desarrollo de la conciencia ambiental.
 
-Los PEAI permiten a los docentes generar reflexiones en los estudiantes para el desarrollo de valores y actitu-
-des y su expresión en acciones cotidianas. Esta forma de concebir el uso de este tipo de proyectos se basa en la 
+Los PEAI permiten a los docentes generar reflexiones en los estudiantes para el desarrollo de valores y actitudes y su expresión en acciones cotidianas. Esta forma de concebir el uso de este tipo de proyectos se basa en la 
 aplicación de los enfoques transversales, principalmente, el enfoque ambiental. Asimismo, se formulan desde 
 las problemáticas y oportunidades de aprendizaje que la institución educativa decida abordar. En ese sentido, 
 los resultados positivos que logren a nivel local impactarán a nivel global (pensamiento glocal). Por ello, los 
@@ -4491,35 +4405,27 @@ ambientales.
 El enfoque ambiental se relaciona con los principios de la educación peruana, conciencia ambiental, calidad 
 y ética. La transversalidad de este enfoque “implica el desarrollo permanente de la conciencia crítica sobre la 
 problemática ambiental y la condición del cambio climático a nivel local y global, así como su relación con la 
-salud, la pobreza, la desigualdad social, la migración, los conflictos, la seguridad alimentaria, la pérdida de bio-
-diversidad, el agotamiento de los recursos naturales, entre otros”20.
+salud, la pobreza, la desigualdad social, la migración, los conflictos, la seguridad alimentaria, la pérdida de biodiversidad, el agotamiento de los recursos naturales, entre otros”20.
 
 El enfoque ambiental en la gestión escolar
 MARES, como PEAI, se esboza en los diagnósticos y 
-busca dar respuesta a problemáticas sociales y am-
-bientales en las instituciones educativas; además, 
+busca dar respuesta a problemáticas sociales y ambientales en las instituciones educativas; además, 
 contribuye a articular los componentes del enfoque 
-ambiental con los compromisos de gestión institu-
-cional, promoviendo en la comunidad educativa el 
-desarrollo de una conciencia crítica sobre la condi-
-ción del cambio climático a nivel local y global.
+ambiental con los compromisos de gestión institucional, promoviendo en la comunidad educativa el 
+desarrollo de una conciencia crítica sobre la condición del cambio climático a nivel local y global.
 
-Gestión de residuos sólidos en las institu-
-ciones educativas
+Gestión de residuos sólidos en las instituciones educativas
 El tema ambiental es uno de los más importantes de 
-nuestra sociedad, ya que está relacionado, de for-
-ma directa, con la calidad de vida de la población 
+nuestra sociedad, ya que está relacionado, de forma directa, con la calidad de vida de la población 
 (salud, bienestar, descanso y armonía). Por ello, se 
 hace necesario impulsar políticas que privilegien la 
-educación y la participación ciudadana, promovien-
-do el manejo adecuado de los residuos sólidos en las 
+educación y la participación ciudadana, promoviendo el manejo adecuado de los residuos sólidos en las 
 distintas instituciones educativas.
 
 En este sentido, el rol del docente es buscar la participación activa de los estudiantes en la solución de problemas 
 ambientales locales; asimismo, promover entre ellos el aprendizaje de hábitos amigables con el ambiente y la salud.
 
-Como docente, para empezar el trabajo de gestión de los residuos sólidos en tu insti-
-tución educativa, ¿qué aspecto consideras necesario abordar?
+Como docente, para empezar el trabajo de gestión de los residuos sólidos en tu institución educativa, ¿qué aspecto consideras necesario abordar?
 
 20 Ministerio de Educación, 2016.
 
@@ -4619,14 +4525,11 @@ Z_GUIA MARES 4DIC 2018.indd   49 12/5/18   1:20 AM
 3.2 GESTIÓN INSTITUCIONAL
 
 Una vez identificados los problemas, es necesario que se 
-formulen los objetivos y se establezcan actividades para al-
-canzarlos. También es necesario identificar las estrategias 
+formulen los objetivos y se establezcan actividades para alcanzarlos. También es necesario identificar las estrategias 
 a implementar, los responsables y el tiempo para cada una 
 de las actividades.
 
-Recordemos que tenemos un Plan Nacional de Acción Am-
-biental (PLANAA – PERÚ 2011-2021). En este marco, es fun-
-damental que las instituciones educativas cuenten con la 
+Recordemos que tenemos un Plan Nacional de Acción Ambiental (PLANAA – PERÚ 2011-2021). En este marco, es fundamental que las instituciones educativas cuenten con la 
 Comisión de Educación Ambiental y Gestión del Riesgo de 
 Desastres como forma de organización básica, que permita 
 asegurar la implementación del enfoque ambiental.
@@ -4637,19 +4540,15 @@ del PEI, lo siguiente:
 • Incorporar un plan de manejo de residuos sólidos en el 
 plan anual de trabajo (PAT).
 
-• Plantear acciones pedagógicas ligadas al manejo de resi-
-duos sólidos, que se incorporen en el Proyecto Educati-
-vo Ambiental Integrado.
+• Plantear acciones pedagógicas ligadas al manejo de residuos sólidos, que se incorporen en el Proyecto Educativo Ambiental Integrado.
 
 • Coordinar la formación de la brigada de educación en 
-ecoeficiencia, como parte de la organización estudian-
-til, que contribuya a los objetivos de la Comisión de 
+ecoeficiencia, como parte de la organización estudiantil, que contribuya a los objetivos de la Comisión de 
 Educación Ambiental y GRD.
 
 Como parte de la gestión institucional, se hace necesario 
 implementar un diseño de sistema de gestión ambiental 
-e identificar a los actores y la forma de trabajo en la insti-
-tución educativa. Estos actores son los siguientes:
+e identificar a los actores y la forma de trabajo en la institución educativa. Estos actores son los siguientes:
 
 a. Estudiantes. Es importante que participen en: 
 • Talleres de sensibilización y capacitación, donde se
@@ -4744,8 +4643,7 @@ ambientalmente responsable?
 
 d. Personal administrativo. Es el encargado de las siguientes acciones:
 
-• Efectuar los trámites necesarios para facilitar los módulos de separación de residuos que requiera la insti-
-tución educativa.
+• Efectuar los trámites necesarios para facilitar los módulos de separación de residuos que requiera la institución educativa.
 
 • Participar en las capacitaciones planificadas.
 
@@ -4868,8 +4766,7 @@ El séptimo continente
 • Inviten a la reflexión personal y colectiva sobre la importancia de la educación ambiental como instrumento 
 para aportar al desarrollo sostenible.
 
-• Sensibilicen sobre la problemática ambiental local y global, teniendo a la guía MARES como uno de los re-
-cursos pedagógicos.
+• Sensibilicen sobre la problemática ambiental local y global, teniendo a la guía MARES como uno de los recursos pedagógicos.
 
 • Revisen y fortalezcan el diagnóstico institucional con la problemática ambiental de la institución educativa, 
 para la incorporación del enfoque ambiental en la gestión escolar.
@@ -4878,8 +4775,7 @@ para la incorporación del enfoque ambiental en la gestión escolar.
 
 El diagnóstico educativo ambiental
 
-• Elaboren un listado de los principales problemas ambientales que se han encontrado en la institución edu-
-cativa y la localidad (escasas áreas verdes, acumulación de residuos sólidos en las aulas y patios, desperdicio 
+• Elaboren un listado de los principales problemas ambientales que se han encontrado en la institución educativa y la localidad (escasas áreas verdes, acumulación de residuos sólidos en las aulas y patios, desperdicio 
 de agua, consumo de comida chatarra, inadecuados hábitos de consumo, etc.).
 
 • Prioricen los problemas ambientales.
@@ -4967,8 +4863,7 @@ y su concreción en la programación curricular de aula.
 • Presenta la propuesta MARES y reflexiona sobre la importancia de una buena gestión de residuos sólidos 
 para el desarrollo de aprendizajes y para el aporte al desarrollo sostenible.
 
-• Refuerza los acuerdos abordados desde el diagnóstico e incentiva la revisión y reajuste del PEI (visión, obje-
-tivos, valores y perfil ideal del estudiante) desde el enfoque ambiental.
+• Refuerza los acuerdos abordados desde el diagnóstico e incentiva la revisión y reajuste del PEI (visión, objetivos, valores y perfil ideal del estudiante) desde el enfoque ambiental.
 
 Objetivos 
 estratégicos
@@ -5008,11 +4903,9 @@ identificamos
 en la IE y en la 
 localidad?
 
-• Durante el reajuste del PAT y del PCI, considera la inclusión de MARES como Proyecto de Educación Am-
-biental Integrado (PEAI). Es importante recordar que el PEAI es un conjunto de acciones emprendidas por 
+• Durante el reajuste del PAT y del PCI, considera la inclusión de MARES como Proyecto de Educación Ambiental Integrado (PEAI). Es importante recordar que el PEAI es un conjunto de acciones emprendidas por 
 la institución educativa con el propósito de desarrollar conocimientos, valores, actitudes y prácticas que 
-permitan a la comunidad educativa cultivar una relación apropiada con el ambiente (PNEA-D. S. N.° 0017-
-2012-ED). En ese sentido, MARES, como PEAI, contribuye a la articulación del enfoque ambiental con otros 
+permitan a la comunidad educativa cultivar una relación apropiada con el ambiente (PNEA-D. S. N.° 00172012-ED). En ese sentido, MARES, como PEAI, contribuye a la articulación del enfoque ambiental con otros 
 enfoques transversales e impulsa la realización de un tratamiento pedagógico, en cuanto a la movilización 
 de competencias y capacidades.
 
@@ -5119,11 +5012,9 @@ Sus funciones son las siguientes:
 Residuos Sólidos, conducir el proceso y coordinar 
 con los actores identificados.
 
-• Facilitar los canales de información para enrique-
-cer la propuesta.
+• Facilitar los canales de información para enriquecer la propuesta.
 
-• Promover la búsqueda de financiamiento esta-
-bleciendo alianzas con el sector público y privado.
+• Promover la búsqueda de financiamiento estableciendo alianzas con el sector público y privado.
 
 • Dar seguimiento y evaluar permanentemente la 
 implementación del plan.
@@ -5132,8 +5023,7 @@ implementación del plan.
 
 La Brigada de Educación en Ecoeficiencia es la encargada de elaborar el plan de manejo de residuos sólidos 
 de la institución educativa a partir del diagnóstico institucional, promoviendo la participación de la comunidad 
-educativa, con el fin de contribuir a la mejora de las prácticas de consumo y de promover procesos de enseñan-
-za y aprendizaje en favor de los estudiantes.
+educativa, con el fin de contribuir a la mejora de las prácticas de consumo y de promover procesos de enseñanza y aprendizaje en favor de los estudiantes.
 
 Z_GUIA MARES 4DIC 2018.indd   56 12/5/18   1:20 AM
 
@@ -5338,8 +5228,7 @@ línea de base que permita plantear, en forma estratégica, la problemática del
 luego analizar posibles alternativas de solución.
 
 2. Minimización
-Es necesario promover la reducción de la cantidad de residuos sólidos, sobre todo, los que contienen polie-
-tileno (como las bolsas y botellas), poliestireno expandido (como los objetos de tecnopor) y otros que no se 
+Es necesario promover la reducción de la cantidad de residuos sólidos, sobre todo, los que contienen polietileno (como las bolsas y botellas), poliestireno expandido (como los objetos de tecnopor) y otros que no se 
 puedan reciclar.
 
 ¿Sabías que…? En el Perú cada familia consume, 
@@ -5352,8 +5241,7 @@ desechadas a la basura y demorarán en
 descomponerse 400 años.
 
 3.  Segregación en puntos ecológicos
-Consiste en agrupar determinados componentes o elementos físicos de los residuos sólidos para ser maneja-
-dos de manera especial. Los generadores están obligados a optar por sistemas de clasificación en la fuente para 
+Consiste en agrupar determinados componentes o elementos físicos de los residuos sólidos para ser manejados de manera especial. Los generadores están obligados a optar por sistemas de clasificación en la fuente para 
 facilitar su aprovechamiento o disposición final.
 
 • Color del envase: se recomienda usar como referencia la Norma Técnica Peruana que establece los colores 
@@ -5373,8 +5261,7 @@ por Indecopi. (Ver el anexo 3, sobre las características de los tachos).
 4. Almacenamiento – Puntos de acopio
 
 • Esta actividad la realizan una o más personas responsables nombradas por la institución educativa. Consiste 
-en recoger los residuos segregados de los puntos ecológicos para llevarlos hasta el punto de acopio o alma-
-cén temporal. Luego de acondicionarlos convenientemente, se espera la llegada de la unidad recolectora de 
+en recoger los residuos segregados de los puntos ecológicos para llevarlos hasta el punto de acopio o almacén temporal. Luego de acondicionarlos convenientemente, se espera la llegada de la unidad recolectora de 
 la municipalidad para su traslado.
 
 Amarillo Para metales
@@ -5435,17 +5322,14 @@ reducir o eliminar su potencial peligro de causar daño a la salud y al ambiente
 de la valorización y el tratamiento de residuos sólidos en las escuelas dependerán de su composición física.
 
 En las instituciones educativas se debe incentivar una cultura de 
-reuso o reutilización, reaprovechando los residuos sólidos segre-
-gados (por ejemplo: las botellas de plástico para la elaboración de 
-material pedagógico o manualidades). Asimismo, se debe promo-
-ver una cultura de reciclaje (por ejemplo: cuando utilizamos los 
+reuso o reutilización, reaprovechando los residuos sólidos segregados (por ejemplo: las botellas de plástico para la elaboración de 
+material pedagógico o manualidades). Asimismo, se debe promover una cultura de reciclaje (por ejemplo: cuando utilizamos los 
 residuos orgánicos y los transformamos en abono orgánico como 
 el compost; igualmente, cuando con el papel usado elaboramos 
 papel reciclado).
 
 También es posible coordinar con empresas que compran este 
-tipo de residuos. Se pueden verificar las empresas comercializa-
-doras que se encuentran registradas en la Dirección General de 
+tipo de residuos. Se pueden verificar las empresas comercializadoras que se encuentran registradas en la Dirección General de 
 Salud Ambiental (DIGESA), accediendo al siguiente enlace web: 
 http://www.digesa.minsa.gob.pe/Expedientes/Busquedas.asp
 
@@ -5456,14 +5340,12 @@ Z_GUIA MARES 4DIC 2018.indd   61 12/5/18   1:20 AM
 62
 
 • Motiva a los estudiantes a comer frutas y verduras porque, al 
-involucrarlos en el proceso de la elaboración del compost, en-
-tienden que solo a partir de los residuos orgánicos es posible 
+involucrarlos en el proceso de la elaboración del compost, entienden que solo a partir de los residuos orgánicos es posible 
 alimentar la compostera del colegio.
 
 • Se valora la capacidad de contribuir al ciclo natural de la vida, al 
 alimentarse mediante productos vegetales, en detrimento de los 
-alimentos industriales que, durante todo el proceso de elabora-
-ción, distribución, consumo y desecho, suponen un gran impacto 
+alimentos industriales que, durante todo el proceso de elaboración, distribución, consumo y desecho, suponen un gran impacto 
 negativo desde el punto de vista ambiental y de la salud por la 
 cantidad de residuos que generan.
 
@@ -5472,21 +5354,17 @@ lo experiencial, de forma significativa y comunitaria.
 
 • Se crean espacios de aprendizajes saludables, socializadores y 
 alternativos al aula, donde los estudiantes se responsabilizan 
-con el cuidado del medio en el que se desarrollan y se concien-
-tizan de la necesidad de tomar parte, de forma colectiva, en el 
+con el cuidado del medio en el que se desarrollan y se concientizan de la necesidad de tomar parte, de forma colectiva, en el 
 cuidado y solución de los problemas ambientales.
 
 Aprovechamiento de la materia orgánica
 
-La mayor parte de los desechos orgánicos que producimos y que, en las ciudades, provienen de nuestra alimen-
-tación terminan en la basura, generalmente, en forma de re-
-siduos. Sin embargo, en el ciclo natural, existe una constante 
+La mayor parte de los desechos orgánicos que producimos y que, en las ciudades, provienen de nuestra alimentación terminan en la basura, generalmente, en forma de residuos. Sin embargo, en el ciclo natural, existe una constante 
 descomposición de la materia orgánica, que supone integrar 
 esos residuos en un proceso de enriquecimiento del suelo 
 que nutrirá a nuevas vidas.
 La elaboración del compost se puede hacer de manera muy 
-sencilla, apilando restos orgánicos en torno a un poste de ma-
-dera. Pero en las escuelas es más conveniente el uso de un 
+sencilla, apilando restos orgánicos en torno a un poste de madera. Pero en las escuelas es más conveniente el uso de un 
 compostador, que debe reunir las siguientes características:
 
 • Permitir la entrada de oxígeno.
@@ -5498,8 +5376,7 @@ compostador, que debe reunir las siguientes características:
 • Dejar el fondo en contacto con el suelo para facilitar el trabajo de los descomponedores.
 
 Teniendo en cuenta estos criterios, el compostador puede comprarse o hacerse de varias maneras: a partir de 
-cajones de madera, tablas, mallas metálicas, etc. Respecto al tipo de residuos que podemos utilizar, es conve-
-niente que la mezcla sea muy variada y que el conjunto de materiales esté lo más triturado posible.
+cajones de madera, tablas, mallas metálicas, etc. Respecto al tipo de residuos que podemos utilizar, es conveniente que la mezcla sea muy variada y que el conjunto de materiales esté lo más triturado posible.
 
 Te invitamos a revisar el 
 anexo 4 para iniciar tu 
@@ -5511,8 +5388,7 @@ Z_GUIA MARES 4DIC 2018.indd   62 12/5/18   1:20 AM
 
 Aprovechamiento de los residuos sólidos con valor de cambio en el mercado local del reciclaje
 
-Consiste en introducir un material o un producto ya utilizado a un ciclo de tratamiento total o parcial para obte-
-ner una materia prima o un nuevo producto. También se podrá definir como la obtención de materias primas a 
+Consiste en introducir un material o un producto ya utilizado a un ciclo de tratamiento total o parcial para obtener una materia prima o un nuevo producto. También se podrá definir como la obtención de materias primas a 
 partir de desechos, introduciéndolos de nuevo en el ciclo de vida útil. El reciclaje es el proceso que nace frente 
 al riesgo de agotamiento de recursos naturales y como una alternativa eficaz de disposición de los desechos.
 
@@ -5543,8 +5419,7 @@ los horarios de recolección de los residuos reciclables y de los residuos no ap
 La comercialización de los residuos que se recolectan al interior de la institución educativa, según lo estipula 
 la Ley de Gestión Integral de Residuos Sólidos (Decreto Legislativo N.° 1278), la pueden realizar las empresas 
 comercializadoras registradas y autorizadas o los recicladores formalizados.
-Se recomienda que las Apafa identifiquen a las empresas comercializadoras registradas y autorizadas, y es-
-tablezcan la posibilidad de suscribir un convenio de cooperación mutua; de esta forma, se establece lo 
+Se recomienda que las Apafa identifiquen a las empresas comercializadoras registradas y autorizadas, y establezcan la posibilidad de suscribir un convenio de cooperación mutua; de esta forma, se establece lo 
 siguiente:
 
 • Tipo y cantidad de residuos recuperados.
@@ -5553,27 +5428,22 @@ siguiente:
 
 • Una vez identificado el monto total, se coordina con la empresa comercializadora para que, en vez de una 
 retribución económica (que no está permitida), brinde equipamiento administrativo (materiales y útiles de 
-oficina), equipamiento de limpieza (escobas, recogedores, tachos/papeleras, bolsas plásticas, etc.), equi-
-pamiento de educación física (taburetes, pelotas, mallas, etc.), según lo que sugieran las coordinaciones 
+oficina), equipamiento de limpieza (escobas, recogedores, tachos/papeleras, bolsas plásticas, etc.), equipamiento de educación física (taburetes, pelotas, mallas, etc.), según lo que sugieran las coordinaciones 
 realizadas. De esta forma, se garantiza una eficiencia del uso de los reciclados y la retribución respectiva.
 
 3.3 GESTIÓN PEDAGÓGICA
 
 Las etapas que conforman el plan de manejo de residuos sólidos de la institución educativa se constituyen en 
 una herramienta a través de la implementación del PEAI – MARES, que permite generar hábitos y costumbres 
-en favor del ambiente, la salud y el bienestar de la población. Dichas etapas pueden ser trabajadas desde acti-
-vidades vinculadas a las áreas curriculares mediante los procesos de enseñanza y aprendizaje, teniendo como 
-punto de partida las competencias y capacidades que se buscan desarrollar en las unidades didácticas y sesio-
-nes propuestas. Asimismo, MARES se impulsa desde las propias actividades de la escuela en las que se incluyen 
+en favor del ambiente, la salud y el bienestar de la población. Dichas etapas pueden ser trabajadas desde actividades vinculadas a las áreas curriculares mediante los procesos de enseñanza y aprendizaje, teniendo como 
+punto de partida las competencias y capacidades que se buscan desarrollar en las unidades didácticas y sesiones propuestas. Asimismo, MARES se impulsa desde las propias actividades de la escuela en las que se incluyen 
 a todos los niños, sea en el aula o fuera de ella, con las rutinas o actividades permanentes en las cuales deben 
-echar la basura en los tachos del color correspondiente, diferenciando los residuos y su utilidad, y consideran-
-do, por ejemplo, que los residuos orgánicos contribuyen para preparar el compost.
+echar la basura en los tachos del color correspondiente, diferenciando los residuos y su utilidad, y considerando, por ejemplo, que los residuos orgánicos contribuyen para preparar el compost.
 
 3.3.1 MARES y la transversalidad del enfoque ambiental en la planificación
 
 Manejo de Residuos Sólidos (MARES) es un Proyecto Educativo Ambiental Integrado (PEAI), que se enmarca en 
-los lineamientos de la Política Nacional de Educación Ambiental (PNEA) y que permite la transversalidad del en-
-foque ambiental en los procesos de enseñanza y aprendizaje vinculando a otros PEAI, como vimos en la primera 
+los lineamientos de la Política Nacional de Educación Ambiental (PNEA) y que permite la transversalidad del enfoque ambiental en los procesos de enseñanza y aprendizaje vinculando a otros PEAI, como vimos en la primera 
 parte de la presente guía (EsVi-Espacio de Vida, GLOBE, Huella de carbono y ViVe -Vida y Verde).
 El diseño de MARES permite a los docentes orientar a los estudiantes a ejercitarse en la investigación, el 
 monitoreo, la comunicación y conservación de espacios, a través del aprendizaje práctico-científico, de la 
@@ -5589,8 +5459,7 @@ Z_GUIA MARES 4DIC 2018.indd   64 12/6/18   1:03 AM
 
 Actividad 1. Motivación
 Exploración de ideas y el despertar de la curiosidad.
-Motivar la reflexión y el sentido crítico de los conocimientos de los estudiantes. Reajustar la propuesta de inter-
-vención educativa ambiental en MARES.
+Motivar la reflexión y el sentido crítico de los conocimientos de los estudiantes. Reajustar la propuesta de intervención educativa ambiental en MARES.
 Plantear interrogantes que pueden convertirse en el guion de una entrevista colectiva.
 Estas son sugerencias que deben ser adaptadas al contexto y lugar donde viven los y las estudiantes, así como 
 al volumen de residuos que se generan en la institución y al diagnóstico elaborado por la comunidad educativa, 
@@ -5599,8 +5468,7 @@ el cual debe ser orientado a MARES.
 Actividad 2. Articulación de las áreas curriculares y los componentes del enfoque ambiental
 Priorizar los problemas ambientales relacionados con MARES y vincularlos con los componentes de educación 
 en ecoeficiencia, salud, cambio climático y gestión de riesgos de desastre.
-Revisar las competencias del Currículo Nacional de la Educación Básica; por ejemplo, de las áreas de Comuni-
-cación, Ciencia y Tecnología, Arte y Cultura, Matemática, Ciencias Sociales y Educación Física para la evaluación 
+Revisar las competencias del Currículo Nacional de la Educación Básica; por ejemplo, de las áreas de Comunicación, Ciencia y Tecnología, Arte y Cultura, Matemática, Ciencias Sociales y Educación Física para la evaluación 
 de la integración de actividades correspondientes a MARES.
 El tema de los residuos sólidos, al ser un problema que afecta a toda la comunidad educativa, requiere ser 
 abordado desde las diferentes áreas curriculares para analizarlo desde distintas perspectivas y fortalecer el 
@@ -5609,8 +5477,7 @@ desarrollo de la cultura ambiental.
 Actividad 3. Contextualizar las unidades didácticas y sesiones de aprendizaje
 Integrar MARES a las áreas curriculares de Ciencia y Tecnología, Comunicación, Matemática, Ciencias Sociales, 
 Arte y Cultura y Educación Física, desde una perspectiva sistémica.
-Los docentes realizan precisiones a las situaciones significativas en torno a la problemática ambiental de la ins-
-titución educativa (priorizada del diagnóstico situacional de la IE) que respondan a los intereses y necesidades 
+Los docentes realizan precisiones a las situaciones significativas en torno a la problemática ambiental de la institución educativa (priorizada del diagnóstico situacional de la IE) que respondan a los intereses y necesidades 
 de los estudiantes y a la motivación de impulsar MARES. En ese sentido, el docente recoge los conocimientos 
 previos de los estudiantes sobre los residuos sólidos, con el objetivo de realizar la propuesta pedagógica. En las 
 actividades de aprendizaje se pueden proponer campañas de sensibilización, el reúso de residuos para elaborar 
@@ -5619,8 +5486,7 @@ orgánicos que se generan en la escuela, etc.
 
 • Desde MARES, en el marco de una unidad de aprendizaje, es posible realizar actividades que planteen a los 
 estudiantes el uso de material reusable, como la elaboración de un mobiliario para el aula. Estas actividades 
-permiten promover la participación de la comunidad educativa y, a su vez, se convierten en una oportuni-
-dad para que los estudiantes hagan lo mismo con sus familias, de manera que así, desde su hogar, puedan 
+permiten promover la participación de la comunidad educativa y, a su vez, se convierten en una oportunidad para que los estudiantes hagan lo mismo con sus familias, de manera que así, desde su hogar, puedan 
 contribuir con acciones sencillas para el cuidado del ambiente.
 
 • En ese sentido, te presentamos un ejemplo de mobiliario ecológico que podrás realizar fácilmente con tus 
@@ -5644,8 +5510,7 @@ Mobiliario escolar ecológico (repisa)
 
 ¿Qué materiales necesitamos?
 
-• Conformaremos equipos para conseguir los siguientes materiales, reciclados y no reciclados, que necesita-
-remos para la elaboración de las repisas ecológicas.
+• Conformaremos equipos para conseguir los siguientes materiales, reciclados y no reciclados, que necesitaremos para la elaboración de las repisas ecológicas.
 
 • 12 botellas plásticas de 625 mL (de la misma altura)
 
@@ -5689,15 +5554,13 @@ Z_GUIA MARES 4DIC 2018.indd   66 12/5/18   1:20 AM
 Anexos
 
 Para ayudar en la identificación de los tipos de plásticos reciclables, se utiliza el Código de Identificación 
-Plástico, a menudo referido con las siglas RIC (del inglés Resin Identification Code). Ese código fue desarro-
-llado por la Sociedad de la Industria de Plásticos de Estados Unidos (Society of the Plastics Industry o SPI) e 
+Plástico, a menudo referido con las siglas RIC (del inglés Resin Identification Code). Ese código fue desarrollado por la Sociedad de la Industria de Plásticos de Estados Unidos (Society of the Plastics Industry o SPI) e 
 implantado a partir de 1988. Actualmente, se utiliza a nivel internacional como el estándar de identificación, 
 siendo obligatorio en muchos países.
 
 El RIC consta de un número identificativo del tipo de resina y una serie de letras correspondientes a las siglas 
 del tipo de polímero plástico. El número se enmarca en un triángulo de esquinas redondeadas y debajo del 
-triángulo se ponen las siglas del tipo de polímero. Este símbolo no quiere decir que el objeto haya sido fabri-
-cado con plástico reciclado ni que pueda reciclarse, solo lo identifica para facilitar el proceso de separación y 
+triángulo se ponen las siglas del tipo de polímero. Este símbolo no quiere decir que el objeto haya sido fabricado con plástico reciclado ni que pueda reciclarse, solo lo identifica para facilitar el proceso de separación y 
 reciclado. Actualmente hay siete y de ellos los marcados del 1 al 6, ambos, inclusive, son reciclables de una 
 forma relativamente fácil.
 
@@ -5753,10 +5616,8 @@ Tachos para la segregación y almacenamiento temporal
 Para el adecuado almacenamiento de los residuos sólidos, se debe tener en cuenta lo siguiente:
 
 • Color del envase: se recomienda usar 
-como referencia la Norma Técnica Pe-
-ruana que establece los colores que 
-deben tener los recipientes de almace-
-naje (NTP 900.058.2005).
+como referencia la Norma Técnica Peruana que establece los colores que 
+deben tener los recipientes de almacenaje (NTP 900.058.2005).
 
 • Tapa sanitaria: cumple con la función de controlar la emisión de olores e impedir 
 el ingreso de vectores transmisores de enfermedades. El uso de la tapa es obligatorio 
@@ -5768,8 +5629,7 @@ máximo, de generación en residuos para el compost y desechables; y de cinco d�
 residuos reciclables. Dentro del aula, la generación de residuos es mínima, por lo que se 
 recomienda el uso de recipientes medianos.
 
-• Material: se recomienda un material impermeable cuyo interior sea liso. General-
-mente, se utilizan recipientes de plástico grueso. En las aulas también se pueden 
+• Material: se recomienda un material impermeable cuyo interior sea liso. Generalmente, se utilizan recipientes de plástico grueso. En las aulas también se pueden 
 habilitar recipientes de cartón forrados interiormente con bolsas plásticas.
 
 • Rótulo: es necesario para facilitar la identificación de los recipientes. Se deben 
@@ -5800,25 +5660,20 @@ de plástico para facilitar la limpieza. El color del recipiente debe ser negro.
 Se habilitan cilindros para cada tipo de residuos sólidos, en lugares 
 estratégicos como los patios.
 
-Recuerda que las cantidades de tachos y colores dependen de los residuos sólidos que se generan en la insti-
-tución educativa.
+Recuerda que las cantidades de tachos y colores dependen de los residuos sólidos que se generan en la institución educativa.
 
 Z_GUIA MARES 4DIC 2018.indd   69 12/5/18   1:20 AM
 
 ¿Qué es el compostaje? 
-El proceso de compostaje consiste en la transformación de la materia orgánica por microorganismos en presen-
-cia de aire y bajo condiciones controladas.
+El proceso de compostaje consiste en la transformación de la materia orgánica por microorganismos en presencia de aire y bajo condiciones controladas.
 
 ¿Qué es el compost? 
-El compost es un sustrato que resulta de la descomposición controlada de residuos orgánicos a través del tiem-
-po (compostaje). Es de color negro, granulado y sin olor. Para obtener compost, es necesario que interactúen 
+El compost es un sustrato que resulta de la descomposición controlada de residuos orgánicos a través del tiempo (compostaje). Es de color negro, granulado y sin olor. Para obtener compost, es necesario que interactúen 
 factores como temperatura, humedad y microorganismos descomponedores.
-Esta práctica es un aporte individual para la preservación del medio ambiente y, sin duda, una satisfacción per-
-sonal, ya que permite cerrar el ciclo de la materia orgánica y colaborar en el tratamiento de residuos.
+Esta práctica es un aporte individual para la preservación del medio ambiente y, sin duda, una satisfacción personal, ya que permite cerrar el ciclo de la materia orgánica y colaborar en el tratamiento de residuos.
 
 Materiales que se  pueden compostar
-Los materiales que podemos compostar son los residuos de origen orgánico que generamos en nuestras insti-
-tuciones educativas. Se agrupan en materiales verdes y cafés.
+Los materiales que podemos compostar son los residuos de origen orgánico que generamos en nuestras instituciones educativas. Se agrupan en materiales verdes y cafés.
 
 Anexo 4
 
@@ -5836,8 +5691,7 @@ Z_GUIA MARES 4DIC 2018.indd   70 12/5/18   1:20 AM
 
 ¿Qué materiales no se deben utilizar?
 
-Hay materiales que al descomponerse generan un olor desagradable que atrae moscas, mosquitos y, en algu-
-nos casos, ratones. Por lo tanto, no es recomendable utilizarlos en la elaboración de compost.
+Hay materiales que al descomponerse generan un olor desagradable que atrae moscas, mosquitos y, en algunos casos, ratones. Por lo tanto, no es recomendable utilizarlos en la elaboración de compost.
 
 • Restos de frutas y verduras con aliños (aceites) 
 • Restos de comida preparada y/o condimentada 
@@ -5863,11 +5717,9 @@ Empecemos a hacer compost…
 
 Primero: Separa los residuos. Recuerda separar los residuos orgánicos segregados.
 
-Segundo: Recolecta material. Para el compost solo utilizaremos los residuos orgánicos de los tachos marro-
-nes. Puedes colocar bolsas o pequeños recipientes que motiven a todos a reciclar y participar en la elaboración 
+Segundo: Recolecta material. Para el compost solo utilizaremos los residuos orgánicos de los tachos marrones. Puedes colocar bolsas o pequeños recipientes que motiven a todos a reciclar y participar en la elaboración 
 de compost. El material café puede ser almacenado por mucho tiempo en sacos, bolsas o cajas, siempre que 
-no se humedezca. Este material te ayudará a controlar la humedad y los olores. El material verde debe ser in-
-corporado al proceso lo antes posible; no se recomienda almacenarlo por más de tres días, porque comienza a 
+no se humedezca. Este material te ayudará a controlar la humedad y los olores. El material verde debe ser incorporado al proceso lo antes posible; no se recomienda almacenarlo por más de tres días, porque comienza a 
 descomponerse y generará mal olor.
 
 http://www.casadelapaz.cl/manual-de-compost-y-humus-de-lombriz-casero/
@@ -5878,11 +5730,9 @@ Z_GUIA MARES 4DIC 2018.indd   71 12/5/18   1:20 AM
 
 Tercero: Arma la estructura. Luego de que has definido el tipo de recipiente, o si lo harás en una jaba 
 o directamente en un hoyo en el suelo, debes comenzar con una capa de material café (10 cm) que servirá 
-para retener los líquidos del material que pondremos encima. Después, una capa verde y continúa así alterna-
-damente, teniendo siempre presente que el material verde debe ser el doble que el material café. Una capa 
+para retener los líquidos del material que pondremos encima. Después, una capa verde y continúa así alternadamente, teniendo siempre presente que el material verde debe ser el doble que el material café. Una capa 
 de material café siempre debe cubrir el material verde, pues este nunca debe quedar expuesto. Aplica dichas 
-capas hasta que la superficie escogida (recipiente, hoyo o jaba) se colme y revuelve al menos una vez a la se-
-mana durante un mes. Luego deja reposar el material hasta que se complete el proceso y obtengas el sustrato.
+capas hasta que la superficie escogida (recipiente, hoyo o jaba) se colme y revuelve al menos una vez a la semana durante un mes. Luego deja reposar el material hasta que se complete el proceso y obtengas el sustrato.
 
 Datos:
 • Para que el proceso de descomposición sea óptimo, se necesita la presencia de aire. Cuando el material es
@@ -5911,23 +5761,19 @@ sabrás inmediatamente.
 
 • Si es en otoño-invierno, puede tardar alrededor de 8 meses.
 
-• Durante el primer mes de producción de compost, todavía es posible distinguir el tipo de material en pro-
-ceso de descomposición.
+• Durante el primer mes de producción de compost, todavía es posible distinguir el tipo de material en proceso de descomposición.
 
-• En los meses siguientes, se convertirán en un sustrato de color café claro, que se tornará más oscuro a me-
-dida que pasa el tiempo.
+• En los meses siguientes, se convertirán en un sustrato de color café claro, que se tornará más oscuro a medida que pasa el tiempo.
 
 • Las características físicas que te ayudan a reconocer si está listo o no son las siguientes:
 
-- Es de color marrón oscuro o negro, con un olor muy agradable a tierra de bosque. Su aspecto es homogé-
-neo, no se distinguen los restos orgánicos que has ido agregando.
+- Es de color marrón oscuro o negro, con un olor muy agradable a tierra de bosque. Su aspecto es homogéneo, no se distinguen los restos orgánicos que has ido agregando.
 
 - Es ligero, esponjoso y se disgrega en las manos.
 
 • Para verificar si está listo, puedes hacer dos pruebas:
 
-- Poner un poco de compost en una bolsa plástica, sin llenar, y anudarla. Si en dos días no presenta go-
-tas de agua por el interior de la bolsa, quiere decir que está listo; si las presenta, debe mantenerse un 
+- Poner un poco de compost en una bolsa plástica, sin llenar, y anudarla. Si en dos días no presenta gotas de agua por el interior de la bolsa, quiere decir que está listo; si las presenta, debe mantenerse un 
 tiempo más.
 
 - Otra manera es tomar un puñado de compost y apretarlo. Si corren gotas de agua, es que le falta un poco 
@@ -5949,8 +5795,7 @@ Capa blanca sobre el material.
 
 Material seco.
 
-La transformación del ma-
-terial es muy lenta.
+La transformación del material es muy lenta.
 
 Baja temperatura del material.
 
@@ -5991,8 +5836,7 @@ No representa problema.
 
 Añadir agua al voltear.
 
-Incrementar el volumen de material ver-
-de y voltear. 
+Incrementar el volumen de material verde y voltear. 
 Rociar la mezcla permanentemente con 
 agua.
 Proteger el material del sol directo con 
@@ -6031,8 +5875,7 @@ Los residuos peligrosos
 
 Residuos peligrosos son aquellos que, por sus características o el manejo al que son o van a ser sometidos, 
 representan un riesgo significativo para la salud o el ambiente24. Se considerarán peligrosos los que presenten 
-por lo menos una de las siguientes características: corrosividad, reactividad, explosividad, toxicidad, inflamabi-
-lidad, radiactividad o patogenicidad (biocontaminación).
+por lo menos una de las siguientes características: corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, radiactividad o patogenicidad (biocontaminación).
 
 ¿Cuándo un residuo peligroso se convierte en un riesgo?
 
@@ -6043,13 +5886,11 @@ suelo y/o agua y posibilitando su contacto con el ser humano y otros organismos 
 
 Impacto de las pilas y baterías
 
-La Agencia de Protección Ambiental de Estados Unidos de Norteamérica (EPA, por sus siglas en inglés) en-
-tiende las baterías como “un elemento que contiene una o más celdas electroquímicas que están diseñadas 
+La Agencia de Protección Ambiental de Estados Unidos de Norteamérica (EPA, por sus siglas en inglés) entiende las baterías como “un elemento que contiene una o más celdas electroquímicas que están diseñadas 
 para recibir, guardar y entregar energía”25. Se diferencia entre pila y batería, consistiendo la primera en una 
 celda única y la segunda en varias celdas interconectadas26. 
 Las pilas y baterías son artículos de consumo masivo que facilitan nuestro sistema de vida. Al terminar su 
-vida útil son mayormente eliminadas junto a residuos sólidos domiciliarios. Al llegar a los basurales, verte-
-deros o rellenos sanitarios, se degradan liberando su contenido altamente tóxico (por los metales pesados) 
+vida útil son mayormente eliminadas junto a residuos sólidos domiciliarios. Al llegar a los basurales, vertederos o rellenos sanitarios, se degradan liberando su contenido altamente tóxico (por los metales pesados) 
 al medio ambiente.
 
 Las 3 R de las pilas y baterías27
@@ -6066,15 +5907,13 @@ Si aplicamos las “3 R”, lo primero que debemos tratar de reducir es el consu
 sustituir los aparatos que necesitan pilas para funcionar por otros libres de ellas, ya sea porque no necesitan 
 electricidad o porque la obtienen de otras fuentes como pueden ser unas pequeñas placas solares.
 
-Otra opción es el uso de pilas recargables. Si bien el poder contaminante de estas es similar al de las pilas con-
-vencionales, su condición de “recargables” hace que se puedan usar cientos de veces antes de ser desechadas.
+Otra opción es el uso de pilas recargables. Si bien el poder contaminante de estas es similar al de las pilas convencionales, su condición de “recargables” hace que se puedan usar cientos de veces antes de ser desechadas.
 
 Z_GUIA MARES 4DIC 2018.indd   74 12/5/18   1:20 AM
 
 75
 
-En cuanto a la reutilización, la mayoría de los aparatos que utilizamos y, sobre todo, que utilizan los estudian-
-tes tienen una demanda de energía muy alta, por lo que las pilas se gastan muy rápido. Sin embargo, aquellas  
+En cuanto a la reutilización, la mayoría de los aparatos que utilizamos y, sobre todo, que utilizan los estudiantes tienen una demanda de energía muy alta, por lo que las pilas se gastan muy rápido. Sin embargo, aquellas  
 que ya no sirven para hacer funcionar, por ejemplo, la videoconsola o parlantes portátiles sí aportan la energía 
 necesaria para que funcione un reloj-despertador o el control remoto de la televisión o la radio.
 
@@ -6087,8 +5926,7 @@ un punto de recojo autorizado.
 
 Los estudiantes pueden indagar sobre los beneficios que supone el reciclaje de pilas. La mayoría de las veces en que 
 se habla de ello, se hace hincapié solo en cómo se evita contaminar el agua, el suelo o el aire. Sin embargo, el reciclaje 
-de pilas resulta también muy positivo desde el punto de vista del ahorro energético o de la disminución de la extrac-
-ción de recursos. Al depositar las pilas gastadas en un punto de recojo autorizado, podemos promover que se 
+de pilas resulta también muy positivo desde el punto de vista del ahorro energético o de la disminución de la extracción de recursos. Al depositar las pilas gastadas en un punto de recojo autorizado, podemos promover que se 
 reciclen el 65 % de los acumuladores de plomo-ácido, el 75 % de las pilas y acumuladores de níquel-cadmio, y 
 el 50 % del resto de las pilas.
 
@@ -6103,8 +5941,7 @@ Los residuos de aparatos eléctricos y electrónicos (RAEE)
 ¿Qué son los RAEE?
 
 Los RAEE son aparatos eléctricos o electrónicos que han alcanzado el fin de su vida útil por uso u obsolescencia 
-y que se convierten en residuos. Comprenden también los componentes, subconjuntos, periféricos y consumi-
-bles de algunas categorías de aparatos.
+y que se convierten en residuos. Comprenden también los componentes, subconjuntos, periféricos y consumibles de algunas categorías de aparatos.
 
 Los RAEE son una mezcla compleja de varios materiales, algunos de los cuales son materias primas escasas 
 y valiosas que ameritan ser recuperados (plástico, metales ferrosos y no ferrosos) y otros (mercurio, cadmio, 
@@ -6121,8 +5958,7 @@ Herramientas
 eléctricas y 
 electrónicas
 
-Juguetes  o equi-
-pos depor�vos y 
+Juguetes  o equipos depor�vos y 
 de �empo libre Aparatos médicos
 
 Instrumentos de 
@@ -6163,16 +5999,12 @@ Z_GUIA MARES 4DIC 2018.indd   76 12/5/18   1:20 AM
 
 EFECTOS DE LOS RAEE A LA SALUD Y EL AMBIENTE
 
-Si no se gestionan y tratan adecuadamente los RAEE, estos pueden liberar compuestos tóxicos y producir con-
-taminación y daños al ambiente, afectando el aire, agua o suelo y la salud humana, por sobrexposición sosteni-
-da a la liberación de componentes peligrosos, debido a una manipulación inadecuada de los RAEE.
+Si no se gestionan y tratan adecuadamente los RAEE, estos pueden liberar compuestos tóxicos y producir contaminación y daños al ambiente, afectando el aire, agua o suelo y la salud humana, por sobrexposición sostenida a la liberación de componentes peligrosos, debido a una manipulación inadecuada de los RAEE.
 
 Manejo adecuado de los RAEE
-Es por eso que todas las etapas de la gestión, desde su recolección, transporte, almacenamiento, reaprove-
-chamiento y disposición final, deben hacerse en unas condiciones seguras, sin mezclarse con otros residuos y 
+Es por eso que todas las etapas de la gestión, desde su recolección, transporte, almacenamiento, reaprovechamiento y disposición final, deben hacerse en unas condiciones seguras, sin mezclarse con otros residuos y 
 evitando manipulaciones o roturas que puedan liberar este tipo de sustancias peligrosas.
-Los planes de manejo de RAEE deben ser elaborados por los importadores, fabricantes, ensambladores y co-
-mercializadores de aparatos eléctricos y electrónicos (AEE). A diciembre del 2014 se cuenta con 38 planes de 
+Los planes de manejo de RAEE deben ser elaborados por los importadores, fabricantes, ensambladores y comercializadores de aparatos eléctricos y electrónicos (AEE). A diciembre del 2014 se cuenta con 38 planes de 
 RAEE. 
 Es importante destacar que no hay plantas de tratamiento de RAEE en las regiones. Estas solo se encuentran 
 en Lima.
@@ -6278,8 +6110,7 @@ económico es necesario pero no suficiente para acelerar la reducción del hambr
 Roma, Italia: FAO.
 
 Fundación Casa de la Paz. (2010). Compost y humus de lombriz. Manual de compost y humus de 
-lombriz casero. Recuperado de http://nuestraesfera.cl/wp-content/uploads/2014/06/Manual-
-Compost-y-Humus-.pdf
+lombriz casero. Recuperado de http://nuestraesfera.cl/wp-content/uploads/2014/06/ManualCompost-y-Humus-.pdf
 
 Meseldzic, Z. (2000). Contaminación ambiental en que vivimos en América Latina. Libro de consulta 
 para docentes y estudiantes (1.a ed.). Lima, Perú: APEDECCA.
@@ -6339,8 +6170,7 @@ residuos de aparatos eléctricos y electrónicos (RAEE)-Módulo de formación pa
 Recuperado de http://www.adeac.es/sites/default/files/archivos/M%C3%B3dulo%20de%20
 formaci%C3%B3n%20para%20educadores_revisado.pdf
 Blog WordPress.com. (2014). Enfermedades desde el punto de vista de un paciente. Tomado de 
-http://enfermedadespuntodevistadeunpaciente.wordpress.com/2014/12/07/la-contaminacion-de-
-los-envases-plasticos-polietileno-tereftalato-pet/
+http://enfermedadespuntodevistadeunpaciente.wordpress.com/2014/12/07/la-contaminacion-delos-envases-plasticos-polietileno-tereftalato-pet/
 Colectivo Paris-Educación. (2015). Para que 10 mil millones podamos convivir, cambiemos la educación. 
 Recuperado de: http://blog.pierre-calame.fr/public/ES_Paris-education2015-manifeste. pdf
 DIGESA. (2014) http://www.digesa.sld.pe/DSB/Registros/EC_REGISTRADAS- 
@@ -6365,8 +6195,7 @@ Ministerio del Ambiente. ¿Por qué el Perú es el tercer país más vulnerable 
 Recuperado de http://www.Minam.gob.pe/cambioclimatico/por-que-el-peru-es-el-tercer-pais-mas- 
 vulnerable-al-cambio-climático/
 Ministerio del Ambiente. (2014). Mañana se celebra el Día del Consumo Responsable. 
-Recuperado de http://www.Minam.gob.pe/notas-de-prensa/manana-se-celebra-el-dia-del-
-consumo-responsable-aprende-a-gastar-mejor-y-proteger-el-ambiente/24/
+Recuperado de http://www.Minam.gob.pe/notas-de-prensa/manana-se-celebra-el-dia-delconsumo-responsable-aprende-a-gastar-mejor-y-proteger-el-ambiente/24/
 Ministerio del Ambiente. Problemática de los residuos sólidos en el Perú. Recuperado de 
 http://www.Minam.gob.pe/proyecolegios/Ecolegios/contenidos/biblioteca/biblioteca/m1_rrss_
 A1L1_ Problematica_rrss_Peru.pdf
@@ -6376,8 +6205,7 @@ SENAMHI, Minam – PREVAED (Minedu). (2014). El fenómeno El Niño en el Perú. 
 http://www.Minam.gob.pe/wp-content/uploads/2014/07/Dossier-El-Ni%C3%B1o-Final_web.pdf
 Turnbull, M., Sterrett, L. y Hilleboe, A. (2013). Hacia la resiliencia. Una guía para la reducción del 
 riesgo de desastres y adaptación al cambio climático. Reino Unido: Catholic Relief Services. 
-Recuperado de http://www.caritaschile.org/diareducciondesastres2014/docs/ECB-hacia-la-
-resiliencia-Disaster-risk-reduction-Climate-Change-Adaptation-guide-espanol-spanish-2012.pdf
+Recuperado de http://www.caritaschile.org/diareducciondesastres2014/docs/ECB-hacia-laresiliencia-Disaster-risk-reduction-Climate-Change-Adaptation-guide-espanol-spanish-2012.pdf
 
 Z_GUIA MARES 4DIC 2018.indd   79 12/5/18   1:20 AM
 
@@ -6502,8 +6330,7 @@ gravemente su orden democrático, cualquier Estado Miembro o el Secretario Gener
 convocatoria inmediata del Consejo Permanente para realizar una apreciación colectiva de la situación y 
 adoptar las decisiones que estime conveniente. 
 El Consejo Permanente, según la situación, podrá disponer la realización de las gestiones diplomáticas 
-necesarias, incluidos los buenos oficios, para promover la normalización de la institucionalidad democráti-
-ca.
+necesarias, incluidos los buenos oficios, para promover la normalización de la institucionalidad democrática.
 Si las gestiones diplomáticas resultaren infructuosas o si la urgencia del caso lo aconsejare, el Consejo 
 Permanente convocará de inmediato un período extraordinario de sesiones de la Asamblea General para 
 que ésta adopte las decisiones que estime apropiadas, incluyendo gestiones diplomáticas, conforme a la 

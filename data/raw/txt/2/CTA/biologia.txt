@@ -287,15 +287,11 @@ Introducción
 
 El objetivo de este material es, por un lado, brindar una serie de
 
-ejemplos concretos del modo de trabajo 1:1 en esta disciplina: activi-
-
-dades innovadoras que explotan los nuevos recursos que están siendo
+ejemplos concretos del modo de trabajo 1:1 en esta disciplina: actividades innovadoras que explotan los nuevos recursos que están siendo
 
 puestos al alcance de docentes y alumnos, y que al mismo tiempo
 
-transmiten rigurosamente los conceptos necesarios para una educa-
-
-ción sólida.
+transmiten rigurosamente los conceptos necesarios para una educación sólida.
 
 Este material está dividido en tres partes:
 
@@ -309,24 +305,18 @@ Aborda la Biología desde un punto de vista social. Si bien los problemas presen
 
 están dentro del área de las Ciencias Naturales, incluyen ejemplos sobre cómo trabajar
 
-ciertos temas cuya problemática excede este campo, pero que no pueden ser enten-
-
-didos sin una comprensión de los aspectos biológicos. En este capítulo se incluyen
+ciertos temas cuya problemática excede este campo, pero que no pueden ser entendidos sin una comprensión de los aspectos biológicos. En este capítulo se incluyen
 
 temas relacionados con la salud, los derechos humanos y la ciudadanía en general, lo
 
 que propone un trabajo interdisciplinario, pues hay que integrar estas problemáticas
 
-“naturales” en el ámbito más amplio de la sociedad, que está discutiendo e intentan-
-
-do resolver estos y otros temas similares. A la vez, también implica entender que el
+“naturales” en el ámbito más amplio de la sociedad, que está discutiendo e intentando resolver estos y otros temas similares. A la vez, también implica entender que el
 
 conocimiento no se compone de compartimentos estancos e inmutables.
 
 Cómo hacer... 
-En esta sección podrán encontrar tutoriales para aprender a emplear diferentes pro-
-
-gramas, aplicaciones o páginas web.
+En esta sección podrán encontrar tutoriales para aprender a emplear diferentes programas, aplicaciones o páginas web.
 
 9
 
@@ -343,15 +333,11 @@ ió
 
 n
 
-Habitualmente, en los materiales utilizados en la educación secunda-
-
-ria, el conocimiento se presenta como un producto acabado, fuera de
+Habitualmente, en los materiales utilizados en la educación secundaria, el conocimiento se presenta como un producto acabado, fuera de
 
 toda discusión, lo que es mucho más sencillo cuando las problemáticas
 
-a transmitir son conceptos abstractos. ¿Quién va a discutir si la grave-
-
-dad es una fuerza o es la forma del espacio curvado, tal como proponen
+a transmitir son conceptos abstractos. ¿Quién va a discutir si la gravedad es una fuerza o es la forma del espacio curvado, tal como proponen
 
 las últimas teorías? Probablemente, nadie. Pero es diferente cuando se
 
@@ -363,19 +349,13 @@ inmediata. Encarar situaciones de ese tipo implica poner en duda los
 
 conocimientos y buscar alternativas. Y desarrollar, más que nunca, un
 
-pensamiento crítico que cuestione, en forma constructiva, el propio co-
-
-nocimiento científico, como la forma más segura de hacer e incentivar,
+pensamiento crítico que cuestione, en forma constructiva, el propio conocimiento científico, como la forma más segura de hacer e incentivar,
 
 justamente, un espíritu científico en la sociedad.
 
 El conocimiento es un potente modo de encontrar respuestas: aquí
 
-mostramos algunos de los vínculos que se pueden establecer particular-
-
-mente entre los conceptos biológicos y la resolución de algunas proble-
-
-máticas sociales.
+mostramos algunos de los vínculos que se pueden establecer particularmente entre los conceptos biológicos y la resolución de algunas problemáticas sociales.
 
 B
 io
@@ -392,9 +372,7 @@ Alrededor de la Biología
 Secuencia didáctica n.º 1
 ¿Qué es un modelo científico? Un ejemplo biológico
 
-La ciencia, como modo de conocer la realidad, construye modelos que se van suce-
-
-diendo a lo largo del tiempo y que sirven para entender algunos aspectos de la realidad,
+La ciencia, como modo de conocer la realidad, construye modelos que se van sucediendo a lo largo del tiempo y que sirven para entender algunos aspectos de la realidad,
 
 pero no son parte de ella.
 
@@ -404,9 +382,7 @@ mecanicista, que concibe la vida como la sumatoria de las partes, es decir, los 
 
 biológicos están hechos de partes y cada una de ellas cumple su función; y organicista,
 
-que concibe la vida como una propiedad emergente que requiere un proceso de desa-
-
-rrollo biológico para conformarse. El objetivo de esta secuencia es que los alumnos
+que concibe la vida como una propiedad emergente que requiere un proceso de desarrollo biológico para conformarse. El objetivo de esta secuencia es que los alumnos
 
 comprendan los alcances del conocimiento científico.
 
@@ -430,11 +406,7 @@ b) ¿Cómo toma vida el monstruo?
 
 Actividad 3. El sexto día, la vida se desarrolla
 
-1. Ahora, les sugerimos que miren un fragmento de la película El sexto día (2000), disponi-
-
-ble en:  http://www.youtube.com > Buscar: “6to día clonación” > clonación? [consul-
-
-tado el 2 de marzo de 2011], y luego pueden pedirles a sus alumnos que respondan:
+1. Ahora, les sugerimos que miren un fragmento de la película El sexto día (2000), disponible en:  http://www.youtube.com > Buscar: “6to día clonación” > clonación? [consultado el 2 de marzo de 2011], y luego pueden pedirles a sus alumnos que respondan:
 
 a) ¿Cómo está construido el cuerpo al que dan vida en El sexto día?
 
@@ -473,17 +445,13 @@ Secuencia didáctica n.º 2
 De las moléculas a los organismos: niveles 
 de organización y propiedades emergentes
 
-Toda la materia en nuestro universo se encuentra organizada en di-
-
-ferentes formas, y gracias al estudio de estas formas se pueden clasificar
+Toda la materia en nuestro universo se encuentra organizada en diferentes formas, y gracias al estudio de estas formas se pueden clasificar
 
 por estructuras. Desde la estructura atómica hasta la estructura de una
 
 estrella encontramos elementos diferenciados y equivalentes que podemos
 
-clasificar para comprender las relaciones entre los distintos niveles de or-
-
-ganización. Dentro de la Biología nos interesa comprender y clasificar las
+clasificar para comprender las relaciones entre los distintos niveles de organización. Dentro de la Biología nos interesa comprender y clasificar las
 
 estructuras moleculares básicas para la vida y las diferentes formas que
 
@@ -495,9 +463,7 @@ propiedades diferentes que aparecen en cada nuevo nivel de complejidad:
 
 se llaman propiedades emergentes.
 
-El objetivo de esta secuencia es que los alumnos comprendan los ni-
-
-veles de organización que tiene la materia y que puedan identificar las
+El objetivo de esta secuencia es que los alumnos comprendan los niveles de organización que tiene la materia y que puedan identificar las
 
 propiedades emergentes de cada uno de ellos. Para ello van a trabajar en
 
@@ -550,13 +516,9 @@ A este grupo se le puede sugerir que mire el episodio 9 de la serie Cosmos,
 
 de Carl Sagan, disponible en  http://www.youtube.com > Buscar: “Carl
 
-Sagan cosmos episodio 9 parte 2/7” > Cosmos Episodio 9 parte 2/7 [con-
+Sagan cosmos episodio 9 parte 2/7” > Cosmos Episodio 9 parte 2/7 [consultado el 2 de marzo de 2011], y que a partir de lo visto y analizado en el
 
-sultado el 2 de marzo de 2011], y que a partir de lo visto y analizado en el
-
-video grafiquen los átomos utilizando algún programa para dibujar. Tam-
-
-bién pueden jugar con adivinanzas, en un blog especialmente creado para
+video grafiquen los átomos utilizando algún programa para dibujar. También pueden jugar con adivinanzas, en un blog especialmente creado para
 
 eso, para descubrir de qué elemento se trata, dando para cada elemento una
 
@@ -569,19 +531,13 @@ este episodio. Deberán apoyarse en la tabla periódica de los elementos para
 conocer el número atómico. Pueden utilizar el programa EQTabla.
 
 Grupo 2. La formación de las moléculas
-Luego de leer el capítulo “Las moléculas” (Curtis Biología), pueden pe-
-
-dirle al grupo que realice una pequeña investigación para conocer la di-
-
-ferencia entre moléculas simples y moléculas complejas. Con ayuda del
+Luego de leer el capítulo “Las moléculas” (Curtis Biología), pueden pedirle al grupo que realice una pequeña investigación para conocer la diferencia entre moléculas simples y moléculas complejas. Con ayuda del
 
 programa BKchem, podrán trabajar en la construcción de las siguientes
 
 moléculas: agua, oxígeno molecular, ozono, carbono, sal común, glucosa,
 
-ácido sulfúrico y otras que ustedes consideren adecuadas. Al finalizar, ten-
-
-drán que exponer lo investigado y trabajado ante toda la clase.
+ácido sulfúrico y otras que ustedes consideren adecuadas. Al finalizar, tendrán que exponer lo investigado y trabajado ante toda la clase.
 
 http://escritoriodocentes.educ.
 ar/bkchem.html
@@ -636,22 +592,16 @@ Actividad de cierre. Niveles de organización
 
 1. Cuando cada grupo haya terminado, pueden realizar una presentación
 
-de no más de diez diapositivas en la que muestren los diferentes nive-
-
-les de organización, desde los elementos hasta las macromoléculas. Las
+de no más de diez diapositivas en la que muestren los diferentes niveles de organización, desde los elementos hasta las macromoléculas. Las
 
 presentaciones deben lograr explicar la siguiente afirmación:
 
 Secuencia didáctica n.º 3
 Ácidos nucleicos: adn y arn
 
-Los ácidos nucleicos son el ácido desoxirribonucleico (adn) y el ácido ribo-
+Los ácidos nucleicos son el ácido desoxirribonucleico (adn) y el ácido ribonucleico (arn). El adn porta la información genética que comanda la formación
 
-nucleico (arn). El adn porta la información genética que comanda la formación
-
-de un organismo completo y, junto con el arn, determina las bases del funcio-
-
-namiento celular a través de la expresión de la información que contienen.
+de un organismo completo y, junto con el arn, determina las bases del funcionamiento celular a través de la expresión de la información que contienen.
 
 Para ayudarse en esta actividad, 
 pueden leer los siguientes 
@@ -676,11 +626,7 @@ Cada nivel de organización incluye los niveles inferiores y constituye,
 
 a su vez, la base de los niveles superiores. Y lo que es más importante,
 
-cada nivel se caracteriza por poseer propiedades específicas y carac-
-
-terísticas que emergen en ese nivel y no existen en el anterior: las pro-
-
-piedades emergentes. Así, una molécula de agua tiene propiedades
+cada nivel se caracteriza por poseer propiedades específicas y características que emergen en ese nivel y no existen en el anterior: las propiedades emergentes. Así, una molécula de agua tiene propiedades
 
 diferentes de la suma de las propiedades de sus átomos constitutivos
 
@@ -690,9 +636,7 @@ tiene propiedades diferentes de las de sus moléculas constitutivas, y
 
 un organismo multicelular dado tiene propiedades nuevas y diferentes
 
-de las de sus células constitutivas. De todas las propiedades emergen-
-
-tes, sin duda la más sorprendente es la que surge en el nivel de una
+de las de sus células constitutivas. De todas las propiedades emergentes, sin duda la más sorprendente es la que surge en el nivel de una
 
 célula individual, y es nada menos que la vida.
 
@@ -745,21 +689,15 @@ Actividad 1. Estructura y función del adn
 
 El adn se encuentra constituido por nucleótidos: moléculas orgánicas
 
-compuestas a su vez por una base nitrogenada, un azúcar (la desoxirri-
-
-bosa) y un grupo fosfato. La información genética en el adn posibilita la
+compuestas a su vez por una base nitrogenada, un azúcar (la desoxirribosa) y un grupo fosfato. La información genética en el adn posibilita la
 
 síntesis del arn, y este la síntesis de proteínas, que se constituyen como los
 
-productos de expresión de la información genética. Estas proteínas pue-
-
-den tener dos tipos de funciones:
+productos de expresión de la información genética. Estas proteínas pueden tener dos tipos de funciones:
 
 	si tienen una función estructural, formarán parte de alguna de las
 
-estructuras de la célula, como por ejemplo la membrana plasmáti-
-
-ca, la envoltura nuclear, las mitocondrias, etcétera; y
+estructuras de la célula, como por ejemplo la membrana plasmática, la envoltura nuclear, las mitocondrias, etcétera; y
 
 	si su función es enzimática, habrán de catalizar reacciones químicas
 
@@ -771,15 +709,9 @@ A comienzos de la década de 1950 el biólogo estadounidense James
 
 Watson y el físico inglés Francis H. Crick comenzaron a estudiar el
 
-problema de la estructura molecular del adn. A partir de los resulta-
+problema de la estructura molecular del adn. A partir de los resultados de estudios anteriores, estos investigadores se abocaron a construir un modelo de la molécula de adn que concordara con los datos
 
-dos de estudios anteriores, estos investigadores se abocaron a cons-
-
-truir un modelo de la molécula de adn que concordara con los datos
-
-previamente conocidos y explicara su papel biológico. Armaron mo-
-
-delos de las moléculas con alambre y hojalata, para ensayar dónde
+previamente conocidos y explicara su papel biológico. Armaron modelos de las moléculas con alambre y hojalata, para ensayar dónde
 
 podía encajar cada pieza en el rompecabezas tridimensional. Si bien
 
@@ -832,9 +764,7 @@ portátiles y en:
 http://escritorioalumnos.educ.ar 
 > Programas > CmapTools.
 
-1962 recibieron el Premio Nobel por los descubrimientos concernien-
-
-tes a la estructura molecular de los ácidos nucleicos y su importancia
+1962 recibieron el Premio Nobel por los descubrimientos concernientes a la estructura molecular de los ácidos nucleicos y su importancia
 
 en la transferencia de información en la materia viva.
 
@@ -975,20 +905,14 @@ a
 
 5. Sugieran leer este texto y que luego respondan las consignas.
 
-a) ¿Cuál fue la importancia del trabajo de Rosalind Franklin en el des-
-
-cubrimiento de la estructura molecular del adn?
+a) ¿Cuál fue la importancia del trabajo de Rosalind Franklin en el descubrimiento de la estructura molecular del adn?
 
 b) ¿A qué atribuyen el hecho de que no haya sido reconocida como
 
-una investigadora clave en el descubrimiento de la estructura mole-
-
-cular del adn?
+una investigadora clave en el descubrimiento de la estructura molecular del adn?
 
 Rosalind Franklin y la estructura del adn
-Rosalind Franklin nació en Inglaterra el 25 de julio de 1920, y se gra-
-
-duó en la Universidad de Cambridge en 1941. Su trabajo sobre las
+Rosalind Franklin nació en Inglaterra el 25 de julio de 1920, y se graduó en la Universidad de Cambridge en 1941. Su trabajo sobre las
 
 microestructuras del carbón y del grafito fue la base de su doctorado
 
@@ -1002,11 +926,7 @@ King’s College, Cambridge. Para Rosalind esta era la oportunidad de
 
 aplicar sus conocimientos a la biología. En el laboratorio de Randall
 
-se cruzó su trabajo con el de Maurice Wilkins, ya que los dos se re-
-
-ferían al adn. Wilkins llevaba largo tiempo trabajando en el adn y ha-
-
-bía tomado la primera fotografía relativamente clara de su difracción
+se cruzó su trabajo con el de Maurice Wilkins, ya que los dos se referían al adn. Wilkins llevaba largo tiempo trabajando en el adn y había tomado la primera fotografía relativamente clara de su difracción
 
 cristalográfica. Había sido el primero en reconocer en esta los ácidos
 
@@ -1014,9 +934,7 @@ nucleicos y no estaba dispuesto a la competencia interna.
 
 Rosalind Franklin obtuvo una fotografía de difracción de rayos X que
 
-reveló, de manera inconfundible, la estructura helicoidal de la molécu-
-
-la de adn. Esa imagen, conocida hoy como la famosa “fotografía 51”,
+reveló, de manera inconfundible, la estructura helicoidal de la molécula de adn. Esa imagen, conocida hoy como la famosa “fotografía 51”,
 
 fue un respaldo experimental crucial para que  James Watson y Francis
 
@@ -1024,9 +942,7 @@ Crick establecieran, en 1953, la célebre hipótesis de la “doble hélice”
 
 que es característica de la estructura molecular del adn.
 
-En 1951, Watson había asistido a una clase de Franklin sobre el avan-
-
-ce de sus investigaciones. Rápidamente, con Francis Crick se pusieron
+En 1951, Watson había asistido a una clase de Franklin sobre el avance de sus investigaciones. Rápidamente, con Francis Crick se pusieron
 
 a la tarea de imaginar la estructura del adn y para ello trabajaron con
 
@@ -1034,9 +950,7 @@ modelos atómicos a escala. El intento fracasó. A principios de 1953
 
 Wilkins mostró a Watson una de las fotografías cristalográficas de
 
-Rosalind de la molécula de adn. Cuando Watson vio la foto, la solu-
-
-ción llegó a ser evidente para él y los resultados fueron publicados en
+Rosalind de la molécula de adn. Cuando Watson vio la foto, la solución llegó a ser evidente para él y los resultados fueron publicados en
 
 un artículo en Nature casi inmediatamente. Rosalind murió en Londres
 
@@ -1057,11 +971,7 @@ lo
 
 Actividad 2. Estructura y función del arn
 
-El arn (ácido ribonucleico) se sintetiza a partir de la información ge-
-
-nética presente en el adn. Al igual que este, se trata de un polímero for-
-
-mado por nucleótidos que se diferencian de los que constituyen el adn
+El arn (ácido ribonucleico) se sintetiza a partir de la información genética presente en el adn. Al igual que este, se trata de un polímero formado por nucleótidos que se diferencian de los que constituyen el adn
 
 por una base nitrogenada. Existen tres tipos de arn: uno de ellos lleva la
 
@@ -1073,9 +983,7 @@ la síntesis proteica.
 
 1. A partir del material citado en la bibliografía y en sitios de interés
 
-(pág. 39) recomendadas, sugerimos que les propongan a los estu-
-
-diantes responder las siguientes preguntas:
+(pág. 39) recomendadas, sugerimos que les propongan a los estudiantes responder las siguientes preguntas:
 
 a) ¿Cuál es la estructura del arn? ¿Qué bases nitrogenadas y azúcares
 
@@ -1087,9 +995,7 @@ cumplen?
 
 c) ¿Qué es la transcriptasa inversa? ¿En qué proceso participa?
 
-d) ¿Cuál es el producto del proceso de duplicación y cuál el de trans-
-
-cripción?
+d) ¿Cuál es el producto del proceso de duplicación y cuál el de transcripción?
 
 Actividad 3. arn y adn, ¿en qué se diferencian?
 
@@ -1097,9 +1003,7 @@ Actividad 3. arn y adn, ¿en qué se diferencian?
 
 nucleicos, sugerimos proponerles a los alumnos que respondan el
 
-siguiente “verdadero o falso”, y que argumenten todas sus res-
-
-puestas.
+siguiente “verdadero o falso”, y que argumenten todas sus respuestas.
 
 V FLa única diferencia en la estructura del adn y en la de arn radica en las bases nitrogenadas que los componen.
 
@@ -1253,23 +1157,17 @@ El sistema nervioso es el encargado de recibir, centralizar y procesar
 
 toda la información y las señales que provienen tanto del exterior como
 
-del interior del cuerpo, coordinando el control de las actividades metabó-
-
-licas, los órganos y la interacción con el medioambiente, incluyendo las
+del interior del cuerpo, coordinando el control de las actividades metabólicas, los órganos y la interacción con el medioambiente, incluyendo las
 
 emociones. Habitualmente se divide en sistema nervioso central, formado
 
-por el encéfalo y la médula (básicamente el cerebro y su extensión en la co-
-
-lumna), y el sistema nervioso periférico, formado por los nervios craneales
+por el encéfalo y la médula (básicamente el cerebro y su extensión en la columna), y el sistema nervioso periférico, formado por los nervios craneales
 
 y espinales, que emergen del sistema nervioso central y recorren todo el
 
 cuerpo. El sistema nervioso está constituido principalmente por neuronas,
 
-que serán el centro de esta secuencia. Se ha comparado al sistema ner-
-
-vioso central con una computadora: si esto fuera cierto, los axones de las
+que serán el centro de esta secuencia. Se ha comparado al sistema nervioso central con una computadora: si esto fuera cierto, los axones de las
 
 neuronas serían los cables.
 
@@ -1283,9 +1181,7 @@ neuronas son células y, como tales, tienen las mismas características que
 
 todas las células.
 
-1. Sugerimos proponerles a los alumnos que busquen información en Inter-
-
-net o en otras fuentes sobre las principales características morfológicas
+1. Sugerimos proponerles a los alumnos que busquen información en Internet o en otras fuentes sobre las principales características morfológicas
 
 de las neuronas y que luego las comparen con las de una célula eucariota.
 
@@ -1293,9 +1189,7 @@ Para ello, pueden armar y completar en una tabla, utilizando el programa
 
 de hojas de cálculo, un cuadro como el que se muestra a continuación:
 
-2. Una vez que cada alumno haya completado su tabla, se la puede en-
-
-viar por e-mail al compañero que se sienta a la derecha (que el último
+2. Una vez que cada alumno haya completado su tabla, se la puede enviar por e-mail al compañero que se sienta a la derecha (que el último
 
 Forma de la neurona humana.
 
@@ -1366,17 +1260,11 @@ este proceso, y se les puede proponer a los alumnos que respondan,
 
 de manera individual, la siguiente pregunta: ¿para qué creen que
 
-sirven las características morfológicas que son exclusivas de las neu-
-
-ronas?
+sirven las características morfológicas que son exclusivas de las neuronas?
 
 Actividad 2. Función de las neuronas
 
-Las neuronas logran cumplir su función de “cables” transportando im-
-
-pulsos nerviosos a lo largo de su estructura y a lo largo de la red de neu-
-
-ronas. Por lo tanto, el impulso nervioso viaja por dentro de las neuronas
+Las neuronas logran cumplir su función de “cables” transportando impulsos nerviosos a lo largo de su estructura y a lo largo de la red de neuronas. Por lo tanto, el impulso nervioso viaja por dentro de las neuronas
 
 pero también pasa de una neurona a la siguiente. Durante mucho tiempo,
 
@@ -1390,11 +1278,7 @@ defendía la idea de la transmisión del impulso mediante moléculas, una
 
 transmisión química.
 
-1. Para investigar ambas teorías, es recomendable trabajar en el aula ar-
-
-mando dos grupos: uno investigará la teoría eléctrica, y el otro la teo-
-
-ría química. La idea es que cada uno de ellos investigue estos aspectos
+1. Para investigar ambas teorías, es recomendable trabajar en el aula armando dos grupos: uno investigará la teoría eléctrica, y el otro la teoría química. La idea es que cada uno de ellos investigue estos aspectos
 
 de la teoría respectiva:
 
@@ -1412,9 +1296,7 @@ cuál de las dos teorías resultó ser la correcta o si ambas son correctas.
 
 Los alumnos pueden exponer los resultados de las investigaciones
 
-armando una presentación, que podrá ser enviada por e-mail o colo-
-
-cada en una carpeta compartida por todos los alumnos y el docente.
+armando una presentación, que podrá ser enviada por e-mail o colocada en una carpeta compartida por todos los alumnos y el docente.
 
 Sugerimos que la presentación se realice de manera grupal, y que
 
@@ -1442,9 +1324,7 @@ de las neuronas
 
 1. Una actividad que pueden proponerles a los alumnos es que describan
 
-y ubiquen ejemplos de haces de neuronas y redes neuronales en el cuer-
-
-po humano. Para ello pueden utilizar la información que se presenta
+y ubiquen ejemplos de haces de neuronas y redes neuronales en el cuerpo humano. Para ello pueden utilizar la información que se presenta
 
 en la webgrafía y en la bibliografía de referencia, o en otros libros y
 
@@ -1458,9 +1338,7 @@ modo individual, realicen al menos un dibujo electrónico con alguno
 
 de los programas para dibujar que tienen en los equipos portátiles,
 
-en el que se muestre una red neuronal o un haz de neuronas, sus ca-
-
-racterísticas principales y su ubicación en el cuerpo humano.
+en el que se muestre una red neuronal o un haz de neuronas, sus características principales y su ubicación en el cuerpo humano.
 
 Estos dibujos pueden ser colocados en un blog creado para trabajar
 
@@ -1470,9 +1348,7 @@ con un texto asociado que contenga información relacionada.
 
 Actividad de cierre. Alzheimer y otras enfermedades
 
-Para entender finalmente la importancia de todos los conceptos apren-
-
-didos en esta secuencia, les proponemos una actividad que les permitirá
+Para entender finalmente la importancia de todos los conceptos aprendidos en esta secuencia, les proponemos una actividad que les permitirá
 
 a los alumnos observar cómo la posibilidad de tratar y entender algunas
 
@@ -1484,11 +1360,7 @@ hablar de ciertas cosas, de Canal Encuentro, que tratan sobre adicciones.
 
 2. Luego, y para ampliar hacia otras problemáticas y enfermedades, los
 
-alumnos pueden contactarse con algún centro de tratamiento de en-
-
-fermedades neurológicas. Internet es una gran aliada a la hora de acer-
-
-car las distancias y permite establecer comunicaciones con personas e
+alumnos pueden contactarse con algún centro de tratamiento de enfermedades neurológicas. Internet es una gran aliada a la hora de acercar las distancias y permite establecer comunicaciones con personas e
 
 instituciones alejadas geográficamente.
 
@@ -1496,9 +1368,7 @@ instituciones alejadas geográficamente.
 
 se quieran relevar y realizar un cuestionario modelo para armar las
 
-entrevistas que se harán, que podrán realizarse vía e-mail o por telé-
-
-fono. Es conveniente registrar la entrevista en los medios que resulten
+entrevistas que se harán, que podrán realizarse vía e-mail o por teléfono. Es conveniente registrar la entrevista en los medios que resulten
 
 disponibles.
 
@@ -1535,9 +1405,7 @@ editar el audio o el texto, eliminando las partes desprolijas, y colocarla
 
 en el blog de la escuela o uno creado para la materia.
 
-Una práctica sugerida es que todos los alumnos miren todas las en-
-
-trevistas y agreguen en cada una de ellas una pregunta o reflexión en
+Una práctica sugerida es que todos los alumnos miren todas las entrevistas y agreguen en cada una de ellas una pregunta o reflexión en
 
 el blog. Estas inquietudes serán respondidas por los integrantes del
 
@@ -1558,9 +1426,7 @@ Podrán usar las siguientes preguntas como guía:
 
 neuronas son las más frecuentes en nuestro país?
 
-2. ¿Cómo se previene cada una de esas enfermedades? Sugerimos des-
-
-glosar la pregunta según cada enfermedad.
+2. ¿Cómo se previene cada una de esas enfermedades? Sugerimos desglosar la pregunta según cada enfermedad.
 
 3. ¿Existen tratamientos para estas enfermedades? ¿Cuáles?
 
@@ -1577,15 +1443,11 @@ qué?
 Secuencia didáctica n.º 5
 ¿Qué son y cómo actúan las hormonas?
 
-La comunicación intercelular es fundamental para regular el desarro-
-
-llo celular y su organización en tejidos. A su vez, estos deben controlar
+La comunicación intercelular es fundamental para regular el desarrollo celular y su organización en tejidos. A su vez, estos deben controlar
 
 su crecimiento y división, mientras que sus diversas actividades deben
 
-estar coordinadas con el resto de los tejidos. ¿Cómo se logra esa coordi-
-
-nación? ¿Quiénes son los encargados de decidir si un tejido debe seguir
+estar coordinadas con el resto de los tejidos. ¿Cómo se logra esa coordinación? ¿Quiénes son los encargados de decidir si un tejido debe seguir
 
 creciendo o si un órgano debe parar su actividad? ¿Cómo se comunica
 
@@ -1633,33 +1495,21 @@ a
 
 Actividad 1. La era de la comunicación
 
-Las hormonas funcionan como mensajeros químicos del cuerpo huma-
-
-no. Son sustancias producidas por diferentes tejidos especializados y que
+Las hormonas funcionan como mensajeros químicos del cuerpo humano. Son sustancias producidas por diferentes tejidos especializados y que
 
 viajan a través del torrente circulatorio hacia una célula distante donde
 
 ejercen sus efectos característicos de comunicación.
 
-1. Pueden sugerir a sus alumnos que visiten los siguientes enlaces para co-
+1. Pueden sugerir a sus alumnos que visiten los siguientes enlaces para conocer más sobre las hormonas y su funcionamiento:
 
-nocer más sobre las hormonas y su funcionamiento:
+Comunicación intercelular y transmisión de señales:  http://www.genomasur.com/lecturas/Guia07.htm [consultado el 4 de febrero de 2011].
 
-Comunicación intercelular y transmisión de señales:  http://www.geno-
+Definición de hormona:  http://es.wikipedia.org/wiki/Hormona [consultado el 4 de febrero de 2011].
 
-masur.com/lecturas/Guia07.htm [consultado el 4 de febrero de 2011].
+2. Luego de navegar los enlaces, pueden pedirles que respondan las siguientes preguntas:
 
-Definición de hormona:  http://es.wikipedia.org/wiki/Hormona [con-
-
-sultado el 4 de febrero de 2011].
-
-2. Luego de navegar los enlaces, pueden pedirles que respondan las si-
-
-guientes preguntas:
-
-a) ¿En qué dos grandes grupos se pueden clasificar las hormonas se-
-
-gún su estructura química?
+a) ¿En qué dos grandes grupos se pueden clasificar las hormonas según su estructura química?
 
 b) ¿Qué diferencia existe en su transporte y mecanismo de acción en
 
@@ -1704,11 +1554,7 @@ Actividad 2. ¿Quién ordena a las hormonas?
 
 1. Después de haber estudiado la gran cantidad de hormonas que hay
 
-en el cuerpo y todas las actividades que cumplen, es conveniente estu-
-
-diar el complejo sistema al que responden. A continuación presenta-
-
-mos una lista de enlaces para que los alumnos consulten en busca de
+en el cuerpo y todas las actividades que cumplen, es conveniente estudiar el complejo sistema al que responden. A continuación presentamos una lista de enlaces para que los alumnos consulten en busca de
 
 información sobre el sistema endocrino del cuerpo humano:
 
@@ -1718,33 +1564,23 @@ spanish/ency/anatomyvideos/000048.htm [consultado el 4 de febrero
 
 de 2011].
 
-Endo 101: El sistema endocrino, artículo sobre el sistema endocrino, dis-
-
-ponible en:  http://www.hormone.org/Spanish/sistema_endocrino/
+Endo 101: El sistema endocrino, artículo sobre el sistema endocrino, disponible en:  http://www.hormone.org/Spanish/sistema_endocrino/
 
 sistema_endocrino.cfm [consultado el 4 de febrero de 2011].
 
 2. Luego de visitar y estudiar los enlaces anteriores, los alumnos podrán:
 
-a) Enumerar los componentes del sistema endocrino que se mencio-
-
-nan en el video, determinar si existe una jerarquía en los componen-
-
-tes y responder quién da las órdenes principales.
+a) Enumerar los componentes del sistema endocrino que se mencionan en el video, determinar si existe una jerarquía en los componentes y responder quién da las órdenes principales.
 
 b) Discutir en grupos a través de un chat qué pasaría si las glándulas
 
-endocrinas no respondieran a las órdenes que les da el sistema ner-
-
-vioso, y qué modo de comunicación usan las glándulas endocrinas
+endocrinas no respondieran a las órdenes que les da el sistema nervioso, y qué modo de comunicación usan las glándulas endocrinas
 
 para detener una orden del hipotálamo.
 
 Actividad de cierre. Las plantas también son seres vivos
 
-1. Si bien los estudios sobre hormonas vegetales todavía no están muy de-
-
-sarrollados, hay bastante información al respecto. Los alumnos podrán
+1. Si bien los estudios sobre hormonas vegetales todavía no están muy desarrollados, hay bastante información al respecto. Los alumnos podrán
 
 buscar información sobre las fitohormonas (hormonas vegetales) y sus
 
@@ -1793,13 +1629,7 @@ a
 
 Las ciencias en nuestra vida
 
-Este capítulo está pensado con un objetivo doble. Por un lado, incorporar nuevos co-
-
-nocimientos de las Ciencias Naturales y de la Biología y, por otro, observar cómo son uti-
-
-lizados algunos de los conocimientos trabajados en el capítulo 1 en la resolución de pro-
-
-blemáticas concretas, lo que implica, entre otras cuestiones, repensar ese conocimiento.
+Este capítulo está pensado con un objetivo doble. Por un lado, incorporar nuevos conocimientos de las Ciencias Naturales y de la Biología y, por otro, observar cómo son utilizados algunos de los conocimientos trabajados en el capítulo 1 en la resolución de problemáticas concretas, lo que implica, entre otras cuestiones, repensar ese conocimiento.
 
 Secuencia didáctica n.º 6
 El cuerpo como construcción histórica
@@ -1810,9 +1640,7 @@ entendiendo como “estar” tanto la vida física como la emocional. Por lo men
 
 el momento, y a pesar de las fantasías digitales que nos muestran muchas películas, la
 
-corporalidad o corporeidad es la única forma que tenemos de interactuar con la reali-
-
-dad. El cuerpo es un espacio personal, al mismo tiempo que público. Lo usamos para
+corporalidad o corporeidad es la única forma que tenemos de interactuar con la realidad. El cuerpo es un espacio personal, al mismo tiempo que público. Lo usamos para
 
 mostrarnos y lo utilizan para controlarnos. Veamos cómo.
 
@@ -1822,17 +1650,11 @@ El objetivo de esta secuencia es reflexionar acerca del cuerpo y aprender a pens
 
 Actividad 1. Definiciones de cuerpo y corporeidad
 
-1. Les sugerimos que les pidan a sus alumnos que busquen definiciones y conceptuali-
-
-zaciones sobre el cuerpo, en especial que indaguen cómo ha sido abordada la proble-
-
-mática desde las Ciencias Sociales, particularmente desde la Antropología de la salud
+1. Les sugerimos que les pidan a sus alumnos que busquen definiciones y conceptualizaciones sobre el cuerpo, en especial que indaguen cómo ha sido abordada la problemática desde las Ciencias Sociales, particularmente desde la Antropología de la salud
 
 y la Sociología del cuerpo.
 
-2. Luego, les sugerimos organizar una puesta en común en la que se incorporen: las pa-
-
-labras sueltas, frases o conceptos que encontraron. Con esta información y utilizando
+2. Luego, les sugerimos organizar una puesta en común en la que se incorporen: las palabras sueltas, frases o conceptos que encontraron. Con esta información y utilizando
 
 el programa Cmap Tools, podrán elaborar un mapa conceptual.
 
@@ -1842,9 +1664,7 @@ Actividad 2. El cuerpo como espacio de lucha
 
 manera individual, sus ideas sobre alguna de estas consignas:
 
-• El cuerpo es un espacio de comunicación. La moda, la ropa, los tatuajes son for-
-
-2
+• El cuerpo es un espacio de comunicación. La moda, la ropa, los tatuajes son for2
 
 Disponible en los 
 equipos portátiles
@@ -1875,8 +1695,7 @@ chicos y mujeres, se han comerciado esclavos. Pero también se
 
 intercambian legal o ilegalmente partes de cuerpos, órganos.
 
-• Mi cuerpo es mío, pero al mismo tiempo es de la sociedad, del Es-
-tado, de mis padres… ¿De quién es el cuerpo de cada uno?
+• Mi cuerpo es mío, pero al mismo tiempo es de la sociedad, del Estado, de mis padres… ¿De quién es el cuerpo de cada uno?
 
 
 
@@ -1896,16 +1715,12 @@ demasiado establecidos, lo importante es que cada alumno desarrolle
 
 una visión crítica sobre la problemática, conociendo lo más posible al
 
-respecto. Para ello, sugerimos realizar un blog para continuar debatien-
-
-do el tema del cuerpo en un ámbito de expresión libre.
+respecto. Para ello, sugerimos realizar un blog para continuar debatiendo el tema del cuerpo en un ámbito de expresión libre.
 
 Secuencia didáctica n.º 7
 Enfermedad de Chagas
 
-Es curioso que la enfermedad más importante del continente ame-
-
-ricano se conozca con el nombre esotérico de “mal”. En esta secuencia
+Es curioso que la enfermedad más importante del continente americano se conozca con el nombre esotérico de “mal”. En esta secuencia
 
 aprenderemos un poco sobre la enfermedad de Chagas y los motivos de
 
@@ -1970,13 +1785,11 @@ seguiremos a través de diferentes hospedadores.
 
 2. Luego, pueden proponer un debate partiendo de estas dos preguntas:
 
-• ¿En qué etapas de este ciclo de vida les parece que se puede interve-
-nir para controlar la enfermedad?
+• ¿En qué etapas de este ciclo de vida les parece que se puede intervenir para controlar la enfermedad?
 
 • ¿Cómo imaginan esa intervención?
 
-La enfermedad de Chagas-
-Mazza posee un “ciclo de vida”
+La enfermedad de ChagasMazza posee un “ciclo de vida”
 
 complejo. Para entenderla, es 
 necesario comprender el ciclo de
@@ -1989,9 +1802,7 @@ En el insecto
 
 Las vinchucas nacen libres de infección. Se infectan al alimentarse del
 
-hombre o de animales infectados. Cuando el insecto pica a un hués-
-
-ped infectado, algunos parásitos pasan a él a través de la sangre. En
+hombre o de animales infectados. Cuando el insecto pica a un huésped infectado, algunos parásitos pasan a él a través de la sangre. En
 
 el interior del insecto se reproducen. Después pasan al recto. Allí se
 
@@ -2052,9 +1863,7 @@ La idea es que, para completar el informe previamente realizado, les
 
 sugieran a sus alumnos que realicen entrevistas a diferentes personas
 
-involucradas en la temática; pueden ser médicos, enfermeros, volun-
-
-tarios sociales, personas que padecen o padecieron la enfermedad,
+involucradas en la temática; pueden ser médicos, enfermeros, voluntarios sociales, personas que padecen o padecieron la enfermedad,
 
 entre otros. Las entrevistas podrán realizarse personalmente o por
 
@@ -2064,8 +1873,7 @@ A continuación, les brindamos algunas preguntas que los guiarán en la
 
 investigación y en las entrevistas:
 
-• ¿Cuáles son las acciones concretas que se realizan contra la enfer-
-medad?
+• ¿Cuáles son las acciones concretas que se realizan contra la enfermedad?
 
 • ¿Cuántos enfermos de Chagas hay en la localidad / municipio / 
 paraje, provincia / país?
@@ -2084,16 +1892,12 @@ investigación o la entrevista.
 
 Por último, pueden proponer a los alumnos comparar el resultado de
 
-las entrevistas con las ideas que surgieron en la actividad anterior y tra-
-
-tar de responder esta pregunta: ¿creen que se hace lo suficiente para
+las entrevistas con las ideas que surgieron en la actividad anterior y tratar de responder esta pregunta: ¿creen que se hace lo suficiente para
 
 combatir esta enfermedad?
 
 Disponible en:  http://www.
-encuentro.gov.ar/nota-1583-
-Video-Enfermedad-de-Chagas-
-Mazza.html > Espacio docente 
+encuentro.gov.ar/nota-1583Video-Enfermedad-de-ChagasMazza.html > Espacio docente 
 > Galería multimedia > Mostrar: 
 por temas: Ciencias Naturales > 
 página 3 > Video: Enfermedad de 
@@ -2117,9 +1921,7 @@ a
 
 Actividad de cierre. Casas de fuego
 
-1. Les sugerimos que junto con sus alumnos vean la película Casas de fue-
-
-go, de 1995 y dirigida por Juan B. Stagnaro, que relata la vida y la lucha
+1. Les sugerimos que junto con sus alumnos vean la película Casas de fuego, de 1995 y dirigida por Juan B. Stagnaro, que relata la vida y la lucha
 
 del doctor Salvador Mazza y su esfuerzo para encontrar una cura para
 
@@ -2143,17 +1945,13 @@ de las técnicas de filiación. Con el descubrimiento del adn, las técnicas se
 
 volvieron más complejas y más precisas.
 
-El objetivo de esta secuencia es que los alumnos conozcan las princi-
-
-pales técnicas de identificación y de filiación de personas y entiendan la
+El objetivo de esta secuencia es que los alumnos conozcan las principales técnicas de identificación y de filiación de personas y entiendan la
 
 importancia que tienen en diferentes contextos.
 
 Actividad 1. Contexto histórico
 
-En 1982, la organización Abuelas de Plaza de Mayo, con el fin de bus-
-
-car métodos para identificar a sus nietos sustraídos durante la dictadura
+En 1982, la organización Abuelas de Plaza de Mayo, con el fin de buscar métodos para identificar a sus nietos sustraídos durante la dictadura
 
 militar, se puso en contacto con el doctor Víctor Penchaszadeh, médico
 
@@ -2173,9 +1971,7 @@ persona determinada.
 
 fuentes el tema y que respondan siguientes preguntas:
 
-a) ¿Quiénes son las Abuelas de Plaza de Mayo? ¿Por qué se organi-
-
-zaron?
+a) ¿Quiénes son las Abuelas de Plaza de Mayo? ¿Por qué se organizaron?
 
 Disponible en:  http://
 descargas.encuentro.gov.ar/
@@ -2197,9 +1993,7 @@ lo
 
 2
 
-b) ¿Cuáles eran las técnicas para identificación de personas disponi-
-
-bles en 1982?
+b) ¿Cuáles eran las técnicas para identificación de personas disponibles en 1982?
 
 c) ¿Había gente en la Argentina capacitada para implementar estas
 
@@ -2250,8 +2044,7 @@ trabajados sobre el adn. Las siguientes preguntas pueden orientar la
 
 investigación:
 
-• ¿Qué partes del adn se utilizan para establecer las relaciones de paren-
-tesco?
+• ¿Qué partes del adn se utilizan para establecer las relaciones de parentesco?
 
 • ¿A qué se llama huella genética o fingerprint?
 • ¿Qué son las secuencias repetitivas?
@@ -2263,9 +2056,7 @@ técnicas?
 
 o película en la que se realice un trabajo forense, observen si se llevan a
 
-cabo los procedimientos necesarios para tomar y conservar las mues-
-
-tras que se detallan en el cuadro de las páginas siguientes.
+cabo los procedimientos necesarios para tomar y conservar las muestras que se detallan en el cuadro de las páginas siguientes.
 
 B
 io
@@ -2402,25 +2193,17 @@ lo
 
 2
 
-1. Pueden proponer esta actividad a fin de conocer la situación en nues-
-
-tro país. Para eso, sugieran investigar en Internet qué instituciones
+1. Pueden proponer esta actividad a fin de conocer la situación en nuestro país. Para eso, sugieran investigar en Internet qué instituciones
 
 realizan este tipo de análisis y qué técnicas utilizan.
 
 2. Una vez obtenido el listado de instituciones, pueden armar pequeños
 
-grupos para que realicen una entrevista y así investigar una institu-
-
-ción. Si las entrevistas son en video, sugerimos editarlas utilizando el
+grupos para que realicen una entrevista y así investigar una institución. Si las entrevistas son en video, sugerimos editarlas utilizando el
 
 programa de edición de videos que tienen instalado en sus equipos
 
-portátiles (Movie Maker). Luego, cada grupo puede publicar su en-
-
-trevista en un blog o a una carpeta compartida. A continuación suge-
-
-rimos algunas preguntas para el cuestionario:
+portátiles (Movie Maker). Luego, cada grupo puede publicar su entrevista en un blog o a una carpeta compartida. A continuación sugerimos algunas preguntas para el cuestionario:
 
 • ¿Las técnicas de adn resuelven todos los casos de identificación y 
 filiación?
@@ -2429,17 +2212,13 @@ filiación?
 establecer una identificación?
 
 • ¿Cuánto demora el análisis?
-• ¿Cuántos análisis de este tipo se realizan anualmente en esa ins-
-
-titución?
+• ¿Cuántos análisis de este tipo se realizan anualmente en esa institución?
 
 
 
 Actividad de cierre. Un caso policial
 
-1. Sugerimos publicar el siguiente enigma en un blog, así los alumnos po-
-
-drán resolverlo y compartir sus comentarios. Luego se puede organizar
+1. Sugerimos publicar el siguiente enigma en un blog, así los alumnos podrán resolverlo y compartir sus comentarios. Luego se puede organizar
 
 un debate para poner en común los contenidos.
 
@@ -2449,9 +2228,7 @@ a) ¿Se puede determinar quién fue el asesino? ¿Cómo sería posible?
 
 b) ¿Se puede determinar si el bebé es hijo de la mujer asesinada?
 
-c) ¿Se puede determinar si entre la mujer y el asesino existe algún pa-
-
-rentesco?
+c) ¿Se puede determinar si entre la mujer y el asesino existe algún parentesco?
 
 La policía llega a una casa en la que encuentra una mujer asesinada
 
@@ -2518,12 +2295,9 @@ determinada información en Internet.
 
 Cómo buscar
 
-Por temas. Los buscadores suelen organizar la información por directo-
-rios temáticos. Al ingresar al tema que consideramos que corresponde a 
+Por temas. Los buscadores suelen organizar la información por directorios temáticos. Al ingresar al tema que consideramos que corresponde a 
 la información buscada (por ejemplo, Arte y cultura), aparece un listado 
-de subtemas (por ejemplo, Artes plásticas, Artistas, Museos y centros cul-
-turales, etc.). Ingresando en los sucesivos subtemas propuestos (por ejem-
-plo, Arte y cultura > Artes plásticas > Pinturas > Grandes maestros > Berni
+de subtemas (por ejemplo, Artes plásticas, Artistas, Museos y centros culturales, etc.). Ingresando en los sucesivos subtemas propuestos (por ejemplo, Arte y cultura > Artes plásticas > Pinturas > Grandes maestros > Berni
 
 www.altavista.comAltaVista www.excite.comExcite
 
@@ -2564,8 +2338,7 @@ confiable y pertinente.
 Antonio) se llega a los sitios que el buscador ha seleccionado para el tema 
 específico.
 
-Por clave de búsqueda. La clave de búsqueda puede ser un tema, palabra, fra-
-se o nombre que permita establecer un criterio lo más específico posible para 
+Por clave de búsqueda. La clave de búsqueda puede ser un tema, palabra, frase o nombre que permita establecer un criterio lo más específico posible para 
 acotar los resultados.
 
 B
@@ -2581,17 +2354,14 @@ a
 Cómo hacer una búsqueda en Internet
 
 Cómo armar la clave de búsqueda (sintaxis)
-Es necesario tener en cuenta que cada sitio tiene sus propias opciones de búsque-
-da. Las opciones que se exponen en este apartado constituyen sólo una muestra.
+Es necesario tener en cuenta que cada sitio tiene sus propias opciones de búsqueda. Las opciones que se exponen en este apartado constituyen sólo una muestra.
 
-Lenguaje natural: una forma de plantear la búsqueda consiste en escribir sen-
-cillamente lo que se desea encontrar, por ejemplo: Internet en educación. El riesgo 
+Lenguaje natural: una forma de plantear la búsqueda consiste en escribir sencillamente lo que se desea encontrar, por ejemplo: Internet en educación. El riesgo 
 es que los aciertos incluyan páginas web en las que aparece cada una de las 
 palabras incluidas en la clave de búsqueda (por ejemplo, en) y no sólo aquellas 
 en las que aparece la frase completa.
 
-Frases literales: si se desea encontrar las páginas web que contienen una determi-
-nada frase, conviene escribirla entre comillas, por ejemplo: “Internet en educación”.
+Frases literales: si se desea encontrar las páginas web que contienen una determinada frase, conviene escribirla entre comillas, por ejemplo: “Internet en educación”.
 
 Términos requeridos y términos por excluir: para especificar una búsqueda, 
 algunos buscadores proponen la utilización del símbolo “+” (más) junto a la 
@@ -2606,13 +2376,10 @@ sintaxis hará que se consideren en la búsqueda las páginas que incluyen no s�
 la palabra “lengua”, sino también “lenguas”, “lenguaje”, “lenguajes”.
 
 Búsqueda avanzada: cada sitio propone un conjunto de opciones para acotar 
-aún más los resultados de una búsqueda, como por ejemplo, fecha de publica-
-ción o modificación de la página, y el idioma de las páginas.
+aún más los resultados de una búsqueda, como por ejemplo, fecha de publicación o modificación de la página, y el idioma de las páginas.
 
-Mayúsculas y minúsculas: para algunos buscadores es indiferente que se es-
-criban los términos de búsqueda con mayúsculas o minúsculas (por ejemplo, 
-“Internet”, “internet” o “internet”). Pero, en general, es recomendable usar so-
-lamente letras en minúscula para que el resultado incluya todas las páginas que 
+Mayúsculas y minúsculas: para algunos buscadores es indiferente que se escriban los términos de búsqueda con mayúsculas o minúsculas (por ejemplo, 
+“Internet”, “internet” o “internet”). Pero, en general, es recomendable usar solamente letras en minúscula para que el resultado incluya todas las páginas que 
 contengan esos términos, sea como fuere que estén escritos.
 
 Uso de tildes: algunos buscadores no toman en cuenta la ausencia de tilde 
@@ -2748,9 +2515,7 @@ eduC.ar: “El uso de la información genética ¿para curar o para marginar? Lo
 
 bioética”.
 
-http://www.educ.ar/educar/el-uso-de-la-informacion-genetica-para-curar-o-para-margi-
-
-nar-los-nuevos-desafios-de-la-bioetica.html
+http://www.educ.ar/educar/el-uso-de-la-informacion-genetica-para-curar-o-para-marginar-los-nuevos-desafios-de-la-bioetica.html
 
 eduC.ar: “¿Podemos leer el libro de la vida?”.
 

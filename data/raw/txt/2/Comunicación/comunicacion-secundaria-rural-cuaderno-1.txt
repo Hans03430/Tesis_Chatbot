@@ -1183,8 +1183,7 @@ Observa los pasos para descubrir el significado de una palabra:
 
 1. Lee el texto y las oraciones que rodean a la palabra condujo.
 
-“Después buscó al cóndor para suplicarle que lo llevara a donde estaban las es-
-trellas que habían huido, y el ave lo condujo hacia ese lugar”.
+“Después buscó al cóndor para suplicarle que lo llevara a donde estaban las estrellas que habían huido, y el ave lo condujo hacia ese lugar”.
 
 2. Analiza el texto que está antes y después de la palabra condujo. Ello te dará señales 
 sobre su significado.
@@ -1453,9 +1452,7 @@ saludable la masa
 muscular. También
 
 ayuda a fortalecer 
-el sistema inmu-
-
-nológico.
+el sistema inmunológico.
 
 Antioxidante, buena 
 fuente de azufre para 
@@ -2246,7 +2243,6 @@ a
 m
 u
 
--
 n
 
 o
@@ -3618,9 +3614,7 @@ a
 5
 0
 0
- -
-
-3
+ 3
 5
 0
 0
@@ -3643,9 +3637,7 @@ i
 5
 0
 0
- -
-
-4
+ 4
 0
 0
 0
@@ -3714,8 +3706,6 @@ i.
 50
 
 0 
--
-
 40
 00
 
@@ -4046,9 +4036,7 @@ saludable la masa
 muscular. También
 
 ayuda a fortalecer 
-el sistema inmu-
-
-nológico.
+el sistema inmunológico.
 
 Antioxidante, buena 
 fuente de azufre para 

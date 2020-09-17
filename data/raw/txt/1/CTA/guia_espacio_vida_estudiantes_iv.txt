@@ -14,68 +14,53 @@ El 10 de diciembre de 1948, la Asamblea General de las Naciones Unidas aprobó y
 de Derechos Humanos, cuyos artículos figuran a continuación:
 Artículo 1.- Todos los seres humanos nacen libres e iguales en dignidad y derechos y (...) deben 
 comportarse fraternalmente los unos con los otros.
-Artículo 2.- Toda persona tiene todos los derechos y libertades proclamados en esta Declara-
-ción, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier 
+Artículo 2.- Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier 
 otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición. 
 Además, no se hará distinción alguna fundada en la condición política, jurídica o internacional 
 del país o territorio de cuya jurisdicción dependa una persona (...).
 Artículo 3.- Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.
 Artículo 4.- Nadie estará sometido a esclavitud ni a servidumbre; la esclavitud y la trata de 
 esclavos están prohibidas en todas sus formas.
-Artículo 5.- Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degra-
-dantes.
-Artículo 6.- Todo ser humano tiene derecho, en todas partes, al reconocimiento de su perso-
-nalidad jurídica.
+Artículo 5.- Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.
+Artículo 6.- Todo ser humano tiene derecho, en todas partes, al reconocimiento de su personalidad jurídica.
 Artículo 7.- Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección 
 de la ley. Todos tienen derecho a igual protección contra toda discriminación que infrinja esta 
 Declaración (...).
 Artículo 8.- Toda persona tiene derecho a un recurso efectivo, ante los tribunales nacionales 
 competentes, que la ampare contra actos que violen sus derechos fundamentales (...).
 Artículo 9.- Nadie podrá ser arbitrariamente detenido, preso ni desterrado.
-Artículo 10.- Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públi-
-camente y con justicia por un tribunal independiente e imparcial, para la determinación de sus 
+Artículo 10.- Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial, para la determinación de sus 
 derechos y obligaciones o para el examen de cualquier acusación contra ella en materia penal.
-Artículo 11.-
-1. Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se
+Artículo 11.1. Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se
 pruebe su culpabilidad (...).
 2. Nadie será condenado por actos u omisiones que en el momento de cometerse no fueron 
 delictivos según el Derecho nacional o internacional. Tampoco se impondrá pena más grave que
 la aplicable en el momento de la comisión del delito.
-Artículo 12.- Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su do-
-micilio o su correspondencia, ni de ataques a su honra o a su reputación. Toda persona tiene 
+Artículo 12.- Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o a su reputación. Toda persona tiene 
 derecho a la protección de la ley contra tales injerencias o ataques.
-Artículo 13.-
-1. Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de 
+Artículo 13.1. Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de 
 un Estado.
 2. Toda persona tiene derecho a salir de cualquier país, incluso del propio, y a regresar a su país.
-Artículo 14.-
-1. En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en 
+Artículo 14.1. En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en 
 cualquier país.
 2. Este derecho no podrá ser invocado contra una acción judicial realmente originada por delitos
 comunes o por actos opuestos a los propósitos y principios de las Naciones Unidas.
-Artículo 15.-
-1. Toda persona tiene derecho a una nacionalidad.
-2. A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de naciona-
-lidad.
-Artículo 16.-
-1. Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por
+Artículo 15.1. Toda persona tiene derecho a una nacionalidad.
+2. A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad.
+Artículo 16.1. Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por
 motivos de raza, nacionalidad o religión, a casarse y fundar una familia (...).
-2. Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el ma-
-trimonio.
+2. Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el matrimonio.
 3. La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección
 de la sociedad y del Estado.
-Artículo 17.-
-1. Toda persona tiene derecho a la propiedad, individual y colectivamente.
+Artículo 17.1. Toda persona tiene derecho a la propiedad, individual y colectivamente.
 2. Nadie será privado arbitrariamente de su propiedad.
 Artículo 18.- Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de 
 religión (...).
 Artículo 19.- Todo individuo tiene derecho a la libertad de opinión y de expresión (...).
-Artículo 20.-
-1. Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.
+Artículo 20.1. Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.
 2. Nadie podrá ser obligado a pertenecer a una asociación.
 
-Artículo 21.-
-1. Toda persona tiene derecho a participar en el gobierno de su país, directamente o por medio 
+Artículo 21.1. Toda persona tiene derecho a participar en el gobierno de su país, directamente o por medio 
 de representantes libremente escogidos.
 2. Toda persona tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas 
 de su país.
@@ -83,57 +68,41 @@ de su país.
 mediante elecciones auténticas que habrán de celebrarse periódicamente, por sufragio universal 
 e igual y por voto secreto u otro procedimiento equivalente que garantice la libertad del voto.
 Artículo 22.- Toda persona (...) tiene derecho a la seguridad social, y a obtener, (...) habida 
-cuenta de la organización y los recursos de cada Estado, la satisfacción de los derechos econó-
-micos, sociales y culturales, indispensables a su dignidad y al libre desarrollo de su personalidad.
-Artículo 23.-
-1. Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equita-
-tivas y satisfactorias de trabajo y a la protección contra el desempleo.
+cuenta de la organización y los recursos de cada Estado, la satisfacción de los derechos económicos, sociales y culturales, indispensables a su dignidad y al libre desarrollo de su personalidad.
+Artículo 23.1. Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo.
 2. Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo igual.
 3. Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria, que le 
-asegure, así como a su familia, una existencia conforme a la dignidad humana y que será com-
-pletada, en caso necesario, por cualesquiera otros medios de protección social.
-4. Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus inte-
-reses.
-Artículo 24.- Toda persona tiene derecho al descanso, al disfrute del tiempo libre, a una limita-
-ción razonable de la duración del trabajo y a vacaciones periódicas pagadas.
-Artículo 25.-
-1. Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, 
+asegure, así como a su familia, una existencia conforme a la dignidad humana y que será completada, en caso necesario, por cualesquiera otros medios de protección social.
+4. Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses.
+Artículo 24.- Toda persona tiene derecho al descanso, al disfrute del tiempo libre, a una limitación razonable de la duración del trabajo y a vacaciones periódicas pagadas.
+Artículo 25.1. Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, 
 la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la asistencia médica y 
 los servicios sociales necesarios; tiene asimismo derecho a los seguros en caso de desempleo, 
 enfermedad, invalidez, viudez, vejez u otros casos de pérdida de sus medios de subsistencia por 
 circunstancias independientes de su voluntad.
 2. La maternidad y la infancia tienen derecho a cuidados y asistencia especiales. Todos los 
 niños, nacidos de matrimonio o fuera de matrimonio, tienen derecho a igual protección social.
-Artículo 26.-
-1. Toda persona tiene derecho a la educación. La educación debe ser gratuita, al menos en lo 
+Artículo 26.1. Toda persona tiene derecho a la educación. La educación debe ser gratuita, al menos en lo 
 concerniente a la instrucción elemental y fundamental. La instrucción elemental será obligatoria.
-La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superio-
-res será igual para todos, en función de los méritos respectivos.
-2. La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortale-
-cimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la 
+La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos.
+2. La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la 
 comprensión, la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o 
-religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mante-
-nimiento de la paz.
+religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.
 3. Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse 
 a sus hijos.
-Artículo 27.-
-1. Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a 
+Artículo 27.1. Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a 
 gozar de las artes y a participar en el progreso científico y en los beneficios que de él resulten.
 2. Toda persona tiene derecho a la protección de los intereses morales y materiales que le 
 correspondan por razón de las producciones científicas, literarias o artísticas de que sea autora.
 Artículo 28.- Toda persona tiene derecho a que se establezca un orden social e internacional 
 en el que los derechos y libertades proclamados en esta Declaración se hagan plenamente 
 efectivos.
-Artículo 29.-
-1. Toda persona tiene deberes respecto a la comunidad (...).
-2. En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará so-
-lamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reco-
-nocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas 
+Artículo 29.1. Toda persona tiene deberes respecto a la comunidad (...).
+2. En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reconocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas 
 exigencias de la moral, del orden público y del bienestar general en una sociedad democrática.
 3. Estos derechos y libertades no podrán, en ningún caso, ser ejercidos en oposición a los 
 propósitos y principios de las Naciones Unidas.
-Artículo 30.- Nada en esta Declaración podrá interpretarse en el sentido de que confiere de-
-recho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades 
+Artículo 30.- Nada en esta Declaración podrá interpretarse en el sentido de que confiere derecho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades 
 (...) tendientes a la supresión de cualquiera de los derechos y libertades proclamados en esta 
 Declaración.
 
@@ -1089,13 +1058,6 @@ tenemos los mismos problemas?
 ¿Qué podemos hacer para que nuestra IE no esté contaminada? 
 ¿Qué podemos hacer frente al cambio climático con nuestro EsVi?
 
--
-
--
--
--
--
-
 Busca canciones o poemas sobre la importancia del cuidado del ambiente.
  Elige la que más te gusta y escríbela en un papelográfo.
  Comparte esta canción o poema con tus compañeras y compañeros del aula
@@ -1239,12 +1201,6 @@ Querer ayudarnos en todo lo necesario para crear y poner lindo nuestro
 EsVi.
 Conocer cuentos y leyendas relacionados a las plantas, animales, semillas, 
 agua, aire, suelo.
-
--
-
--
-
--
 
 Decidimos quiénes serán nuestros aliados y aliadas y escribimos sus 
 nombres.
@@ -1446,10 +1402,6 @@ Reconocemos  y realizamos una investigación sobre los tipos de plantas.
 desaparecen las plantas?
 ¿Deberíamos cuidar nuestras plantas?, ¿por qué?
 
--
-
--
-
 Plantas alimenticias
 
 Plantas medicinales
@@ -1529,8 +1481,6 @@ Cava un hoyo del tamaño de la cantidad de compost que quieras obtener,
 (puede ser de 50 cm de profundidad aproximadamente) y hacer una capa 
 inicial con los elementos marrones, como ramas y hojas secas.
 
--
-
 Una vez que tengas listo el recipiente mezcla un poco de residuos orgánicos 
 verdes, marrones, tierra y un poco de agua al finalizar. Por último, cúbrelos con 
 una tapa para mantenerlos húmedos y calientes.
@@ -1545,11 +1495,6 @@ Utiliza un balde o recipiente que pueda contener los residuos sólidos.
 Hazle pequeños agujeros en los costados para que la mezcla esté 
 constantemente oxigenada.
 Agrega la capa de elementos marrones: hojas y ramas secas.
-
--
--
-
--
 
 bu
 en
@@ -1689,12 +1634,6 @@ en maceteros o adornos, puedes usar llantas, zapatos, pedazos de madera,
 recipientes diversos, botellas y  con tu creatividad le pondrás magia a tu EsVi.
 
 Reciclar: significa transformar, crear cosas nuevas de un residuo.
-
--
-
--
-
--
 
 Expresa tus emociones en el EsVi
 Escribe mensajes en carteles, decora el cerco, pinta piedras, crea un baile, 
@@ -1847,68 +1786,53 @@ El 10 de diciembre de 1948, la Asamblea General de las Naciones Unidas aprobó y
 de Derechos Humanos, cuyos artículos figuran a continuación:
 Artículo 1.- Todos los seres humanos nacen libres e iguales en dignidad y derechos y (...) deben 
 comportarse fraternalmente los unos con los otros.
-Artículo 2.- Toda persona tiene todos los derechos y libertades proclamados en esta Declara-
-ción, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier 
+Artículo 2.- Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier 
 otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición. 
 Además, no se hará distinción alguna fundada en la condición política, jurídica o internacional 
 del país o territorio de cuya jurisdicción dependa una persona (...).
 Artículo 3.- Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.
 Artículo 4.- Nadie estará sometido a esclavitud ni a servidumbre; la esclavitud y la trata de 
 esclavos están prohibidas en todas sus formas.
-Artículo 5.- Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degra-
-dantes.
-Artículo 6.- Todo ser humano tiene derecho, en todas partes, al reconocimiento de su perso-
-nalidad jurídica.
+Artículo 5.- Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.
+Artículo 6.- Todo ser humano tiene derecho, en todas partes, al reconocimiento de su personalidad jurídica.
 Artículo 7.- Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección 
 de la ley. Todos tienen derecho a igual protección contra toda discriminación que infrinja esta 
 Declaración (...).
 Artículo 8.- Toda persona tiene derecho a un recurso efectivo, ante los tribunales nacionales 
 competentes, que la ampare contra actos que violen sus derechos fundamentales (...).
 Artículo 9.- Nadie podrá ser arbitrariamente detenido, preso ni desterrado.
-Artículo 10.- Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públi-
-camente y con justicia por un tribunal independiente e imparcial, para la determinación de sus 
+Artículo 10.- Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial, para la determinación de sus 
 derechos y obligaciones o para el examen de cualquier acusación contra ella en materia penal.
-Artículo 11.-
-1. Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se
+Artículo 11.1. Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se
 pruebe su culpabilidad (...).
 2. Nadie será condenado por actos u omisiones que en el momento de cometerse no fueron 
 delictivos según el Derecho nacional o internacional. Tampoco se impondrá pena más grave que
 la aplicable en el momento de la comisión del delito.
-Artículo 12.- Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su do-
-micilio o su correspondencia, ni de ataques a su honra o a su reputación. Toda persona tiene 
+Artículo 12.- Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o a su reputación. Toda persona tiene 
 derecho a la protección de la ley contra tales injerencias o ataques.
-Artículo 13.-
-1. Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de 
+Artículo 13.1. Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de 
 un Estado.
 2. Toda persona tiene derecho a salir de cualquier país, incluso del propio, y a regresar a su país.
-Artículo 14.-
-1. En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en 
+Artículo 14.1. En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en 
 cualquier país.
 2. Este derecho no podrá ser invocado contra una acción judicial realmente originada por delitos
 comunes o por actos opuestos a los propósitos y principios de las Naciones Unidas.
-Artículo 15.-
-1. Toda persona tiene derecho a una nacionalidad.
-2. A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de naciona-
-lidad.
-Artículo 16.-
-1. Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por
+Artículo 15.1. Toda persona tiene derecho a una nacionalidad.
+2. A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad.
+Artículo 16.1. Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por
 motivos de raza, nacionalidad o religión, a casarse y fundar una familia (...).
-2. Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el ma-
-trimonio.
+2. Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el matrimonio.
 3. La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección
 de la sociedad y del Estado.
-Artículo 17.-
-1. Toda persona tiene derecho a la propiedad, individual y colectivamente.
+Artículo 17.1. Toda persona tiene derecho a la propiedad, individual y colectivamente.
 2. Nadie será privado arbitrariamente de su propiedad.
 Artículo 18.- Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de 
 religión (...).
 Artículo 19.- Todo individuo tiene derecho a la libertad de opinión y de expresión (...).
-Artículo 20.-
-1. Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.
+Artículo 20.1. Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.
 2. Nadie podrá ser obligado a pertenecer a una asociación.
 
-Artículo 21.-
-1. Toda persona tiene derecho a participar en el gobierno de su país, directamente o por medio 
+Artículo 21.1. Toda persona tiene derecho a participar en el gobierno de su país, directamente o por medio 
 de representantes libremente escogidos.
 2. Toda persona tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas 
 de su país.
@@ -1916,57 +1840,41 @@ de su país.
 mediante elecciones auténticas que habrán de celebrarse periódicamente, por sufragio universal 
 e igual y por voto secreto u otro procedimiento equivalente que garantice la libertad del voto.
 Artículo 22.- Toda persona (...) tiene derecho a la seguridad social, y a obtener, (...) habida 
-cuenta de la organización y los recursos de cada Estado, la satisfacción de los derechos econó-
-micos, sociales y culturales, indispensables a su dignidad y al libre desarrollo de su personalidad.
-Artículo 23.-
-1. Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equita-
-tivas y satisfactorias de trabajo y a la protección contra el desempleo.
+cuenta de la organización y los recursos de cada Estado, la satisfacción de los derechos económicos, sociales y culturales, indispensables a su dignidad y al libre desarrollo de su personalidad.
+Artículo 23.1. Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo.
 2. Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo igual.
 3. Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria, que le 
-asegure, así como a su familia, una existencia conforme a la dignidad humana y que será com-
-pletada, en caso necesario, por cualesquiera otros medios de protección social.
-4. Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus inte-
-reses.
-Artículo 24.- Toda persona tiene derecho al descanso, al disfrute del tiempo libre, a una limita-
-ción razonable de la duración del trabajo y a vacaciones periódicas pagadas.
-Artículo 25.-
-1. Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, 
+asegure, así como a su familia, una existencia conforme a la dignidad humana y que será completada, en caso necesario, por cualesquiera otros medios de protección social.
+4. Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses.
+Artículo 24.- Toda persona tiene derecho al descanso, al disfrute del tiempo libre, a una limitación razonable de la duración del trabajo y a vacaciones periódicas pagadas.
+Artículo 25.1. Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, 
 la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la asistencia médica y 
 los servicios sociales necesarios; tiene asimismo derecho a los seguros en caso de desempleo, 
 enfermedad, invalidez, viudez, vejez u otros casos de pérdida de sus medios de subsistencia por 
 circunstancias independientes de su voluntad.
 2. La maternidad y la infancia tienen derecho a cuidados y asistencia especiales. Todos los 
 niños, nacidos de matrimonio o fuera de matrimonio, tienen derecho a igual protección social.
-Artículo 26.-
-1. Toda persona tiene derecho a la educación. La educación debe ser gratuita, al menos en lo 
+Artículo 26.1. Toda persona tiene derecho a la educación. La educación debe ser gratuita, al menos en lo 
 concerniente a la instrucción elemental y fundamental. La instrucción elemental será obligatoria.
-La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superio-
-res será igual para todos, en función de los méritos respectivos.
-2. La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortale-
-cimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la 
+La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos.
+2. La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la 
 comprensión, la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o 
-religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mante-
-nimiento de la paz.
+religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.
 3. Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse 
 a sus hijos.
-Artículo 27.-
-1. Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a 
+Artículo 27.1. Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a 
 gozar de las artes y a participar en el progreso científico y en los beneficios que de él resulten.
 2. Toda persona tiene derecho a la protección de los intereses morales y materiales que le 
 correspondan por razón de las producciones científicas, literarias o artísticas de que sea autora.
 Artículo 28.- Toda persona tiene derecho a que se establezca un orden social e internacional 
 en el que los derechos y libertades proclamados en esta Declaración se hagan plenamente 
 efectivos.
-Artículo 29.-
-1. Toda persona tiene deberes respecto a la comunidad (...).
-2. En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará so-
-lamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reco-
-nocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas 
+Artículo 29.1. Toda persona tiene deberes respecto a la comunidad (...).
+2. En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reconocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas 
 exigencias de la moral, del orden público y del bienestar general en una sociedad democrática.
 3. Estos derechos y libertades no podrán, en ningún caso, ser ejercidos en oposición a los 
 propósitos y principios de las Naciones Unidas.
-Artículo 30.- Nada en esta Declaración podrá interpretarse en el sentido de que confiere de-
-recho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades 
+Artículo 30.- Nada en esta Declaración podrá interpretarse en el sentido de que confiere derecho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades 
 (...) tendientes a la supresión de cualquiera de los derechos y libertades proclamados en esta 
 Declaración.
 

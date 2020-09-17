@@ -1122,8 +1122,7 @@ CAPULETO
 querrán echar un baile con vosotros.- 
 ¡Vamos, señoras! ¿Quién de vosotras 
 se niega a bailar? La que haga remilgos 
-juraré que tiene callos. ¿A que he acertado?-
-¡Bienvenidos, señores! Hubo un tiempo 
+juraré que tiene callos. ¿A que he acertado?¡Bienvenidos, señores! Hubo un tiempo 
 en que yo me ponía el antifaz 
 y musitaba palabras deleitosas 
 al oído de una bella. Pero pasó, pasó. 
@@ -1180,8 +1179,7 @@ y seré feliz si le toco la mano.
 pues nunca hasta ahora la belleza he visto.
 
 TEBALDO 
-Por su voz, este es un Montesco.-
-Muchacho, tráeme el estoque.- ¿Cómo se atreve 
+Por su voz, este es un Montesco.Muchacho, tráeme el estoque.- ¿Cómo se atreve 
 a venir aquí el infame con esa careta, 
 burlándose de fiesta tan solemne? 
 Por mi cuna y la honra de mi estirpe, 
@@ -1232,10 +1230,8 @@ CAPULETO
 ¡Conque sí! ¡Serás descarado! 
 ¡Conque una vergüenza! Este juego tuyo 
 te puede costar caro, te lo digo yo. 
-¡Tú contrariarme! Ya está bien.-
-¡Magnífico, amigos!-¡ Insolente! 
-Vete, cállate o..-¡Más luz, más luz!-
-Te juro que te haré callar-¡ Alegría, amigos!
+¡Tú contrariarme! Ya está bien.¡Magnífico, amigos!-¡ Insolente! 
+Vete, cállate o..-¡Más luz, más luz!Te juro que te haré callar-¡ Alegría, amigos!
 
 TEBALDO
 
@@ -1323,9 +1319,7 @@ Nos espera un humilde postrecito.
 Le hablan al oído.
 
 ¿Ah, sí? Entonces, gracias a todos. 
-Gracias, buenos caballeros, buenas noches.-
-¡Más antorchas aquí, vamos! Después, a acostarse.-
-Oye, ¡qué tarde se está haciendo! . 
+Gracias, buenos caballeros, buenas noches.¡Más antorchas aquí, vamos! Después, a acostarse.Oye, ¡qué tarde se está haciendo! . 
 Me voy a descansar.
 
 Salen todos [menos JULIETA y el AMA].
@@ -1372,8 +1366,7 @@ de uno con quien bailé.
 Llaman a JULIETA desde dentro.
 
 AMA
-¡Ya va! ¡Ya va!-
-Vamos, los convidados ya no están.
+¡Ya va! ¡Ya va!Vamos, los convidados ya no están.
 
 Salen.
 
@@ -1688,8 +1681,7 @@ más tengo, pues los dos son infinitos.
 
 [Llama el AMA dentro.]
 
-Oigo voces dentro. Adiós, mi bien.-
-¡Ya voy, ama!-Buen Montesco, sé fiel. 
+Oigo voces dentro. Adiós, mi bien.¡Ya voy, ama!-Buen Montesco, sé fiel. 
 Espera un momento, vuelvo en seguida.
 
 [Sale. ]
@@ -2560,8 +2552,7 @@ MERCUCIO
 Por mis pies, que me da igual.
 
 TEBALDO
-Quedad a mi lado, que voy a hablarles.-
-Buenas tardes, señores. Sólo dos palabras.
+Quedad a mi lado, que voy a hablarles.Buenas tardes, señores. Sólo dos palabras.
 
 MERCUCIO
 ¿Una para cada uno? Ponedle pareja: que sea palabra y golpe.
@@ -3312,8 +3303,7 @@ Ahora va Romeo.
 
 AMA 
 ¡Dios bendito! Me quedaría toda la noche 
-oyéndoos hablar. ¡Lo que hace el saber!-
-Señor, le diré a Julieta que venís.
+oyéndoos hablar. ¡Lo que hace el saber!Señor, le diré a Julieta que venís.
 
 ROMEO 
 Díselo, y dile que se apreste a reprenderme.
@@ -3384,8 +3374,7 @@ Lunes, señor.
 CAPULETO
 Lunes.. ¡Mmmm..! Eso es muy precipitado. 
 Que sea el jueves.-Dile que este jueves 
-se casará con este noble conde.-
-¿Estaréis preparados? ¿Os complace la presteza?
+se casará con este noble conde.¿Estaréis preparados? ¿Os complace la presteza?
 
 Página 50
 
@@ -3400,11 +3389,8 @@ PARIS
 Señor, ojalá que mañana fuese el jueves.
 
 CAPULETO 
-Muy bien; ahora marchad. Será el jueves.-
-Tú habla con Julieta antes de acostarte 
-y prepárala para el día de la boda.-
-Adiós, señor.-¡Eh, alumbrad mi cuarto!-
-Por Dios, que se ha hecho tan tarde 
+Muy bien; ahora marchad. Será el jueves.Tú habla con Julieta antes de acostarte 
+y prepárala para el día de la boda.Adiós, señor.-¡Eh, alumbrad mi cuarto!Por Dios, que se ha hecho tan tarde 
 que pronto diremos que es temprano. Buenas noches.
 
 Salen.
@@ -3569,9 +3555,7 @@ SEÑORA CAPULETO
 El infame de Romeo.
 
 JULIETA [aparte]
-Entre él y un infame hay millas de distancia.-
-
-[A la SEÑORA CAPULETO]
+Entre él y un infame hay millas de distancia.[A la SEÑORA CAPULETO]
 Dios le perdone, como yo con toda el alma.
 Y eso que ninguno me aflige como él.
 
@@ -3863,8 +3847,7 @@ y que puede evitar la compañía.
 Ahora ya sabéis la razón de la premura.
 
 FRAY LORENZO 
-[aparte] Ojalá no supiera por qué hay que frenarla.-
-Mirad, señor: la dama viene a mi celda.
+[aparte] Ojalá no supiera por qué hay que frenarla.Mirad, señor: la dama viene a mi celda.
 
 Entra JULIETA.
 
@@ -3923,17 +3906,14 @@ PARIS
 Esa cara es mía y vos la calumniáis.
 
 JULIETA
-Tal vez, porque mía ya no es.-
-Padre, ¿estáis desocupado
+Tal vez, porque mía ya no es.Padre, ¿estáis desocupado
 u os veo tras la misa vespertina?
 
 FRAY LORENZO
-Estoy desocupado, mi apenada hija.-
-Señor, os rogaré que nos dejéis a solas.
+Estoy desocupado, mi apenada hija.Señor, os rogaré que nos dejéis a solas.
 
 PARIS
-Dios me guarde de turbar la devoción.-
-Julieta, os despertaré el jueves bien temprano.
+Dios me guarde de turbar la devoción.Julieta, os despertaré el jueves bien temprano.
 Adiós hasta entonces y guardad mi santo beso.
 
 Sale.
@@ -4051,9 +4031,7 @@ IV.ii Entran CAPULETO, la SEÑORA CAPULETO, el
 AMA y dos o tres CRIADOS.
 
 CAPULETO
-Invita a todas las personas de esta lista.-
-
-[Sale un CRIADO.]
+Invita a todas las personas de esta lista.[Sale un CRIADO.]
 
 Tú, contrátame a veinte buenos cocineros.
 CRIADO
@@ -4112,8 +4090,7 @@ sin traspasar las lindes del decoro.
 CAPULETO 
 ¡Cuánto me alegro! ¡Estupendo! Levántate. 
 Así debe ser. He de ver al conde. 
-Sí, eso es.-Vamos, traedle aquí.-
-¡Por Dios bendito, cuánto debe la ciudad 
+Sí, eso es.-Vamos, traedle aquí.¡Por Dios bendito, cuánto debe la ciudad 
 a este padre santo y venerable!
 
 JULIETA 
@@ -4138,8 +4115,7 @@ Calla, deja que me mueva
 y todo irá bien, esposa, te lo garantizo. 
 Tú ve con Julieta, ayúdala a engalanarse. 
 Esta noche no me acuesto. Tú dejame: 
-esta vez yo haré de ama de casa.-¡Eh!-
-Han salido todos. Bueno, yo mismo iré a ver 
+esta vez yo haré de ama de casa.-¡Eh!Han salido todos. Bueno, yo mismo iré a ver 
 al Conde Paris y le prepararé 
 para mañana. Me brinca el corazón 
 desde que se ha enmendado la rebelde.
@@ -4383,8 +4359,7 @@ FRAY LORENZO
 ¿Está lista la novia para it a la iglesia?
 
 CAPULETO 
-Lista para ir, no para volver.-
-Ah, hijo, la noche antes de tu boda 
+Lista para ir, no para volver.Ah, hijo, la noche antes de tu boda 
 la Muerte ha dormido con tu amada. La flor 
 que había sido yace ahora desflorada. 
 La Muerte es mi yerno, la Muerte me hereda; 
@@ -4598,8 +4573,7 @@ Perdonadme por traeros malas nuevas,
 pero cumplo el deber que me asignasteis.
 
 ROMEO 
-¿Es verdad? Entonces yo os desafío, estrellas.-
-Ya sabes dónde vivo; tráeme papel y tinta 
+¿Es verdad? Entonces yo os desafío, estrellas.Ya sabes dónde vivo; tráeme papel y tinta 
 y alquila caballos de posta. Salgo esta noche.
 
 BALTASAR 

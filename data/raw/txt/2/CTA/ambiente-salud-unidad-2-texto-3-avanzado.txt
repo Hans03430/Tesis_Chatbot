@@ -2515,8 +2515,7 @@ como algo “normal” e incluso inexistente. En todo caso, sería el precio que
 mantener activa la ciudad. La percepción de sus derechos es fragmentada. Su derecho al trabajo y a contar con ingresos dignos no es 
 visto en conexión con otros derechos, como el de la salud, del que incluso parecen dispuestos a prescindir.
 Burgos. A (s.f.) Ideele Revista Nº 215
-Tragedia humana. Los niños de plomo juegan a unos pasos de los hornos de fundición. Recuperado de: http://revistaideele.com/ideele/content/doe-run-la-
-contaminaci%C3%B3n-invisible
+Tragedia humana. Los niños de plomo juegan a unos pasos de los hornos de fundición. Recuperado de: http://revistaideele.com/ideele/content/doe-run-lacontaminaci%C3%B3n-invisible
 
 II. Cada integrante del equipo desarrolla los siguientes pasos:
 a. Identifica y describe claramente los hechos.
@@ -3196,9 +3195,7 @@ ol
 it
 
 ic
-a-
-
-ec
+aec
 on
 
 óm
@@ -7563,9 +7560,7 @@ Municipalidad Distrital de Pachacútec
 SEÑORITA:
 Marcia Valderrama Rivas
 Ganadora del Festival de Canto de Pachacútec 2017
-PRESENTE.-
-
-Antes de leer
+PRESENTE.Antes de leer
  § A partir del título, ¿qué
 
 tipos de datos se incluirán?
@@ -7673,9 +7668,7 @@ Asociación de Viviendas Colmena
 SEÑORA:
 Carmen Amelia Zapata López
 Alcalde del distrito de Los Cipreses
-PRESENTE.-
-
-Facundo Morales Quispe
+PRESENTE.Facundo Morales Quispe
 Presidente del A.V.C.
 
 ¡A reflexionar!
@@ -9719,9 +9712,7 @@ rr
 ib
 
 le
-s-
-
-m
+sm
 ue
 
 str
@@ -9739,8 +9730,7 @@ es
 ec
 ho
 
-s-
-qu
+squ
 
 im
 ic
@@ -9751,13 +9741,10 @@ os
 an
 as
 
--
 fo
 
 to
-s-
-
-no
+sno
 tic
 
 ia
@@ -12818,8 +12805,7 @@ células; por lo que, si se dañan demasiadas, la célula podría funcionar mal 
 oxidantes se encargan de prevenir este proceso. Pero no toda oxidación es mala, por 
 ejemplo, la glucosa se oxida por el oxígeno, produciendo dióxido de carbono, agua y 
 energía para alimentar nuestro cuerpo.
-RPP (2018). ¿Los antioxidantes son realmente buenos para la salud? Adaptado de: https://vital.rpp.pe/comer-bien/los-
-antioxidantes-son-realmente-buenos-para-la-salud-noticia-1101562
+RPP (2018). ¿Los antioxidantes son realmente buenos para la salud? Adaptado de: https://vital.rpp.pe/comer-bien/losantioxidantes-son-realmente-buenos-para-la-salud-noticia-1101562
 
 ¿Los antioxidantes son realmente buenos para la salud?
 Estas moléculas protegen a las células buenas, pero también, a las cancerígenas. 
@@ -13316,8 +13302,7 @@ Si quieres disfrutar al máximo de un trekking en ascenso, debes ir bien
 preparado. Debes llevar desde una mochila ligera, resistente e impermeable, 
 hasta medicamentos como paracetamol, ácido acitil, salicílico y analgésicos, 
 y ¡listo!
-El Popular (2016). Deporte de aventura: Trekking. Adaptado de: https://www.elpopular.pe/actualidad-y-policiales/2016-
-02-15-deporte-de-aventura-trekking
+El Popular (2016). Deporte de aventura: Trekking. Adaptado de: https://www.elpopular.pe/actualidad-y-policiales/201602-15-deporte-de-aventura-trekking
 
 Deporte de aventura: Trekking
 Es una actividad muy atractiva y saludable en la que se fusiona el deporte con el 
@@ -13352,8 +13337,7 @@ E(2; 2), y los turistas se separaron en cuatro grupos e instalaron sus carpas en
 puntos A(8; 7), B(–5; 6), C(–4; –3) y D(9; –1).
 
 Si una unidad en el plano cartesiano representa 1 m, ¿cuál es la menor distancia 
-que deben recorrer los turistas para llegar desde su carpa a la carpa cocina-
-comedor?
+que deben recorrer los turistas para llegar desde su carpa a la carpa cocinacomedor?
 
 Ubicamos los puntos A, B, C, D y E, en el plano cartesiano.
 
@@ -14652,11 +14636,7 @@ Intervalos fi Fi hi Hi hi × 100% Hi × 100%
 
 [1,87; 1,98] 2 40 0,05 1 5% 100%
 
-Total n = 40 - 1 - 100% -
-
-
-
-1,43 + 0,11
+Total n = 40 - 1 - 100% 1,43 + 0,11
 
 67 65 48 78 65 90 76 54 67 72 68 80 80 72
 75 82 57 61 75 63 70 71 64 49 58 58 57 68
@@ -14933,9 +14913,7 @@ Intervalos Hi × 100%
 [1,76; 1,87[ 95%
 [1,87; 1,98[ 100%
 
-Total -
-
-100
+Total 100
 
 10
 
@@ -15002,9 +14980,7 @@ mayor que
 [1,76; 1,87[ 2 38 0,05
 [1,87; 1,98] 2 40 0,05
 
-Total 40 - -
-
-40 40
+Total 40 - 40 40
 
 4 4
 

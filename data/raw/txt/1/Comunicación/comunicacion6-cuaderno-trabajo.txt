@@ -16,9 +16,7 @@ CI
 Ó
 
 N
- -
-
-C
+ C
 u
 
 ad
@@ -49,9 +47,7 @@ CI
 Ó
 
 N
- -
-
-C
+ C
 u
 
 ad
@@ -80,74 +76,36 @@ IA
 
 CARATULA-TIR_COMUNICACION 6TO_CORRQG1.pdf   1   29/11/18   00:34
 
-El 22 de julio de 2002, los representan-
-tes de las organizaciones políticas, re-
-ligiosas, del Gobierno y de la sociedad
+El 22 de julio de 2002, los representantes de las organizaciones políticas, religiosas, del Gobierno y de la sociedad
 
-todos, para conseguir el bienestar y de-
+todos, para conseguir el bienestar y deAcuerdo Nacional.
 
-Acuerdo Nacional.
-
-El acuerdo persigue cuatro objetivos fun-
-
--
-ponsabilidad de decidir, ejecutar, vigilar
+El acuerdo persigue cuatro objetivos funponsabilidad de decidir, ejecutar, vigilar
 
 para el futuro.
-
--
--
--
 
 ver y fortalecer acciones que garanticen
 
 que son los siguientes:
  
 1. Democracia y Estado de Derecho
-La justicia, la paz y el desarrollo que ne-
-
--
-
-Nacional es garantizar una sociedad en 
+La justicia, la paz y el desarrollo que neNacional es garantizar una sociedad en 
 la que los derechos son respetados y 
-los ciudadanos viven seguros y expre-
-san con libertad sus opiniones a partir
-
--
+los ciudadanos viven seguros y expresan con libertad sus opiniones a partir
 
 2. Equidad y Justicia Social
--
-
 cia, es necesario que cada una de las 
--
-
--
--
-
 ciales, culturales y políticas. Todos los
 
 salud integral, a un lugar para vivir. Así,
 
 3. Competitividad del País
 
--
 tos y servicios, asegurar el acceso a la
-
--
-
--
--
 
 se al servicio de todos los peruanos. El
 
-para asegurar que el Estado sirva a to-
-
--
-
--
-líticas de Estado, a brindar apoyo y di-
-
-sociedad en general.
+para asegurar que el Estado sirva a tolíticas de Estado, a brindar apoyo y disociedad en general.
 
 EL ACUERDO NACIONAL
 
@@ -1616,9 +1574,7 @@ sentimientos y no cambios de sus sentimientos por sus amigas, sus amigos,
 sus padres y otros familiares.
 
 Adaptado de ¿Cómo va a cambiar mi hijo entre los 10 y los 14 años de edad? (s.f.). 
-Educación inicial. Recuperado de https://www.educacioninicial.com/c/002/804-cambios-
-
-cognoscitivos-en-la-adolescencia/
+Educación inicial. Recuperado de https://www.educacioninicial.com/c/002/804-cambioscognoscitivos-en-la-adolescencia/
 
 5 Después de leer el texto, resalta con un color suave los fragmentos que estén 
 directamente relacionados con las imágenes, luego numéralos según el 
@@ -3459,8 +3415,7 @@ Se debe comenzar con un saludo de bienvenida,
 para luego seguir con un comienzo llamativo que 
 capte la atención del público.
 
-Se plantean los temas a tratar y se trazan los obje-
-tivos.
+Se plantean los temas a tratar y se trazan los objetivos.
 
 Finalmente, se motiva al auditorio evidenciando lo 
 interesante del tema.
@@ -3541,14 +3496,6 @@ la actividad 6.
 Tema:
 
 Subtemas:
-
--
-
--
-
--
-
--
 
 Mensaje y reflexión final:
 
@@ -9253,9 +9200,7 @@ m
 /d
 
 e
-l-
-
-z
+lz
 o
 rr
 
@@ -9263,9 +9208,7 @@ o
 -y
 
 -e
-l-
-
-cu
+lcu
 y
 -c
 
@@ -9274,18 +9217,14 @@ e
 n
 
 to
-s-
-
-a
+sa
 n
 
 d
 in
 
 o
-s-
-
-d
+sd
 e
 .h
 
@@ -9592,24 +9531,15 @@ Aedes aegypti.
 
 En la década del 90 
 el dengue era conocido 
-como la “fiebre rom-
-pehuesos”por la mag-
-nitud del dolor que se 
-sentía hasta en los hue-
-sos.
+como la “fiebre rompehuesos”por la magnitud del dolor que se 
+sentía hasta en los huesos.
 
 Pero cuidado, el 
-dengue no solo afec-
-ta a las ciudades de 
+dengue no solo afecta a las ciudades de 
 la selva o del norte 
-del país, donde llue-
-ve mucho. También 
-se presenta en ciuda-
-des como Lima, don-
-
-de desde hace varios 
-años se tiene un regis-
-tro de casos y brotes 
+del país, donde llueve mucho. También 
+se presenta en ciudades como Lima, donde desde hace varios 
+años se tiene un registro de casos y brotes 
 en distritos de Lima 
 Norte y Lima Sur, con 
 una gran dispersión 
@@ -9618,14 +9548,12 @@ zonas y distritos de la
 ciudad.
 
 Esto se debe a los 
-días más cálidos, ve-
-ranos más largos y a 
+días más cálidos, veranos más largos y a 
 la mala costumbre de 
 las personas de dejar 
 objetos inservibles en 
 sus patios, y también 
-a la necesidad de al-
-macenar agua en sus 
+a la necesidad de almacenar agua en sus 
 hogares, que a veces 
 se realiza sin cubrir 
 los recipientes.
@@ -9641,16 +9569,13 @@ Tomado de Ministerio de Salud (s. f.). Cápsulas. [Afiche]. Recuperado de https:
 
 EN TODO EL PERÚ
 
-Es un mito que el den-
-gue solo esté presente en 
+Es un mito que el dengue solo esté presente en 
 las zonas de Selva. En la 
-actualidad, por la migra-
-ción, cambio climático 
+actualidad, por la migración, cambio climático 
 y hábitos de higiene, el 
 zancudo transmisor está 
 presente en la mayoría de 
-regiones de Costa, Sel-
-va y hasta en la Sierra. 
+regiones de Costa, Selva y hasta en la Sierra. 
 El vector del dengue está 
 presente en diversas zonas 
 del país.
@@ -9659,17 +9584,11 @@ EN TODAS
 LAS CASAS
 
 El nivel económico o 
-social no influye en la pre-
-sencia del zancudo. Se han 
-encontrado larvas y zan-
-
-cudos adultos en piscinas 
+social no influye en la presencia del zancudo. Se han 
+encontrado larvas y zancudos adultos en piscinas 
 de zonas residenciales, 
 floreros de residencias, 
-restaurantes y cemente-
-
-rios. Todo objeto que acu-
-mule agua debe ser lavado 
+restaurantes y cementerios. Todo objeto que acumule agua debe ser lavado 
 constantemente.
 
 SIN VACUNA
@@ -9683,30 +9602,23 @@ que exista el zancudo.
 MUCHA LIMPIEZA
 
 El zancudo vive en la 
-casa, por eso es importan-
-te la limpieza y el orden.
+casa, por eso es importante la limpieza y el orden.
 
 ES GRATIS
 
-La atención por den-
-gue en los establecimien-
-tos de salud es gratuita y 
+La atención por dengue en los establecimientos de salud es gratuita y 
 está garantizada.
 
 EN EL AGUA MALA
 
 ¿Sabías que se han 
-encontrado huevos y lar-
-vas del zancudo del den-
-gue en la cáscara del hue-
-vo, chapitas de botella y 
+encontrado huevos y larvas del zancudo del dengue en la cáscara del huevo, chapitas de botella y 
 la cáscara de coco? Todo 
 objeto donde se acumula 
 agua sirve de criadero del 
 zancudo.
 
-Así que te recomen-
-damos, por tu salud, que 
+Así que te recomendamos, por tu salud, que 
 botes a la basura todo lo 
 que le sirva de vivienda al 
 zancudo.
@@ -10516,74 +10428,36 @@ cultura democrática.
 
 6 - PAG 174 - 176 metrocolor.indd   176 19/10/18   6:15 a.m.
 
-El 22 de julio de 2002, los representan-
-tes de las organizaciones políticas, re-
-ligiosas, del Gobierno y de la sociedad
+El 22 de julio de 2002, los representantes de las organizaciones políticas, religiosas, del Gobierno y de la sociedad
 
-todos, para conseguir el bienestar y de-
+todos, para conseguir el bienestar y deAcuerdo Nacional.
 
-Acuerdo Nacional.
-
-El acuerdo persigue cuatro objetivos fun-
-
--
-ponsabilidad de decidir, ejecutar, vigilar
+El acuerdo persigue cuatro objetivos funponsabilidad de decidir, ejecutar, vigilar
 
 para el futuro.
-
--
--
--
 
 ver y fortalecer acciones que garanticen
 
 que son los siguientes:
  
 1. Democracia y Estado de Derecho
-La justicia, la paz y el desarrollo que ne-
-
--
-
-Nacional es garantizar una sociedad en 
+La justicia, la paz y el desarrollo que neNacional es garantizar una sociedad en 
 la que los derechos son respetados y 
-los ciudadanos viven seguros y expre-
-san con libertad sus opiniones a partir
-
--
+los ciudadanos viven seguros y expresan con libertad sus opiniones a partir
 
 2. Equidad y Justicia Social
--
-
 cia, es necesario que cada una de las 
--
-
--
--
-
 ciales, culturales y políticas. Todos los
 
 salud integral, a un lugar para vivir. Así,
 
 3. Competitividad del País
 
--
 tos y servicios, asegurar el acceso a la
-
--
-
--
--
 
 se al servicio de todos los peruanos. El
 
-para asegurar que el Estado sirva a to-
-
--
-
--
-líticas de Estado, a brindar apoyo y di-
-
-sociedad en general.
+para asegurar que el Estado sirva a tolíticas de Estado, a brindar apoyo y disociedad en general.
 
 EL ACUERDO NACIONAL
 
@@ -10607,9 +10481,7 @@ CI
 Ó
 
 N
- -
-
-C
+ C
 u
 
 ad
@@ -10640,9 +10512,7 @@ CI
 Ó
 
 N
- -
-
-C
+ C
 u
 
 ad

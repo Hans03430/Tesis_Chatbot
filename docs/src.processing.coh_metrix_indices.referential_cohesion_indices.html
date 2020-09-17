@@ -161,7 +161,7 @@ Data descriptors defined here:<br>
 <font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
     
 <tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
-<td width="100%"><dl><dt><a name="-analize_anaphore_overlap"><strong>analize_anaphore_overlap</strong></a>(prev_sentence: spacy.tokens.span.Span, cur_sentence: spacy.tokens.span.Span, language: str = 'es') -&gt; int</dt><dd><tt>This&nbsp;function&nbsp;analyzes&nbsp;whether&nbsp;or&nbsp;not&nbsp;there's&nbsp;anaphore&nbsp;overlap&nbsp;between&nbsp;two&nbsp;sentences.<br>
+<td width="100%"><dl><dt><a name="-analyze_anaphore_overlap"><strong>analyze_anaphore_overlap</strong></a>(prev_sentence: spacy.tokens.span.Span, cur_sentence: spacy.tokens.span.Span, language: str = 'es') -&gt; int</dt><dd><tt>This&nbsp;function&nbsp;analyzes&nbsp;whether&nbsp;or&nbsp;not&nbsp;there's&nbsp;anaphore&nbsp;overlap&nbsp;between&nbsp;two&nbsp;sentences.<br>
 &nbsp;<br>
 Parameters:<br>
 prev_sentence(Span):&nbsp;The&nbsp;previous&nbsp;sentence&nbsp;to&nbsp;analyze.<br>
@@ -170,7 +170,7 @@ language(str):&nbsp;The&nbsp;language&nbsp;of&nbsp;the&nbsp;sentences.<br>
 &nbsp;<br>
 Returns:<br>
 int:&nbsp;1&nbsp;if&nbsp;there's&nbsp;overlap&nbsp;between&nbsp;the&nbsp;two&nbsp;sentences&nbsp;and&nbsp;0&nbsp;if&nbsp;no.</tt></dd></dl>
- <dl><dt><a name="-analize_argument_overlap"><strong>analize_argument_overlap</strong></a>(prev_sentence: spacy.tokens.span.Span, cur_sentence: spacy.tokens.span.Span, language: str = 'es') -&gt; int</dt><dd><tt>This&nbsp;function&nbsp;analyzes&nbsp;whether&nbsp;or&nbsp;not&nbsp;there's&nbsp;argument&nbsp;overlap&nbsp;between&nbsp;two&nbsp;sentences.<br>
+ <dl><dt><a name="-analyze_argument_overlap"><strong>analyze_argument_overlap</strong></a>(prev_sentence: spacy.tokens.span.Span, cur_sentence: spacy.tokens.span.Span, language: str = 'es') -&gt; int</dt><dd><tt>This&nbsp;function&nbsp;analyzes&nbsp;whether&nbsp;or&nbsp;not&nbsp;there's&nbsp;argument&nbsp;overlap&nbsp;between&nbsp;two&nbsp;sentences.<br>
 &nbsp;<br>
 Parameters:<br>
 prev_sentence(Span):&nbsp;The&nbsp;previous&nbsp;sentence&nbsp;to&nbsp;analyze.<br>
@@ -179,7 +179,7 @@ language(str):&nbsp;The&nbsp;language&nbsp;of&nbsp;the&nbsp;sentences.<br>
 &nbsp;<br>
 Returns:<br>
 int:&nbsp;1&nbsp;if&nbsp;there's&nbsp;overlap&nbsp;between&nbsp;the&nbsp;two&nbsp;sentences&nbsp;and&nbsp;0&nbsp;if&nbsp;no.</tt></dd></dl>
- <dl><dt><a name="-analize_content_word_overlap"><strong>analize_content_word_overlap</strong></a>(prev_sentence: spacy.tokens.span.Span, cur_sentence: spacy.tokens.span.Span, language='es') -&gt; float</dt><dd><tt>This&nbsp;function&nbsp;calculates&nbsp;the&nbsp;proportional&nbsp;content&nbsp;word&nbsp;overlap&nbsp;between&nbsp;two&nbsp;sentences.<br>
+ <dl><dt><a name="-analyze_content_word_overlap"><strong>analyze_content_word_overlap</strong></a>(prev_sentence: spacy.tokens.span.Span, cur_sentence: spacy.tokens.span.Span, language='es') -&gt; float</dt><dd><tt>This&nbsp;function&nbsp;calculates&nbsp;the&nbsp;proportional&nbsp;content&nbsp;word&nbsp;overlap&nbsp;between&nbsp;two&nbsp;sentences.<br>
 &nbsp;<br>
 Parameters:<br>
 prev_sentence(Span):&nbsp;The&nbsp;previous&nbsp;sentence&nbsp;to&nbsp;analyze.<br>
@@ -188,7 +188,7 @@ language(str):&nbsp;The&nbsp;language&nbsp;of&nbsp;the&nbsp;sentences.<br>
 &nbsp;<br>
 Returns:<br>
 float:&nbsp;Proportion&nbsp;of&nbsp;tokens&nbsp;that&nbsp;overlap&nbsp;between&nbsp;the&nbsp;current&nbsp;and&nbsp;previous&nbsp;sentences</tt></dd></dl>
- <dl><dt><a name="-analize_noun_overlap"><strong>analize_noun_overlap</strong></a>(prev_sentence: spacy.tokens.span.Span, cur_sentence: spacy.tokens.span.Span, language: str = 'es') -&gt; int</dt><dd><tt>This&nbsp;function&nbsp;analyzes&nbsp;whether&nbsp;or&nbsp;not&nbsp;there's&nbsp;noun&nbsp;overlap&nbsp;between&nbsp;two&nbsp;sentences&nbsp;for&nbsp;a&nbsp;language.<br>
+ <dl><dt><a name="-analyze_noun_overlap"><strong>analyze_noun_overlap</strong></a>(prev_sentence: spacy.tokens.span.Span, cur_sentence: spacy.tokens.span.Span, language: str = 'es') -&gt; int</dt><dd><tt>This&nbsp;function&nbsp;analyzes&nbsp;whether&nbsp;or&nbsp;not&nbsp;there's&nbsp;noun&nbsp;overlap&nbsp;between&nbsp;two&nbsp;sentences&nbsp;for&nbsp;a&nbsp;language.<br>
 &nbsp;<br>
 Parameters:<br>
 prev_sentence(Span):&nbsp;The&nbsp;previous&nbsp;sentence&nbsp;to&nbsp;analyze.<br>
@@ -197,7 +197,7 @@ language(str):&nbsp;The&nbsp;language&nbsp;of&nbsp;the&nbsp;sentences.<br>
 &nbsp;<br>
 Returns:<br>
 int:&nbsp;1&nbsp;if&nbsp;there's&nbsp;overlap&nbsp;between&nbsp;the&nbsp;two&nbsp;sentences&nbsp;and&nbsp;0&nbsp;if&nbsp;no.</tt></dd></dl>
- <dl><dt><a name="-analize_stem_overlap"><strong>analize_stem_overlap</strong></a>(prev_sentence: spacy.tokens.span.Span, cur_sentence: spacy.tokens.span.Span, language: str = 'es') -&gt; int</dt><dd><tt>This&nbsp;function&nbsp;analyzes&nbsp;whether&nbsp;or&nbsp;not&nbsp;there's&nbsp;stem&nbsp;overlap&nbsp;between&nbsp;two&nbsp;sentences.<br>
+ <dl><dt><a name="-analyze_stem_overlap"><strong>analyze_stem_overlap</strong></a>(prev_sentence: spacy.tokens.span.Span, cur_sentence: spacy.tokens.span.Span, language: str = 'es') -&gt; int</dt><dd><tt>This&nbsp;function&nbsp;analyzes&nbsp;whether&nbsp;or&nbsp;not&nbsp;there's&nbsp;stem&nbsp;overlap&nbsp;between&nbsp;two&nbsp;sentences.<br>
 &nbsp;<br>
 Parameters:<br>
 prev_sentence(Span):&nbsp;The&nbsp;previous&nbsp;sentence&nbsp;to&nbsp;analyze.<br>

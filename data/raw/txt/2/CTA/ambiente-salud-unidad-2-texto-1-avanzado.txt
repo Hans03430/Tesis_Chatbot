@@ -1612,10 +1612,6 @@ agentes más involucrados en la problemática.
 en relación con la problemática priorizada. 
 Por ejemplo:
 
--
-
--
-
 15
 
 § Elaboren una breve explicación de cada 
@@ -8122,8 +8118,7 @@ que cuenta la región. Sin embargo, el mayor reto está en la educación,
 ya que hay que educar a las personas para que comprendan y utilicen el 
 significado de comida sana.
 
-Adaptado de: http://rpp.pe/peru/puno/conformaron-consejo-regional-para-la-seguridad-alimentaria-en-la-region-
-noticia-907714 (Última consulta: 4/12/17; 19:06)
+Adaptado de: http://rpp.pe/peru/puno/conformaron-consejo-regional-para-la-seguridad-alimentaria-en-la-regionnoticia-907714 (Última consulta: 4/12/17; 19:06)
 
 94
 
@@ -10494,8 +10489,7 @@ trascendencia social, económica, cultural y ecológica en la vida del poblador
 altoandino, principalmente de las comunidades ubicadas entre los 4 000 y 
 los 5 000 msnm, donde no es posible la agricultura ni la crianza rentable 
 de otras especies animales domésticas.
-Fuente: http://www.leisa-al.org/web/index.php/volumen-32-numero-4/2661-reproduciendo-alpacas-de-color-en-
-comunidades-campesinas
+Fuente: http://www.leisa-al.org/web/index.php/volumen-32-numero-4/2661-reproduciendo-alpacas-de-color-encomunidades-campesinas
 
 A partir de la situación mostrada:
 
@@ -11748,9 +11742,7 @@ negativo, junto con el 0. Se les representa por la letra Z.
 
 El cero, 0, es menor que todos los positivos y mayor que todos los negativos.
 
-Z= {……-2; -1;0; +1 ; +2……….}    Z= Z+  U {0}  U Z-
-
-Los números enteros son una extensión de los números naturales y se pueden 
+Z= {……-2; -1;0; +1 ; +2……….}    Z= Z+  U {0}  U ZLos números enteros son una extensión de los números naturales y se pueden 
 representar gráficamente de la siguiente manera:
 
 Observamos que la temperatura base se registro en el poblado de Mazocruz con 
@@ -12378,8 +12370,7 @@ asocian a la quema de basura.
 En consecuencia, el mal tratamiento de la basura a nivel nacional incide directamente 
 sobre la salud de los pobladores afectando los ríos, campos de cultivo y la salud de 
 todos los peruanos.
-Recuperado, el 20-09-2017 de: https://elcomercio.pe/peru/faltan-132-rellenos-sanitarios-cubrir-demanda-
-pais-259560-405899
+Recuperado, el 20-09-2017 de: https://elcomercio.pe/peru/faltan-132-rellenos-sanitarios-cubrir-demandapais-259560-405899
 
 Resuelve problemas de cantidad.
 
@@ -14425,9 +14416,6 @@ x f(x)
 
 ∆y y2    y1 =∆x x2    x1
 m =
-
--
--
 
 0 - 8 = 2-4 - 0m =
 

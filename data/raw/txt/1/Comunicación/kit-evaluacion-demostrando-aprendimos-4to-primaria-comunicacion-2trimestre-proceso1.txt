@@ -299,8 +299,7 @@ s
 p.
  1
 
-7-
-18
+718
 
 ). 
 Li
@@ -650,22 +649,17 @@ ra
 us
 
 -4
-0-
-
-an
+0an
 os
 
 -e
-n-
-
-el
+nel
 -p
 
 ar
 qu
 
-e-
-de
+ede
 
 -8
 55

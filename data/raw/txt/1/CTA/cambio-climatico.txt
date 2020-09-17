@@ -48,8 +48,7 @@ Corrector: Alberto Quiroga.
 Diseño e ilustración: Sebastián Sanabria.
 Copyright © 2016 Banco Interamericano de Desarrollo. Esta obra 
 se encuentra sujeta a una licencia Creative Commons IGO 3.0 
-Reconocimiento-NoComercial-SinObrasDerivadas (CC-IGO 3.0 BY-
-NC-ND) (http://creativecommons.org/licenses/by-nc-nd/3.0/igo/
+Reconocimiento-NoComercial-SinObrasDerivadas (CC-IGO 3.0 BYNC-ND) (http://creativecommons.org/licenses/by-nc-nd/3.0/igo/
 legalcode) y se puede reproducir para cualquier uso no comercial, 
 siempre que se le dé el reconocimiento respectivo al BID. No se 
 permiten obras derivadas.
@@ -72,23 +71,15 @@ países que representa.
 
 2016
 
-Súbete es una iniciativa educativa del Banco Interame-
+Súbete es una iniciativa educativa del Banco Interamericano de Desarrollo (BID), con la que se busca animar
 
-ricano de Desarrollo (BID), con la que se busca animar
-
-a la niñez y la juventud a utilizar su creatividad y ener-
-
-gía para involucrarse con estrategias sostenibles a lar-
-
-go plazo, con el fin de mitigar los efectos del  cambio
+a la niñez y la juventud a utilizar su creatividad y energía para involucrarse con estrategias sostenibles a largo plazo, con el fin de mitigar los efectos del  cambio
 
 climático. Este es uno de los nueve conjuntos de planes
 
 de clase que abordaremos en los temas relacionados
 
-con el cambio climático, el cual se podrá usar indepen-
-
-dientemente o en forma conjunta con los otros planes
+con el cambio climático, el cual se podrá usar independientemente o en forma conjunta con los otros planes
 
 de clase y materiales educativos del programa Súbete.
 
@@ -96,9 +87,7 @@ Esto incluye los videos educativos, los videojuegos y el kit Verde Escolar.
 
 En cada capítulo se incluye un texto introductorio sobre los temas desarrollados, que le servirá al docente
 
-como material de consulta o a los estudiantes mayores como guía. Los planes de clase, que se pueden uti-
-
-lizar para los niveles de educación primaria y secundaria, están divididos en básico, intermedio y avanzado,
+como material de consulta o a los estudiantes mayores como guía. Los planes de clase, que se pueden utilizar para los niveles de educación primaria y secundaria, están divididos en básico, intermedio y avanzado,
 
 con el propósito de ayudar al docente a determinar la actividad apropiada para sus estudiantes. Si deseas
 
@@ -293,16 +282,14 @@ Gestión pública ambiental:
 María Elena Correa
 
 E
-s Aministradora Pública de la Universidad de Chi-
-le, Máster en Medio Ambiente de la Universidad 
+s Aministradora Pública de la Universidad de Chile, Máster en Medio Ambiente de la Universidad 
 Complutense  de Madrid. Se ha desempeñado en
 
 el sector público como consultora y profesional por más de 5 años, específicamente 
 en el Ministerio de Medio Ambiente. Su objetivo es poder contribuir al cuidado 
 y protección del entorno, es por ello que su trabajo y desempeño profesional se 
 orienta hacia ese ámbito.  
-“La preocupación por el medio ambiente pasa por un cambio de paradigma res-
-pecto a la forma en que vemos el mundo. Mientras no se genere ese cambio, que 
+“La preocupación por el medio ambiente pasa por un cambio de paradigma respecto a la forma en que vemos el mundo. Mientras no se genere ese cambio, que 
 implica no solo decir sino también hacer, todas las buenas intenciones quedarán 
 en eso: en buenas intenciones. La sustentabilidad se practica en el día a día, no 
 solo en los grandes proyectos” afirma esta chilena quien cree en la participación
@@ -446,8 +433,7 @@ Investigación y educación
 ambiental: Diego Mosquera
 
 E
-s ecólogo de profesión con una Maestría en Sis-
-temas de Información Geográfica. Ha trabajado 
+s ecólogo de profesión con una Maestría en Sistemas de Información Geográfica. Ha trabajado 
 en diferentes áreas naturales de Ecuador. Desde
 
 hace 15 años trabaja en la Amazonía, de la cual ha sido habitante permanente los 
@@ -455,8 +441,7 @@ hace 15 años trabaja en la Amazonía, de la cual ha sido habitante permanente l
 los lugares más biodiversos de la tierra y se dedica a documentar y estudiar la 
 fauna silvestre a través de cámaras trampa. 
 A propósito del cambio climático, Diego afirma que “La naturaleza funciona como 
-una intrincada red de interacciones entre las especies y su entorno, y si no sabe-
-mos cuál es su dinámica, difícilmente podremos prepararnos para los cambios
+una intrincada red de interacciones entre las especies y su entorno, y si no sabemos cuál es su dinámica, difícilmente podremos prepararnos para los cambios
 
 que se vienen”.
 
@@ -914,14 +899,12 @@ participación: Rodrigo Tarquino
 
 E
 s Ingeniero Ambiental, y durante diez años de 
-trayectoria profesional logró contribuir a diferen-
-tes instituciones bolivianas en el cumplimiento
+trayectoria profesional logró contribuir a diferentes instituciones bolivianas en el cumplimiento
 
 de sus objetivos, apoyándose en los conocimientos científicos que se aplican en 
 la gestión ambiental para finalmente proyectarlos en lineamientos políticos a 
 diferentes escalas, tanto a nivel local como regional. 
-“Creo firmemente que la participación y vinculación de la sociedad civil son de-
-terminantes en los procesos de planificación y gestión ambiental, que se traducen 
+“Creo firmemente que la participación y vinculación de la sociedad civil son determinantes en los procesos de planificación y gestión ambiental, que se traducen 
 en una mejor gobernabilidad y auto gestión de la naturaleza” dice este Ingeniero 
 Ambiental boliviano, quien cree que “para realizar algo por el medio ambiente hay 
 que tener mucho compromiso y aliento de largo alcance”.
@@ -1076,12 +1059,10 @@ Tiene experiencia en la evaluación e implementación de modelos de gestión que
 permiten optimizar la utilización de los recursos naturales y la minimización en la 
 contaminación producida por las actividades y procesos humanos e industriales. 
 Ha participado en  proyectos de exploración minera en Colombia y en República 
-Dominicana, realizando actividades de seguimiento en salud ocupacional y seguri-
-dad industrial de las  operaciones.   
+Dominicana, realizando actividades de seguimiento en salud ocupacional y seguridad industrial de las  operaciones.   
 “La industria minera cuenta en su mayoría con expertos ambientales quienes 
 establecen dentro de sus actividades una identificación de aspectos e impactos 
-ambientales que intentan reducir, controlar y/o minimizar, los impactos identifica-
-dos, fomentando el buen manejo de los residuos, uso de tecnologías limpias, uso 
+ambientales que intentan reducir, controlar y/o minimizar, los impactos identificados, fomentando el buen manejo de los residuos, uso de tecnologías limpias, uso 
 adecuado de los recursos naturales y una mejora continua en los procesos”.  
  Esta ingeniera ambiental nos cuenta cómo se hace minería responsable con el
 
@@ -1332,14 +1313,12 @@ cargo del área de investigación de una reserva ecológica. Posteriormente part
 en diversos proyectos de consultoría donde se tocaban temas relacionados con el 
 desarrollo de políticas públicas para el mejoramiento ambiental y la adaptación al 
 cambio climático. Más adelante trabajó en la elaboración de planes de desarrollo 
-urbano y en diseño urbano, promoviendo la implementación de técnicas, tecnolo-
-gías y diseños que ayudasen en el incremento de la sustentabilidad.  
+urbano y en diseño urbano, promoviendo la implementación de técnicas, tecnologías y diseños que ayudasen en el incremento de la sustentabilidad.  
 Actualmente se encuentra estudiando una Maestría en Manejo Urbano Ambiental
 
 en Holanda.
 
-“Estoy convencido de que actualmente  es insuficiente no causar impactos negati-
-vos y recuperar los ecosistemas, lo que realmente se necesita es buscar los medios 
+“Estoy convencido de que actualmente  es insuficiente no causar impactos negativos y recuperar los ecosistemas, lo que realmente se necesita es buscar los medios 
 por los cuales podremos revitalizarlos. Esto aplica tanto a los ambientes naturales 
 como a los modificados por el hombre, sean urbanos o rurales. Mi compromiso es 
 mejorar las condiciones en que la sociedad y la ecología se desenvuelven, sea cual 
@@ -1537,13 +1516,11 @@ s abogada con especialización en Derecho
 urbano, propiedad y políticas del suelo, y Máster 
 en Medio Ambiente, dimensiones humanas y
 
-socioeconómicas. Tiene experiencia con comunidades en situación de vulnerabili-
-dad y en formulación, ejecución y evaluación de proyectos de educación y medio 
+socioeconómicas. Tiene experiencia con comunidades en situación de vulnerabilidad y en formulación, ejecución y evaluación de proyectos de educación y medio 
 ambiente. Actualmente trabaja en investigación y ejecución de proyectos de 
 desarrollo sostenible, y relacionados con el consumo responsable.  
 Las elecciones que hacemos todos los días como consumidores y consumidoras 
-tienen un gran impacto, así muchas veces no nos demos cuenta. Nuestras elec-
-ciones a la hora de consumir definen patrones de consumo y mercados, y además 
+tienen un gran impacto, así muchas veces no nos demos cuenta. Nuestras elecciones a la hora de consumir definen patrones de consumo y mercados, y además 
 tienen gran influencia en nuestros recursos naturales y en las sociedades”, nos 
 dice la colombiana Marcela Useche, invitándonos a ser más responsables a la hora 
 de comprar.
@@ -1801,16 +1778,13 @@ Jorge Espinosa
 E
 s licenciado en Fotografía y Humanidades en 
 Nueva York, y más adelante estudió Ingeniería 
-Agronómica en la Escuela Agrícola Panameri-
-
-cana, en Zamorano de Honduras. Actualmente lleva a cabo estudios de Maestría 
+Agronómica en la Escuela Agrícola Panamericana, en Zamorano de Honduras. Actualmente lleva a cabo estudios de Maestría 
 con la Universidad Gaia en Diseño de Integración Eco Social (otra manera de decir 
 Permacultura.) Trabaja en Zamorano colaborando en la creación de un taller para 
 experimentación con tecnologías apropiadas que presenten soluciones a retos de 
 los campesinos.  
 “Me enorgullece mucho que la etimología de mi nombre, Jorge, sea campesino”, 
-afirma este filósofo y agrónomo hondureño que hoy se dedica a pensar en tecno-
-logías apropiadas que presenten soluciones a retos de las comunidades rurales.
+afirma este filósofo y agrónomo hondureño que hoy se dedica a pensar en tecnologías apropiadas que presenten soluciones a retos de las comunidades rurales.
 
 Para más información ve a:
  » Tú eres lo que comes, Garantizar entornos saludables 
@@ -2029,8 +2003,7 @@ Liliana Dávila
 
 L
 iliana está cursando la Maestría en Gestión 
-Ambiental en Yale School of Forestry and Envi-
-ronmental Studies.  Tiene 7 años de experiencia
+Ambiental en Yale School of Forestry and Environmental Studies.  Tiene 7 años de experiencia
 
 internacional en manejo de proyectos y asistencia técnica en cambio climático y 
 desarrollo sustentable en áreas como REDD+ (Reducción de Emisiones de Gases de 
@@ -2039,16 +2012,13 @@ la Conservación y el Incremento de las Capturas de CO2,), adaptación, manejo
 forestal sustentable, planes estatales de cambio climático y producción y consumo 
 sustentable. Sus áreas de experiencia incluyen: asesoría en medidas de adaptación 
 para reducir el riesgo al incremento del nivel del mar y frecuencia de tormentas 
-en islas vulnerables; análisis de diferentes alternativas de visión hacia un desa-
-rrollo sustentable; apoyo al gobierno de México en la construcción de la estrategia 
+en islas vulnerables; análisis de diferentes alternativas de visión hacia un desarrollo sustentable; apoyo al gobierno de México en la construcción de la estrategia 
 nacional de REDD+; efectiva implementación y adecuado manejo financiero de 
-proyectos de cambio climático con resultados en políticas públicas;  establecimien-
-to de relaciones con gobiernos, agencias de Naciones Unidas y organizaciones no 
+proyectos de cambio climático con resultados en políticas públicas;  establecimiento de relaciones con gobiernos, agencias de Naciones Unidas y organizaciones no 
 gubernamentales, en Latinoamérica y el Caribe; diseño y entrega de estrategias de 
 comunicación y adecuada exposición a medios para posicionar a los proyectos.  
 “No es suficiente conocer la ciencia y funcionamiento de los ecosistemas y procesos 
-ecológicos si no se pueden poner en marcha acciones  de implementación efecti-
-va”, afirma esta joven ambientalista, acerca de su misión.
+ecológicos si no se pueden poner en marcha acciones  de implementación efectiva”, afirma esta joven ambientalista, acerca de su misión.
 
 Para más información ve a:
  » Nuestro clima está cambiando y Ciudades sostenibles 
@@ -2241,8 +2211,7 @@ s Diseñadora Industrial de la Universidad de
 Buenos Aires. Su interés por la implementación 
 de un diseño socialmente responsable la llevó a
 
-crear Minimahuella en el 2006, uno de los primeros  estudios de Diseño Sustenta-
-ble de la Argentina.  
+crear Minimahuella en el 2006, uno de los primeros  estudios de Diseño Sustentable de la Argentina.  
 Ha coordinado proyectos de reuso y reciclaje en trabajo conjunto con algunas 
 cooperativas y ha dictado talleres productivos en centros de recolección y centros 
 educativos; actualmente lidera una empresa de consultoría que brinda soluciones 

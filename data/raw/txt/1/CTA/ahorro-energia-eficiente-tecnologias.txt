@@ -62,8 +62,7 @@ Ahorro de energía, su uso eficiente y tecnologías alternativas / Marina Robles
 Emma Näslund-Hadley, María Clara Ramos, Juan Roberto Paredes.
 p. cm.
 Incluye referencias bibliográficas.
-1. Climatic changes—Latin America.  2. Education—Latin America.  3. Energy conser-
-vation—Latin America.  I. Robles, Marina.  II. Näslund-Hadley, Emma.  III. Ramos, María 
+1. Climatic changes—Latin America.  2. Education—Latin America.  3. Energy conservation—Latin America.  I. Robles, Marina.  II. Näslund-Hadley, Emma.  III. Ramos, María 
 Clara.  IV. Paredes, Juan Roberto.  V. Banco Interamericano de Desarrollo. División de 
 Educación.
 IDB-BR-161
@@ -224,8 +223,7 @@ de Hadley
 
 En las últimas décadas, los aumentos en el consumo de energía para 
 el transporte, la actividad industrial y la vida humana en general han 
-ocasionado el incremento en la generación de gases de efecto inver-
-nadero y como consecuencia han afectado el clima global. Si bien las 
+ocasionado el incremento en la generación de gases de efecto invernadero y como consecuencia han afectado el clima global. Si bien las 
 cantidades de contaminantes que se emiten no son las mismas para 
 cada región de la Tierra, la atmósfera, que es una sola, afecta a todo el 
 planeta por igual.
@@ -270,8 +268,7 @@ una de esas necesidades genera un impacto en la naturaleza que
 podemos y debemos disminuir, con el fin de contribuir a mitigar las 
 causas del cambio climático. Si bien las escuelas de América Latina no 
 son grandes generadoras de gases de efecto invernadero, en muchas 
-de ellas sí hay consumos energéticos significativos que pueden cam-
-biar. También es fundamental considerar que nuestros ecosistemas 
+de ellas sí hay consumos energéticos significativos que pueden cambiar. También es fundamental considerar que nuestros ecosistemas 
 tienen límites en cuanto a sus capacidades para abastecernos, tanto
 
 de recursos naturales como de servicios ambientales que permitan 
@@ -336,9 +333,7 @@ cada una de las formas de energía que usa la comunidad escolar;
 c) determinar el consumo asociado a las formas de transporte que 
 se emplean para llegar a la escuela.
 
-Medir la huella de carbono les permitirá compararse con otras insti-
-tuciones del mundo y tener una perspectiva global de lo que signifi-
-ca para el planeta el consumo de energía de la escuela.
+Medir la huella de carbono les permitirá compararse con otras instituciones del mundo y tener una perspectiva global de lo que significa para el planeta el consumo de energía de la escuela.
 
 Uso de la energía 
 en el centro escolar 
@@ -349,8 +344,7 @@ Te ayudará también invitar a tus colegas –estudiantes o maestros–
 a hacer un ejercicio semejante.
 
 En el manual para el desarrollo de un currículo que acompaña a 
-éste, puedes encontrar un calculador de este indicador de desem-
-peño ambiental.
+éste, puedes encontrar un calculador de este indicador de desempeño ambiental.
 
 Para calentar motores e iniciar una sensibilización con el grupo de 
 colegas o estudiantes con quienes deseas emprender este proyecto, 
@@ -447,8 +441,7 @@ de su uso y
 
 mantenimiento
 
-Eléctrica Sacapuntas 24 horas Aproxima-
-damente 
+Eléctrica Sacapuntas 24 horas Aproximadamente 
 media hora
 
 Secretaria Esporádicamente (sólo para
@@ -560,21 +553,16 @@ prende
 y apaga
 
 Aula 1 Sí 3 Tubos 
-fluores-
-centes
+fluorescentes
 
-80 7:00-
-15:00
+80 7:0015:00
 
-6:00-18:00 Sí Estu-
-diantes 
-de cuar-
-to grado.
+6:00-18:00 Sí Estudiantes 
+de cuarto grado.
 
 Personal 
 de
-manteni-
-miento
+mantenimiento
 
 Durante 
 sus 
@@ -658,8 +646,7 @@ diagnosticar las condiciones del transporte y ofrecer soluciones.
 14
 
 Recomendaciones 
-El impacto ambiental que genera la escuela en relación con el con-
-sumo de energía se puede modificar por medio de varias rutas:
+El impacto ambiental que genera la escuela en relación con el consumo de energía se puede modificar por medio de varias rutas:
 
 • Disminución del consumo por cambio de hábitos y  
 costumbres.
@@ -678,16 +665,14 @@ eléctricos cuando no se necesiten.
 Para diseñar un programa de ahorro y uso eficiente de la energía en la 
 escuela, las primeras acciones son:
 
-• Identificar, con base en el inventario realizado, los apara-
-tos en mal estado o que podrían sustituirse por otros de 
+• Identificar, con base en el inventario realizado, los aparatos en mal estado o que podrían sustituirse por otros de 
 mayor eficiencia energética. Dejar de utilizarlos, sacarlos o 
 sustituirlos tiene un efecto inmediato en la reducción y uso 
 eficiente de la energía.
 
 • Hacer una auditoría de fugas de la instalación eléctrica. 
 Para ello deben apagarse todas las luces, desconectar los 
-aparatos eléctricos y asegurarse de que no se esté utilizan-
-do electricidad en ningún sitio de la escuela. Verificar que el 
+aparatos eléctricos y asegurarse de que no se esté utilizando electricidad en ningún sitio de la escuela. Verificar que el 
 disco del medidor no esté girando. Si lo hace, significa que 
 hay una fuga y debe revisarse la instalación.
 
@@ -725,27 +710,21 @@ reconocimiento público a los grupos que muestran mejor desempeño.
 
 El Colegio Okehampton, ubicado en Devon (Reino Unido), lleva varios 
 años impulsando cambios en la infraestructura de su institución, en 
-la organización y participación de la comunidad escolar y en sus pro-
-gramas educativos.
+la organización y participación de la comunidad escolar y en sus programas educativos.
 
 Además de los cambios en las bombillas o focos, en la instalación de 
 tecnologías alternativas para generar energía, la comunidad participa 
 en el estímulo de hábitos de ahorro de energía. Los niños y jóvenes 
 estimulan a la comunidad a partir de un semáforo de comportamiento: 
-verde, si todos los acuerdos de cuidado y ahorro de energía se cum-
-plen; amarillo, si hay ciertos grupos que han fallado en algunos com-
-promisos, y rojo, si hay que reenergizar los ánimos de participación.
+verde, si todos los acuerdos de cuidado y ahorro de energía se cumplen; amarillo, si hay ciertos grupos que han fallado en algunos compromisos, y rojo, si hay que reenergizar los ánimos de participación.
 
 El éxito ha sido tal que el colegio ha logrado disminuir en un 50 % sus 
 pagos por el consumo de energía eléctrica de la red de electrificación 
-de la ciudad, y ha estimulado a otras escuelas para que sigan sus pa-
-sos.
+de la ciudad, y ha estimulado a otras escuelas para que sigan sus pasos.
 
-El colegio ha logrado el financiamiento de algunas fundaciones y gru-
-pos que apoyan estas ideas.
+El colegio ha logrado el financiamiento de algunas fundaciones y grupos que apoyan estas ideas.
 
-Fuente: Okehampton College, Devon, UK. “Living and learning sustain-
-able energy” (“Vivir y aprender desde la energía sostenible”).
+Fuente: Okehampton College, Devon, UK. “Living and learning sustainable energy” (“Vivir y aprender desde la energía sostenible”).
 
 Recuadro 2
 Escuela del Reino Unido,
@@ -824,8 +803,7 @@ Otros
 • Apagar las luces que no se necesiten.  Es frecuente dejar 
 encendidas las luces exteriores durante el día, por lo que se 
 aconseja establecer una rutina para revisar que se apaguen al 
-amanecer. En periodos vacacionales y durante la noche, se de-
-ben mantener apagadas las luces que no sean necesarias para 
+amanecer. En periodos vacacionales y durante la noche, se deben mantener apagadas las luces que no sean necesarias para 
 la seguridad. Si no existen equipos de laboratorio o alguno que 
 deba permanecer encendido, una opción es bajar el interruptor 
 general y así evitar gastos. Para las luces de seguridad son útiles 
@@ -834,8 +812,7 @@ automatizado que apague las luces o los aparatos que no están
 en uso en ciertos horarios (por la noche, los fines de semana o 
 las vacaciones).
 
-• Utilizar lámparas eficientes (ahorradoras, fluorescentes com-
-pactas o LED). En el mercado existen muchas opciones. Su costo 
+• Utilizar lámparas eficientes (ahorradoras, fluorescentes compactas o LED). En el mercado existen muchas opciones. Su costo 
 es mayor pero duran hasta diez veces más que las bombillas 
 incandescentes y los ahorros en electricidad permiten recuperar 
 la inversión muy pronto.
@@ -845,8 +822,7 @@ que no se requiere mucha iluminación, como los baños.
 
 • Aprovechar al máximo la luz del día. En las habitaciones o 
 aulas con ventanales, mantener las cortinas o persianas abiertas 
-para permitir el paso de la luz natural y mantener los focos apa-
-gados. En algunas zonas seguramente será conveniente colocar 
+para permitir el paso de la luz natural y mantener los focos apagados. En algunas zonas seguramente será conveniente colocar 
 sombras externas –árboles, toldos o portales– que permitan el 
 paso de la luz sin deslumbrar e incomodar el trabajo en el interior 
 del aula.
@@ -894,8 +870,7 @@ rango entre 22 y 27 oC. Vigilar que el termostato funcione.
 Desconectar el aparato cuando la habitación se encuentre 
 vacía. Revisar el equipo y hacerle mantenimiento periódico.
 
-• Apagar los ventiladores cuando la habitación se encuen-
-tre vacía. Tener controles independientes para los ventiladores 
+• Apagar los ventiladores cuando la habitación se encuentre vacía. Tener controles independientes para los ventiladores 
 ubicados en ella. Limpiarlo y hacerle mantenimiento periódico 
 para que no demande mayor energía. Dejar puertas y ventanas 
 abiertas para que el aire circule.
@@ -911,8 +886,7 @@ Photos: Infonavit, TonyTheTiger.
 
 19
 
-• Desconectar las máquinas enfriadoras de agua o despachado-
-ras de refrescos o snacks en los periodos vacacionales.
+• Desconectar las máquinas enfriadoras de agua o despachadoras de refrescos o snacks en los periodos vacacionales.
 
 • Apagar los computadores e impresoras cuando no se usen.
 Activar la función ahorradora en los monitores para que se apaguen 
@@ -922,19 +896,16 @@ después de un periodo de inactividad.
 fotocopiadoras para que se apaguen cuando detecten inactividad.
 
 • Activar la función ahorradora en los proyectores de video para 
-que se apaguen en cuanto dejen de utilizarse y pasen a modo des-
-canso en las pausas del expositor.
+que se apaguen en cuanto dejen de utilizarse y pasen a modo descanso en las pausas del expositor.
 
 • Preparar sólo la cantidad de café que se consumirá, y apagar y 
 desconectar la cafetera en cuanto se sirva.
 
 • Mantener apagados y desconectados los televisores mientras 
-no se estén utilizando, al igual que cuando se cuenta con un regula-
-dor de voltaje.
+no se estén utilizando, al igual que cuando se cuenta con un regulador de voltaje.
 
 • Procurar adquirir aparatos eléctricos que se hayan diseñado 
-para consumir la menor cantidad de energía posible. En al-
-gunos países existen sellos o certificados que los identifican.
+para consumir la menor cantidad de energía posible. En algunos países existen sellos o certificados que los identifican.
 
 Recomendaciones para ahorrar energía
 Aparatos eléctricos
@@ -949,8 +920,7 @@ interruptor.
 
 • Limitar el uso de los hornos eléctricos, los de microondas 
 y las teteras eléctricas a calentar porciones pequeñas y, si es 
-posible, sólo de manera ocasional, debido a que son altos con-
-sumidores de energía.
+posible, sólo de manera ocasional, debido a que son altos consumidores de energía.
 
 • Comprobar que las aspas de la licuadora tengan filo y no 
 estén rotas o desgastadas. Lavarla inmediatamente después 
@@ -959,8 +929,7 @@ en trozos pequeños antes de licuarlos. Moler los alimentos en el
 menor tiempo posible.
 
 • Remplazar el refrigerador viejo por uno nuevo, dada su 
-mayor eficiencia energética. Mantener los sellos en buen esta-
-do; verificar que el refrigerador esté nivelado para que la puerta 
+mayor eficiencia energética. Mantener los sellos en buen estado; verificar que el refrigerador esté nivelado para que la puerta 
 cierre correctamente y abrirla sólo cuando sea necesario; si es 
 un refrigerador que debe descongelarse, hacerlo con frecuencia; 
 ubicarlo cerca de un sitio ventilado y lejos de fuentes de calor; 
@@ -977,8 +946,7 @@ Gas para cocinar y calentar agua
 • Mantener limpios los quemadores de la cocina y no 
 dejar prendidos los pilotos.
 
-• Utilizar sartenes y cacerolas que transmitan rápida-
-mente el calor, con fondos completamente planos.
+• Utilizar sartenes y cacerolas que transmitan rápidamente el calor, con fondos completamente planos.
 
 • Emplear ollas o recipientes del tamaño del quemador. 
 • Usar ollas de presión para cocinar alimentos de larga
@@ -986,8 +954,7 @@ mente el calor, con fondos completamente planos.
 cocción.
 • Precalentar el horno de gas sólo cuando se indique
 
-y por el tiempo necesario hasta alcanzar la temperatu-
-ra requerida. Hornear varios alimentos a la vez. Abrir la 
+y por el tiempo necesario hasta alcanzar la temperatura requerida. Hornear varios alimentos a la vez. Abrir la 
 puerta del horno lo menos posible. No hornear porciones 
 pequeñas. Apagarlo unos minutos antes para aprovechar el 
 calor residual.
@@ -1022,8 +989,7 @@ Transporte escolar
 Recomendaciones para el transporte
 y la movilidad escolar
 
-• Promover entre toda la comunidad escolar el uso del trans-
-porte público o, en el caso de escuelas privadas, organizar un 
+• Promover entre toda la comunidad escolar el uso del transporte público o, en el caso de escuelas privadas, organizar un 
 sistema de transporte escolar de común acuerdo con los padres 
 de familia.
 
@@ -1071,11 +1037,9 @@ Foto: Asden Awards.
 22
 
 Uso de tecnologías alternativas
-Las tecnologías para el suministro de energía, consideradas alterna-
-tivas, son aquellas que no dependen de combustibles fósiles como el 
+Las tecnologías para el suministro de energía, consideradas alternativas, son aquellas que no dependen de combustibles fósiles como el 
 petróleo, el gas o el carbón, y que por lo tanto no generan emisiones 
-de gases de efecto invernadero. Éstas son la energía solar, la eóli-
-ca –generada por el viento–, la biomasa, el biogás –producido por la 
+de gases de efecto invernadero. Éstas son la energía solar, la eólica –generada por el viento–, la biomasa, el biogás –producido por la 
 descomposición de la materia orgánica presente en los residuos–, la 
 hidroeléctrica de pequeñas centrales, la geotérmica –proveniente de 
 fuentes de calor del subsuelo– y la mareomotriz  –originada por el 
@@ -1104,12 +1068,9 @@ Gas Lamp
 Aun cuando está probado que estas tecnologías alternativas tienen 
 ventajas en términos ambientales, todavía se usan poco, lo que genera 
 ciertas limitaciones para que se utilicen en muchos lugares y afecta su 
-disponibilidad y mantenimiento. Por ello te sugerimos que antes de ele-
-gir una tecnología nueva, solicites asesoría a algún grupo o especialista 
-que te permita conocer las opciones que existen y pueden ser funcio-
-nales para tu región. Entre los puntos que es conveniente analizar con 
-los expertos, se encuentran las características de la tecnología alterna-
-tiva de interés, la forma de funcionamiento, las ventajas y desventajas 
+disponibilidad y mantenimiento. Por ello te sugerimos que antes de elegir una tecnología nueva, solicites asesoría a algún grupo o especialista 
+que te permita conocer las opciones que existen y pueden ser funcionales para tu región. Entre los puntos que es conveniente analizar con 
+los expertos, se encuentran las características de la tecnología alternativa de interés, la forma de funcionamiento, las ventajas y desventajas 
 para la escuela y los requerimientos de instalación y mantenimiento.
 
 Mezcla
@@ -1141,8 +1102,7 @@ Algunas de las preguntas que el asesor puede ayudar a resolver son:
 • ¿Cuáles son las tecnologías alternativas recomendables 
 para la región?
 
-• ¿Existen apoyos o subsidios para instalarlas en las es-
-cuelas de la región?
+• ¿Existen apoyos o subsidios para instalarlas en las escuelas de la región?
 
 • ¿Cuál es el consumo energético de la escuela y cuánto de 
 esto se puede cubrir por energía renovable?
@@ -1224,8 +1184,7 @@ cooling
 Aunque implica una inversión inicial, a mediano plazo se recupera por 
 el ahorro energético. Por otro lado, para escuelas rurales sin acceso 
 al sistema eléctrico, estas opciones son una excelente solución para 
-mejorar las condiciones de trabajo y aprendizaje. En dichos casos par-
-ticulares, existen cada vez más apoyos que podrían considerarse.
+mejorar las condiciones de trabajo y aprendizaje. En dichos casos particulares, existen cada vez más apoyos que podrían considerarse.
 
 La energía mareomotriz se aprovecha de los cambios 
 del nivel del mar que inducen corriente en diferentes
@@ -1367,8 +1326,7 @@ Batería
 
 27
 
-Los hay de diversos tamaños y de eso depende su capacidad de abas-
-to. Tiene una vida promedio de 15 a 20 años. Para elegir el tamaño 
+Los hay de diversos tamaños y de eso depende su capacidad de abasto. Tiene una vida promedio de 15 a 20 años. Para elegir el tamaño 
 adecuado debe considerarse el número de personas que lo usarán y 
 las necesidades de agua caliente de la escuela. Un panel solar chico 
 puede calentar hasta 180 litros de agua diariamente.
@@ -1405,8 +1363,7 @@ en sitios en los que el agua es escasa o se necesita para actividades
 como la agricultura.
 
 Las turbinas de viento se utilizan en escuelas rurales de América Latina 
-y el Caribe. En muchas de ellas se combinan paneles y aerogenera-
-dores para tener mayores garantías de suministro de electricidad.
+y el Caribe. En muchas de ellas se combinan paneles y aerogeneradores para tener mayores garantías de suministro de electricidad.
 
 SCHOOL
 
@@ -1495,18 +1452,14 @@ ESCUELA
 
 En lo social
 Si bien el mecanismo anterior proporciona un indicador cuantitativo 
-del avance, también es importante tener algunas evidencias cualitati-
-vas de este procedimiento. Para ello se sugiere que haya una obser-
-vación y reflexión permanentes de lo que va sucediendo. Por ejemplo, 
+del avance, también es importante tener algunas evidencias cualitativas de este procedimiento. Para ello se sugiere que haya una observación y reflexión permanentes de lo que va sucediendo. Por ejemplo, 
 cada hecho indica algo:
 
 • Si existe una persona o grupo de personas responsables 
-de hacerles seguimiento a las acciones, significa que per-
-siste el interés en el proyecto.
+de hacerles seguimiento a las acciones, significa que persiste el interés en el proyecto.
 
 • Si el diagnóstico pudo hacerse con la participación de toda 
-la escuela o de varios grupos dentro de ello, es un indica-
-dor de un avance en cuanto a la capacidad de organización 
+la escuela o de varios grupos dentro de ello, es un indicador de un avance en cuanto a la capacidad de organización 
 de la comunidad escolar.
 
 • Si después de un tiempo razonable (en función de 
@@ -1520,15 +1473,13 @@ tiempo al programa para que tome más fuerza y los logros
 sean evidentes.
 
 • Si existe poca gente participando en el programa, puede 
-necesitarse que la comunidad escolar trabaje en la promo-
-ción y motivación.
+necesitarse que la comunidad escolar trabaje en la promoción y motivación.
 
 Identificar estos puntos y saber lo que significan implica comunicarse 
 con los involucrados. Por ello periódicamente se les debe preguntar a 
 los participantes cómo ven el proyecto, qué opinan, cómo se sienten y 
 qué podrían hacer para mejorarlo. Esto sería adecuado en una reunión 
-general si la comunidad escolar no es muy grande o por grupos asig-
-nados a los maestros.
+general si la comunidad escolar no es muy grande o por grupos asignados a los maestros.
 
 Monitorear
 y evaluar lo hecho
@@ -1558,9 +1509,7 @@ El diseño del sistema de monitoreo puede incluir recorridos semanales,
 cada quince días o mensuales (al principio más frecuente) para revisar 
 si se están cumpliendo los acuerdos establecidos en el proyecto (luces 
 y aparatos eléctricos apagados en horas sin servicio, lo mismo que el 
-calentador de agua y los pilotos de la estufa). Esto permitirá retroali-
-mentar los proyectos y mantener atentos e informados a los involucra-
-dos. Es recomendable buscar estímulos para mantener el proceso y 
+calentador de agua y los pilotos de la estufa). Esto permitirá retroalimentar los proyectos y mantener atentos e informados a los involucrados. Es recomendable buscar estímulos para mantener el proceso y 
 acelerarlo, y continuar desarrollando ideas que produzcan resultados 
 cada vez más positivos.
 
@@ -1656,8 +1605,7 @@ http://www.fide.org.mx.
 calculadora_reduce/.
 
 • National Energy Research Institute (NERI) (s.f.). Energy Efficiency and Conservation Authority 
-(EECA), and Enviroschools Foundation. Energy-Efficient Schools: A Guide for Trustees, Prin-
-cipals, Teachers,Students, Caretakers, and Energy Managers.                                
+(EECA), and Enviroschools Foundation. Energy-Efficient Schools: A Guide for Trustees, Principals, Teachers,Students, Caretakers, and Energy Managers.                                
 http://www.enviroschools.org.nz/energy_efficient_schools_large.pdf. Un material que 
 muestra las experiencias desarrolladas en varias escuelas de de Nueva Zelanda, además 
 de recomendaciones y sugerencias útiles para el impulso de programas de manejo 

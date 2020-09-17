@@ -44,8 +44,7 @@ Corrector: Elkín Rivera.
 Diseño e ilustración: Sebastián Sanabria.
 Copyright © 2015 Banco Interamericano de Desarrollo. Esta obra 
 se encuentra sujeta a una licencia Creative Commons IGO 3.0 
-Reconocimiento-NoComercial-SinObrasDerivadas (CC-IGO 3.0 BY-
-NC-ND) (http://creativecommons.org/licenses/by-nc-nd/3.0/igo/
+Reconocimiento-NoComercial-SinObrasDerivadas (CC-IGO 3.0 BYNC-ND) (http://creativecommons.org/licenses/by-nc-nd/3.0/igo/
 legalcode) y se puede reproducir para cualquier uso no comercial, 
 siempre que se le dé el reconocimiento respectivo al BID. No se 
 permiten obras derivadas.
@@ -4171,8 +4170,7 @@ marzo de 2011 (http://enosaquiwilches.blogspot.com).
 
 » Pesimismo sobre objetivo de duplicar energías 
 renovables. Artículo El economista, a través de PNUMA. 
-16 de enero de 2013 (http://www.cambioclimatico-
-regatta.org).
+16 de enero de 2013 (http://www.cambioclimaticoregatta.org).
 
 » Base de datos de indicadores del Banco Mundial: 
 Energía y minería > Consumo de energía proveniente de 
