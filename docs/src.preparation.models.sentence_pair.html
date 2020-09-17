@@ -1,14 +1,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html><head><title>Python: module src.preparation.models.obtained_text</title>
+<html><head><title>Python: module src.preparation.models.sentence_pair</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head><body bgcolor="#f0f0f8">
 
 <table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
 <tr bgcolor="#7799ee">
 <td valign=bottom>&nbsp;<br>
-<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong><a href="src.html"><font color="#ffffff">src</font></a>.<a href="src.preparation.html"><font color="#ffffff">preparation</font></a>.<a href="src.preparation.models.html"><font color="#ffffff">models</font></a>.obtained_text</strong></big></big></font></td
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong><a href="src.html"><font color="#ffffff">src</font></a>.<a href="src.preparation.html"><font color="#ffffff">preparation</font></a>.<a href="src.preparation.models.html"><font color="#ffffff">models</font></a>.sentence_pair</strong></big></big></font></td
 ><td align=right valign=bottom
-><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/hans/Documentos/Tesis_Chatbot/src/preparation/models/obtained_text.py">/home/hans/Documentos/Tesis_Chatbot/src/preparation/models/obtained_text.py</a></font></td></tr></table>
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/hans/Documentos/Tesis_Chatbot/src/preparation/models/sentence_pair.py">/home/hans/Documentos/Tesis_Chatbot/src/preparation/models/sentence_pair.py</a></font></td></tr></table>
     <p></p>
 <p>
 <table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
@@ -21,7 +21,7 @@
 <dt><font face="helvetica, arial">sqlalchemy.ext.declarative.api.Base(<a href="builtins.html#object">builtins.object</a>)
 </font></dt><dd>
 <dl>
-<dt><font face="helvetica, arial"><a href="src.preparation.models.obtained_text.html#ObtainedText">ObtainedText</a>
+<dt><font face="helvetica, arial"><a href="src.preparation.models.sentence_pair.html#SentencePair">SentencePair</a>
 </font></dt></dl>
 </dd>
 </dl>
@@ -29,21 +29,21 @@
 <table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
 <tr bgcolor="#ffc8d8">
 <td colspan=3 valign=bottom>&nbsp;<br>
-<font color="#000000" face="helvetica, arial"><a name="ObtainedText">class <strong>ObtainedText</strong></a>(sqlalchemy.ext.declarative.api.Base)</font></td></tr>
+<font color="#000000" face="helvetica, arial"><a name="SentencePair">class <strong>SentencePair</strong></a>(sqlalchemy.ext.declarative.api.Base)</font></td></tr>
     
 <tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
-<td colspan=2><tt><a href="#ObtainedText">ObtainedText</a>(**kwargs)<br>
+<td colspan=2><tt><a href="#SentencePair">SentencePair</a>(**kwargs)<br>
 &nbsp;<br>
-This&nbsp;is&nbsp;the&nbsp;class&nbsp;that&nbsp;represents&nbsp;a&nbsp;downloaded&nbsp;text&nbsp;with&nbsp;all&nbsp;its&nbsp;attributes&nbsp;like&nbsp;those&nbsp;calculated&nbsp;by&nbsp;the&nbsp;text&nbsp;analyzer&nbsp;tool.<br>&nbsp;</tt></td></tr>
+This&nbsp;is&nbsp;the&nbsp;class&nbsp;that&nbsp;represents&nbsp;a&nbsp;pair&nbsp;of&nbsp;sentences&nbsp;from&nbsp;the&nbsp;text.<br>&nbsp;</tt></td></tr>
 <tr><td>&nbsp;</td>
 <td width="100%"><dl><dt>Method resolution order:</dt>
-<dd><a href="src.preparation.models.obtained_text.html#ObtainedText">ObtainedText</a></dd>
+<dd><a href="src.preparation.models.sentence_pair.html#SentencePair">SentencePair</a></dd>
 <dd>sqlalchemy.ext.declarative.api.Base</dd>
 <dd><a href="builtins.html#object">builtins.object</a></dd>
 </dl>
 <hr>
 Methods defined here:<br>
-<dl><dt><a name="ObtainedText-__init__"><strong>__init__</strong></a>(self, **kwargs)</dt><dd><tt>A&nbsp;simple&nbsp;constructor&nbsp;that&nbsp;allows&nbsp;initialization&nbsp;from&nbsp;kwargs.<br>
+<dl><dt><a name="SentencePair-__init__"><strong>__init__</strong></a>(self, **kwargs)</dt><dd><tt>A&nbsp;simple&nbsp;constructor&nbsp;that&nbsp;allows&nbsp;initialization&nbsp;from&nbsp;kwargs.<br>
 &nbsp;<br>
 Sets&nbsp;attributes&nbsp;on&nbsp;the&nbsp;constructed&nbsp;instance&nbsp;using&nbsp;the&nbsp;names&nbsp;and<br>
 values&nbsp;in&nbsp;``kwargs``.<br>
@@ -52,7 +52,7 @@ Only&nbsp;keys&nbsp;that&nbsp;are&nbsp;present&nbsp;as<br>
 attributes&nbsp;of&nbsp;the&nbsp;instance's&nbsp;class&nbsp;are&nbsp;allowed.&nbsp;These&nbsp;could&nbsp;be,<br>
 for&nbsp;example,&nbsp;any&nbsp;mapped&nbsp;columns&nbsp;or&nbsp;relationships.</tt></dd></dl>
 
-<dl><dt><a name="ObtainedText-to_dict"><strong>to_dict</strong></a>(self) -&gt; Dict</dt><dd><tt>This&nbsp;method&nbsp;transforms&nbsp;this&nbsp;object&nbsp;into&nbsp;a&nbsp;python&nbsp;dictionary.<br>
+<dl><dt><a name="SentencePair-to_dict"><strong>to_dict</strong></a>(self) -&gt; Dict</dt><dd><tt>This&nbsp;method&nbsp;transforms&nbsp;this&nbsp;object&nbsp;into&nbsp;a&nbsp;python&nbsp;dictionary.<br>
 &nbsp;<br>
 Parameters:<br>
 None.<br>
@@ -62,43 +62,23 @@ Dict:&nbsp;The&nbsp;dictionary&nbsp;representation&nbsp;of&nbsp;the&nbsp;data&nb
 
 <hr>
 Data descriptors defined here:<br>
-<dl><dt><strong>category</strong></dt>
-</dl>
-<dl><dt><strong>cluster_grade</strong></dt>
-</dl>
-<dl><dt><strong>connective_index</strong></dt>
-</dl>
-<dl><dt><strong>descriptive_index</strong></dt>
-</dl>
-<dl><dt><strong>filename</strong></dt>
-</dl>
-<dl><dt><strong>grade</strong></dt>
+<dl><dt><strong>first</strong></dt>
 </dl>
 <dl><dt><strong>id</strong></dt>
 </dl>
-<dl><dt><strong>lexical_diversity_index</strong></dt>
+<dl><dt><strong>obtained_text</strong></dt>
 </dl>
-<dl><dt><strong>readability_index</strong></dt>
+<dl><dt><strong>obtained_text_id</strong></dt>
 </dl>
-<dl><dt><strong>referential_cohesion_index</strong></dt>
-</dl>
-<dl><dt><strong>sentence_pair</strong></dt>
-</dl>
-<dl><dt><strong>syntactic_complexity_index</strong></dt>
-</dl>
-<dl><dt><strong>syntactic_pattern_density_index</strong></dt>
-</dl>
-<dl><dt><strong>text</strong></dt>
-</dl>
-<dl><dt><strong>word_information_index</strong></dt>
+<dl><dt><strong>second</strong></dt>
 </dl>
 <hr>
 Data and other attributes defined here:<br>
-<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x7fd222825f70; ObtainedText&gt;</dl>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x7f813954d3d0; SentencePair&gt;</dl>
 
-<dl><dt><strong>__table__</strong> = Table('OBTAINED_TEXT', MetaData(bind=None), Colu..., Integer(), table=&lt;OBTAINED_TEXT&gt;), schema=None)</dl>
+<dl><dt><strong>__table__</strong> = Table('SENTENCE PAIR', MetaData(bind=None), Colu...le=&lt;SENTENCE PAIR&gt;, nullable=False), schema=None)</dl>
 
-<dl><dt><strong>__tablename__</strong> = 'OBTAINED_TEXT'</dl>
+<dl><dt><strong>__tablename__</strong> = 'SENTENCE PAIR'</dl>
 
 <hr>
 Data descriptors inherited from sqlalchemy.ext.declarative.api.Base:<br>
