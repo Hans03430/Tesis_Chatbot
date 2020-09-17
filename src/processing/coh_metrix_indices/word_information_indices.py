@@ -61,13 +61,12 @@ class WordInformationIndices:
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)   
             words = 0
-            word_arr = []
+
             for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
                 for token in doc:
                     if word_type_condition(token):
-                        word_arr.append(token)
                         words += 1
-            print(word_arr)
+
             return (words / wc) * self._incidence
 
     def get_noun_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
