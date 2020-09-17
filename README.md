@@ -73,7 +73,7 @@ De las 45 métricas a implementar originalmente, se implementarán 48. Aquí est
     * CRFANP1: Promedio de oracioneos contiguas que poseen solapamiento entre pronombres.
     * CRFANPa: Promedio del total de todas las oraciones que poseen solapamiento entre pronombres.
 
-# Índices aun no implementados
+# Métricas aun no implementados
 Aquí se especifican qué índices aún no han sido debidamente implementados.
 
 ## Índices de connectivos (Connectives)
