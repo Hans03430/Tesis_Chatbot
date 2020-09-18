@@ -31,9 +31,6 @@ class DescriptiveIndices:
             raise ValueError(f'Language {language} is not supported yet')
         
         self.language = language
-        '''self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['tagger', 'parser', 'ner'])
-        self._nlp.add_pipe(self._nlp.create_pipe('sentencizer'))
-        self._nlp.add_pipe(SyllableSplitter(language), after='sentencizer')'''
         self._nlp = nlp
 
     def get_paragraph_count_from_text(self, text: str) -> int:
@@ -69,13 +66,12 @@ class DescriptiveIndices:
         else:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers  
-            sentences = 0
             disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'sentencizer']
 
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
-                for _ in doc.sents:
-                    sentences += 1
-            
+            sentences = sum(1
+                            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)
+                            for _ in doc.sents)
+                            
             return sentences
 
     def get_word_count_from_text(self, text: str, workers: int=-1) -> int:
@@ -96,12 +92,11 @@ class DescriptiveIndices:
         else:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
-            total_words = 0
 
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=self._nlp.pipe_names, n_process=threads):
-                for token in doc:
-                    if is_word(token):
-                        total_words += 1
+            total_words = sum(1
+                              for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=self._nlp.pipe_names, n_process=threads)
+                              for token in doc
+                              if is_word(token))
 
             return total_words
 
