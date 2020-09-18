@@ -18,7 +18,7 @@ class ReferentialCohesionIndices:
     '''
     This class will handle all operations to find the synthactic pattern density indices of a text according to Coh-Metrix.
     '''
-
+    # TODO: Implement multiprocessing
     def __init__(self, nlp, language: str='es') -> None:
         '''
         The constructor will initialize this object that calculates the synthactic pattern density indices for a specific language of those that are available.

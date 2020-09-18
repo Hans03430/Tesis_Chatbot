@@ -61,11 +61,10 @@ class WordInformationIndices:
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)   
             words = 0
-
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
-                for token in doc:
-                    if word_type_condition(token):
-                        words += 1
+            words = sum(1 
+                        for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)
+                        for token in doc
+                        if word_type_condition(token))
 
             return (words / wc) * self._incidence
 
