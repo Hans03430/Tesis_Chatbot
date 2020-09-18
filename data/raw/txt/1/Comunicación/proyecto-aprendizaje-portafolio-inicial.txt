@@ -3,7 +3,6 @@ aprendizaje
 
 P
 ro
-
 ye
 ct
 
@@ -20,18 +19,12 @@ re
 n
 d
 iz
-
 a
 je
-
 Ciclo Inicial
-
 Educación Básica Alternativa
-
 Portafolio
-
 Ciclo inicial
-
 Dirección General de Educación Básica Alternativa, Intercultural Bilingüe
 y de Servicios Educativos en el Ámbito Rural (Digeibira)
 
@@ -43,32 +36,26 @@ Portafolio de evidencias
 
 © Ministerio de Educación
  Calle Del Comercio 193, San Borja
- Lima, Perú. Teléfono: 615-5800
+ Lima, Perú.Teléfono: 615-5800
  www.gob.pe/minedu
-
-Todos los derechos reservados. Prohibida la reproducción de este libro por 
+Todos los derechos reservados.Prohibida la reproducción de este libro por 
 cualquier medio, total o parcialmente, sin permiso expreso.
 
 Primera edición, octubre de 2018
 Tiraje: 24 609 ejemplares
-
 Hecho el Depósito Legal en la Biblioteca Nacional del Perú N.° 2018-17430
 
 Se terminó de imprimir en Noviembre de 2018
 Impreso por: Industria Gráfica Cimagraf S.A.C.
 Pasaje Santa Rosa N° 140 - Lima - Ate
-
 Impreso en el Perú / Printed in Peru
-
 MINISTERIO DE EDUCACIÓN
-
 Dirección General de Educación Básica Alternativa, Intercultural Bilingüe
 y de Servicios Educativos en el Ámbito Rural (Digeibira)
 
 Dirección de Educación Básica Alternativa (DEBA)
 
 3
-
 Estimado estudiante:
 
 Te felicitamos por tu decisión de continuar tus estudios y ponemos a 
@@ -76,8 +63,8 @@ tu alcance el material educativo para el desarrollo de proyectos de
 aprendizaje del ciclo Inicial de Educación Básica Alternativa, el cual está 
 conformado por:
 
-1. Un texto de proyectos de aprendizaje
-2. Un portafolio de evidencias
+1.Un texto de proyectos de aprendizaje
+2.Un portafolio de evidencias
 
 El presente material corresponde al portafolio de evidencias.
 
@@ -87,7 +74,7 @@ cuatro proyectos.
  
 En el portafolio de evidencias desarrollarás las actividades retadoras que 
 se precisan en el texto, las cuales trabajarás individualmente o en equipo, 
-según se indique. El portafolio es el espacio en el que demostrarás lo que 
+según se indique.El portafolio es el espacio en el que demostrarás lo que 
 aprendiste.
 
 Cada uno de los cuatro proyectos de aprendizaje que se desarrollan en 
@@ -101,7 +88,6 @@ aprendizaje
 para el ciclo 
 Inicial de 
 EBA
-
 Portafolio 
 evidencias 
 para el 
@@ -114,46 +100,36 @@ aprendizaje
 
 Derechos y 
 ciudadanía
-
 Actuar contra la 
 violencia hacia  la
 
 mujer
-
 Salud y ambiente
 Alimentarnos y 
 cuidar nuestra
 
 salud
-
 Territorio y cultura Nuestra identidad cultural
-
 Trabajo y 
 emprendimiento
-
 Aprender a 
 emprender
-
 Fases para la elaboración de un proyecto
-
 Fase 1
 Identificación 
 y selección del 
 asunto público
-
 Fase 3
 Socialización 
 de productos 
 finales y 
 evaluación
-
 A lo largo del desarrollo de los proyectos, encontrarás:
 
 Fase 2
 Indagación y 
 realización de 
 actividades
-
 a) Íconos: cuyo propósito es orientar la 
 acción a realizar.
 
@@ -162,56 +138,43 @@ recomendaciones y te ayudan a
 construir las ideas.
 
 Realizar la actividad en 
-grupo. Si la actividad no 
+grupo.Si la actividad no 
 tiene este ícono se realiza 
 individualmente.
 
 Contacto web
 web
-
 Índice
 Presentación 3
 Estructura del texto 4
 Proyecto I. Actuar contra la violencia hacia la mujer 6
-Actividad 1. ¿De qué forma se ejerce la violencia hacia la mujer? 8
-Actividad 2. ¿Qué consecuencias tiene la violencia hacia la mujer          
-                      en la familia y en la sociedad? 17
-
-Actividad 3. Prevenir, sancionar y erradicar el feminicidio 21
-Actividad 4. ¿Qué debemos hacer contra la violencia hacia la  
-                      mujer? 26
-
+Actividad 1.¿De qué forma se ejerce la violencia hacia la mujer?8
+Actividad 2.¿Qué consecuencias tiene la violencia hacia la mujer          
+                      en la familia y en la sociedad?17
+Actividad 3.Prevenir, sancionar y erradicar el feminicidio 21
+Actividad 4.¿Qué debemos hacer contra la violencia hacia la  
+                      mujer?26
 Socialización de productos finales y evaluación 30
-Proyecto II. Alimentarnos y cuidar nuestra salud 32
-Actividad 1. ¿Cuál es el valor nutritivo de los alimentos? 34
-Actividad 2. ¿Qué es una dieta balanceada? 39
-Actividad 3. ¿Qué cuidados debemos tener con los productos  
-                      envasados? 47
-
-Actividad 4. ¿Qué enfermedades puede ocasionar la falta o exceso  
-                      de nutrientes en la dieta diaria? 53
-
+Proyecto II.Alimentarnos y cuidar nuestra salud 32
+Actividad 1.¿Cuál es el valor nutritivo de los alimentos?34
+Actividad 2.¿Qué es una dieta balanceada?39
+Actividad 3.¿Qué cuidados debemos tener con los productos  
+                      envasados?47
+Actividad 4.¿Qué enfermedades puede ocasionar la falta o exceso  
+                      de nutrientes en la dieta diaria?53
 Socialización de productos finales y evaluación 59
-Proyecto III. Nuestra identidad cultural 62
-Actividad 1. ¿Somos únicos y diferentes a la vez? 64
-Actividad 2. Desarrollo mi autoestima 67
-Actividad 3. Identidad y cultura 70
-Actividad 4. Diversidad cultural 74
-
+Proyecto III.Nuestra identidad cultural 62
+Actividad 1.¿Somos únicos y diferentes a la vez?64
+Actividad 2.Desarrollo mi autoestima 67
+Actividad 3.Identidad y cultura 70
+Actividad 4.Diversidad cultural 74
 Socialización de productos finales y evaluación 79
-
-Proyecto IV. Aprender a emprender 82
-
-Actividad 1. Habilidades para emprender 84
-
-Actividad 2. Asumo retos como emprendedor 89
-
-Actividad 3. Fortalezco mis conocimientos como emprendedor 95
-
-Actividad 4. Desarrollo mi potencial como emprendedor 101
-
+Proyecto IV.Aprender a emprender 82
+Actividad 1.Habilidades para emprender 84
+Actividad 2.Asumo retos como emprendedor 89
+Actividad 3.Fortalezco mis conocimientos como emprendedor 95
+Actividad 4.Desarrollo mi potencial como emprendedor 101
 Socialización de productos finales y evaluación 103
-
 6
 
 #NiUnaMenos: mil mujeres fueron víctimas 
@@ -220,7 +183,7 @@ El 90 % de las víctimas fueron asesinadas por sus parejas, exparejas o familiar
 según las cifras del Ministerio Público.
 
 La violencia contra la mujer es un tema 
-recurrente en el Perú. Así, lo demuestran las 
+recurrente en el Perú.Así, lo demuestran las 
 cifras del Observatorio de la Criminalidad 
 del Ministerio Público, las cuales revelan 
 que, en los últimos ocho años, entre enero 
@@ -235,7 +198,7 @@ a manos de un desconocido, conocido o cliente.
 A nivel nacional, Lima es el distrito fiscal que registró el mayor número de víctimas 
 (120), seguido de Junín (85), Lima Norte (62), Arequipa (58), Lima Sur (50), Puno (45), 
 Ayacucho (44), Huánuco (40), Lambayeque (40) y Cusco (39), representando cerca 
-del 60 %, del total registrado. 
+del 60 %, del total registrado.
 Feminicidios en 2017
 Según el último informe del Ministerio Público, entre enero y julio de este año se 
 registraron 48 casos de feminicidio, de los cuales el 46 correspondieron a mujeres 
@@ -244,17 +207,14 @@ por un desconocido que atacó sexualmente a la víctima.
 Pero, además, existen casos en investigación denominados “posible feminicidio”, 
 los cuales son monitoreados por el Observatorio de Criminalidad con las fiscalías 
 responsables de la investigación para prevenir que se conviertan en una cifra de 
-feminicidio. En ese contexto, en el año 2017 se han registrado 16 de estos casos.
+feminicidio.En ese contexto, en el año 2017 se han registrado 16 de estos casos.
 
 Adaptado de https://goo.gl/7TKLK2
-
 PROYECTO I 
 Actuar contra la violencia  
 hacia la mujer
-
 http
 s://b
-
 it.ly/2N
 hD
 
@@ -262,7 +222,6 @@ hD
 G
 
 7
-
 Lanzan Observatorio Nacional 
 de la Violencia contra la Mujer
 Ministerio de la Mujer 
@@ -291,7 +250,7 @@ se podrá consultar la de las carteras
 de Salud y Justicia, además de poder 
 acceder a información del Poder 
 Judicial, Fiscalía de la Nación, INEI y 
-Policía Nacional del Perú. El enlace es 
+Policía Nacional del Perú.El enlace es 
 www.observatorioviolencia.pe.
 
 Recuperado de https://goo.gl/TcLuTy
@@ -317,7 +276,6 @@ violencia hacia la mujer.
 
 Actuar contra la violencia hacia la 
 mujer
-
 Actividades Productos
 Actividad 1
 ¿De qué forma se 
@@ -328,7 +286,6 @@ Mapa mental
 Encuesta y 
 procesamiento 
 de información
-
 Actividad 2
 ¿Qué 
 consecuencias 
@@ -338,7 +295,6 @@ la familia y en la
 sociedad?
 
 Pictograma
-
 Actividad 3
 Prevenir, sancionar 
 y erradicar el 
@@ -347,7 +303,6 @@ feminicidio
 Tríptico, díptico, 
 volante y/o 
 rotafolio
-
 Actividad 4
 ¿Qué debemos 
 hacer contra la 
@@ -363,40 +318,30 @@ instituciones
 Socialización de 
 productos finales y 
 evaluación
-
 Campaña  de 
 sensibilización y 
 difusión
 
 BARRIOS Y HOGA
 RES TUGURIZAD
-
 OS VULNERAN L
 A PROTECCIÓN D
 
 E LOS NIÑOS
-
 Son víctimas de 
 la violencia fami
-
 liar y sexual, tan
 to en su casas co
-
 mo en la calle.
 
 SITUACIÓN DE H
 ACINAMIENTO D
-
 E
-
-LAS VIVIENDAS. 
+LAS VIVIENDAS.
 Número de fami
-
 lias por lote
-
 42,4%
 Viviendas hacina
-
 das
 57,6%
 Viviendas no
@@ -431,104 +376,69 @@ Mueble 1%
 3%
 
 Comodoy
-
 Cunas
-
 Colchón
-
 Camarote
-
 Camas
-
 TIPO DE MUEBLE
  EN EL QUE DESC
-
 ANSAN
 
 LOS MIEMBROS D
 E LAFAMILIA
-
 16
 10
-
 46
-
 69
-
 26
-
 9
-
 63
 68
-
 13
 10
-
 50
-
 0
-
 73
-
 33
-
 22
-
 65
-
 9
 17
-
 35
 
 65
-
 Adulto con niño/
 a de 0 a 5
-
 Adulto con niño/
 a de 6 a 14
-
 Adulto con adole
 scente de 15 a 17
-
 Adulto con niño/
 a
 
 Datos en %
 
 1.579
-
 VIOLENCIA FAMI
 LIAR Y VIOLENCI
 
 A
-
 SEXUAL 2010-20
 11
-
 Violencia 
 familar
-
 Violencia 
 sexual
 
 LA REPÚBLICA
 
 2010 2011
-
 46                 26
-
 24                    3
-
 41                 13
-
 14                    1
-
 Fuente: Estudio 
 factores de riesg
-
 o frente a la ocur
 rencia de abuso
 
@@ -537,24 +447,18 @@ niños en barrios
 
 bulnerados de L
 ima Metropolita
-
 na / Ministerio d
 e la Mujer y Desa
-
 rrollo Social.
 
 En El Agustino
-
 casos de abuso
-
 sexual infantil fue
 ron
-
 denunciados en e
 l
 
 Perú en los cinco
-
 primeros meses d
 el
 
@@ -562,31 +466,25 @@ año, que derivaro
 n
 
 en
-226 detenciones,
-
+226 detenciones
 según datos del
-
 Instituto de Medi
 cina
 
 Legal y Ciencias
-
 Forenses.
 
 PROYECTO I
-
 8
-
 Actividad 1
-
-1. Pega y comenta un recorte de noticia sobre situaciones de violencia 
-hacia la mujer. (Puedes doblar el recorte del tamaño del recuadro)
+1.Pega y comenta un recorte de noticia sobre situaciones de violencia 
+hacia la mujer.(Puedes doblar el recorte del tamaño del recuadro)
 
 ¿De qué forma se ejerce la violencia hacia la 
 mujer?
 
-2. Responde.
-En la noticia que has leído, ¿figuran nombres de personas? Escribe solo 
+2.Responde.
+En la noticia que has leído, ¿figuran nombres de personas?Escribe solo 
 el primer nombre.
 
 ¿Qué forma de violencia contra la mujer se manifiesta en la noticia?
@@ -595,7 +493,6 @@ el primer nombre.
 mujer?
 
 9
-
 Situaciones 
 de violencia
 
@@ -604,7 +501,7 @@ mujer
 
 
 
-3. Realiza un mapa mental con dibujos y recortes de noticias sobre 
+3.Realiza un mapa mental con dibujos y recortes de noticias sobre 
 situaciones de violencia hacia la mujer, para ello:
 �� Revisa información (Internet, textos, revistas o periódicos sobre los
 
@@ -618,13 +515,12 @@ violencia hacia la mujer.
 hacia la mujer.
 
 10
-
-4. Observa la siguiente situación y comenta tu opinión con tus 
+4.Observa la siguiente situación y comenta tu opinión con tus 
 compañeros.
 
-5. Coloca û en el recuadro del tipo de violencia que se presenta.
+5.Coloca û en el recuadro del tipo de violencia que se presenta.
 
-6. Coloca û a los derechos que no se están respetando en la situación 
+6.Coloca û a los derechos que no se están respetando en la situación 
 anterior.
 
 Derecho a la igualdad y a la no discriminación
@@ -634,11 +530,8 @@ Derecho al control del propio cuerpo
 Derecho a poseer propiedades
 
 Derecho a la educación
-
 Violencia física Violencia psicológica
-
 Violencia sexual
-
 Es que mi ex 
 enamorado 
 siempre me
@@ -646,7 +539,7 @@ siempre me
 sigue a todas 
 partes.
 
-¡Hola, Ana! ¡Qué 
+¡Hola, Ana!¡Qué 
 bueno verte!
 
 No te preocupes, 
@@ -665,7 +558,7 @@ vaya a estudiar.
 
 ¡Qué pasa!
 
-¡Hola, Paty! 
+¡Hola, Paty!
 Hace tiempo
 
 que no te veía.
@@ -675,8 +568,8 @@ que no te veía.
 ¿Qué son los Centros Emergencia Mujer?
 Los Centros Emergencia Mujer (CEM) son servicios públicos especializados y gratuitos, de atención integral y multidisciplinaria, para víctimas de violencia contra la mujer e integrantes del grupo familiar, en 
 los cuales se brinda orientación legal, defensa judicial y consejería 
-psicológica. Se procura la recuperación del daño sufrido y se presta 
-asistencia social. Asimismo, se realizan actividades de prevención a 
+psicológica.Se procura la recuperación del daño sufrido y se presta 
+asistencia social.Asimismo, se realizan actividades de prevención a 
 través de capacitaciones, campañas comunicacionales, formación 
 de agentes comunitarios y movilización de organizaciones.
 Servicios que brinda el CEM a las personas afectadas por la violencia familiar y sexual:
@@ -688,78 +581,60 @@ Servicios que brinda el CEM a las personas afectadas por la violencia familiar y
 La población objetivo de los Centros Emergencia Mujer está constituida por todas las personas afectadas por violencia familiar y sexual dentro de su ámbito de responsabilidad, sin importar su condición social, edad o sexo.
 
 Ministerio de la Mujer y Poblaciones Vulnerables
-
 Una historia con un final feliz
-¡Hola! Me llamo Juana, tengo 33 años y dos hijos de 11 y 13 años. Creí que 
+¡Hola!Me llamo Juana, tengo 33 años y dos hijos de 11 y 13 años.Creí que 
 podría escapar del maltrato de mi padre y a los 17 años me fui de casa con 
-un hombre que prometió cuidarme y ayudarme a seguir estudiado. No fueron 
-ciertas sus promesas, siempre fue celoso y empezó a golpearme. Decía que yo 
+un hombre que prometió cuidarme y ayudarme a seguir estudiado.No fueron 
+ciertas sus promesas, siempre fue celoso y empezó a golpearme.Decía que yo 
 provocaba su ira por mi forma de vestir y conversar, no me dejaba visitar a mi 
-madre, ni a mis amigas y tuve que dejar el CEBA. 
+madre, ni a mis amigas y tuve que dejar el CEBA.
 Cuando comenzó a golpear a mis hijos, me di cuenta que no lo podía permitir, 
-me armé de valor, decidí dejarlo y demandarlo. Ya no le tengo miedo, trabajo 
+me armé de valor, decidí dejarlo y demandarlo.Ya no le tengo miedo, trabajo 
 y vivo con mis hijos, gracias a ellos salí adelante.
 
 Punto 
 final
-
 Punto 
 aparte
-
 Punto 
 seguido
+7.Lee el siguiente texto.
 
-7. Lee el siguiente texto.
-
-Lee la siguiente historia y comenta. Encierra los diferentes tipos de punto 
+Lee la siguiente historia y comenta.Encierra los diferentes tipos de punto 
 con el color respectivo del ejemplo.
 
 12
-
-8. Observa el gráfico.
+8.Observa el gráfico.
 Casos atendidos por violencia familiar y sexual en los Centros de
 
 Emergencia Mujer de Villa María del Triunfo
 
 Fuente: Programa Nacional contra la Violencia Familiar y Sexual – MIMDES
-
 Año: 2011  2012
 
 589             470
-
 Año: 2013  2015
 
 602              773
-
 a. Compara y completa con los signos  > o < según corresponda.
 
 b. Realiza seis comparaciones con la información del gráfico de barras.
 
 100
 0
-
 500
-
 300
-
 700
-
 200
-
 600
-
 400
-
 800
 900
-
 1000
 
 2011 2013 20152012 2014 2016
-
 N
 úm
-
 er
 o
 
@@ -768,39 +643,29 @@ e
 
 ca
 so
-
 s 
 a
-
 te
 nd
-
 id
 o
-
 s
-
 589
 470
-
 602
-
 712
 773
-
 1192
-
 13
-
-9. Realiza con tus compañeros del aula 30 encuestas sobre casos 
-de violencia contra la mujer. A continuación, te presentamos una 
+9.Realiza con tus compañeros del aula 30 encuestas sobre casos 
+de violencia contra la mujer.A continuación, te presentamos una 
 propuesta que puedes adecuar.
 
 Encuesta
 
-La presente encuesta es anónima, pedimos tu colaboración. 
+La presente encuesta es anónima, pedimos tu colaboración.
 Marca con ü tu respuesta.
-1. ¿Cuál de estos tipos de violencia observas con mayor
+1.¿Cuál de estos tipos de violencia observas con mayor
 
 frecuencia?
 
@@ -809,8 +674,7 @@ Violencia física
 Violencia psicológica o verbal
 
 Violencia sexual
-
-2. Durante un mes, ¿cuántos casos de violencia contra la mujer has 
+2.Durante un mes, ¿cuántos casos de violencia contra la mujer has 
 observado o conociste aproximadamente?
 
 ________________________________________________________________
@@ -818,76 +682,54 @@ ________________________________________________________________
 ¡Gracias por tu colaboración!
 
 14
-
-10. Procesamiento de la información obtenida en la encuesta
+10.Procesamiento de la información obtenida en la encuesta
 a. Organización de la información
 
-b. Compara cantidades entre los tipos de violencia hacia la mujer. 
+b. Compara cantidades entre los tipos de violencia hacia la mujer.
  La mayor cantidad de incidencias es en: 
  La menor cantidad de incidencias es en: 
 c. Conclusiones con base en los resultados de la encuesta
 
 Ítems
 Tipos de violencia
-
 Conteo
 Total
-
 Números Letras
-
 Violencia física
 Violencia 
 psicológica 
 Violencia sexual
 Casos observados 
 al mes Conteo Números Letras
-
 Ninguno
-
 Entre 1 a 5
-
 Entre 6 a 10
-
 Entre 11 a 15
-
 Entre 16 a 20
-
 Entre 26 a 30
 
 Más de 30
-
 15
-
 Ítems
 Tipos de violencia
-
 Conteo
 Total
-
 Números Letras
-
 Violencia física
 Violencia 
 psicológica 
 Violencia sexual
 Casos observados 
 al mes Conteo Números Letras
-
 Ninguno
-
 Entre 1 a 5
-
 Entre 6 a 10
-
 Entre 11 a 15
-
 Entre 16 a 20
-
 Entre 26 a 30
 
 Más de 30
-
-11. Observa las imágenes y completa los espacios en blanco con las 
+11.Observa las imágenes y completa los espacios en blanco con las 
 palabras que consideras expresan mejor el mensaje.
 
 Marcha por la no _______________ contra la _________________ en Bolivia, 
@@ -897,7 +739,6 @@ Puerto Rico, Argentina, México y Perú.
 la  Violencia contra la Mujer?
 
 25 de noviembre
-
 Día Internacional 
 de la Eliminación de 
 la  Violencia contra
@@ -907,7 +748,6 @@ la Mujer
 16
 
 Evaluación
-
 Coevaluación sobre la elaboración y aplicación de la encuesta
 Escribe “Sí”, "A veces" o “No”, según corresponda.
 
@@ -964,31 +804,28 @@ contra la mujer?
 __________________
 __________________
 ___________________
-
 17
-
-1. Selecciona y escribe el titular de una noticia sobre la violencia contra la 
+1.Selecciona y escribe el titular de una noticia sobre la violencia contra la 
 mujer.
 
-2. En función a la noticia que seleccionaste, plantea dos consecuencias.
+2.En función a la noticia que seleccionaste, plantea dos consecuencias.
 
-3. Recorta imágenes que muestren las consecuencias de la violencia 
-contra la mujer y las acciones que podrías emprender frente a ello. 
-Organícenlas en un papelote y armen con ellas un mapa mental. 
+3.Recorta imágenes que muestren las consecuencias de la violencia 
+contra la mujer y las acciones que podrías emprender frente a ello.
+Organícenlas en un papelote y armen con ellas un mapa mental.
 Coloquen el papelote en un lugar visible del aula.
 
-4. Elabora una encuesta para conocer la percepción respecto a las 
-consecuencias de la violencia contra la mujer. Aplica la encuesta a 30 
+4.Elabora una encuesta para conocer la percepción respecto a las 
+consecuencias de la violencia contra la mujer.Aplica la encuesta a 30 
 personas del CEBA y/o comunidad.
 
-5. Organiza los datos de la encuesta usando una tabla de frecuencias.
+5.Organiza los datos de la encuesta usando una tabla de frecuencias.
 
 ¿Qué consecuencias tiene la violencia hacia la 
 mujer en la familia y en la sociedad?
 
 Consecuencias de la violencia 
 hacia la mujer en la comunidad Frecuencia Total
-
 Miedo
 Baja autoestima
 Depresión
@@ -997,28 +834,24 @@ Estrés
 Sentimiento de Subordinación
 Otros
 Total  de encuestados
-
 Actividad 2
-
 18
+6.Elabora un pictograma con los resultados de la tabla de frecuencias.
 
-6. Elabora un pictograma con los resultados de la tabla de frecuencias.
-
-7. Analiza el pictograma elaborado y responde las preguntas.
+7.Analiza el pictograma elaborado y responde las preguntas.
 a. ¿Cuál de las consecuencias de la violencia contra la mujer es más
 
 frecuente en la comunidad?
 
 b. ¿Cuál es la menos frecuente?
 
-8. Escribe las medidas que se podrían tomar para que las consecuencias 
+8.Escribe las medidas que se podrían tomar para que las consecuencias 
 de la violencia contra la mujer no sigan afectando a la comunidad.
 
-9. Escribe un lema alusivo a la no violencia hacia la mujer y una vida sana 
+9.Escribe un lema alusivo a la no violencia hacia la mujer y una vida sana 
 en la comunidad.
 
 19
-
 Evaluación
 Coevaluación sobre la elaboración y aplicación de la encuesta
 a. Escribe “Sí” o “No”, según corresponda.
@@ -1045,7 +878,6 @@ dificultades presentadas?
 consideramos significativos?
 
 Autoevaluación
-
 a. Responde.
 ¿Qué acciones podríamos hacer para erradicar la violencia hacia la 
 mujer?
@@ -1053,14 +885,13 @@ mujer?
 ¿Se puede justificar la violencia hacia la mujer?¿Por qué?
 
 ¿Mejorarán las relaciones con mi familia y mi comunidad al reconocer 
-las consecuencias de la violencia hacia la mujer? ¿Cómo?
+las consecuencias de la violencia hacia la mujer?¿Cómo?
 
 20
 
-b. Reflexiona y registra tu avance a lo largo de la actividad 2. Marca “û”.
+b. Reflexiona y registra tu avance a lo largo de la actividad 2.Marca “û”.
 
 Criterior Lo logré Casi lo logro Debo esforzarme
-
 Identifico las 
 consecuencias de la 
 violencia hacia la mujer.
@@ -1080,9 +911,7 @@ base en el siguiente instrumento.
 
 Capacidades
 Calificación
-
 En inicio En proceso Logro esperado
-
 Representa 
 datos con 
 gráficos y 
@@ -1177,8 +1006,7 @@ tablas de conteo
 simple.
 
 21
-
-1. Escribe los motivos por los que se dan casos de violencia hacia la mujer 
+1.Escribe los motivos por los que se dan casos de violencia hacia la mujer 
 que llegan al feminicidio.
 
 a.
@@ -1197,13 +1025,11 @@ d.
 
 
 
-2. Escribe los derechos que conoces para evitar el feminicidio.
+2.Escribe los derechos que conoces para evitar el feminicidio.
 
 Prevenir, sancionar y erradicar el feminicidioActividad 3
-
 22
-
-3. Investiga y escribe datos sobre el feminicidio que ocurren en algunos 
+3.Investiga y escribe datos sobre el feminicidio que ocurren en algunos 
 países del mundo, incluyendo al Perú.
 a. Completa la tabla.
  Nota: la data debe corresponder al mismo año.
@@ -1213,46 +1039,42 @@ N° de
 
 feminicidios 
 frecuencia
-
 decena unidad descomposición
 
 b. Representa la información que has identificado mediante un
 
 pictograma.
 
-4. Investiga  y responde.
+4.Investiga  y responde.
 �� ¿Cuál es el país donde se registra el mayor número de feminicidios?
 
-�� En Perú, ¿lo feminicidios están en aumento o en disminución? ¿Por 
+�� En Perú, ¿lo feminicidios están en aumento o en disminución?¿Por 
 qué crees que sucede esto?
 
 23
-
-5. Observa la imagen y responde.
-a. ¿Que rol desarrollas en tu familia? ¿Por qué?
+5.Observa la imagen y responde.
+a. ¿Que rol desarrollas en tu familia?¿Por qué?
 
 b. ¿Cúales son los beneficios de desarrollar 
 diversos roles en tu familia?
 
-c. ¿Crees que el machismo influye en el trato violento hacia la mujer? 
+c. ¿Crees que el machismo influye en el trato violento hacia la mujer?
 ¿Por qué?
 
-6. Observa los signos y escribe lo que se expresa. Reflexiona con cuál de 
+6.Observa los signos y escribe lo que se expresa.Reflexiona con cuál de 
 ellas te identificas.
 
-7. ¿Qué otros mensajes o acciones puedes observar donde se produce 
+7.¿Qué otros mensajes o acciones puedes observar donde se produce 
 violencia hacia la mujer?
 
 24
-
-8.             realiza una encuesta para averiguar las actitudes o pensamiento 
+8.            realiza una encuesta para averiguar las actitudes o pensamiento 
 de los varones.
 
 a. Realicen una tabla de frecuencias con los datos recolectados y 
 compártanla con otros grupos.
 
 Casos Conteo Frecuencia
-
 Que se cambie, que 
 así no saldrá a la 
 calle.
@@ -1269,36 +1091,33 @@ Pregunto si necesita
 ayuda.
 
 Total
-
 Encuesta anómina
 La presente encuesta anónima es para recabar información sobre 
 actitudes de los varones con respecto a la mujer.
 Marca con una “û” tu respuesta.
 ¿Qué le dirías a tu esposa, pareja o enamorada si…?
-1. Se pone una ropa apretada…
+1.Se pone una ropa apretada…
 
 Que se cambie, que así no saldrá a la calle.
 
 Que le queda bien lo que se ponga.
 
-2. Se demora en el mercado…
+2.Se demora en el mercado…
  Me molesto.
 
 Pregunto cómo le fue en sus compras.
 
-3. Un día no limpia la casa…
+3.Un día no limpia la casa…
  Le digo que procure hacerlo pronto.
 
 Pregunto si necesita ayuda.
 ¡Muchas gracias!
 
 25
-
 a. Realicen una tabla de frecuencias con los datos recolectados y 
 compártanla con otros grupos.
 
 Casos Conteo Frecuencia
-
 Que se cambie, que 
 así no saldrá a la 
 calle.
@@ -1315,7 +1134,6 @@ Pregunto si necesita
 ayuda.
 
 Total
-
 b. Escribe cuáles son las conclusiones de los datos recogidos.
 
 ��
@@ -1326,10 +1144,10 @@ b. Escribe cuáles son las conclusiones de los datos recogidos.
 
 c. Responde: ¿cuál es tu opinión, de acuerdo a los resultados?
 
-9. Lee lo siguiente.
+9.Lee lo siguiente.
 
 La pareja de Raquel, luego de agredirla físicamente, 
-le escribió pidiéndole disculpas, ella lo perdonó. 
+le escribió pidiéndole disculpas, ella lo perdonó.
 Cinco semanas después el mismo hombre la 
 asesinó.
 
@@ -1338,18 +1156,16 @@ a. ¿Por qué crees que Raquel no denunciaba la agresión?
 b. ¿Qué hubiera pasado si Raquel buscaba ayuda?
 
 c. ¿Crees que Raquel durante la relación no hizo respetar sus 
-derechos? ¿Por qué?
+derechos?¿Por qué?
 
 26
-
-10. Lee lo siguiente.
+10.Lee lo siguiente.
 
 a. ¿Qué acciones debemos realizar para eliminar la violencia contra la 
 mujer?
 
 Feminicidio: al día se reporta un caso o intento,  
 según el Ministerio de la Mujer
-
 04 de julio de 2017 
 En declaraciones a la prensa, la ministra 
 del Ministerio de la Mujer y Poblaciones 
@@ -1368,23 +1184,20 @@ Adaptado de https://diariocorreo.pe/peru/feminicidio-al-dia-se-reporta-un-caso-o
 ¿Qué debemos hacer contra la violencia hacia 
 la mujer?
 
-1. Organiza una visita con tus compañeros a una institución donde presten 
+1.Organiza una visita con tus compañeros a una institución donde presten 
 ayuda y orientación a las mujeres en casos de violencia familiar, por 
 ejemplo, un CEM (Centro de Emergencia Mujer) u otro.
 Para ello, elaboren un cuestionario o tomen como referencia el ejemplo 
 propuesto en el texto de proyectos.
 
 Actividad 4
-
 27
-
 Designen a un compañero(a) para que realice el rol del entrevistador.
 
 Entrevista
 Nombre de la institución: _________________________________________
 Nombre del entrevistado: _________________________________________ 
 Fecha: ______________________
-
 Muy buenos días, mi nombre es ______________ y soy estudiante del CEBA
 
 ______________________________________, sería tan amable de responder
@@ -1393,9 +1206,9 @@ algunas preguntas, para recoger información sobre la violencia hacia la
 mujer.
 
 ¡Muchas gracias, por su aporte!
-1. ¿Cuáles son las instituciones donde se puede denunciar la violencia
+1.¿Cuáles son las instituciones donde se puede denunciar la violencia
 
-contra la mujer en la Región __________________________? Me brinda 
+contra la mujer en la Región __________________________?Me brinda 
 sus direcciones, teléfonos y horarios de atención.
 
 Nombre de 
@@ -1403,11 +1216,9 @@ instituciones Dirección
 
 N° teléfono fijo o 
 celular
-
 Horario de 
 atención
-
-2. ¿Qué requisitos o condiciones debe presentar una mujer que 
+2.¿Qué requisitos o condiciones debe presentar una mujer que 
 sufre violencia familiar para realizar una denuncia y recibir apoyo 
 psicológico y protección?
 
@@ -1416,32 +1227,30 @@ Nombre de instituciones
 2.
 3.
 
-3. ¿Cuál es la cantidad de denuncias presentadas por violencia 
+3.¿Cuál es la cantidad de denuncias presentadas por violencia 
 familiar contra las mujeres en los cinco últimos años en la 
 Región_________________?
 
 
 
 28
-
-2. Elabora una 
+2.Elabora una 
 agenda con 
 la información 
 obtenida en la 
 entrevista.
 
-3. Con la información recabada en la entrevista, escribe un listado sobre 
+3.Con la información recabada en la entrevista, escribe un listado sobre 
 cuáles son los requisitos para denunciar actos de violencia hacia la mujer.
 
-4. Escribe la información recabada en la entrevista acerca de las 
+4.Escribe la información recabada en la entrevista acerca de las 
 instituciones donde  puede refugiarse una mujer que ha sufrido intento 
 de feminicidio.
 
 Nombre de instituciones Dirección N° teléfono fijo o celular
 Horario de 
 atención
-
-5. Analiza y escribe dos conclusiones sobre lo investigado.
+5.Analiza y escribe dos conclusiones sobre lo investigado.
 
 ��
 
@@ -1450,11 +1259,9 @@ atención
 NOTES
 
 Page 15
-
 NOTES
 
 Page 16
-
 Dirección:
 
 Horario de atención:
@@ -1462,8 +1269,7 @@ Horario de atención:
 Teléfono:
 
 29
-
-6. Escribe las opiniones del equipo.
+6.Escribe las opiniones del equipo.
 CEBA “__________________________________________________”
 
 Nombre del equipo: _________________________________________
@@ -1480,21 +1286,17 @@ Integrantes del equipo:
 
 de violencia hacia la mujer o un intento de feminicidio?
 
-7. Con los datos obtenidos sobre la cantidad de denuncias por violencia 
+7.Con los datos obtenidos sobre la cantidad de denuncias por violencia 
 hacia la mujer, elabora una tabla de frecuencias y un gráfico de barras.
 Tabla de frecuencia
-
 Gráfico de barras
-
 30
 
 Evaluación
-
 Autoevaluación
-Reflexiona y registra tu avance. Marca con una “û”.
+Reflexiona y registra tu avance.Marca con una “û”.
 
 Criterios Lo logré Casi lo logro Debo esforzarme
-
 Reconozco las instituciones 
 que prestan apoyo a los 
 casos de violencia familiar 
@@ -1533,12 +1335,10 @@ protección a la mujer ante situaciones de violencia?
 mujer?
 
 31
-
 Competencia: resuelve problemas de gestión de datos e incertidumbre.
 
 Capacidades
 Calificación
-
 En inicio En proceso Logro esperado
 Representa 
 datos con 
@@ -1650,10 +1450,8 @@ campañas sobre la no violencia
 familiar hacia la mujer.
 
 32
-
 Alimentarnos y cuidar 
 nuestra salud
-
 PROYECTO II
 
 Polémica chatarra
@@ -1661,31 +1459,21 @@ Polémica chatarra
 
 Obesidad
 Sobrepeso
-
 1.8
-
 8.9
 3.3
-
 8.7
 
 Menor de
 cinco años
-
 6.4
 15.5
-
 5 a 9 10 a 19 20 a 29 30 a 59 Más de
 60 años
-
 11
-
 30.9
-
 19.8
-
 42.5 10.6
-
 21.7
 
 A FAVOR
@@ -1730,10 +1518,8 @@ se verían afectadas.
 procesal a Indecopi.
 
 33
-
 Alimentarnos y cuidar nuestra salud
 Actividades Productos
-
 Actividad 1
 ¿Cuál es el valor 
 nutritivo de los 
@@ -1755,7 +1541,6 @@ Pirámide de los
 alimentos (A-3)
 Recetario de comidas 
 nutritivas
-
 Actividad 3
 ¿Qué cuidados 
 debemos tener 
@@ -1786,7 +1571,6 @@ alimentación.
 Socialización de 
 productos finales y 
 evaluación
-
 Campaña  de 
 sensibilización y 
 difusión
@@ -1837,33 +1621,27 @@ dieta desfavorable para el
 organismo.
 
 34
-
 PROYECTO II
-
-1. Dibuja o pega los alimentos que consumes de acuerdo a su 
+1.Dibuja o pega los alimentos que consumes de acuerdo a su 
 clasificación.
 
 ¿Cuál es el valor nutritivo de los alimentos?
 
-2. Escribe cinco alimentos de origen vegetal que contengan proteínas.
+2.Escribe cinco alimentos de origen vegetal que contengan proteínas.
 
-3. Escribe las actividades que realizas durante el día.
+3.Escribe las actividades que realizas durante el día.
 
-4. ¿Por qué debes consumir toda clase de alimentos?
+4.¿Por qué debes consumir toda clase de alimentos?
 
 Energéticos ProtectoresConstructores
-
 Actividad 1
-
 35
-
-5. Escribe, en la tabla, la cantidad de proteínas que contienen los 
+5.Escribe, en la tabla, la cantidad de proteínas que contienen los 
 pescados y realiza las comparaciones.
 
 Valor nutricional del pescado % proteínas
 
 Tabla
-
 Si comparamos estas cantidades podemos decir que:
 
 Si comparamos las cantidades proteicas entre la carne del cuy y la del 
@@ -1872,30 +1650,18 @@ pescado jurel podemos decir que:
 Pescado Proteína % Letras (cantidad)
 
 lenguado
-
 atún
-
 bonito
-
 jurel
-
 paiche
-
 0
 lenguado     atún      bonito  jurel              paiche
-
 5
-
 15
-
 10
-
 20
-
 25
-
 30
-
 36
 
 Autoevaluación
@@ -1916,40 +1682,37 @@ gráficos de barras verticales.
 Explico comparando los 
 resultados obtenidos.
 
-6. Averigua y escribe las propiedades alimenticias de dos alimentos 
-encontrados en tu localidad. Dibújalos.
+6.Averigua y escribe las propiedades alimenticias de dos alimentos 
+encontrados en tu localidad.Dibújalos.
 
 Recuerda que al iniciar la escritura y los nombres de propios escriben 
-con letra inicial mayúscula. Ejemplo: Paulina, Yungay, Chimbote, etc.
+con letra inicial mayúscula.Ejemplo: Paulina, Yungay, Chimbote, etc.
 
-7. Escribe el nombre de los lugares donde encuentras algunos de estos 
-alimentos en tu localidad. Sigue el ejemplo.
+7.Escribe el nombre de los lugares donde encuentras algunos de estos 
+alimentos en tu localidad.Sigue el ejemplo.
  Sacha inchi:
 
 Moyobamba
-
 37
+8.Escribe los nombres de las zonas de pesca en tu localidad.
 
-8. Escribe los nombres de las zonas de pesca en tu localidad.
-
-9. Lee y responde.
+9.Lee y responde.
 
 Piura es la principal zona exportadora de 
 productos no tradicionales del país
-
 10 de agosto de 2017
 
-Piura. El Viceministerio de Comercio 
+Piura.El Viceministerio de Comercio 
 Exterior revela que Piura es la principal 
 región exportadora del país, después 
 de Lima, en productos no tradicionales 
-que generan valor agregado. 
+que generan valor agregado.
 Refiere que se exporta mil quinientos 
 millones de dólares anuales; además 
 en el primer semestre del 2017 las 
 exportaciones de la región crecieron.
 La producción se envía principalmente a Estados Unidos, a los países 
-de la Unión Europea y del Reino Unido. La oferta de uvas, banano 
+de la Unión Europea y del Reino Unido.La oferta de uvas, banano 
 orgánico, langostino y otros es considerada por los clientes por sus 
 atractivos precios.
 
@@ -1959,7 +1722,7 @@ Adaptado de http://larepublica.pe/economia/1071968-piura-es-la-principal-zona-ex
 valor nutritivo?
 
 ¿Qué alimentos se exportan en tu 
-región? ¿Cuál de ellos consumes?
+región?¿Cuál de ellos consumes?
 
 �� Realiza un fichero de alimentos que 
 contienen proteínas en vegetales.
@@ -1968,16 +1731,13 @@ contienen proteínas en vegetales.
 contienen proteínas en vegetales.
 
 web
-
 Puedes encontrar más información 
 sobre los alimentos que produce el
 
 Perú en el siguente enlace web: 
 https://www.youtube.com/
 watch?v=ObPTN3MQxNg
-
 38
-
 Autoevaluación
 a. Responde.
 
@@ -1985,13 +1745,12 @@ b. Reflexiona y registra tu avance de la actividad 1, marca con un aspa
 “û” el logro correspondiente.
 
 Lista de cotejo 
-Coloca un aspa (û) de acuerdo a tu avance.   
+Coloca un aspa (û) de acuerdo a tu avance.  
 Competencia: lee diversos tipos de textos escritos en lengua materna.
 
 Competencia: escribe diversos tipos de textos en lengua materna.
 
 Criterios Lo logré En proceso Debo repasar
-
 Reconozco el contenido 
 nutritivo de los alimentos.
 
@@ -2007,12 +1766,11 @@ Opino sobre el texto leído a
 partir de las ideas centrales.
 
 Criterios Lo logré En proceso Debo repasar
-
 Escribo pequeños textos a partir 
 de experiencias previas.
 
 Organizo las ideas en forma 
-lógica en mis escritos. 
+lógica en mis escritos.
 Utilizo las mayúsculas al inicio de 
 la escritura y en nombres propios.
 
@@ -2025,16 +1783,15 @@ el contenido nutricional de los
 alimentos?
 
 39
-
-1. Observa y contesta las preguntas.
+1.Observa y contesta las preguntas.
 
 ¿Qué es una dieta balanceada?
 
 ¿Qué concepto tiene la joven de una dieta?
 
-¿Qué  nos quiere comunicar el siguiente afiche? Explica.
+¿Qué  nos quiere comunicar el siguiente afiche?Explica.
 
-2. Encierra, en un círculo, los alimentos que no exceden la cantidad de 
+2.Encierra, en un círculo, los alimentos que no exceden la cantidad de 
 calorías adecuadas.
 
 Debo hacer dieta, 
@@ -2043,36 +1800,33 @@ vez al día y haré
 más ejercicios.
 
 NO NECESITAS
-COMER MENOS,
+COMER MENOS
 SOLO NECESITAS COMER
 
 BIEN
-
 Actividad 2
-
 40
 
 ¿Sabías que un mal desayuno empeora nuestro ánimo?
 La primera comida del día es el desayuno y el  más 
 importante, ya que es la que nos da la energía y 
 los nutrientes para hacer frente a nuestra jornada 
-del día. Además, activa el metabolismo de nuestro 
-cuerpo (quema más calorías). 
+del día.Además, activa el metabolismo de nuestro 
+cuerpo (quema más calorías).
 No hacerlo como es debido puede llevarnos a un 
 mal estado de ánimo, aumento de la fatiga, estreñimiento, riesgo de parecer obesidad o sobrepeso.
 
 Adaptado de http://www.qcom.es/alimentacion/sabias-q/sabias-que-un-mal-desayuno-empeora-nuestro-animo_32320_4_36158_0_1_in.html
-
-3. Marca con una “û” en el recuadro  “más” o “menos”, según 
+3.Marca con una “û” en el recuadro  “más” o “menos”, según 
 corresponda.
 
-4. Lee el texto y contesta.
+4.Lee el texto y contesta.
 
 ¿Qué consecuencias trae el no tomar desayuno debidamente?
 
-¿Qué alimentos consumes en tu desayuno? Escríbelos.
+¿Qué alimentos consumes en tu desayuno?Escríbelos.
 
-¿Cuáles son las comidas principales del día? Escríbelas.
+¿Cuáles son las comidas principales del día?Escríbelas.
 
 ¿Cuánta proteína necesitas?
 
@@ -2081,47 +1835,39 @@ Sin actividad física                                          Con actividad fí
 más + más +
 
 menos - menos 41
+5.Realicen una encuesta a 20 personas (CEBA o comunidad) sobre 
+cuidado de su salud.Pueden crear o utilizar el propuesto.¡Inténtenlo!
 
-5. Realicen una encuesta a 20 personas (CEBA o comunidad) sobre 
-cuidado de su salud. Pueden crear o utilizar el propuesto. ¡Inténtenlo!
-
-6. Organicen los datos en una tabla de frecuencia en un papelote y 
-establezcan las conclusiones. Luego, evalúen su participación.
+6.Organicen los datos en una tabla de frecuencia en un papelote y 
+establezcan las conclusiones.Luego, evalúen su participación.
 
 Coevaluación sobre la elaboración y aplicación de la encuesta
-
 Título de la actividad: 
 Escribe “Sí” o “No” según corresponda.
 
 Integrantes del 
 grupo
-
 Participamos 
 en todas las 
 actividades
-
 Superamos las 
 dificultades
-
 Utilizamos algunas 
 estrategias para 
 realizar mejor el
 
 trabajo
-
 Encuesta sobre cuidado de la salud
-
 Marca con una “û” tu respuesta.
 
-1. ¿Cuántas veces por semana consumes gaseosa?
+1.¿Cuántas veces por semana consumes gaseosa?
 
 nunca
 
 una vez
 
 dos veces o más
-
-2. ¿Cuántas veces por semana realizas ejercicios?
+2.¿Cuántas veces por semana realizas ejercicios?
 
 nunca
 
@@ -2149,7 +1895,7 @@ simples.
 Explico los resultados 
 obtenidos en las encuestas.
 
-7. Ayuda a Simona y a 
+7.Ayuda a Simona y a 
 Victoria a elegir las 
 cantidades de los 
 alimentos que deben 
@@ -2159,7 +1905,7 @@ consumir al día.
 
 ¿Qué alimentos les aconsejarías comprar?
 
-8. Investiga acerca del tema propuesto y responde.
+8.Investiga acerca del tema propuesto y responde.
 ¿A qué enfermedades están más expuestos los adultos mayores?
 
 ¿Qué alimentos deben priorizar los adultos mayores?
@@ -2187,7 +1933,7 @@ simples.
 Explico los resultados 
 obtenidos en las encuestas.
 
-9. Marca con una “û”. ¿Qué camino seguirías para obtener una 
+9.Marca con una “û”.¿Qué camino seguirías para obtener una 
 alimentación saludable?
 
 Ahora, escribe tres proteínas, granos o vegetales diferentes que puedes 
@@ -2195,7 +1941,7 @@ consumir.
 
 
 
-10. En el distrito de Huripampa (Junín), una familia decide celebrar la fiesta 
+10.En el distrito de Huripampa (Junín), una familia decide celebrar la fiesta 
 de Santiago, para lo cual acuerdan preparar una pachamanca.
 
 Estos son los ingredientes.
@@ -2223,7 +1969,6 @@ de cordero
 �� chincho, huacatay ají y sal
 
 44
-
 Operación:
 
 Papa
@@ -2244,7 +1989,7 @@ Ají y sal
 
 Total       El costo total será S/  ____________.
 
-11. Pega los billetes y monedas que utilizarías en esta compra (recortables).
+11.Pega los billetes y monedas que utilizarías en esta compra (recortables).
 
 Autoevaluación
 Lista de cotejo
@@ -2266,7 +2011,6 @@ numérico y letras  las
 decenas.
 
 45
-
 Competencia: resuelve problemas de equivalencia y cambio.
 
 Aspectos Lo logré En proceso Debo repasar
@@ -2280,24 +2024,23 @@ representar de diversas
 formas el resultado obtenido 
 con billetes y monedas.
 
-12. Escribe ingredientes de una receta típica de tu localidad.
+12.Escribe ingredientes de una receta típica de tu localidad.
 
-13. Escribe paso a paso la preparación de un plato típico de tu localidad.
+13.Escribe paso a paso la preparación de un plato típico de tu localidad.
 
-14. Escribe el aporte nutricional que tienen algunos 
+14.Escribe el aporte nutricional que tienen algunos 
 ingredientes de la receta.
 
-15. 
+15.
 con imágenes recolectadas.
 
-16. Elabora un recetario de comidas nutritivas.
+16.Elabora un recetario de comidas nutritivas.
 
 
 
 
 
 web
-
 Realiza en una hoja A4, una pirámide nutricional
 
 Puedes encontrar más 
@@ -2310,11 +2053,10 @@ pe/recetas/saludables-y-muynutritivas
 https://www.youtube.com/
 
 watch?v=0TGS2qLH8Es
-
 46
 
 Autoevaluación
-Reflexiona y registra tu avance en la actividad 2. Marca con “û” el logro 
+Reflexiona y registra tu avance en la actividad 2.Marca con “û” el logro 
 correspondiente.
 
 Criterios Lo logré En proceso Debo repasar
@@ -2325,7 +2067,6 @@ Reconozco la importancia de
 las tres comidas diarias.
 
 Ficha metacognitiva
-
 Responde.
 
 ¿Cómo pude reconocer 
@@ -2338,48 +2079,41 @@ alimentos nutritivos?
 ¿Para qué me puede servir esta información?
 
 47
-
-1. Marca con una “û”, ¿cuál es la acción que debe realizar un consumidor 
+1.Marca con una “û”, ¿cuál es la acción que debe realizar un consumidor 
 antes de comprar productos envasados?
 
 ¿Qué cuidados debemos tener con los 
 productos envasados?
 
-2. Encierra en un círculo la información necesaria que deben tener los 
+2.Encierra en un círculo la información necesaria que deben tener los 
 productos envasados.
 
 ¿Qué dato falta?
 
 Contenido Neto
 250 ml
-
 Ingredientes: agua, azúcar, 
 té natural, acido cítrico, y sabor 
 natural a limón.
 
 Té
 con limón
-
 Ingredientes: agua, azúcar, 
 té natural, acido cítrico, sabor
 natual a limón.
 
 Regulado P845212AO5645
-
 Fabricado por Industrias Nacarú
-Av. La Molina 1010. Cuzco.
+Av. La Molina 1010.Cuzco.
 
 100%
 NATURAL
-
 Actividad 3
-
 48
-
-3. Dibuja o pega alimentos que contengan grasas buenas o necesarias 
+3.Dibuja o pega alimentos que contengan grasas buenas o necesarias 
 para el organismo (recortables).
 
-4. Completa.
+4.Completa.
 �� Las grasas trans son  y pueden
 
 ocasionar
@@ -2389,10 +2123,9 @@ ocasionar
 ��  no se disuelven en el organismo.
 
 49
+5.Coloca una aspa “û” en los productos que contienen grasa trans.
 
-5. Coloca una aspa “û” en los productos que contienen grasa trans.
-
-6. Encuentra y encierra los órganos 
+6.Encuentra y encierra los órganos 
 que se afectan con el consumo 
 de grasas trans.
 
@@ -2406,28 +2139,20 @@ hacia abajo
 �� Vertical de abajo
 
 hacia arriba
-
 A R C O R N R
-
 T E A I A R A
-
 C O R A Z O N
 
 E C T H D R M
-
 R A E E O B A
-
 B B R I H E N
 
 O E I P I R O
-
 C O A Z O E I
 
 U A E B A C U
-
 50
-
-7. Lee la noticia y responde.
+7.Lee la noticia y responde.
 
 ¿Qué recomienda la químico del Instituto Nacional de Salud?
 
@@ -2435,63 +2160,56 @@ U A E B A C U
 
 ¿Qué órgano crees que se daña con el exceso de sal o sodio?
 
-8. Escribe a que se dedica cada una de estas entidades.
+8.Escribe a que se dedica cada una de estas entidades.
 
 Exceso de sal proviene de los productos envasados
 El uso del salero no es la causa principal del 
-exceso de sodio. Según la Organización de 
+exceso de sodio.Según la Organización de 
 las Naciones Unidas para la Alimentación 
 y la Agricultura (FAO), el 75 % de sodio en 
 exceso proviene del consumo de productos 
 comestibles envasados y alimentos servidos 
-en restaurantes. 
+en restaurantes.
 La químico del Instituto Nacional de Salud (INS) del MINSA, Martha 
 Costilla Arias, recomendó leer cuidadosamente las etiquetas de los 
 productos y evitar los alimentos que pongan en lista de ingredientes 
-al sodio en primer lugar, ya que lo contiene en mayor cantidad. 
+al sodio en primer lugar, ya que lo contiene en mayor cantidad.
 Las bebidas y productos envasados pueden contener altas 
 cantidades de sodio, como las gaseosas, helados, galletas rellenas, 
 dulces, productos de pastelería y los embutidos.
 
 Recuperado de https://www.elpopular.pe/series/nutricion/2016-11-03-salud-exceso-de-sal-proviene-de-productos-envasados
-
 Soda
-
 Snack
 
 Choco
-
 Stick
 
 Cheese
-
 Dr
 ink
 
 Snack 
 CO L L E C T I O N
-
 51
+9.Escribe que significa “Indecopi”.
 
-9. Escribe que significa “Indecopi”.
-
-10. Investiga sobre los lugares donde se ubican los órganos de atención de 
+10.Investiga sobre los lugares donde se ubican los órganos de atención de 
 Indecopi consultivos en tu región.
 
-11. Comenta sobre las acciones que realizas al comprar productos
+11.Comenta sobre las acciones que realizas al comprar productos
 
-envasados. Aprovecha y practica tiempos verbales.
+envasados.Aprovecha y practica tiempos verbales.
 
-12. Menciona adjetivos con las palabras trabajadas. Ejemplo: grasas 
+12.Menciona adjetivos con las palabras trabajadas.Ejemplo: grasas 
 buenas, manzana dulce.
 
-13. Menciona los órganos que intervienen en el proceso de digestión.
+13.Menciona los órganos que intervienen en el proceso de digestión.
 
-14. Realicen una mesa redonda sobre las diversas situaciones presentadas. 
+14.Realicen una mesa redonda sobre las diversas situaciones presentadas.
 Compartan sus respuestas fundamentando cada una de ellas, realizar 
 las siguientes actividades
-
-15. Realicen las siguientes actividades:
+15.Realicen las siguientes actividades:
 �� Traigan información sobre el uso de alimentos tratados para su
 
 conservación de manera natural(chuño, pescado seco, etc.) en su 
@@ -2512,7 +2230,6 @@ derechos amparados por la ley que son
 de competencia del Indecopi.
 
 52
-
 Elaboración de los productos
 �� Diferencia y opina sobre cuándo
 
@@ -2533,12 +2250,10 @@ https://www.
 
 youtube.com/
 watch?v=wblRMhXNxfA
-
 La digestión: https://
 www.youtube.com/
 
 watch?v=69FGWsLyHwU
-
 web
 
 Autoevaluación
@@ -2599,7 +2314,6 @@ a partir de la idea central.
 Competencia: escribe diversos tipos de textos en lengua materna.
 
 Criterios Lo logré En proceso Debo repasar
-
 Establezco relaciones aditivas 
 (suma) entre datos.
 
@@ -2611,22 +2325,20 @@ numérico y letras  las decenas.
 ¿Qué enfermedades puede ocasionar la falta 
 o exceso de nutrientes en la dieta diaria?
 
-1. De acuerdo los glóbulos rojos que se encuentran en los recuadros, 
+1.De acuerdo los glóbulos rojos que se encuentran en los recuadros, 
 marca con una “û” la imagen donde puede haber sospecha de 
 anemia.
 
 Actividad 4
-
 54
-
-2. Completa el esquema con las consecuencias que se pueden presentar 
+2.Completa el esquema con las consecuencias que se pueden presentar 
 en una persona con anemia.
 
-3. Dibuja a las personas a las que puede afectar la anemia.
+3.Dibuja a las personas a las que puede afectar la anemia.
 
-4. ¿Qué debes hacer en caso de presentar algunos síntomas de anemia?
+4.¿Qué debes hacer en caso de presentar algunos síntomas de anemia?
 
-5. ¿Por qué es importante la hemoglobina?
+5.¿Por qué es importante la hemoglobina?
 
 ________________ ________________
 
@@ -2635,25 +2347,21 @@ ________________ ________________
 ________________
 
 Anemia
-
 55
+6.Pega o dibuja tres alimentos con alto contenido de hierro, que 
+encuentras en tu localidad.Luego, escribe su nombre.
 
-6. Pega o dibuja tres alimentos con alto contenido de hierro, que 
-encuentras en tu localidad. Luego, escribe su nombre.
+7.Investiga, ¿qué alimentos pueden ayudar a evitar la osteoporosis?
 
-7. Investiga, ¿qué alimentos pueden ayudar a evitar la osteoporosis?
-
-8. Investiga las consecuencias de la bulimia y la anorexia.
+8.Investiga las consecuencias de la bulimia y la anorexia.
 
 Bulimia Anorexia
-
 56
-
-9. Investiga. Luego, encierra los órganos o partes del cuerpo que se 
+9.Investiga.Luego, encierra los órganos o partes del cuerpo que se 
 afectan, principalmente, con el raquitismo.
 
-10. Lee el afiche e investiga qué otras partes del cuerpo humano son 
-afectadas por la tuberculosis. Anótalas.
+10.Lee el afiche e investiga qué otras partes del cuerpo humano son 
+afectadas por la tuberculosis.Anótalas.
 
 Raquitismo
 Dolor 
@@ -2665,54 +2373,45 @@ Columna
 Deformidades 
 Retraso en la formación de dientes
 Disminución de tono muscular
-
 Calambres musculares
-
 http
 s://b
-
 it.ly/2Q
 p
-
 tN
 3F
-
 http
 s://b
-
 it.ly/2P4i22p
-
 57
-
-11. ¿Alguna vez has tenido algún familiar o amigo con esta enfermedad? 
+11.¿Alguna vez has tenido algún familiar o amigo con esta enfermedad?
 ¿Qué síntomas observaste?
 
-12. ¿Cuáles son los síntomas de la tuberculosis pulmonar?
+12.¿Cuáles son los síntomas de la tuberculosis pulmonar?
 
-13. ¿Qué le aconsejarías a algún familiar o compañero que presenta 
+13.¿Qué le aconsejarías a algún familiar o compañero que presenta 
 síntomas de tuberculosis?
 
-14. Observa las imágenes y escribe las dos acciones que debes hacer para 
+14.Observa las imágenes y escribe las dos acciones que debes hacer para 
 evitar desarrollar o contagiarte de tuberculosis.
 
 
 
 
 
-15. Investiga en el centro de salud más cercano, ¿cuánto meses de 
+15.Investiga en el centro de salud más cercano, ¿cuánto meses de 
 tratamiento debe seguir un paciente de TBC?
 
 58
-
-16. Un joven está en tratamiento para combatir la TBC. El doctor le recetó 
+16.Un joven está en tratamiento para combatir la TBC.El doctor le recetó 
 tomar 10 pastillas diarias.
 
-17. Observa una dieta nutricional y escribe una propuesta de menú del día.
+17.Observa una dieta nutricional y escribe una propuesta de menú del día.
 
-18. Investiga. ¿Por qué no se debe consumir mates después de los 
+18.Investiga.¿Por qué no se debe consumir mates después de los 
 alimentos?
 
-¿Cuánto consumirá en dos días? ¿Cuánto consumirá en tres días?
+¿Cuánto consumirá en dos días?¿Cuánto consumirá en tres días?
 
 Desayuno:
 
@@ -2724,17 +2423,16 @@ Media tarde:
 
 Cena:
 
-19. El médico le dice a Cira que debe consumir bastante 
+19.El médico le dice a Cira que debe consumir bastante 
 vitamina C, para mejorar sus defensas y evitar 
-enfermarse. 
-Cira elige consumir por día tres naranjas. ¿Cuántas 
+enfermarse.
+Cira elige consumir por día tres naranjas.¿Cuántas 
 naranjas debe comprar para una semana?
 
 L         Ma   Mi         J             V      S         D
      ____,       ____,      ____,       ____,      ____,     ____,     ____
-
 Elizabeth debe mejorar los niveles de calcio por la osteoporosis, para 
-mejorar   esta situación debe consumir dos tazas de leche cada día. 
+mejorar   esta situación debe consumir dos tazas de leche cada día.
 ¿Cuántas deberá consumirá en una semana?
 
 L             Ma   Mi         J             V      S         D
@@ -2743,9 +2441,7 @@ L             Ma   Mi         J             V      S         D
 +3         +3          +3          +3         +3          +3
 
 +2         +2          +2          +2         +2          +2
-
 Autoevaluación
-
 Lista de cotejo
 
 Coloca un aspa “û”de acuerdo a tu avance.
@@ -2771,7 +2467,6 @@ patrones de repetición de dos en
 dos y de tres en tres.
 
 59
-
 60
 
 �� Escribe las enfermedades más comunes en 
@@ -2792,11 +2487,10 @@ alimentación.
 
 �� Elabora un afiche sobre la prevención de la TBC.
 
-Reflexiona y registra tu avance en la actividad 4. Marca con un aspa “û” el 
+Reflexiona y registra tu avance en la actividad 4.Marca con un aspa “û” el 
 logro correspondiente.
 
 Criterios Lo logré En proceso Debo repasar
-
 Reconozco las consecuencias 
 de la mala alimentación.
 
@@ -2815,7 +2509,6 @@ nutricional ingresa a:
 
 https://www.youtube.com/
 watch?v=69FGWsLyHwU
-
 web
 
 ¿Cómo pude reconocer las 
@@ -2827,7 +2520,6 @@ adecuada alimentación?
 ¿Qué debo tomar en cuenta al alimentarme?
 
 61
-
 Evaluación de productos finales (rotafolio / campañas)
 
 Lista de cotejo 
@@ -2871,11 +2563,9 @@ según las necesidades, recursos
 y entorno.
 
 62
-
 PROYECTO III
 
 Nuestra identidad cultural
-
 63
 
 ¿Qué lograré?
@@ -2896,29 +2586,24 @@ en la comunidad.
 
 Nuestra identidad cultural
 Actividades Productos
-
 Actividad 1
 ¿Somos únicos 
 y diferentes a la 
 vez?
 
 Historieta
-
 Actividad 2
 Desarrollo mi 
 autoestima
-
 Trípticos con 
 gráficos de 
 barras
-
 Actividad 3
 Identidad y 
 cultura
 
 Afiches con 
 croquis
-
 Actividad 4
 Diversidad 
 cultural
@@ -2927,12 +2612,10 @@ Cuentos
 populares  y 
 croquis con 
 puntos cardinales
-
 Socialización 
 de productos 
 finales y 
 evaluación
-
 Campaña  de 
 sensibilización 
 con afiches y 
@@ -2955,29 +2638,23 @@ Somos un país diverso, ¿por qué
 nos cuesta reconocerlo?
 
 64
-
 PROYECTO III
+1.Realiza una historieta sobre algún hecho o vivencia sobre la identidad 
+personal.Puedes pegar imágenes de revistas o periódicos.
 
-1. Realiza una historieta sobre algún hecho o vivencia sobre la identidad 
-personal. Puedes pegar imágenes de revistas o periódicos.
-
-¿Somos únicos y diferentes a la vez? Actividad 1
-
-2. Escribe situaciones cotidianas donde se evidencie experiencias 
+¿Somos únicos y diferentes a la vez?Actividad 1
+2.Escribe situaciones cotidianas donde se evidencie experiencias 
 aleatorias como: seguro, posible e imposible.
 Marca con û el resultado.
 
 Situaciones Seguro Posible Imposible
-
-3. Escribe lo más significativo de tu identidad personal.
+3.Escribe lo más significativo de tu identidad personal.
 
 Autoevaluación
-
 Reflexiona y registra tu avance en la actividad 1 marca con “û” el logro 
 correspondiente.
 
 Criterios Lo logré En proceso Debo repasar
-
 Reconozco mis características 
 físicas, habilidades y gustos.
 
@@ -2989,11 +2666,8 @@ Valoro las características de mi
 identidad personal.
 
 65
-
 66
-
 Ficha metacognitiva
-
 Lista de cotejo
 
 Coloca un aspa “û” de acuerdo a tu avance.
@@ -3030,24 +2704,21 @@ identidad?
 67
 
 Desarrollo mi autoestima
+1.Escribe las cuatro frases más importantes para ti, sobre la autoestima.
 
-1. Escribe las cuatro frases más importantes para ti, sobre la autoestima.
-
-2. Escribe algunas actitudes positivas que debes tener para desarrollar tu 
+2.Escribe algunas actitudes positivas que debes tener para desarrollar tu 
 autoestima.
 
 Actividad 2
-
-Me siento orgulloso(a) de Construye tus
+Me siento orgulloso(a) de Construyetus
 
 Todos somos  Acepto las
 
 Reconozco mis  Los errores son
 
 68
-
-3. Pega dos gráficos de barras relacionados al tema de la autoestima y 
-escribe el análisis de la información. Indica quién o quiénes obtuvieron 
+3.Pega dos gráficos de barras relacionados al tema de la autoestima y 
+escribe el análisis de la información.Indica quién o quiénes obtuvieron 
 la mayor y menor frecuencia de opciones.
 
 La mayor cantidad de frecuencia
@@ -3061,7 +2732,6 @@ Y la menor frecuencia
 69
 
 Autoevaluación
-
 Reflexiona y registra tu avance en la actividad 2, marca con “û” el logro 
 correspondiente.
 
@@ -3094,12 +2764,9 @@ ino
 
 a la
  aut
-
 orre
 aliza
-
 ción
-
 Autoconocimiento
 “He aprendido a conocerme”.
 
@@ -3121,7 +2788,6 @@ Autoestima
 69
 
 Autoevaluación
-
 Reflexiona y registra tu avance en la actividad 2, marca con “û” el logro 
 correspondiente.
 
@@ -3154,12 +2820,9 @@ ino
 
 a la
  aut
-
 orre
 aliza
-
 ción
-
 Autoconocimiento
 “He aprendido a conocerme”
 
@@ -3179,11 +2842,9 @@ Autoestima
 “Soy feliz”
 
 70
-
 Competencia: resuelve problemas de gestión de datos e incertidumbre.
 
 Criterios Lo logré En proceso Debo repasar
-
 Identifico los datos de mayor o 
 menor frecuencia de gráfico 
 de barras verticales.
@@ -3202,16 +2863,14 @@ un tríptico.
 Reviso mi texto de forma 
 reflexiva para dar ajustes.
 
-1. Investiga y recopila información sobre tu comunidad, para ello utiliza 
-fuentes orales y escritas. Puedes pegar o escribir.
+1.Investiga y recopila información sobre tu comunidad, para ello utiliza 
+fuentes orales y escritas.Puedes pegar o escribir.
 
 Identidad y culturaActividad 3
-
 71
+2.Completa con los datos que se solicitan.
 
-2. Completa con los datos que se solicitan.
-
-3. Dibuja o pega una celebración tradicional de tu comunidad.
+3.Dibuja o pega una celebración tradicional de tu comunidad.
 
 ¿Quién soy?
 
@@ -3238,20 +2897,18 @@ nacieron mis padres y abuelos?
 
 
 72
+4.¿Qué actividades o ritos tradicionales de tu comunidad practicas?
 
-4. ¿Qué actividades o ritos tradicionales de tu comunidad practicas?
+5.Escribe las fechas de las festividades  o celebraciones en tu comunidad.
 
-5. Escribe las fechas de las festividades  o celebraciones en tu comunidad.
-
-6. Dibuja y escribe sobre algunas plantas curativas tradicionales de tu 
+6.Dibuja y escribe sobre algunas plantas curativas tradicionales de tu 
 comunidad.
 
-7. Menciona otras culturas o pueblos que te gustaría conocer.
+7.Menciona otras culturas o pueblos que te gustaría conocer.
 
-8. Dibuja un croquis de los lugares turísticos de tu comunidad.
+8.Dibuja un croquis de los lugares turísticos de tu comunidad.
 
 Autoevaluación
-
 Reflexiona y registra tu avance en la actividad 3 marca con “û” el logro 
 correspondiente.
 
@@ -3268,9 +2925,7 @@ tema de identidad cultural en
 mi comunidad (afiches).
 
 73
-
 74
-
 Lista de cotejo
 
 Coloca un aspa “û” de acuerdo a tu avance.
@@ -3278,7 +2933,6 @@ Coloca un aspa “û” de acuerdo a tu avance.
 Competencia: resuelve problemas de forma, movimiento y localización.
 
 Criterios Lo logré En proceso Debo repasar
-
 Reconozco las características 
 de un croquis.
 
@@ -3294,10 +2948,9 @@ escritas.
 
 Identifico el propósito del texto.
 
-1. Elabora un mapa mental sobre la diversidad cultural en tu comunidad.
+1.Elabora un mapa mental sobre la diversidad cultural en tu comunidad.
 
 Diversidad culturalActividad 4
-
 75
 
 Lista de cotejo
@@ -3307,7 +2960,6 @@ Coloca un aspa “û” de acuerdo a tu avance.
 Competencia: resuelve problemas de forma, movimiento y localización.
 
 Criterios Lo logré En proceso Debo repasar
-
 Reconozco las características 
 de un croquis.
 
@@ -3323,10 +2975,10 @@ escritas.
 
 Identifico el propósito del texto.
 
-2. Investiga sobre los instrumentos musicales que se utilizan en tu 
+2.Investiga sobre los instrumentos musicales que se utilizan en tu 
 comunidad para realizar sus danzas tradicionales.
 
-3. Adorna el afiche. Dibuja o pega imágenes que representen identidad 
+3.Adorna el afiche.Dibuja o pega imágenes que representen identidad 
 cultural.
 
 �
@@ -3348,31 +3000,28 @@ saber convivir en el presente
 y preservar mi futuro.
 
 76
-
-4. Dibuja o pega imágenes de los platos tradicionales más representativos 
+4.Dibuja o pega imágenes de los platos tradicionales más representativos 
 de tu comunidad.
 
-5. Escribe los nombres de los lugares turísticos o monumentos históricos de 
+5.Escribe los nombres de los lugares turísticos o monumentos históricos de 
 tu comunidad, ten presente colocar su ubicación.
 ��
 
 ��
 
-6. Elabora un croquis teniendo en cuenta los puntos cardinales, donde se 
+6.Elabora un croquis teniendo en cuenta los puntos cardinales, donde se 
 señalan los patrimonios culturales más importantes de tu comunidad.
 
 77
-
-7. Recopila una leyenda popular de tu comunidad. Puedes pegar o 
+7.Recopila una leyenda popular de tu comunidad.Puedes pegar o 
 escribirla.
 
 
 
 78
+8.Completa cada recuadro, sobre la leyenda encontrada.
 
-8. Completa cada recuadro, sobre la leyenda encontrada.
-
-9. Completa con una palabra del recuadro que califica a:
+9.Completa con una palabra del recuadro que califica a:
 
 ¿Cómo o quién te facilitó la 
 información?
@@ -3396,20 +3045,17 @@ hermano
 animal 
 antídoto
 
-10. ¿Qué otra leyenda te gustó? ¿Por qué?
+10.¿Qué otra leyenda te gustó?¿Por qué?
 
 inexperta                 eficaz                         radical
 ponzoñoso              potente                      menor
-
 79
 
 Autoevaluación
-
-Reflexiona y registra tu avance en la actividad 4. Marca con “û” el logro 
+Reflexiona y registra tu avance en la actividad 4.Marca con “û” el logro 
 correspondiente.
 
 Criterios Lo logré En proceso Debo repasar
-
 Comento sobre leyendas 
 populares de diversos lugares.
 
@@ -3434,7 +3080,6 @@ El reconocimiento  de la diversidad cultural en mi contexto, ¿cómo mejorará
 las relaciones con mi familia y mi comunidad?
 
 80
-
 Lista de cotejo
 
 Coloca un aspa “û” de acuerdo a tu avance.
@@ -3456,7 +3101,6 @@ interés.
 Competencia: escribe diversos tipos de textos en lengua materna.
 
 Criterios Lo logré En proceso Debo repasar
-
 Incorporo el significado de 
 palabras de uso frecuente.
 
@@ -3471,7 +3115,6 @@ oración.
 Competencia: construye su identidad.
 
 Criterios Lo logré En proceso Debo repasar
-
 Identifico mi cultura dentro de  
 mi familia, CEBA y comunidad.
 
@@ -3481,12 +3124,10 @@ culturales de mi familia, CEBA y
 comunidad.
 
 81
-
 Competencia: convive y participa democráticamente en la búsqueda del 
 bien común.
 
 Criterios Lo logré En proceso Debo repasar
-
 Examino las situaciones 
 que demuestran la falta de 
 identidad en mi familia, CEBA y 
@@ -3509,7 +3150,7 @@ Fecha: Grado y
 sección:
 
 Resuelve las preguntas con tus 
-compañeros. Entre nosotros, nos 
+compañeros.Entre nosotros, nos 
 preguntamos:
 
 Dialogamos y escribimos nuestras 
@@ -3529,7 +3170,6 @@ afrontar la falta de identidad cultural
 de nuestra comunidad?
 
 82
-
 PROYECTO IV
 
 Aprender a emprender
@@ -3539,9 +3179,9 @@ emprendedores peruanos?
 En un entorno en el que no existe la cultura 
 del riesgo y el fracaso, los emprendedores 
 deben enfrentar diversos desafíos.
-Emprender no es fácil. Se requiere una enorme tolerancia 
+Emprender no es fácil.Se requiere una enorme tolerancia 
 al riesgo o, como dicen en este rubro, un estómago a 
-prueba de una montaña rusa. En este negocio, en 
+prueba de una montaña rusa.En este negocio, en 
 términos generales, la estabilidad económica no está 
 asegurada.
 
@@ -3553,14 +3193,13 @@ para usted mismo.
 
 Ser un emprendedor puede cambiar tu futuro, si 
 sigues un plan de trabajo y eres responsable con 
-el negocio, las cosas pueden prosperar . Primero 
+el negocio, las cosas pueden prosperar .Primero 
 debes elegir lo que el público quiere, tener una 
-idea sencilla del negocio. Recuerda que debes 
+idea sencilla del negocio.Recuerda que debes 
 capacitarte para mejorar tus estrategias de venta.
 
 ZONA EJECUTIVA
 Lima, 14.03.17 / 12:00
-
 83
 
 ¿Qué lograré?
@@ -3585,39 +3224,31 @@ emprendedor.
 
 Aprender a emprender
 Actividades Productos
-
 Actividad 1
 Habilidades 
 para 
 emprender
-
 Logotipo de una 
 empresa
-
 Actividad 2
 Asumo 
 retos como 
 emprendedor
-
 Agenda para 
 emprendedores
-
 Actividad 3
 Fortalezco mis 
 conocimientos 
 como 
 emprendedor
-
 Mapa 
 mental sobre 
 actitudes de un 
 emprendedor
-
 Actividad 4
 Desarrollo mi 
 potencial como 
 emprendedor
-
 Propuesta de 
 negocio
 Agenda para 
@@ -3627,7 +3258,6 @@ Socialización
 de productos 
 finales y 
 evaluación
-
 Campaña  de 
 sensibilización y 
 difusión
@@ -3642,7 +3272,7 @@ tecnologías.
 La primera opción es empezar un 
 negocio de servicio como, por 
 ejemplo, catering o escribir de forma 
-freelance. Nicolás Mónico, co-creador 
+freelance.Nicolás Mónico, co-creador 
 de la agencia de marketing Luxxo Lab 
 y quien a su vez escribe para diferentes 
 revistas, señaló la importancia del voz 
@@ -3650,10 +3280,8 @@ a voz para darse a conocer y que sea
 una labor que realmente lo apasione.
 
 84
-
 PROYECTO IV
-
-1. Escribe con tus propias palabras lo que entiendes por cada una de las 
+1.Escribe con tus propias palabras lo que entiendes por cada una de las 
 cualidades de un emprendedor y da un ejemplo.
 
 Habilidades para emprender
@@ -3661,31 +3289,25 @@ Habilidades para emprender
 Confianza
 
 Pasión
-
 Tiempo para sí 
 mismo
-
 Constancia
-
 Vocación de 
 servicio
 
 Sociabilidad
-
 Actividad 1
-
 85
-
-2. Escribe tres habilidades blandas que has desarrollado y tres que aún te 
+2.Escribe tres habilidades blandas que has desarrollado y tres que aún te 
 faltan desarrollar para iniciar o continuar con tu emprendimiento.
 
 Habilidades desarrolladas:
 
 Habilidades que faltan desarrollar:
 
-3. Escribe tres ejemplos donde hayas practicado la resiliencia.
+3.Escribe tres ejemplos donde hayas practicado la resiliencia.
 
-4. Completa el esquema con los pilares básicos de la resiliencia.
+4.Completa el esquema con los pilares básicos de la resiliencia.
 
 _________________________
 
@@ -3698,13 +3320,11 @@ Pilares
 
 básicos de la 
 resiliencia
-
 86
-
-5. Dibuja objetos que contengan en su composición algún polígono 
+5.Dibuja objetos que contengan en su composición algún polígono 
 (cuadrado, rectángulo, triángulo, rombo o hexágono).
 
-6. Observa las figuras y los números que están dentro de ellas. Luego, 
+6.Observa las figuras y los números que están dentro de ellas.Luego, 
 identifica los números que están en las figuras indicadas.
 
 Para encontrar la solución completa la tabla.
@@ -3716,21 +3336,18 @@ Hexágono negro y rombo amarillo
 Triángulo verde
 Círculo morado
 Triángulo verde y cuadrado azul
-
 N°
 
 87
-
-7. Pega el logotipo de dos empresas que trabajen en tu comunidad. 
+7.Pega el logotipo de dos empresas que trabajen en tu comunidad.
 Luego, describe las figuras geométricas que contiene cada logotipo.
 
-8. Construye un logotipo para tu negocio o de algún familiar o amigo.
+8.Construye un logotipo para tu negocio o de algún familiar o amigo.
 
 88
 
 Autoevaluación
-
-Reflexiona y registra tu avance en la actividad 1. Marca con “û” el logro 
+Reflexiona y registra tu avance en la actividad 1.Marca con “û” el logro 
 correspondiente.
 
 Criterios Lo logré En proceso Debo repasar
@@ -3750,15 +3367,12 @@ Responde las preguntas.
 8 Habilidades blandas que todo buen
 emprendedor debería desarrollar
 Liderazgo
-
 Constancia 
 y disciplina
 
 Resiliencia
 al
-
 fracaso
-
 Comunicación Orientación
 al cliente
 
@@ -3766,15 +3380,11 @@ Formación
 permanente
 
 Innovación
-
 Proactividad
-
 Delegar, conocer, 
-motivar,
-
+motivar
 promover, 
 tomar la iniciativa
-
 y gestionar.
 
 “El emprendedor
@@ -3787,7 +3397,7 @@ si no
 las encuentra,
 
 las hace, 
-las fábrica”. Hace de la innovación
+las fábrica”.Hace de la innovación
 
 en sus productos/servicios, 
 procesos y
@@ -3797,12 +3407,11 @@ parte del ADN
 
 de su emprendimiento.
 
-Lo ideal es que no ocurra,
+Lo ideal es que no ocurra
 pero si se pasa,
 
 es necesario
 aprender de la exigencia
-
 y volver a intentarlo.
 
 El éxito empresarial no se 
@@ -3812,20 +3421,17 @@ mañana: ¡El emprendedor no
 tira la toalla fácilmente”.
 
 Expresar con claridad
-las ideas y convicciones,
-
+las ideas y convicciones
 pero también 
 escuchar con atención
-
 a los clientes.
 
 “Sin clientes no hay
 ventas y sin ventas
 no hay empresa”.
 
-Aprendizaje sobre el sector,
+Aprendizaje sobre el sector
 las tendencuas y formación
-
 de competencias
 (duras y blandas).
 
@@ -3838,7 +3444,6 @@ Ocho habilidades blandas que todo buen
 emprendedor deberia desarrollar
 
 89
-
 Lista de cotejo
 
 Coloca un aspa “û” de acuerdo a tu avance.
@@ -3846,7 +3451,6 @@ Coloca un aspa “û” de acuerdo a tu avance.
 Competencia: resuelve problemas de forma, movimiento y localización.
 
 Criterios Lo logré En proceso Debo repasar
-
 Identifico características de las 
 figuras que tienen líneas rectas.
 
@@ -3859,36 +3463,32 @@ planas.
 Competencia: gestiona proyectos de emprendimiento económico o social.
 
 Criterios Lo logré En proceso Debo repasar
-
 Reconozco las habilidades 
 blandas que mejoran mis 
 capacidades emprendedoras.
 
-1. Pega y comenta sobre algún negocio o emprendimiento que se haya 
-realizado en tu comunidad. (Puedes dibujarlo y colorearlo).
+1.Pega y comenta sobre algún negocio o emprendimiento que se haya 
+realizado en tu comunidad.(Puedes dibujarlo y colorearlo).
 
 Asumo retos como emprendedorActividad 2
-
 90
-
-2. Observa las fotografías y escribe el tipo de negocio que te gustaría 
+2.Observa las fotografías y escribe el tipo de negocio que te gustaría 
 emprender o descríbelo si no se encuentra.
 
 91
-
-3. Escribe tres acciones principales que realizarías para emprender un 
-negocio. 
+3.Escribe tres acciones principales que realizarías para emprender un 
+negocio.
 � 
 �     
 �
 
-4. Marca con una aspa “û” las expresiones negativas que se escuchan al 
+4.Marca con una aspa “û” las expresiones negativas que se escuchan al 
 iniciar un negocio.
 
-5. Escribe tres ventajas que tendrías al emprender tu propio negocio.
+5.Escribe tres ventajas que tendrías al emprender tu propio negocio.
 
-6. Crees que el hombre y la mujer están en la misma capacidad de 
-emprender un negocio. ¿Por qué?
+6.Crees que el hombre y la mujer están en la misma capacidad de 
+emprender un negocio.¿Por qué?
 
 Qué mal, todo es difícil.
 
@@ -3905,10 +3505,9 @@ Pierdes tu tiempo, mejor
 busca un trabajo seguro.
 
 92
+7.Lee el texto y responde.
 
-7. Lee el texto y responde.
-
-8. Menciona tres beneficios para la comunidad a raíz de la participación 
+8.Menciona tres beneficios para la comunidad a raíz de la participación 
 de los pobladores en Sierra o Selva Exportadora.
 
 a.
@@ -3917,10 +3516,9 @@ b.
 
 c.
 
-9. Lee los contenidos de la tabla y marca con un aspa “û” tu respuesta.
+9.Lee los contenidos de la tabla y marca con un aspa “û” tu respuesta.
 
 Área: Desarrollo Personal y Ciudadano
-
 Competencia: gestiona responsablemente los recursos económicos.
 
 Capacidad: comprende las relaciones entre el sistema económico y financiero.
@@ -3938,35 +3536,30 @@ de negocio para mejorar mi bienestar.
 
 No se 
 observa A veces Siempre
-
 No se 
 observa A veces Siempre
-
 Cleofé es una mujer de Puyca, 
 provincia de La Unión que se decidió 
 a emprender un taller de costura en 
-su casa. ¿Qué mejoras puede lograr?
+su casa.¿Qué mejoras puede lograr?
 
 En lo personal En lo laboral
-
 93
-
-10. Mercedes lleva S/ 65 soles al mercado para comprar 
-hilos. Si el total de la compra costó S/ 54, ¿cuánto 
+10.Mercedes lleva S/ 65 soles al mercado para comprar 
+hilos.Si el total de la compra costó S/ 54, ¿cuánto 
 dinero le queda?
 
-11. Pedro tenía ahorrado S/ 125 soles y gastó S/ 75 soles en 
-la compra de semillas. ¿Cuánto dinero le queda?
+11.Pedro tenía ahorrado S/ 125 soles y gastó S/ 75 soles en 
+la compra de semillas.¿Cuánto dinero le queda?
 
-12. Si  Ema tiene S/  90 soles y compra telas por valor de  S/ 71 soles, 
-¿cuánto dinero le queda? Marca con una aspa “û” en el recuadro que 
+12.Si  Ema tiene S/  90 soles y compra telas por valor de  S/ 71 soles, 
+¿cuánto dinero le queda?Marca con una aspa “û” en el recuadro que 
 corresponda.
 
 94
 
 Autoevaluación
-
-a. Reflexiona y registra tu avance en la actividad 2. Marca con “û” el logro 
+a. Reflexiona y registra tu avance en la actividad 2.Marca con “û” el logro 
 correspondiente.
 
 Competencia: resuelve problemas de cantidad.
@@ -3984,11 +3577,10 @@ adición y sustracción.
 
 b. Responde las preguntas.
 
-c. Reflexiona y registra tu avance de la actividad 2. Marca con un aspa 
+c. Reflexiona y registra tu avance de la actividad 2.Marca con un aspa 
 “û” el logro correspondiente.
 
 Criterios Lo logré En proceso Debo repasar
-
 Reconozco acciones para 
 emprender un negocio.
 
@@ -4009,16 +3601,15 @@ estratégicos para realizar un
 emprendimiento?
 
 95
-
 Pasado:
 
 Presente:
 
 Futuro:
 
-1. ¿Qué actitudes crees que has desarrollado para ser un emprendedor?
+1.¿Qué actitudes crees que has desarrollado para ser un emprendedor?
 
-2. Selecciona y escribe dos consejos para emprender un negocio con
+2.Selecciona y escribe dos consejos para emprender un negocio con
 
 éxito.
 
@@ -4030,76 +3621,70 @@ b.
 
 
 
-3. Escribe tres acciones que puedas realizar en tres momentos diferentes 
+3.Escribe tres acciones que puedas realizar en tres momentos diferentes 
 (pasado, presente y futuro) para emprender un negocio.
 
 Fortalezco mis conocimientos como 
 emprendedor
 
-4. Escribe dos instituciones bancarias o financieras a las que puedes acudir 
+4.Escribe dos instituciones bancarias o financieras a las que puedes acudir 
 a solicitar apoyo económico y financiero.
 
 Actividad 3
-
 96
-
-5. Lee y resuelve las situaciones planteadas. Se sugiere seguir los pasos 
+5.Lee y resuelve las situaciones planteadas.Se sugiere seguir los pasos 
 aprendidos para la resolución de problemas.
 
 La señora Ana para hacer una torta de bautizo gasta 
-S/ 80 y pone como utilidad S/ 50. ¿Cuánto será el precio 
+S/ 80 y pone como utilidad S/ 50.¿Cuánto será el precio 
 de venta de la torta de bautizo?
 Si llega a vender cinco tortas de bautizo a la semana, 
 ¿cuánto de utilidad obtendrá?
 
-Paso 1. Entendemos el problema.
+Paso 1.Entendemos el problema.
 
-Paso 2. Representamos.
+Paso 2.Representamos.
 
-Paso 3. Planteamos la operación.
+Paso 3.Planteamos la operación.
 
 97
-
-Faustina se dedica al tejido de chompas artesanales. Ella 
+Faustina se dedica al tejido de chompas artesanales.Ella 
 gasta S/ 35 en 10 ovillos de lana para tejer una chompa y 
 quiere tener una ganancia de S/ 55 por chompa.
 ¿Cuánto será el precio de venta de una chompa?
 Si llega a vender seis chompas, ¿cuánto de utilidad  
 obtendrá?
 
-Paso 4. Verificamos y damos la respuesta.
+Paso 4.Verificamos y damos la respuesta.
 
-Paso 2. Representamos.
+Paso 2.Representamos.
 
-Paso1. Entendemos el problema.
+Paso1.Entendemos el problema.
 
 98
-
-Hernán trabaja en una pastelería. Él tiene un 
+Hernán trabaja en una pastelería.Él tiene un 
 pedido de  bocaditos para la celebración del 
-aniversario del CEBA de su comunidad. Si el 
+aniversario del CEBA de su comunidad.Si el 
 ciento de bocaditos cuesta S/ 35, ¿cuánto 
 ganará al vender cinco cientos de bocaditos?
 
-Paso 3. Planteamos la operación.
+Paso 3.Planteamos la operación.
 
-Paso 4. Verificamos y damos la respuesta.
+Paso 4.Verificamos y damos la respuesta.
 
-Paso 1. Entendemos el problema.
+Paso 1.Entendemos el problema.
 
 99
+Paso 2.Representamos.
 
-Paso 2. Representamos.
+Paso 3.Planteamos la operación.
 
-Paso 3. Planteamos la operación.
-
-Paso 4. Verificamos y damos la respuesta.
+Paso 4.Verificamos y damos la respuesta.
 
 100
 
 Autoevaluación
-
-Reflexiona y registra tu avance en la actividad 3. Marca con un aspa “û” el 
+Reflexiona y registra tu avance en la actividad 3.Marca con un aspa “û” el 
 logro correspondiente.
 
 Criterios Lo logré En proceso Debo repasar
@@ -4122,7 +3707,6 @@ Coloca un aspa “û” de acuerdo a tu avance.
 Competencia: resuelve problemas de cantidad.
 
 Criterios Lo logré En proceso Debo repasar
-
 Reconozco la información que 
 contiene el problema.
 
@@ -4143,26 +3727,22 @@ emprendedor, ¿cómo repercutirá
 en mi negocio o centro laboral?
 
 101
-
-1. Investiga y dibuja sobre el tipo de negocio más rentable y accesible en 
+1.Investiga y dibuja sobre el tipo de negocio más rentable y accesible en 
 tu comunidad.
 
 Desarrollo mi potencial como emprendedor
-
-2. Escribe y dibuja los productos que utilizan para su elaboración.
+2.Escribe y dibuja los productos que utilizan para su elaboración.
 
 Actividad 4
-
 102
+3.¿Cuánto tiempo llevan realizando este tipo de negocio?
 
-3. ¿Cuánto tiempo llevan realizando este tipo de negocio?
-
-4. ¿Qué dificultades han tenido que afrontar? ¿Cómo las enfrentaron para 
+4.¿Qué dificultades han tenido que afrontar?¿Cómo las enfrentaron para 
 salir adelante?
 
-5. ¿Qué tipo de negocio te gustaría emprender? ¿Por qué?
+5.¿Qué tipo de negocio te gustaría emprender?¿Por qué?
 
-6. Escribe sobre lo que necesitarías saber o ya conoces sobre el negocio 
+6.Escribe sobre lo que necesitarías saber o ya conoces sobre el negocio 
 escogido.
 
 �
@@ -4171,7 +3751,7 @@ escogido.
 
 �
 
-7. Investiga y anota cuál es el presupuesto que necesitarías para iniciar 
+7.Investiga y anota cuál es el presupuesto que necesitarías para iniciar 
 este negocio.
 
 Asociación de 
@@ -4186,12 +3766,10 @@ liderazgo/liderazgoy-coaching/
 historias-de-exitode-emprendedoresperuanos-que-tesorprenderan
 
 web
-
 103
 
 Autoevaluación
-
-Reflexiona y registra tu avance en la actividad 4. Marca con “û” el logro 
+Reflexiona y registra tu avance en la actividad 4.Marca con “û” el logro 
 correspondiente.
 
 Criterios Lo logré En proceso Debo repasar
@@ -4220,7 +3798,6 @@ social de mi CEBA, familia o comunidad?
 
 CARTA DEMOCRÁTICA INTERAMERICANA
 I
-
 La democracia y el sistema interamericano
 Artículo 1
 Los pueblos de América tienen derecho a la democracia y sus gobiernos la obligación de promoverla y defenderla.
@@ -4228,7 +3805,7 @@ La democracia es esencial para el desarrollo social, político y económico de l
 las Américas.
 Artículo 2
 El ejercicio efectivo de la democracia representativa es la base del estado de derecho y los 
-regímenes constitucionales de los Estados Miembros de la Organización de los Estados Americanos. La democracia representativa se refuerza y profundiza con la participación permanente, 
+regímenes constitucionales de los Estados Miembros de la Organización de los Estados Americanos.La democracia representativa se refuerza y profundiza con la participación permanente, 
 ética y responsable de la ciudadanía en un marco de legalidad conforme al respectivo orden 
 constitucional.
 Artículo 3
@@ -4242,17 +3819,16 @@ el respeto por los derechos sociales y la libertad de expresión y de prensa.
 La subordinación constitucional de todas las instituciones del Estado a la autoridad civil legalmente constituida y el respeto al estado de derecho de todas las entidades y sectores de la 
 sociedad son igualmente fundamentales para la democracia.
 Artículo 5
-El fortalecimiento de los partidos y de otras organizaciones políticas es prioritario para la democracia. Se deberá prestar atención especial a la problemática derivada de los altos costos 
+El fortalecimiento de los partidos y de otras organizaciones políticas es prioritario para la democracia.Se deberá prestar atención especial a la problemática derivada de los altos costos 
 de las campañas electorales y al establecimiento de un régimen equilibrado y transparente de 
 financiación de sus actividades.
 Artículo 6
-La participación de la ciudadanía en las decisiones relativas a su propio desarrollo es un derecho y una responsabilidad. Es también una condición necesaria para el pleno y efectivo 
-ejercicio de la democracia. Promover y fomentar diversas formas de participación fortalece la 
+La participación de la ciudadanía en las decisiones relativas a su propio desarrollo es un derecho y una responsabilidad.Es también una condición necesaria para el pleno y efectivo 
+ejercicio de la democracia.Promover y fomentar diversas formas de participación fortalece la 
 democracia.
 
 II
 La democracia y los derechos humanos
-
 Artículo 7
 La democracia es indispensable para el ejercicio efectivo de las libertades fundamentales 
 y los derechos humanos, en su carácter universal, indivisible e interdependiente, consagrados en las respectivas constituciones de los Estados y en los instrumentos interamericanos 
@@ -4272,23 +3848,22 @@ Artículo 10
 La promoción y el fortalecimiento de la democracia requieren el ejercicio pleno y eficaz 
 de los derechos de los trabajadores y la aplicación de normas laborales básicas, tal como 
 están consagradas en la Declaración de la Organización Internacional del Trabajo (OIT) 
-relativa a los Principios y Derechos Fundamentales en el Trabajo y su Seguimiento, adoptada en 1998, así como en otras convenciones básicas afines de la OIT. La democracia 
+relativa a los Principios y Derechos Fundamentales en el Trabajo y su Seguimiento, adoptada en 1998, así como en otras convenciones básicas afines de la OIT.La democracia 
 se fortalece con el mejoramiento de las condiciones laborales y la calidad de vida de los 
 trabajadores del Hemisferio.
 
 III
 Democracia, desarrollo integral y combate a la pobreza
-
 Artículo 11
 La democracia y el desarrollo económico y social son interdependientes y se refuerzan 
 mutuamente.
 Artículo 12
 La pobreza, el analfabetismo y los bajos niveles de desarrollo humano son factores que 
-inciden negativamente en la consolidación de la democracia. Los Estados Miembros de la 
+inciden negativamente en la consolidación de la democracia.Los Estados Miembros de la 
 OEA se comprometen a adoptar y ejecutar todas las acciones necesarias para la creación 
 de empleo productivo, la reducción de la pobreza y la erradicación de la pobreza extrema, 
 teniendo en cuenta las diferentes realidades y condiciones económicas de los países del 
-Hemisferio. Este compromiso común frente a los problemas del desarrollo y la pobreza también destaca la importancia de mantener los equilibrios macroeconómicos y el imperativo 
+Hemisferio.Este compromiso común frente a los problemas del desarrollo y la pobreza también destaca la importancia de mantener los equilibrios macroeconómicos y el imperativo 
 de fortalecer la cohesión social y la democracia.
 Artículo 13
 La promoción y observancia de los derechos económicos, sociales y culturales son consustanciales al desarrollo integral, al crecimiento económico con equidad y a la consolidación 
@@ -4297,26 +3872,25 @@ Artículo 14
 Los Estados Miembros acuerdan examinar periódicamente las acciones adoptadas y ejecutadas por la Organización encaminadas a fomentar el diálogo, la cooperación para el desarrollo integral y el combate a la pobreza en el Hemisferio, y tomar las medidas oportunas 
 para promover estos objetivos.
 Artículo 15
-El ejercicio de la democracia facilita la preservación y el manejo adecuado del medio ambiente. Es esencial que los Estados del Hemisferio implementen políticas y estrategias 
+El ejercicio de la democracia facilita la preservación y el manejo adecuado del medio ambiente.Es esencial que los Estados del Hemisferio implementen políticas y estrategias 
 de protección del medio ambiente, respetando los diversos tratados y convenciones, para 
 lograr un desarrollo sostenible en beneficio de las futuras generaciones.
 Artículo 16
 La educación es clave para fortalecer las instituciones democráticas, promover el desarrollo 
 del potencial humano y el alivio de la pobreza y fomentar un mayor entendimiento entre los 
-pueblos. Para lograr estas metas, es esencial que una educación de calidad esté al alcance 
+pueblos.Para lograr estas metas, es esencial que una educación de calidad esté al alcance 
 de todos, incluyendo a las niñas y las mujeres, los habitantes de las zonas rurales y las 
 personas que pertenecen a las minorías.
 
 IV
 Fortalecimiento y preservación de la institucionalidad democrática
-
 Artículo 17
 Cuando el gobierno de un Estado Miembro considere que está en riesgo su proceso político institucional democrático o su legítimo ejercicio del poder, podrá recurrir al Secretario 
 General o al Consejo Permanente a fin de solicitar asistencia para el fortalecimiento y preservación de la institucionalidad democrática.
 Artículo 18
 Cuando en un Estado Miembro se produzcan situaciones que pudieran afectar el desarrollo 
 del proceso político institucional democrático o el legítimo ejercicio del poder, el Secretario 
-General o el Consejo Permanente podrá, con el consentimiento previo del gobierno afectado, disponer visitas y otras gestiones con la finalidad de hacer un análisis de la situación. El 
+General o el Consejo Permanente podrá, con el consentimiento previo del gobierno afectado, disponer visitas y otras gestiones con la finalidad de hacer un análisis de la situación.El 
 Secretario General elevará un informe al Consejo Permanente, y éste realizará una apreciación colectiva de la situación y, en caso necesario, podrá adoptar decisiones dirigidas a 
 la preservación de la institucionalidad democrática y su fortalecimiento.
 Artículo 19
@@ -4330,7 +3904,7 @@ General podrá solicitar la convocatoria inmediata del Consejo Permanente para r
 una apreciación colectiva de la situación y adoptar las decisiones que estime conveniente.
 El Consejo Permanente, según la situación, podrá disponer la realización de las gestiones 
 diplomáticas necesarias, incluidos los buenos oficios, para promover la normalización de la 
-institucionalidad democrática. Si las gestiones diplomáticas resultaren infructuosas o si la 
+institucionalidad democrática.Si las gestiones diplomáticas resultaren infructuosas o si la 
 urgencia del caso lo aconsejare, el Consejo Permanente convocará de inmediato un período extraordinario de sesiones de la Asamblea General para que ésta adopte las decisiones 
 que estime apropiadas, incluyendo gestiones diplomáticas, conforme a la Carta de la Organización, el derecho internacional y las disposiciones de la presente Carta Democrática.
 Durante el proceso se realizarán las gestiones diplomáticas necesarias, incluidos los buenos oficios, para promover la normalización de la institucionalidad democrática.
@@ -4339,31 +3913,30 @@ Cuando la Asamblea General, convocada a un período extraordinario de sesiones, 
 que se ha producido la ruptura del orden democrático en un Estado Miembro y que las 
 gestiones diplomáticas han sido infructuosas, conforme a la Carta de la OEA tomará la 
 decisión de suspender a dicho Estado Miembro del ejercicio de su derecho de participación 
-en la OEA con el voto afirmativo de los dos tercios de los Estados Miembros. La suspensión 
+en la OEA con el voto afirmativo de los dos tercios de los Estados Miembros.La suspensión 
 entrará en vigor de inmediato.
 El Estado Miembro que hubiera sido objeto de suspensión deberá continuar observando 
 el cumplimiento de sus obligaciones como miembro de la Organización, en particular en 
-materia de derechos humanos. Adoptada la decisión de suspender a un gobierno, la Organización mantendrá sus gestiones diplomáticas para el restablecimiento de la democracia 
+materia de derechos humanos.Adoptada la decisión de suspender a un gobierno, la Organización mantendrá sus gestiones diplomáticas para el restablecimiento de la democracia 
 en el Estado Miembro afectado.
 Artículo 22
 Una vez superada la situación que motivó la suspensión, cualquier Estado Miembro o el 
-Secretario General podrá proponer a la Asamblea General el levantamiento de la suspensión. Esta decisión se adoptará por el voto de los dos tercios de los Estados Miembros, de 
+Secretario General podrá proponer a la Asamblea General el levantamiento de la suspensión.Esta decisión se adoptará por el voto de los dos tercios de los Estados Miembros, de 
 acuerdo con la Carta de la OEA.
 
 V
 La democracia y las misiones de observación electoral
-
 Artículo 23
 Los Estados Miembros son los responsables de organizar, llevar a cabo y garantizar procesos electorales libres y justos.
 Los Estados Miembros, en ejercicio de su soberanía, podrán solicitar a la OEA asesoramiento o asistencia para el fortalecimiento y desarrollo de sus instituciones y procesos 
 electorales, incluido el envío de misiones preliminares para ese propósito.
 Artículo 24
 Las misiones de observación electoral se llevarán a cabo por solicitud del Estado Miembro 
-interesado. Con tal finalidad, el gobierno de dicho Estado y el Secretario General celebrarán un convenio que determine el alcance y la cobertura de la misión de observación electoral de que se trate. El Estado Miembro deberá garantizar las condiciones de seguridad, 
+interesado.Con tal finalidad, el gobierno de dicho Estado y el Secretario General celebrarán un convenio que determine el alcance y la cobertura de la misión de observación electoral de que se trate.El Estado Miembro deberá garantizar las condiciones de seguridad, 
 libre acceso a la información y amplia cooperación con la misión de observación electoral.
 Las misiones de observación electoral se realizarán de conformidad con los principios y 
-normas de la OEA. La Organización deberá asegurar la eficacia e independencia de estas 
-misiones, para lo cual se las dotará de los recursos necesarios. Las mismas se realizarán 
+normas de la OEA.La Organización deberá asegurar la eficacia e independencia de estas 
+misiones, para lo cual se las dotará de los recursos necesarios.Las mismas se realizarán 
 de forma objetiva, imparcial y transparente, y con la capacidad técnica apropiada.
 Las misiones de observación electoral presentarán oportunamente al Consejo Permanente, 
 a través de la Secretaría General, los informes sobre sus actividades.
@@ -4376,15 +3949,14 @@ contribuir a crear o mejorar dichas condiciones.
 
 VI
 Promoción de la cultura democrática
-
 Artículo 26
 La OEA continuará desarrollando programas y actividades dirigidos a promover los principios y prácticas democráticas y fortalecer la cultura democrática en el Hemisferio, considerando que la democracia es un sistema de vida fundado en la libertad y el mejoramiento 
-económico, social y cultural de los pueblos. La OEA mantendrá consultas y cooperación 
+económico, social y cultural de los pueblos.La OEA mantendrá consultas y cooperación 
 continua con los Estados Miembros, tomando en cuenta los aportes de organizaciones de 
 la sociedad civil que trabajen en esos ámbitos.
 Artículo 27
 Los programas y actividades se dirigirán a promover la gobernabilidad, la buena gestión, 
-los valores democráticos y el fortalecimiento de la institucionalidad política y de las organizaciones de la sociedad civil. Se prestará atención especial al desarrollo de programas y 
+los valores democráticos y el fortalecimiento de la institucionalidad política y de las organizaciones de la sociedad civil.Se prestará atención especial al desarrollo de programas y 
 actividades para la educación de la niñez y la juventud como forma de asegurar la permanencia de los valores democráticos, incluidas la libertad y la justicia social.
 Artículo 28
 Los Estados promoverán la plena e igualitaria participación de la mujer en las estructuras 
@@ -4392,7 +3964,7 @@ políticas de sus respectivos países como elemento fundamental para la promoci�
 de la cultura democrática.
 
 06722_B Proyecto Aprendizaje Inicial_Portafolio_Caratula_Couche.p2_Tira OK
-	06722_B Proyecto Aprendizaje Inicial_Portafolio_Caratula_Couche.p2_Retira OK
+	06722_B Proyecto Aprendizaje Inicial_Portafolio_Caratula_Couche.p2_RetiraOK
 	06722_B Proyecto Aprendizaje Inicial_Portafolio_001_v1_Bond_N3.p1
 	06722_B Proyecto Aprendizaje Inicial_Portafolio_002_v2_Bond_N3.p1
 	06722_B Proyecto Aprendizaje Inicial_Portafolio_003_v1_Bond_N3.p1

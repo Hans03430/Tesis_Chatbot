@@ -1,16 +1,4 @@
-import re
+import asyncio
+from src.data_obtaining.pdf_processing import convert_pdf_to_txt
 
-text = '''
-
-
-Hey there how
-
-
-
-are you today?
-
-
-
-'''
-text_aux = re.sub(r'\b\n+\b', '\n', text)
-print(text_aux)
+asyncio.run(convert_pdf_to_txt('/home/hans/Documentos/Tesis_Chatbot/data/raw/pdf/1/Historia, Geografía y Economía/atahualpa.pdf', 'atahualpa.txt'))

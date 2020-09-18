@@ -1,12 +1,10 @@
 Lince int
-
 Diego Hurtado de Mendoza
-
 Es Doctor en Física, profesor de Historia de la Ciencia y director del 
 Centro de Estudio de Historia de la Ciencia “José Babini”, en la Escuela 
 de Humanidades de la Universidad Nacional de General San Martín.
 
-Pablo Bolaños es artista plástico y gráfico. Desde 2001, es el responsable de la concepción visual del proyecto Nautilus, comunicación y reflexión sobre la ciencia, Universidad de Buenos Aires.
+Pablo Bolaños es artista plástico y gráfico.Desde 2001, es el responsable de la concepción visual del proyecto Nautilus, comunicación y reflexión sobre la ciencia, Universidad de Buenos Aires.
 
 Si tenés ganas de saber más sobre esta u otras historias sobre la ciencia
 
@@ -14,7 +12,7 @@ escribínos a centrobabini@unsam.edu.ar
 
 Para leer más sobre sociedades científicas durante el siglo XVI, podés
 
-consultar el Capítulo 3º del libro "Tradiciones y rupturas. La historia de la
+consultar el Capítulo 3º del libro "Tradiciones y rupturas.La historia de la
 
 ciencia en la enseñanza", publicado en el 2003 por la Universidad Nacional
 
@@ -25,18 +23,16 @@ La mirada del lince de Diego Hurtado de Mendoza
 © Diego Hurtado de Mendoza
 Ilustraciones: Pablo Bolaños
 Diseño de tapa: Guadalupe Nava
-
 Colección: "La ciencia, una forma de leer el mundo"
 La Campaña Nacional de Lectura agradece la colaboración de Horacio Tignanelli para esta colección.
 
 Equipo de Campaña Nacional de Lectura
 Coordinación editorial: Guadalupe Nava - Comunicación: Daniela Rowensztein - Diseño gráfico: Micaela 
 Bueno, Juan Salvador de Tullio - Administración: Alejandra Arnau, Carolina Loguzzo y Cinthia Ordoñez 
-Pizzurno 935. (C1020ACA) Ciudad de Buenos Aires. Tel: (011) 4129 1075
+Pizzurno 935.(C1020ACA) Ciudad de Buenos Aires.Tel: (011) 4129 1075
 campnacionaldelectura@me.gov.ar - www.me.gov.ar/lees
-
 Ministerio de Educación Ciencia y Tecnología, 2005 - República Argentina
-Ejemplar de distribución gratuita. Prohibida su venta
+Ejemplar de distribución gratuita.Prohibida su venta
 
 El argonauta argentino y el secreto de su alfombra
 
@@ -45,73 +41,62 @@ La mirada del lince
 ¿Vampiros en Valaquia?
 
 El guiso fantasmagórico
-
 Los nombres del cielo
-
 El primer astrónomo criollo
 
 ¡Que viva el Coyote!
 
 Charles Darwin El naturalista del Beagle
-
 Títulos que integran esta colección
-
 MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA
 DE LA NACION ARGENTINA
 
 Ministro de Educación, Ciencia y Tecnología  
 Lic. Daniel Filmus
-
 Secretario de Ciencia, Tecnología e Innovación productiva
 Ing. Tulio Abel del Bono
-
 Jefe de la Unidad de Programas Especiales
 Prof. Ignacio Hernaiz
-
 Coordinadora de la Campaña Nacional de Lectura
 Prof. Margarita Eggers Lan
-
 1
-
 Cuando se habla de los genios que hicieron grandes aportesa la ciencia, muchas veces se olvida que la ciencia es, en
 realidad, una tarea cooperativa, en la que el intercambio y el
-trabajo en conjunto resultan fundamentales. Una historia ocurrida hace cuatro siglos puede ayudar a comprender esta idea.
+trabajo en conjunto resultan fundamentales.Una historia ocurrida hace cuatro siglos puede ayudar a comprender esta idea.
 
-En 1603, Federico Cesi tenía 18 años. Hijo del marqués
+En 1603, Federico Cesi tenía 18 años.Hijo del marqués
 de Monticelli, Federico vivía en un palacio en Roma y estaba
-interesado en las abejas. Hábil experimentador, también era
+interesado en las abejas.Hábil experimentador, también era
 dueño de un jardín botánico.
 
 La presencia en Roma de un médico holandés llamado
 Johannes Eck, entendido tanto en plantas como en astros, hizo pensar a Cesi que sería posible organizar un grupo o una
-sociedad destinada a estudiar la naturaleza. Así fue que Cesi
+sociedad destinada a estudiar la naturaleza.Así fue que Cesi
 y Eck, junto con otros dos naturalistas, Francesco Stelluti y
 Anastasio de Fillis, el 17 de agosto de aquel año fundaron
 una asociación que se denominó Academia del Lince.
 
 La mirada del lince
 Diego Hurtado de Mendoza
-
 Lince int  6/4/05  4:42 AM  Page 1
-
 3
 
-Además, cada lince tomó un nombre secreto. Cesi
+Además, cada lince tomó un nombre secreto.Cesi
 fue Celivago, que significa vagabundo del cielo; su emblema fue un águila iluminada por el Sol, que sostenía
-entre sus garras el globo terráqueo. Eck fue el Iluminado, y su emblema era una Luna en Cuarto Creciente.
+entre sus garras el globo terráqueo.Eck fue el Iluminado, y su emblema era una Luna en Cuarto Creciente.
 
 Stelluti, que también era matemático, fue llamado
-Tardigrado, que puede traducirse como lento; su emblema era Saturno, el planeta que se movía más despacio entre los conocidos entonces. La lentitud, en este caso, no aludía a la poca inteligencia de Stelluti,
+Tardigrado, que puede traducirse como lento;su emblema era Saturno, el planeta que se movía más despacio entre los conocidos entonces.La lentitud, en este caso, no aludía a la poca inteligencia de Stelluti
 sino a su creencia de que el camino más seguro hacia
 el conocimiento debía ser pausado y mesurado.
 
 Finalmente, Fillis fue el Eclipsado, un apodo que
 aludía a que este miembro era el menos educado del
 grupo; por ejemplo, no sabía leer latín, el lenguaje
-empleado entonces por los eruditos. Su emblema era
+empleado entonces por los eruditos.Su emblema era
 un eclipse de luna.
 
-Desde el comienzo, el padre de Cesi fue hostil a la Academia. Ocurría que el estudio de la naturaleza no era un comportamiento adecuado para un joven noble. También le molestaba el aire de hermandad secreta del grupo, ya que podía
+Desde el comienzo, el padre de Cesi fue hostil a la Academia.Ocurría que el estudio de la naturaleza no era un comportamiento adecuado para un joven noble.También le molestaba el aire de hermandad secreta del grupo, ya que podía
 provocar sospechas de brujería.
 
 Pero tenía una razón que empalidecía todas las otras: Eck
@@ -122,47 +107,43 @@ Su nombre se inspiró en Linceo, un héroe de la mitología griega, famoso por l
 
 La nueva sociedad designó a un santo cristiano
 como su protector, utilizó un idioma en clave para
-sus escritos y distinguió a sus miembros otorgándoles un diploma y un anillo. Los cuatro linces hicieron
-
+sus escritos y distinguió a sus miembros otorgándoles un diploma y un anillo.Los cuatro linces hicieron
 un juramento de hermandad y vivieron juntos en el palacio
 de Federico, quien se encargó de proveer libros e instrumentos para sus estudios.
 
 Lince int  6/4/05  4:42 AM  Page 2
-
 No pasó mucho tiempo para que ocurriese lo
 temido por el marqués de
 Monticelli: la Academia
 fue acusada de practicar
-Magia Negra y de oponerse a la doctrina católica. Esa acusación hizo
+Magia Negra y de oponerse a la doctrina católica.Esa acusación hizo
 que sus miembros se dispersaran por un tiempo.
 
 Eck viajó por Europa para
 reunirse con sabios y naturalistas, y contarles sobre la
-Academia del Lince. Al mismo
-tiempo, le enviaba a Cesi sus observaciones de las plantas y animales que encontraba. En uno de los informes de 1604, Eck narra haber observado la aparición de una
+Academia del Lince.Al mismo
+tiempo, le enviaba a Cesi sus observaciones de las plantas y animales que encontraba.En uno de los informes de 1604, Eck narra haber observado la aparición de una
 estrella nueva en el cielo (algo que los astrónomos llaman nova).
 
 Cesi publicó esa noticia en
 1605, en la que sería la primera publicación de la
-
 Academia del Lince.
 
 La muerte de Fillis en
 1608 dejó a la Academia
-con sólo tres miembros. A
-pesar de esta pérdida,
+con sólo tres miembros.A
+pesar de esta pérdida
 Federico siguió aspirando
-
 a que la Academia del Lince contara con miembros en otras ciudades.
 
-Así fue que, en 1610, viajó a Nápoles,
+Así fue que, en 1610, viajó a Nápoles
 donde conoció a Giambattista Della
 Porta, autor del entonces famosísimo
-libro Magia Natural. Cesi convenció a Della Porta de incorporarse
+libro Magia Natural.Cesi convenció a Della Porta de incorporarse
 a la Academia y pronto las cosas
 comenzaron a mejorar.
 
-El mismo año, un profesor de matemática de Padua, Galileo Galilei, alcanzaba la fama al publicar su libro El mensajero del cielo. En esa
+El mismo año, un profesor de matemática de Padua, Galileo Galilei, alcanzaba la fama al publicar su libroEl mensajero del cielo.En esa
 obra, daba a conocer lo que había
 observado en el cielo al utilizar un
 novedoso instrumento compuesto
@@ -177,26 +158,23 @@ Copérnico, publicadas en
 Tierra móvil, girando alrededor de su propio eje y trasladándose alrededor del Sol.
 
 5
-
 Lince int  6/4/05  4:42 AM  Page 4
-
 7
-
 En 1611, Galileo Galilei viajó a Roma para exhibir sus
-descubrimientos. Su visita fue un éxito; Galileo Galilei fue festejado por los matemáticos jesuitas del Colegio Romano y hasta fue recibido por el papa Pablo V.
+descubrimientos.Su visita fue un éxito; Galileo Galilei fue festejado por los matemáticos jesuitas del Colegio Romano y hasta fue recibido por el papa Pablo V.
 
-Cesi realizó un banquete en su honor; durante el mismo,
+Cesi realizó un banquete en su honor; durante el mismo
 el instrumento de Galileo Galilei fue bautizado telescopio.
-Días después, fue elegido miembro de la Academia del Lince,
+Días después, fue elegido miembro de la Academia del Lince
 que pasó así a contar con cinco integrantes.
 
 La fama de Giambattista Della Porta y Galileo Galilei ayudó al crecimiento de la Academia; en su mejor momento llegó a tener 32 miembros, incluyendo varios sabios de otros
-países de Europa. Pero también atravesó momentos difíciles.
+países de Europa.Pero también atravesó momentos difíciles.
 
-En 1615, no sólo murió Della Porta, sino que el mismo Papa que había recibido a Galileo Galilei cuatro años atrás,
+En 1615, no sólo murió Della Porta, sino que el mismo Papa que había recibido a Galileo Galilei cuatro años atrás
 prohibió la doctrina de Copérnico.
 
-Esta situación produjo serios conflictos entre los académicos, ya que algunos no estaban dispuestos a obedecer al Papa. El resultado fue que varios abandonaron la Academia.
+Esta situación produjo serios conflictos entre los académicos, ya que algunos no estaban dispuestos a obedecer al Papa.El resultado fue que varios abandonaron la Academia.
 
 En 1630, Cesi murió repentinamente; tenía 45 años.
 Puede decirse que la Academia del Lince murió con él.
@@ -213,19 +191,17 @@ conocimientos sobre la naturaleza, que fueron celebrados
 en toda Europa.
 
 6
-
 Galileo Galilei, examinando una lente para la construcción de un telescopio.
 
 Lince int  6/4/05  4:42 AM  Page 6
-
 Entre las publicaciones más famosas
 de la Academia del Lince se cuentan dos
 obras de Galileo Galilei: Cartas sobre las
-manchas solares (de 1613) y El ensayador (de 1623). También se publicaron las
+manchas solares (de 1613) y El ensayador (de 1623).También se publicaron las
 observaciones de las abejas realizadas a
 través de un microscopio por Stelluti.
 
-En la actualidad,
+En la actualidad
 quienes investigan en
 historia de la ciencia
 reconocen en la Academia del Lince una
@@ -239,19 +215,17 @@ artesanos e ingenieros inventores.
 
 Algunas
 publicaciones
-
 de la Academia
 del Lince.
 
 Lince int  6/4/05  4:42 AM  Page 8
 
 Diego Hurtado de Mendoza
-
 Es Doctor en Física, profesor de Historia de la Ciencia y director del 
 Centro de Estudio de Historia de la Ciencia “José Babini”, en la Escuela 
 de Humanidades de la Universidad Nacional de General San Martín.
 
-Pablo Bolaños es artista plástico y gráfico. Desde 2001, es el responsable de la concepción visual del proyecto Nautilus, comunicación y reflexión sobre la ciencia, Universidad de Buenos Aires.
+Pablo Bolaños es artista plástico y gráfico.Desde 2001, es el responsable de la concepción visual del proyecto Nautilus, comunicación y reflexión sobre la ciencia, Universidad de Buenos Aires.
 
 Si tenés ganas de saber más sobre esta u otras historias sobre la ciencia
 
@@ -259,7 +233,7 @@ escribínos a centrobabini@unsam.edu.ar
 
 Para leer más sobre sociedades científicas durante el siglo XVI, podés
 
-consultar el Capítulo 3º del libro "Tradiciones y rupturas. La historia de la
+consultar el Capítulo 3º del libro "Tradiciones y rupturas.La historia de la
 
 ciencia en la enseñanza", publicado en el 2003 por la Universidad Nacional
 
@@ -270,18 +244,16 @@ La mirada del lince de Diego Hurtado de Mendoza
 © Diego Hurtado de Mendoza
 Ilustraciones: Pablo Bolaños
 Diseño de tapa: Guadalupe Nava
-
 Colección: "La ciencia, una forma de leer el mundo"
 La Campaña Nacional de Lectura agradece la colaboración de Horacio Tignanelli para esta colección.
 
 Equipo de Campaña Nacional de Lectura
 Coordinación editorial: Guadalupe Nava - Comunicación: Daniela Rowensztein - Diseño gráfico: Micaela 
 Bueno, Juan Salvador de Tullio - Administración: Alejandra Arnau, Carolina Loguzzo y Cinthia Ordoñez 
-Pizzurno 935. (C1020ACA) Ciudad de Buenos Aires. Tel: (011) 4129 1075
+Pizzurno 935.(C1020ACA) Ciudad de Buenos Aires.Tel: (011) 4129 1075
 campnacionaldelectura@me.gov.ar - www.me.gov.ar/lees
-
 Ministerio de Educación Ciencia y Tecnología, 2005 - República Argentina
-Ejemplar de distribución gratuita. Prohibida su venta
+Ejemplar de distribución gratuita.Prohibida su venta
 
 El argonauta argentino y el secreto de su alfombra
 
@@ -290,28 +262,21 @@ La mirada del lince
 ¿Vampiros en Valaquia?
 
 El guiso fantasmagórico
-
 Los nombres del cielo
-
 El primer astrónomo criollo
 
 ¡Que viva el Coyote!
 
 Charles Darwin El naturalista del Beagle
-
 Títulos que integran esta colección
-
 MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA
 DE LA NACION ARGENTINA
 
 Ministro de Educación, Ciencia y Tecnología  
 Lic. Daniel Filmus
-
 Secretario de Ciencia, Tecnología e Innovación productiva
 Ing. Tulio Abel del Bono
-
 Jefe de la Unidad de Programas Especiales
 Prof. Ignacio Hernaiz
-
 Coordinadora de la Campaña Nacional de Lectura
 Prof. Margarita Eggers Lan

@@ -1,8 +1,10 @@
 import asyncio
 import re
+import spacy
 import tika
 
 from aiofile import AIOFile
+from src.processing.constants import ACCEPTED_LANGUAGES
 from src.processing.utils.utils import split_text_into_paragraphs
 from tika import parser
 
@@ -18,13 +20,19 @@ async def convert_pdf_to_txt(pdf_path: str, save_dir: str) -> None:
     Returns:
     None
     """
+    if not hasattr(convert_pdf_to_txt, 'nlp'):
+        convert_pdf_to_txt.nlp = spacy.load(ACCEPTED_LANGUAGES['es'])
+        convert_pdf_to_txt.nlp.add_pipe(convert_pdf_to_txt.nlp.create_pipe('sentencizer'))
     try:
         tika.initVM()
         pdf_file = parser.from_file(pdf_path)
         async with AIOFile(save_dir, 'w') as text_file:
-            paragraphs = split_text_into_paragraphs(pdf_file['content'])
+            doc = convert_pdf_to_txt.nlp(pdf_file['content'])
+            text = ''.join([re.sub(r'[,|;|\b]\n+\b', '\n', re.sub(r'\b\n+\b', '\n', s.text))
+                            for s in doc.sents]) # Fix sentences that have more newlines than they should
+            paragraphs = split_text_into_paragraphs(text) # Eliminate extra newlines between paragraphs
             new_text = '\n\n'.join(paragraphs)
-            new_text = re.sub(r'-\n+', '', new_text)
+            new_text = re.sub(r'-\n+', '', new_text) # Join split words.
             await text_file.write(new_text)
 
     except Exception as e:

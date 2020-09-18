@@ -1,7 +1,6 @@
 EsVi
 
 HIMNO NACIONAL
-
 SÍMBOLOS DE LA PATRIA
 
 Declaración Universal de los Derechos Humanos
@@ -10,93 +9,93 @@ El 10 de diciembre de 1948, la Asamblea General de las Naciones Unidas aprobó y
 de Derechos Humanos, cuyos artículos figuran a continuación:
 Artículo 1.- Todos los seres humanos nacen libres e iguales en dignidad y derechos y (...) deben 
 comportarse fraternalmente los unos con los otros.
-Artículo 2.- Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier 
-otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición. 
+Artículo 2.-Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión políticao de cualquier 
+otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición.
 Además, no se hará distinción alguna fundada en la condición política, jurídica o internacional 
 del país o territorio de cuya jurisdicción dependa una persona (...).
-Artículo 3.- Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.
+Artículo 3.-Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.
 Artículo 4.- Nadie estará sometido a esclavitud ni a servidumbre; la esclavitud y la trata de 
 esclavos están prohibidas en todas sus formas.
 Artículo 5.- Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.
 Artículo 6.- Todo ser humano tiene derecho, en todas partes, al reconocimiento de su personalidad jurídica.
 Artículo 7.- Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección 
-de la ley. Todos tienen derecho a igual protección contra toda discriminación que infrinja esta 
+de la ley.Todos tienen derecho a igual protección contra toda discriminación que infrinja esta 
 Declaración (...).
 Artículo 8.- Toda persona tiene derecho a un recurso efectivo, ante los tribunales nacionales 
 competentes, que la ampare contra actos que violen sus derechos fundamentales (...).
 Artículo 9.- Nadie podrá ser arbitrariamente detenido, preso ni desterrado.
-Artículo 10.- Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial, para la determinación de sus 
+Artículo 10.-Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial, para la determinación de sus 
 derechos y obligaciones o para el examen de cualquier acusación contra ella en materia penal.
-Artículo 11.1. Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se
+Artículo 11.1.Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se
 pruebe su culpabilidad (...).
-2. Nadie será condenado por actos u omisiones que en el momento de cometerse no fueron 
-delictivos según el Derecho nacional o internacional. Tampoco se impondrá pena más grave que
+2.Nadie será condenado por actos u omisiones que en el momento de cometerse no fueron 
+delictivos según el Derecho nacional o internacional.Tampoco se impondrá pena más grave que
 la aplicable en el momento de la comisión del delito.
-Artículo 12.- Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o a su reputación. Toda persona tiene 
+Artículo 12.- Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o a su reputación.Toda persona tiene 
 derecho a la protección de la ley contra tales injerencias o ataques.
-Artículo 13.1. Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de 
+Artículo 13.1.Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de 
 un Estado.
-2. Toda persona tiene derecho a salir de cualquier país, incluso del propio, y a regresar a su país.
-Artículo 14.1. En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en 
+2.Toda persona tiene derecho a salir de cualquier país, incluso del propio, y a regresar a su país.
+Artículo 14.1.En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en 
 cualquier país.
-2. Este derecho no podrá ser invocado contra una acción judicial realmente originada por delitos
+2.Este derecho no podrá ser invocado contra una acción judicial realmente originada por delitos
 comunes o por actos opuestos a los propósitos y principios de las Naciones Unidas.
-Artículo 15.1. Toda persona tiene derecho a una nacionalidad.
-2. A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad.
-Artículo 16.1. Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por
+Artículo 15.1.Toda persona tiene derecho a una nacionalidad.
+2.A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad.
+Artículo 16.1.Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por
 motivos de raza, nacionalidad o religión, a casarse y fundar una familia (...).
-2. Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el matrimonio.
-3. La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección
+2.Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el matrimonio.
+3.La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección
 de la sociedad y del Estado.
-Artículo 17.1. Toda persona tiene derecho a la propiedad, individual y colectivamente.
-2. Nadie será privado arbitrariamente de su propiedad.
+Artículo 17.1.Toda persona tiene derecho a la propiedad, individual y colectivamente.
+2.Nadie será privado arbitrariamente de su propiedad.
 Artículo 18.- Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de 
 religión (...).
-Artículo 19.- Todo individuo tiene derecho a la libertad de opinión y de expresión (...).
-Artículo 20.1. Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.
-2. Nadie podrá ser obligado a pertenecer a una asociación.
+Artículo 19.-Todo individuo tiene derecho a la libertad de opinión y de expresión (...).
+Artículo 20.1.Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.
+2.Nadie podrá ser obligado a pertenecer a una asociación.
 
-Artículo 21.1. Toda persona tiene derecho a participar en el gobierno de su país, directamente o por medio 
+Artículo 21.1.Toda persona tiene derecho a participar en el gobierno de su país, directamente o por medio 
 de representantes libremente escogidos.
-2. Toda persona tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas 
+2.Toda persona tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas 
 de su país.
-3. La voluntad del pueblo es la base de la autoridad del poder público; esta voluntad se expresará 
+3.La voluntad del pueblo es la base de la autoridad del poder público; esta voluntad se expresará 
 mediante elecciones auténticas que habrán de celebrarse periódicamente, por sufragio universal 
 e igual y por voto secreto u otro procedimiento equivalente que garantice la libertad del voto.
 Artículo 22.- Toda persona (...) tiene derecho a la seguridad social, y a obtener, (...) habida 
 cuenta de la organización y los recursos de cada Estado, la satisfacción de los derechos económicos, sociales y culturales, indispensables a su dignidad y al libre desarrollo de su personalidad.
-Artículo 23.1. Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo.
-2. Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo igual.
-3. Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria, que le 
+Artículo 23.1.Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo.
+2.Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo igual.
+3.Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria, que le 
 asegure, así como a su familia, una existencia conforme a la dignidad humana y que será completada, en caso necesario, por cualesquiera otros medios de protección social.
-4. Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses.
+4.Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses.
 Artículo 24.- Toda persona tiene derecho al descanso, al disfrute del tiempo libre, a una limitación razonable de la duración del trabajo y a vacaciones periódicas pagadas.
-Artículo 25.1. Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, 
+Artículo 25.1.Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, 
 la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la asistencia médica y 
 los servicios sociales necesarios; tiene asimismo derecho a los seguros en caso de desempleo, 
 enfermedad, invalidez, viudez, vejez u otros casos de pérdida de sus medios de subsistencia por 
 circunstancias independientes de su voluntad.
-2. La maternidad y la infancia tienen derecho a cuidados y asistencia especiales. Todos los 
+2.La maternidad y la infancia tienen derecho a cuidados y asistencia especiales.Todos los 
 niños, nacidos de matrimonio o fuera de matrimonio, tienen derecho a igual protección social.
-Artículo 26.1. Toda persona tiene derecho a la educación. La educación debe ser gratuita, al menos en lo 
-concerniente a la instrucción elemental y fundamental. La instrucción elemental será obligatoria.
+Artículo 26.1.Toda persona tiene derecho a la educación.La educación debe ser gratuita, al menos en lo 
+concerniente a la instrucción elemental y fundamental.La instrucción elemental será obligatoria.
 La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos.
-2. La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la 
+2.La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la 
 comprensión, la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o 
 religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.
-3. Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse 
+3.Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse 
 a sus hijos.
-Artículo 27.1. Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a 
+Artículo 27.1.Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a 
 gozar de las artes y a participar en el progreso científico y en los beneficios que de él resulten.
-2. Toda persona tiene derecho a la protección de los intereses morales y materiales que le 
+2.Toda persona tiene derecho a la protección de los intereses morales y materiales que le 
 correspondan por razón de las producciones científicas, literarias o artísticas de que sea autora.
-Artículo 28.- Toda persona tiene derecho a que se establezca un orden social e internacional 
+Artículo 28.-Toda persona tiene derecho a que se establezca un orden social e internacional 
 en el que los derechos y libertades proclamados en esta Declaración se hagan plenamente 
 efectivos.
-Artículo 29.1. Toda persona tiene deberes respecto a la comunidad (...).
-2. En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reconocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas 
+Artículo 29.1.Toda persona tiene deberes respecto a la comunidad (...).
+2.En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reconocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas 
 exigencias de la moral, del orden público y del bienestar general en una sociedad democrática.
-3. Estos derechos y libertades no podrán, en ningún caso, ser ejercidos en oposición a los 
+3.Estos derechos y libertades no podrán, en ningún caso, ser ejercidos en oposición a los 
 propósitos y principios de las Naciones Unidas.
 Artículo 30.- Nada en esta Declaración podrá interpretarse en el sentido de que confiere derecho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades 
 (...) tendientes a la supresión de cualquiera de los derechos y libertades proclamados en esta 
@@ -109,27 +108,25 @@ BANDERA NACIONAL ESCUDO NACIONAL
 Espacio de Vida III Ciclo
 
 Guía de Educación Ambiental para el Desarrollo Sostenible
-
 Estudiantes de 1.° y 2.°grado de Educación Primaria
-
 El 22 de julio de 2002, los representantes de las organizaciones políticas, religiosas, 
 del Gobierno y de la sociedad civil firmaron el compromiso de trabajar, todos, para 
-conseguir el bienestar y desarrollo del país. Este compromiso es el Acuerdo Nacional.
+conseguir el bienestar y desarrollo del país.Este compromiso es el Acuerdo Nacional.
 
-El acuerdo persigue cuatro objetivos fundamentales. Para alcanzarlos, todos los 
+El acuerdo persigue cuatro objetivos fundamentales.Para alcanzarlos, todos los 
 peruanos de buena voluntad tenemos, desde el lugar que ocupemos o el rol que 
 desempeñemos, el deber y la responsabilidad de decidir, ejecutar, vigilar o defender 
-los compromisos asumidos. Estos son tan importantes que serán respetados como 
+los compromisos asumidos.Estos son tan importantes que serán respetados como 
 políticas permanentes para el futuro.
 
 Por esta razón, como niños, niñas, adolescentes o adultos, ya sea como estudiantes o 
 trabajadores, debemos promover y fortalecer acciones que garanticen el cumplimiento 
 de esos cuatro objetivos que son los siguientes:
 
-1. Democracia y Estado de Derecho
+1.Democracia y Estado de Derecho
  La justicia, la paz y el desarrollo que necesitamos los peruanos sólo se pueden dar
 
-si conseguimos una verdadera democracia. El compromiso del Acuerdo Nacional 
+si conseguimos una verdadera democracia.El compromiso del Acuerdo Nacional 
 es garantizar una sociedad en la que los derechos son respetados y los ciudadanos 
 viven seguros y expresan con libertad sus opiniones a partir del diálogo abierto y 
 enriquecedor; decidiendo lo mejor para el país.
@@ -137,10 +134,10 @@ enriquecedor; decidiendo lo mejor para el país.
 2.	 Equidad	y	Justicia	Social
  Para poder construir nuestra democracia, es necesario que cada una de las
 
-personas que conformamos esta sociedad, nos sintamos parte de ella. Con este 
+personas que conformamos esta sociedad, nos sintamos parte de ella.Con este 
 fin, el Acuerdo promoverá el acceso a las oportunidades económicas, sociales, 
-culturales y políticas. Todos los peruanos tenemos derecho a un empleo digno, a una 
-educación de calidad, a una salud integral, a un lugar para vivir. Así, alcanzaremos 
+culturales y políticas.Todos los peruanos tenemos derecho a un empleo digno, a una 
+educación de calidad, a una salud integral, a un lugar para vivir.Así, alcanzaremos 
 el desarrollo pleno.
 
 3.	 Competitividad	del	País
@@ -154,9 +151,9 @@ internacionales.
 4.	 Estado	Eficiente,	Transparente	y	Descentralizado
  Es de vital importancia que el Estado cumpla con sus obligaciones de manera
 
-eficiente y transparente para ponerse al servicio de todos los peruanos. El Acuerdo 
+eficiente y transparente para ponerse al servicio de todos los peruanos.El Acuerdo 
 se compromete a modernizar la administración pública, desarrollar instrumentos 
-que eliminen la corrupción o el uso indebido del poder. Asimismo, descentralizar 
+que eliminen la corrupción o el uso indebido del poder.Asimismo, descentralizar 
 el poder y la economía para asegurar que el Estado sirva a todos los peruanos sin 
 excepción.
 
@@ -165,27 +162,22 @@ controlar el cumplimiento de estas políticas de Estado, a brindar apoyo y difun
 constantemente sus acciones a la sociedad en general.
 
 EL ACUERDO NACIONAL
-
 EsVi 
 Espacio de Vida III Ciclo
 
 Guía de Educación Ambiental para el Desarrollo Sostenible
-
 Estudiantes de 1.° y 2.° grado de Educación Primaria
-
 Guía de Educación Ambiental para el Desarrollo Sostenible 
 EsVi – Espacio de Vida III Ciclo
 Estudiantes de 1.° y 2.° grado de educación primaria
 
 Ministerio de Educación 
-Av. De la arqueología, cuadra 2. San Borja 
-Lima, Perú. 
+Av. De la arqueología, cuadra 2.San Borja 
+Lima, Perú.
 Teléfono: 6155800 
 www.minedu.gob.pe
-
 Edición: Primera
 Dotación 2017
-
 Tiraje: 22,010 ejemplares
 
 Dirección General de Educación Básica Regular 
@@ -193,39 +185,32 @@ Unidad de Educación Ambiental
 Equipo pedagógico
 Eliana Julia Rojas Torres
 María de Lourdes Aurora Elías Plaza
-
 Dirección de Educación Primaria 
 Equipo pedagógico
 Brenda Luz Castrillón Legarda 
 Luz Rosario Ynga Inca
-
 Revisión pedagógica
 Mariela Corrales Prieto
-
 Corrección de estilo 
 Jorge Armando Vásquez Villacorta
-
 Ilustración 
 Patricia Nishimata Oishi
 
 Diagramación
 Wilber Gamboa Mendoza
-
 Colaboración
 Melida Anali Conislla Laucata
 Rebeca Rodríguez Montoya
-
 Impreso por: 
 Consorcio Corporación Gráfica Navarrete S.A., Amauta Impresiones Comerciales S.A.C., Metrocolor S.A. 
 En los talleres gráficos de Corporación Gráfica Navarrete S.A. Carretera Central 759 Km 2, Santa Anita, Lima  - Perú.
 
 © Ministerio de Educación 
-Todos los derechos reservados. Prohibida la reproducción de este material por cualquier medio, total o parcialmente 
+Todos los derechos reservados.Prohibida la reproducción de este material por cualquier medio, total o parcialmente 
 sin permiso expreso del Ministerio de Educación.
 
 Hecho el Depósito Legal en la Biblioteca Nacional del Perú N° 2016 - 15959 
 Impreso en el Perú / Printed in Perú
-
 Ministerio de Educación
 
 3
@@ -234,13 +219,13 @@ Esta guía denominada EsVi1- Espacio de Vida ha sido preparada para ti con
 mucho cariño para que seas protagonista de tu propio aprendizaje sobre 
 la importancia de cuidar el planeta.
 
-Te presentaremos los seres vivos que habitan en nuestro planeta Tierra. 
+Te presentaremos los seres vivos que habitan en nuestro planeta Tierra.
 Conocerás y conversarás sobre los problemas ambientales y cómo estos 
 afectan a la naturaleza, a las niñas, a los niños y también a ti.
 
 Conocerás qué es un EsVi - Espacio de Vida, cómo lo puedes crear con 
 amor y alegría pensando en ti, en tu familia y en la naturaleza; cuidarlo 
-y mantenerlo lleno de vida. Puedes proteger el planeta y aprender cosas 
+y mantenerlo lleno de vida.Puedes proteger el planeta y aprender cosas 
 nuevas.
 
 Esta guía es una oportunidad para que desde pequeñas acciones puedas 
@@ -258,7 +243,7 @@ EsVi  - Espacio de Vida del
 que aprenderemos juntos.
 
 Hola querida y querido estudiante, 
-bienvenidos a esta aventura. Me
+bienvenidos a esta aventura.Me
 
 llamo Ricardo, soy guardaparques 
 y cuido las Áreas Naturales
@@ -272,9 +257,7 @@ reduzco la emisión de
 dióxido de carbono.
 
 PRIMERA PARTE: La Tierra y el cambio climático
-
 SEGUNDA PARTE: Conociendo el EsVi – Espacio de Vida
-
 TERCERA PARTE: Creando nuestro EsVi – Espacio de Vida
 
 Conociendo nuestro planeta Tierra
@@ -339,48 +322,30 @@ año, es decir que sea sostenible?
 ..............................................
 
 7
-
 8
-
 5
-
 6
-
 9
-
 10
-
 12
-
 13
-
 14
-
 16
-
 17
-
 18
-
 19
-
 20
-
 25
-
 26
-
 29
-
 4
-
 5
 
 Tu guía está organizada en tres partes:
 
 ¡ !
 
-En tu guía encontrarás información importante. Por ejemplo:
+En tu guía encontrarás información importante.Por ejemplo:
 
 Sabías que…
 Tu guía te brinda información que llamará tu atención y 
@@ -410,8 +375,7 @@ de VidaSegunda P
 arte:
 
 6
-
-Observa bien estas imágenes. Te orientarán cómo debes realizar el trabajo 
+Observa bien estas imágenes.Te orientarán cómo debes realizar el trabajo 
 de cada actividad.
 
 Trabajar sola o solo.
@@ -442,7 +406,7 @@ CUIDAR A NUESTRO
 PLANETA TIERRA!
 
 El planeta Tierra es nuestra casa 
-y ahí vivimos. En el planeta Tierra
+y ahí vivimos.En el planeta Tierra
 
 viven las plantas y los animales 
 que tenemos que cuidar y
@@ -483,10 +447,10 @@ Leemos con ayuda de nuestra profesora o nuestro profesor
 ¿Para qué necesitamos el agua, suelo, animales, plantas y 
 además el aire?
 
-La Tierra es nuestro planeta, nuestro hogar. Nos ofrece todo lo 
-necesario para vivir, por ejemplo: luz, agua, aire, alimentos. 
+La Tierra es nuestro planeta, nuestro hogar.Nos ofrece todo lo 
+necesario para vivir, por ejemplo: luz, agua, aire, alimentos.
 En ella, habitan una gran diversidad de animales, plantas y 
-además nos ofrece muchos paisajes. Las personas también 
+además nos ofrece muchos paisajes.Las personas también 
 somos parte del planeta, por ello debemos aprender a cuidarla 
 y respetarla.
 
@@ -494,7 +458,6 @@ Conociendo nuestro planeta Tierra
 
 Ad
 ap
-
 ta
 do
 
@@ -503,7 +466,6 @@ e
 
 w
 w
-
 w
 .ic
 
@@ -513,58 +475,46 @@ ito
 .cl
 
 9
-
 Observen las siguientes fotos
-
 Dialogamos
 
 ¿Qué está sucediendo en nuestro planeta?
 
 re
 gi
-
 on
 sa
-
 nm
 ar
-
 tin
 .g
 
 ob
 .p
-
 e
-
 cd
 am
 
 .m
 in
-
 am
 .g
 
 ob
 .p
-
 e
-
 bl
 og
 
 .p
 uc
-
 p.
 ed
-
 u.
 pe
 
 ¿Qué observamos en las imágenes?
- ¿Qué crees que haya pasado en cada una de ellas? 
+ ¿Qué crees que haya pasado en cada una de ellas?
  Estas situaciones ¿afectan el clima?
 
 ¿Cómo se llama el planeta en donde vivimos?
@@ -611,7 +561,6 @@ fo
 
 re
 gi
-
 on
 .p
 
@@ -620,22 +569,18 @@ s3
 
 .a
 m
-
 az
 on
-
 aw
 s.
 
 co
 m
-
 ab
 cr
 
 ur
 al
-
 tv
 .co
 
@@ -643,12 +588,9 @@ m
 .a
 
 r
-
 edu
-
 ca
 tiv
-
 a.
 ca
 
@@ -657,14 +599,12 @@ du
 
 .e
 s
-
 Sabías que…  cuando las personas queman basura, los 
 pastos o cuando se incendian los bosques se producen 
 gases que afectan al clima y contaminan el planeta.
 
 ???
 w
-
 w
 w
 
@@ -675,7 +615,6 @@ ui
 .co
 
 m
-
 11
 
 el
@@ -683,10 +622,8 @@ qu
 
 in
 to
-
 po
 de
-
 r.c
 l
 
@@ -707,31 +644,25 @@ es
 
 lo
 m
-
 bi
 a.w
-
 ik
 ia
 
 .co
 m
-
 bl
 og
 
 .p
 uc
-
 p.
 ed
-
 u.
 pe
 
 se
 rn
-
 an
 p.
 
@@ -739,20 +670,18 @@ go
 b.
 
 pe
-
 Pienso en las actividades que puedo realizar con mis amigas y 
 mis amigos para ayudar a mi planeta.
 Dibujamos nuestras propuestas y nos compremetemos a 
 realizarlas.
 
 Además, muchos animales y plantas están en peligro de extinción ya que 
-sus hábitat están desapareciendo. Por ejemplo:
+sus hábitat están desapareciendo.Por ejemplo:
 
 Oso de Anteojos Puya de RaymondiFlor de Amancaes
-
 Sabías que…
 Nuestro planeta es como un gigantesco invernadero 
-envuelto en una gran capa llamada atmósfera. Esta capa 
+envuelto en una gran capa llamada atmósfera.Esta capa 
 permite que el calor del Sol se acumule en toda la Tierra 
 para que podamos vivir sin congelarnos.
 
@@ -777,12 +706,12 @@ podemos realizar para ayudar a solucionarlos.
 
 ¿Qué observamos en la imagen?
 
-¿En tu comunidad sucede lo mismo?, ¿cuáles? 
+¿En tu comunidad sucede lo mismo?, ¿cuáles?
 Coméntalos con los demás.
 
 Problemas ambientales
 Es aquella actividad generalmente realizada por el hombre 
-que afecta el ambiente de forma negativa. Por ejemplo: la 
+que afecta el ambiente de forma negativa.Por ejemplo: la 
 contaminación del agua, la deforestación del bosque, pérdida de 
 la biodiversidad en el planeta, entre otros.
 
@@ -799,15 +728,13 @@ Pensamos ¿Cómo afectan estos problemas a la naturaleza, a
 otras personas, a nosotras y a nosotros?
 
 CausaProblema ambiental Consecuencia
-
 Dialogamos y completamos en nuestro cuaderno.
 
 14
-
 Niñas y niños, en la primera parte de 
 la guía hemos aprendido más sobre
 
-nuestro planeta Tierra. Ella nos ofrece 
+nuestro planeta Tierra.Ella nos ofrece 
 todo lo necesario para vivir, como la luz,
 
 el agua, el aire y los alimentos.
@@ -818,7 +745,7 @@ la vida en la Tierra está en peligro
 debido a nuestras acciones.
 
 Por ello, en esta segunda parte 
-aprenderemos qué es un EsVi. Así 
+aprenderemos qué es un EsVi.Así 
 podremos reconocer y explicar las
 
 acciones que nos ayudarán a cuidar 
@@ -827,7 +754,7 @@ nuestro planeta.
 ¡Tenemos que 
 ayudar al planeta!
 
-Así es. Poco a poco 
+Así es.Poco a poco 
 iremos aprendiendo
 
 más sobre cómo cuidar 
@@ -837,21 +764,18 @@ Conociendo el EsVi - Espacio
 de VidaSegunda Parte:
 
 15
-
 Dialogamos.
- ¿Qué hacen las niñas y los niños? 
+ ¿Qué hacen las niñas y los niños?
  ¿Dónde crees que estén?
  ¿Te gustaría participar de un lugar como este?
 
 Observamos la siguiente imagen:
 
 16
-
 Observamos y dialogamos sobre algunos lugares donde 
 podemos crear nuestro  EsVi.
 
 En material reusableEn un biohuerto
-
 En un bosque
 
 ¿Qué es un 
@@ -864,7 +788,7 @@ de Vida”.
 podemos crear o es un espacio natural existente
 
 donde podemos  cuidar, proteger la vida y la 
-biodiversidad. En el participamos activamente
+biodiversidad.En el participamos activamente
 
 para lograr nuestro bienestar, el de nuestra 
 familia, el de otras personas y el de la naturaleza.
@@ -873,42 +797,32 @@ familia, el de otras personas y el de la naturaleza.
 
 ed
 uc
-
 ac
 io
-
 na
 m
-
 bi
 en
-
 ta
 l.l
 
 am
 ul
-
 a.
 pe
-
 Mi
 ne
 
 du
-
 AN
 IA
-
 m
 an
-
 ua
 lid
 
 ad
 es
-
 bl
 og
 
@@ -917,16 +831,13 @@ m
 
 m
 an
-
 ua
 lid
 
 ad
 es
-
 di
 y.c
-
 om
 
 ca
@@ -940,9 +851,7 @@ er
 
 o.
 co
-
 m
-
 17
 
 ¿Cuáles son los principios del EsVi?
@@ -955,7 +864,7 @@ Fuente ANIA.
 “Elijo hacer cosas 
 que cuidan la vida 
 y promueven la 
-biodiversidad. Lo hago 
+biodiversidad.Lo hago 
 porque me dan felicidad  
 y porque quiero 
 agradecerle a la Tierra 
@@ -966,20 +875,19 @@ le dan  alegría y salud
 a otras personas que 
 pueden ser de mi 
 familia, mis amigos, mis 
-profesores, mis vecinos. 
+profesores, mis vecinos.
 Lo hago porque me da 
 felicidad”.
 
 “Elijo hacer cosas 
 que me  dan  especial 
-alegría y salud.  Lo 
+alegría y salud. Lo 
 hago porque si  yo 
 me siento bien, podré 
 crear bienestar a otros 
 seres vivos”.
 
 Para la naturaleza Para otras personas Para nosotras y nosotros
-
 Conversemos en casa…
 
 ¿Te gustaría tener un EsVi en tu casa?
@@ -992,7 +900,6 @@ Cuéntale a tu familia qué es un EsVi para que así se animen a tener
 uno en casa.
 
 18
-
 Cultivar plantas como hortalizas, 
 frutales, medicinales, etc.
 
@@ -1020,7 +927,6 @@ sp
 
 ep
 os
-
 itp
 ho
 
@@ -1032,19 +938,15 @@ m
 
 no
 so
-
 lo
 be
-
 be
 s.
 
 co
 m
-
 xo
 om
-
 cli
 ps
 
@@ -1053,10 +955,8 @@ m
 
 re
 vi
-
 st
 aa
-
 ho
 ra
 
@@ -1065,32 +965,24 @@ m
 
 .a
 r
-
 ec
 on
-
 tin
 ui
-
 da
 d.
 
 es
 am
-
 pr
 en
-
 sa
 .co
 
 m
-
 19
-
 Creando nuestro EsVi - Espacio 
 de Vida
-
 Tercera Parte:
 
 En la segunda parte hemos aprendido: 
@@ -1121,7 +1013,6 @@ todo lo que hemos
 aprendido!
 
 20
-
 Debemos tener en cuenta lo siguiente:
 
 ¿Cómo lo hacemos?
@@ -1151,7 +1042,7 @@ importancia de cuidar el ambiente.
 
 ¿Cómo iniciamos nuestro EsVi?
 
-1. Nos motivamos 
+1.Nos motivamos 
 para crear un
 
 EsVi.
@@ -1167,7 +1058,7 @@ diagnóstico.
 Por ejemplo:
 
 Recorremos nuestra IE o visitamos lugares cercanos para identificar un 
-espacio adecuado. Solicitamos que nos proporcionen el espacio elegido 
+espacio adecuado.Solicitamos que nos proporcionen el espacio elegido 
 y pedimos a la directora o director que firme un documento de entrega:
 
 Ubicamos el 
@@ -1177,9 +1068,7 @@ crearemos nuestro
 EsVi.
 
 Yo
-
 Hago entrega de un espacio a
-
 Ubicación del espacio:
 
 Tamaño del espacio:
@@ -1187,19 +1076,16 @@ Tamaño del espacio:
 Fecha de entrega:
 
 para crear un Esvi
-
 Niña y niño representanteDirectora o director
 
 Documento de entrega del espacio
-
 3.
 
 22
-
 Dialogamos con nuestra profesora o profesor:
 
 Elaboramos un dibujo grande de cómo queremos que sea 
-nuestro EsVi. El siguiente dibujo nos puede servir de guía.
+nuestro EsVi.El siguiente dibujo nos puede servir de guía.
 
 El nombre hará que nos identifiquemos con nuestro EsVi, tratemos que 
 sea fácil de recordar.
@@ -1229,7 +1115,6 @@ nuestro EsVi.
 4.
 
 23
-
 Elaboramos el logotipo de nuestro EsVi.
 
 Nuestro dibujo de logo podría ser una 
@@ -1275,11 +1160,9 @@ niñas y niños.
 
 An
 ia
-
 24
-
 Proponemos a las candidatas y candidatos que consideramos deben ser 
-nuestros representantes. 
+nuestros representantes.
 Votamos por nuestras candidatas y candidatos.
 Felicitamos a las niñas y a los niños que salieron elegidos.
 
@@ -1293,16 +1176,12 @@ crearemos nuestro EsVi.
 Tomamos fotografías de la inauguración del evento.
 Compartimos con nuestros invitados nuestros deseos y expectativas de 
 EsVi
-
 Imprimimos las fotos y las pegamos en el libro de actas.
 Escribimos nuestros mejores experiencias de la inauguración.
 
 Antes de la inauguración
-
 El día de la inauguración
-
 Después de la organización
-
 Escribimos en letreros los nombres de nuestros aliados, tanto  adultos como 
 niños.
 
@@ -1326,14 +1205,13 @@ EsVi.
 ¿Cómo lo hacemos?
 
 25
-
 Escribimos una carta a nuestros familiares o aliados 
 solicitándoles que nos ayuden en la preparación del terreno 
-de nuestro EsVi. 
+de nuestro EsVi.
 Explicamos a nuestros familiares y aliados que nos pueden 
 ayudar en la colocación de cercos para proteger el EsVi.
 Buscamos todos los materiales que podemos utilizar para 
-delimitar y decidimos qué otros nos pueden servir. 
+delimitar y decidimos qué otros nos pueden servir.
 Cercamos o delimitamos nuestro EsVi con ayuda de 
 nuestros familiares y aliados.
 Organizamos el espacio si nuestro EsVi es creado en 
@@ -1356,23 +1234,18 @@ Dialogamos con nuestros compañeras y compañeros.
 
 Observamos y reconocemos los siguientes tipos de plantas
 
-¿En tu escuela hay plantas? ¿Qué sucedería si desaparecen las plantas?
+¿En tu escuela hay plantas?¿Qué sucedería si desaparecen las plantas?
 
 Plantas alimenticias
-
 Plantas medicinales
-
 Plantas aromáticas
-
 Plantas ornamentales
-
 Ahora que tenemos 
 nuestro terreno
 
 ¡manos a la obra!
 
 26
-
 Sabías que… para que las plantas crezcan fuertes y 
 saludables requieren de: luz solar, aire limpio, agua, 
 tierra fértil (nutrientes) cuidado y mucho cariño.
@@ -1395,7 +1268,7 @@ cuidamos con amor.
 cuidarlo!
 
 ¡Listo amigas y 
-amigos! ¡Ya hemos
+amigos!¡Ya hemos
 
 creado nuestro EsVi!
 
@@ -1404,7 +1277,6 @@ creado nuestro EsVi!
 ???
 
 27
-
 Si tu IE cuenta con espacio para realizar el compost directamente en la 
 tierra.
 
@@ -1424,32 +1296,26 @@ Agrega la capa de elementos marrones: hojas y ramas secas.
 
 - Una vez que tengas listo el recipiente, mezcla un poco de residuos
 
-orgánicos verdes, marrones con tierra y un poco de agua. Por último, 
+orgánicos verdes, marrones con tierra y un poco de agua.Por último, 
 cúbrelos con una tapa para mantenerlos húmedos y calientes.
 
 El compost tarda regularmente entre tres y seis meses en estar listo, 
 dependiendo de la época del año (temperatura ambiente) el cuidado 
 que tengamos en su proceso y el tipo de residuos orgánicos que 
-utilicemos, pues algunos se descomponen más rápido que otros. Por 
+utilicemos, pues algunos se descomponen más rápido que otros.Por 
 eso, es importante tener en cuenta algunos cuidados al momento de 
 hacer compost.
 
 Residuos orgánicos que 
 debes utilizar
-
 Frutas
 
 Aceites
-
 Carne
-
 Verduras
-
 Bolsitas de 
 té
-
 Café molido
-
 Huevo (yemas o claras en buen 
 estado o podridas)
 
@@ -1457,35 +1323,27 @@ Ningún tipo de químicos
 (jabones, limpiadores, etc.)
 
 Periódicos
-
 Huesos
 
 Pescado
-
 Hojas secas
-
 Plantas
 
 Flores
-
 Pelo de 
 mascotas
-
 Cáscaras de 
 huevo
-
 Excrementos de animales
 
 Residuos orgánicos que no se 
 deben utilizar
-
 28
-
 Cuidemos nuestro EsVi con un buen manejo de residuos sólidos, 
 Conozcamos las 3R
 
 ¿Han escuchado sobre las 3R: 
-reducir, reusar y reciclar? 
+reducir, reusar y reciclar?
 ¡Veamos de qué se trata!
 
 ¿Qué tiene que ver las 3R 
@@ -1494,10 +1352,10 @@ con segregar los residuos
 sólidos?
 
 Segregar o clasificar significa separar los residuos en distintos 
-tachos para luego reusarlos o transformarlos en algún elemento útil. 
+tachos para luego reusarlos o transformarlos en algún elemento útil.
 Por ejemplo, si las botellas de agua las volvemos a llenar con agua, 
-las estamos reusando. Y, si los residuos orgánicos los usamos como 
-compost para abonar el suelo de nuestro EsVi, estamos reciclando. Y, 
+las estamos reusando.Y, si los residuos orgánicos los usamos como 
+compost para abonar el suelo de nuestro EsVi, estamos reciclando.Y, 
 si al mercado llevamos nuestra canasta ya no necesitaremos las bolsas 
 de plástico que nos da nuestra casera, entonces estaremos reduciendo 
 los residuos y cuidando el planeta.
@@ -1529,7 +1387,7 @@ en otros productos.
 29
 
 Asimismo tu EsVi es un espacio especial para que expreses lo que 
-sientes y pienses con amor. Escribe mensajes en carteles, decora el 
+sientes y pienses con amor.Escribe mensajes en carteles, decora el 
 cerco, pinta piedras, reusa con creatividad, crea un baile, una canción, 
 un cuento.
 
@@ -1555,11 +1413,11 @@ Creo un EsVi en mi hogar para que sea ejemplo a seguir por mi familia.
  Creo canciones, dibujos sobre el nombre de EsVi (poesías, adivinanzas,
 
 murales).
- Participo en el Comité Ambiental de la IE. 
- Celebro con mis compañeros el aniversario de creación de nuestro EsVi.  
+ Participo en el Comité Ambiental de la IE.
+ Celebro con mis compañeros el aniversario de creación de nuestro EsVi. 
  Propongo  actividades creativas para seguir recuperando, protegiendo
 
-y conservando el EsVi. 
+y conservando el EsVi.
  Fortalezco actividades de manejo de residuos orgánicos para la
 
 producción de compost, reutilizo  todo tipo de residuos para embellecer 
@@ -1568,7 +1426,6 @@ el EsVi o seguir creando vida.
 Realizo actividades artísticas que me inspira el EsVi.
 
 Punto Ecológico
-
 Sabías que...
  punto ecológico es un lugar en la IE
 
@@ -1578,76 +1435,68 @@ los cuales sirven para segregar o
 clasificar los residuos.
 
 30
-
 Referencias Bibliográficas
-Leguía Orezzoli, Joaquín F.  (2014). Manual 1: Iniciando la TiNi: Tierra de 
-niñas, niños y jóvenes. Primera edición. Lima, Perú: Asociación para ma 
+Leguía Orezzoli, Joaquín F.  (2014).Manual 1: Iniciando la TiNi: Tierra de 
+niñas, niños y jóvenes.Primera edición.Lima, Perú: Asociación para ma 
 ninez y su ambiente (ANIA)
 
-Leguía Orezzoli, Joaquín F. (2014). Manual 2: Criando vida en TiNi: Tierra 
-de niñas, niños y jóvenes. Primera edición. Lima, Perú: Asociación para la 
+Leguía Orezzoli, Joaquín F. (2014).Manual 2: Criando vida en TiNi: Tierra 
+de niñas, niños y jóvenes.Primera edición.Lima, Perú: Asociación para la 
 niñez y su ambiente (ANIA)
 
-Comisión Nacional de Diversidad Biológica. Perú: País Megadiverso. 
+Comisión Nacional de Diversidad Biológica.Perú: País Megadiverso.
 Recuperado de http://www.sernanp.gob.pe/documents/10181/88081/
 Peru-+Pais+Megadiverso.pdf/4f361370-434d-405f-986e-2b4052219abf
-
-Ecointeligencia (2015). Cosas que nos sabías sobre el reciclaje. Recuperado 
+Ecointeligencia (2015).Cosas que nos sabías sobre el reciclaje.Recuperado 
 de http://www.ecointeligencia.com/2013/11/15-cosas-reciclaje/
 
-Grupo Intergubernamental de Expertos en el Clima (IPCC9, 2001). Glosario 
-de términos (Anexo B). Recuperado de https://www.ipcc.ch/pdf/glossary/
+Grupo Intergubernamental de Expertos en el Clima (IPCC9, 2001).Glosario 
+de términos (Anexo B).Recuperado de https://www.ipcc.ch/pdf/glossary/
 tar-ipcc-terms-sp.pdf
-
-Gutiérrez, Mario. Biblioteca para Niños (CCA). El Planeta Tierra: El Planeta 
-donde vivimos. Recuperado de  http://www.cca.org.mx/cca/ninos/html/
+Gutiérrez, Mario.Biblioteca para Niños (CCA).El Planeta Tierra: El Planeta 
+donde vivimos.Recuperado de  http://www.cca.org.mx/cca/ninos/html/
 tomo1/2.htm
-
 Instituto de Desarrollo y  Medio Ambiente (IDMA) ¿Cómo hacer compost 
-en casa? Recuperado de https://www.facebook.com/notes/idma/tutorialidma-c%C3%B3mo-hacer-compost-en-casa/694152647283406/
+en casa?Recuperado de https://www.facebook.com/notes/idma/tutorialidma-c%C3%B3mo-hacer-compost-en-casa/694152647283406/
 
-Se responsable (2010). Conociendo un poco más del planeta Tierra (nuestro 
+Se responsable (2010).Conociendo un poco más del planeta Tierra (nuestro 
 hogar) Recuperado de http://www.seresponsable.com/2010/04/20/
 conociendo-un-poco-mas-al-planeta-tierra-nuestro-hogar/
 
-Ser Padres. Familia Eco (2013) Juegos para enseñar a los niños a reciclar 
-y reutilizar. Recuperado de http://www.serpadres.es/3-6-anos/educaciondesarrollo/articulo/juegos-como-ensenar-a-los-ninos-a-reciclar-yreutilizar
-
+Ser Padres.Familia Eco (2013) Juegos para enseñar a los niños a reciclar 
+y reutilizar.Recuperado de http://www.serpadres.es/3-6-anos/educaciondesarrollo/articulo/juegos-como-ensenar-a-los-ninos-a-reciclar-yreutilizar
 Citas de páginas web
-
 31
-
-Libro electrónico Ciencias de la Tierra y del Medio Ambiente.  
+Libro electrónico Ciencias de la Tierra y del Medio Ambiente. 
 Recuperado de http://www4.tecnun.es/asignaturas/Ecologia/
 Hipertexto/12EcosPel/120DivBiol.htm
 
-Ministerio del Ambiente. Proyecto de Educación Ambiental: El Huerto 
-Ecológico. Recuperado de http://cdam.minam.gob.pe/publielectro/
+Ministerio del Ambiente.Proyecto de Educación Ambiental: El Huerto 
+Ecológico.Recuperado de http://cdam.minam.gob.pe/publielectro/
 educacion%20ambiental/proyectohuertoecologico.pdf
-
-Wordpress. En clave de niños. Recuperado de  https://sinalefa2.wordpress.
+Wordpress.En clave de niños.Recuperado de  https://sinalefa2.wordpress.
 com/adivinanzas/
 
 32
 
 El 22 de julio de 2002, los representantes de las organizaciones políticas, religiosas, 
 del Gobierno y de la sociedad civil firmaron el compromiso de trabajar, todos, para 
-conseguir el bienestar y desarrollo del país. Este compromiso es el Acuerdo Nacional.
+conseguir el bienestar y desarrollo del país.Este compromiso es el Acuerdo Nacional.
 
-El acuerdo persigue cuatro objetivos fundamentales. Para alcanzarlos, todos los 
+El acuerdo persigue cuatro objetivos fundamentales.Para alcanzarlos, todos los 
 peruanos de buena voluntad tenemos, desde el lugar que ocupemos o el rol que 
 desempeñemos, el deber y la responsabilidad de decidir, ejecutar, vigilar o defender 
-los compromisos asumidos. Estos son tan importantes que serán respetados como 
+los compromisos asumidos.Estos son tan importantes que serán respetados como 
 políticas permanentes para el futuro.
 
 Por esta razón, como niños, niñas, adolescentes o adultos, ya sea como estudiantes o 
 trabajadores, debemos promover y fortalecer acciones que garanticen el cumplimiento 
 de esos cuatro objetivos que son los siguientes:
 
-1. Democracia y Estado de Derecho
+1.Democracia y Estado de Derecho
  La justicia, la paz y el desarrollo que necesitamos los peruanos sólo se pueden dar
 
-si conseguimos una verdadera democracia. El compromiso del Acuerdo Nacional 
+si conseguimos una verdadera democracia.El compromiso del Acuerdo Nacional 
 es garantizar una sociedad en la que los derechos son respetados y los ciudadanos 
 viven seguros y expresan con libertad sus opiniones a partir del diálogo abierto y 
 enriquecedor; decidiendo lo mejor para el país.
@@ -1655,10 +1504,10 @@ enriquecedor; decidiendo lo mejor para el país.
 2.	 Equidad	y	Justicia	Social
  Para poder construir nuestra democracia, es necesario que cada una de las
 
-personas que conformamos esta sociedad, nos sintamos parte de ella. Con este 
+personas que conformamos esta sociedad, nos sintamos parte de ella.Con este 
 fin, el Acuerdo promoverá el acceso a las oportunidades económicas, sociales, 
-culturales y políticas. Todos los peruanos tenemos derecho a un empleo digno, a una 
-educación de calidad, a una salud integral, a un lugar para vivir. Así, alcanzaremos 
+culturales y políticas.Todos los peruanos tenemos derecho a un empleo digno, a una 
+educación de calidad, a una salud integral, a un lugar para vivir.Así, alcanzaremos 
 el desarrollo pleno.
 
 3.	 Competitividad	del	País
@@ -1672,9 +1521,9 @@ internacionales.
 4.	 Estado	Eficiente,	Transparente	y	Descentralizado
  Es de vital importancia que el Estado cumpla con sus obligaciones de manera
 
-eficiente y transparente para ponerse al servicio de todos los peruanos. El Acuerdo 
+eficiente y transparente para ponerse al servicio de todos los peruanos.El Acuerdo 
 se compromete a modernizar la administración pública, desarrollar instrumentos 
-que eliminen la corrupción o el uso indebido del poder. Asimismo, descentralizar 
+que eliminen la corrupción o el uso indebido del poder.Asimismo, descentralizar 
 el poder y la economía para asegurar que el Estado sirva a todos los peruanos sin 
 excepción.
 
@@ -1683,11 +1532,9 @@ controlar el cumplimiento de estas políticas de Estado, a brindar apoyo y difun
 constantemente sus acciones a la sociedad en general.
 
 EL ACUERDO NACIONAL
-
 EsVi
 
 HIMNO NACIONAL
-
 SÍMBOLOS DE LA PATRIA
 
 Declaración Universal de los Derechos Humanos
@@ -1696,93 +1543,93 @@ El 10 de diciembre de 1948, la Asamblea General de las Naciones Unidas aprobó y
 de Derechos Humanos, cuyos artículos figuran a continuación:
 Artículo 1.- Todos los seres humanos nacen libres e iguales en dignidad y derechos y (...) deben 
 comportarse fraternalmente los unos con los otros.
-Artículo 2.- Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier 
-otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición. 
+Artículo 2.-Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión políticao de cualquier 
+otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición.
 Además, no se hará distinción alguna fundada en la condición política, jurídica o internacional 
 del país o territorio de cuya jurisdicción dependa una persona (...).
-Artículo 3.- Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.
+Artículo 3.-Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.
 Artículo 4.- Nadie estará sometido a esclavitud ni a servidumbre; la esclavitud y la trata de 
 esclavos están prohibidas en todas sus formas.
 Artículo 5.- Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.
 Artículo 6.- Todo ser humano tiene derecho, en todas partes, al reconocimiento de su personalidad jurídica.
 Artículo 7.- Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección 
-de la ley. Todos tienen derecho a igual protección contra toda discriminación que infrinja esta 
+de la ley.Todos tienen derecho a igual protección contra toda discriminación que infrinja esta 
 Declaración (...).
 Artículo 8.- Toda persona tiene derecho a un recurso efectivo, ante los tribunales nacionales 
 competentes, que la ampare contra actos que violen sus derechos fundamentales (...).
 Artículo 9.- Nadie podrá ser arbitrariamente detenido, preso ni desterrado.
-Artículo 10.- Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial, para la determinación de sus 
+Artículo 10.-Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial, para la determinación de sus 
 derechos y obligaciones o para el examen de cualquier acusación contra ella en materia penal.
-Artículo 11.1. Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se
+Artículo 11.1.Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se
 pruebe su culpabilidad (...).
-2. Nadie será condenado por actos u omisiones que en el momento de cometerse no fueron 
-delictivos según el Derecho nacional o internacional. Tampoco se impondrá pena más grave que
+2.Nadie será condenado por actos u omisiones que en el momento de cometerse no fueron 
+delictivos según el Derecho nacional o internacional.Tampoco se impondrá pena más grave que
 la aplicable en el momento de la comisión del delito.
-Artículo 12.- Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o a su reputación. Toda persona tiene 
+Artículo 12.- Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o a su reputación.Toda persona tiene 
 derecho a la protección de la ley contra tales injerencias o ataques.
-Artículo 13.1. Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de 
+Artículo 13.1.Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de 
 un Estado.
-2. Toda persona tiene derecho a salir de cualquier país, incluso del propio, y a regresar a su país.
-Artículo 14.1. En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en 
+2.Toda persona tiene derecho a salir de cualquier país, incluso del propio, y a regresar a su país.
+Artículo 14.1.En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en 
 cualquier país.
-2. Este derecho no podrá ser invocado contra una acción judicial realmente originada por delitos
+2.Este derecho no podrá ser invocado contra una acción judicial realmente originada por delitos
 comunes o por actos opuestos a los propósitos y principios de las Naciones Unidas.
-Artículo 15.1. Toda persona tiene derecho a una nacionalidad.
-2. A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad.
-Artículo 16.1. Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por
+Artículo 15.1.Toda persona tiene derecho a una nacionalidad.
+2.A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad.
+Artículo 16.1.Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por
 motivos de raza, nacionalidad o religión, a casarse y fundar una familia (...).
-2. Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el matrimonio.
-3. La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección
+2.Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el matrimonio.
+3.La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección
 de la sociedad y del Estado.
-Artículo 17.1. Toda persona tiene derecho a la propiedad, individual y colectivamente.
-2. Nadie será privado arbitrariamente de su propiedad.
+Artículo 17.1.Toda persona tiene derecho a la propiedad, individual y colectivamente.
+2.Nadie será privado arbitrariamente de su propiedad.
 Artículo 18.- Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de 
 religión (...).
-Artículo 19.- Todo individuo tiene derecho a la libertad de opinión y de expresión (...).
-Artículo 20.1. Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.
-2. Nadie podrá ser obligado a pertenecer a una asociación.
+Artículo 19.-Todo individuo tiene derecho a la libertad de opinión y de expresión (...).
+Artículo 20.1.Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.
+2.Nadie podrá ser obligado a pertenecer a una asociación.
 
-Artículo 21.1. Toda persona tiene derecho a participar en el gobierno de su país, directamente o por medio 
+Artículo 21.1.Toda persona tiene derecho a participar en el gobierno de su país, directamente o por medio 
 de representantes libremente escogidos.
-2. Toda persona tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas 
+2.Toda persona tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas 
 de su país.
-3. La voluntad del pueblo es la base de la autoridad del poder público; esta voluntad se expresará 
+3.La voluntad del pueblo es la base de la autoridad del poder público; esta voluntad se expresará 
 mediante elecciones auténticas que habrán de celebrarse periódicamente, por sufragio universal 
 e igual y por voto secreto u otro procedimiento equivalente que garantice la libertad del voto.
 Artículo 22.- Toda persona (...) tiene derecho a la seguridad social, y a obtener, (...) habida 
 cuenta de la organización y los recursos de cada Estado, la satisfacción de los derechos económicos, sociales y culturales, indispensables a su dignidad y al libre desarrollo de su personalidad.
-Artículo 23.1. Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo.
-2. Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo igual.
-3. Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria, que le 
+Artículo 23.1.Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo.
+2.Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo igual.
+3.Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria, que le 
 asegure, así como a su familia, una existencia conforme a la dignidad humana y que será completada, en caso necesario, por cualesquiera otros medios de protección social.
-4. Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses.
+4.Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses.
 Artículo 24.- Toda persona tiene derecho al descanso, al disfrute del tiempo libre, a una limitación razonable de la duración del trabajo y a vacaciones periódicas pagadas.
-Artículo 25.1. Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, 
+Artículo 25.1.Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, 
 la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la asistencia médica y 
 los servicios sociales necesarios; tiene asimismo derecho a los seguros en caso de desempleo, 
 enfermedad, invalidez, viudez, vejez u otros casos de pérdida de sus medios de subsistencia por 
 circunstancias independientes de su voluntad.
-2. La maternidad y la infancia tienen derecho a cuidados y asistencia especiales. Todos los 
+2.La maternidad y la infancia tienen derecho a cuidados y asistencia especiales.Todos los 
 niños, nacidos de matrimonio o fuera de matrimonio, tienen derecho a igual protección social.
-Artículo 26.1. Toda persona tiene derecho a la educación. La educación debe ser gratuita, al menos en lo 
-concerniente a la instrucción elemental y fundamental. La instrucción elemental será obligatoria.
+Artículo 26.1.Toda persona tiene derecho a la educación.La educación debe ser gratuita, al menos en lo 
+concerniente a la instrucción elemental y fundamental.La instrucción elemental será obligatoria.
 La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos.
-2. La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la 
+2.La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la 
 comprensión, la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o 
 religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.
-3. Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse 
+3.Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse 
 a sus hijos.
-Artículo 27.1. Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a 
+Artículo 27.1.Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a 
 gozar de las artes y a participar en el progreso científico y en los beneficios que de él resulten.
-2. Toda persona tiene derecho a la protección de los intereses morales y materiales que le 
+2.Toda persona tiene derecho a la protección de los intereses morales y materiales que le 
 correspondan por razón de las producciones científicas, literarias o artísticas de que sea autora.
-Artículo 28.- Toda persona tiene derecho a que se establezca un orden social e internacional 
+Artículo 28.-Toda persona tiene derecho a que se establezca un orden social e internacional 
 en el que los derechos y libertades proclamados en esta Declaración se hagan plenamente 
 efectivos.
-Artículo 29.1. Toda persona tiene deberes respecto a la comunidad (...).
-2. En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reconocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas 
+Artículo 29.1.Toda persona tiene deberes respecto a la comunidad (...).
+2.En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reconocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas 
 exigencias de la moral, del orden público y del bienestar general en una sociedad democrática.
-3. Estos derechos y libertades no podrán, en ningún caso, ser ejercidos en oposición a los 
+3.Estos derechos y libertades no podrán, en ningún caso, ser ejercidos en oposición a los 
 propósitos y principios de las Naciones Unidas.
 Artículo 30.- Nada en esta Declaración podrá interpretarse en el sentido de que confiere derecho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades 
 (...) tendientes a la supresión de cualquiera de los derechos y libertades proclamados en esta 
@@ -1795,5 +1642,4 @@ BANDERA NACIONAL ESCUDO NACIONAL
 Espacio de Vida III Ciclo
 
 Guía de Educación Ambiental para el Desarrollo Sostenible
-
 Estudiantes de 1.° y 2.°grado de Educación Primaria
