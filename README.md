@@ -73,9 +73,6 @@ De las 45 métricas a implementar originalmente, se implementarán 48. Aquí est
     * CRFANP1: Promedio de oracioneos contiguas que poseen solapamiento entre pronombres.
     * CRFANPa: Promedio del total de todas las oraciones que poseen solapamiento entre pronombres.
 
-# Métricas aun no implementados
-Aquí se especifican qué índices aún no han sido debidamente implementados.
-
 ## Índices de connectivos (Connectives)
 
     * CNCCaus: Incidencia de conectivos causales. Se consideran conectivos causales a los siguientes: a causa de, por ese motivo, dado que, por eso, de ahí que, por esto, de modo que, por lo cual, debido a, por lo dicho, en consecuencia, por lo tanto, por, porque, por ello, pues, por esa razón, ya que.
@@ -84,3 +81,6 @@ Aquí se especifican qué índices aún no han sido debidamente implementados.
     * CNCTemp: Incidencia de conectivos temporales. Se consideran conectivos temporales a los siguientes: a mitad de mañana, al amanecer, al anochecer, al atardecer, al caer la tarde, al mediodía, comenzando la mañana, después del mediodía, en la mañana, en la noche, en la tarde, por la mañana, por la noche, seguida la tarde, al principio, algún tiempo atrás, anteriormente, antes, con anterioridad, desde el principio, en primer momento, hace tiempo, inicialmente, previamente, previo, tiempo antes, tiempo atrás, a la vez, actualmente, al mismo tiempo, al tiempo, en este preciso instante, en este preciso momento, mientras, mientras tanto, paralelamente, simultaneamente.
     * CNCAdd: Incidencia de conectivos aditivos. Se consideran conectivos aditivos a los siguientes: a decir verdad, en primer lugar, aparte, en segundo lugar, asimismo, en tercer lugar, de hecho, en último lugar, de igual forma, por otro lado, de igual manera, por su parte, de igual modo, igualmente, del mismo modo, también.
     * CNCAll: Incidencia de todos los conectivos.
+    
+# Índices no implementados
+Se implementaron todos los indices establecidos.
