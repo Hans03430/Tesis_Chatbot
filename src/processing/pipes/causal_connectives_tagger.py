@@ -35,7 +35,7 @@ class CausalConnectivesTagger:
         self._matcher = PhraseMatcher(nlp.vocab, attr='LOWER')
         self._connectives = []
         if language == 'es': # Causal connectives for spanish
-            self._connectives = ['por', 'porque', 'a causa de', 'puesto que', 'con motivo de', 'pues', 'ya que', 'conque', 'luego', 'pues', 'por consiguiente', 'así que', 'en consecuencia', 'de manera que', 'tan', 'tango que', 'por lo tanto', 'de modo que']
+            self._connectives = ['por', 'porque', 'a causa de', 'puesto que', 'con motivo de', 'pues', 'ya que', 'conque', 'luego', 'pues', 'por consiguiente', 'así que', 'en consecuencia', 'de manera que', 'tan', 'tanto que', 'por lo tanto', 'de modo que']
         else: # Support for future languages
             pass
 
