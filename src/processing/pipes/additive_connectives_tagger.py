@@ -35,7 +35,7 @@ class AdditiveConnectivesTagger:
         self._matcher = PhraseMatcher(nlp.vocab, attr='LOWER')
         self._connectives = []
         if language == 'es': # Temporal connectives for spanish
-            self._connectives = ['a decir verdad', 'en primer lugar', 'aparte', 'en segundo lugar', 'asimismo', 'en tercer lugar', 'de hecho', 'en último lugar', 'de igual forma', 'por otro lado', 'de igual manera', 'por su parte', 'de igual modo', 'igualmente', 'del mismo modo', 'también']
+            self._connectives = ['asimismo', 'igualmente' 'de igual modo', 'de igual manera', 'de igual forma', 'del mismo modo', 'de la misma manera', 'de la misma forma', 'en primer lugar', 'en segundo lugar', 'en tercer lugar', 'en último lugar', 'por su parte', 'por otro lado', 'además', 'encima', 'es más', 'por añadidura', 'incluso', 'inclusive', 'para colmo']
         else: # Support for future languages
             pass
 

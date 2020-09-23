@@ -35,7 +35,7 @@ class AdversativeConnectivesTagger:
         self._matcher = PhraseMatcher(nlp.vocab, attr='LOWER')
         self._connectives = []
         if language == 'es': # Adversative connectives for spanish
-            self._connectives = ['además', 'entre otros', 'al fin', 'es esa época', 'asumiendo que', 'futuramente', 'así también', 'igualmente', 'como se expuso anteriormente', 'incluso', 'de forma cercana', 'junto a', 'de hecho', 'más aún', 'de igual forma', 'otra vez', 'en consecuencia de lo comentado', 'para ser preciso', 'en el pasado', 'por todo lo dicho', 'en pocas palabras', 'posteriormente', 'en primer lugar', 'sin embargo', 'en principio', 'también', 'entonces', 'tan pronto']
+            self._connectives = ['pero', 'sino', 'no obstante', 'sino que', 'sin embargo', 'pero sí', 'aunque', 'menos', 'solo', 'excepto', 'salvo', 'más que', 'en cambio', 'ahora bien', 'más bien']
         else: # Support for future languages
             pass
 

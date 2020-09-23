@@ -35,7 +35,7 @@ class TemporalConnectivesTagger:
         self._matcher = PhraseMatcher(nlp.vocab, attr='LOWER')
         self._connectives = []
         if language == 'es': # Temporal connectives for spanish
-            self._connectives = ['a mitad de mañana', 'al amanecer', 'al anochecer', 'al atardecer', 'al caer la tarde', 'al mediodía', 'comenzando la mañana', 'después del mediodía', 'en la mañana', 'en la noche', 'en la tarde', 'por la mañana', 'por la noche', 'seguida la tarde', 'al principio', 'algún tiempo atrás', 'anteriormente', 'antes', 'con anterioridad', 'desde el principio', 'en primer momento', 'hace tiempo', 'inicialmente', 'previamente', 'previo', 'tiempo antes', 'tiempo atrás', 'a la vez', 'actualmente', 'al mismo tiempo', 'al tiempo', 'en este preciso instante', 'en este preciso momento', 'mientras', 'mientras tanto', 'paralelamente', 'simultaneamente']
+            self._connectives = ['actualmente', 'ahora', 'después', 'más tarde', 'más adelante', 'a continuación', 'antes', 'mientras', 'érase una vez', 'hace mucho tiempo', 'tiempo antes', 'finalmente', 'inicialmente', 'ya', 'simultáneamente', 'previamente', 'anteriormente', 'posteriormente', 'al mismo tiempo', 'durante']
         else: # Support for future languages
             pass
 
