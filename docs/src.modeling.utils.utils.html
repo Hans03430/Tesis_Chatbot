@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module src.modeling.utils.utils</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong><a href="src.html"><font color="#ffffff">src</font></a>.<a href="src.modeling.html"><font color="#ffffff">modeling</font></a>.<a href="src.modeling.utils.html"><font color="#ffffff">utils</font></a>.utils</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/hans/Documentos/Tesis_Chatbot/src/modeling/utils/utils.py">/home/hans/Documentos/Tesis_Chatbot/src/modeling/utils/utils.py</a></font></td></tr></table>
+    <p></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="numpy.html">numpy</a><br>
+</td><td width="25%" valign=top><a href="pandas.html">pandas</a><br>
+</td><td width="25%" valign=top></td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-drop_dataset_unnecessary_columns"><strong>drop_dataset_unnecessary_columns</strong></a>(dataset: pandas.core.frame.DataFrame, cols_to_drop: List[str], target_col: str) -&gt; (&lt;class 'pandas.core.frame.DataFrame'&gt;, &lt;class 'pandas.core.frame.DataFrame'&gt;)</dt><dd><tt>This&nbsp;function&nbsp;drops&nbsp;the&nbsp;columns&nbsp;from&nbsp;the&nbsp;dataset&nbsp;and&nbsp;returns&nbsp;X&nbsp;and&nbsp;y.<br>
+&nbsp;<br>
+Parameters:<br>
+dataset(pd.DataFrame):&nbsp;The&nbsp;dataframe&nbsp;whose&nbsp;columns&nbsp;to&nbsp;drop.<br>
+cols_to_drop(List[str]):&nbsp;The&nbsp;name&nbsp;of&nbsp;the&nbsp;columns&nbsp;to&nbsp;drop.<br>
+target_col(str):&nbsp;The&nbsp;name&nbsp;of&nbsp;the&nbsp;target&nbsp;column.<br>
+&nbsp;<br>
+Returns:<br>
+(pd.DataFrame,&nbsp;pd.DataFrame):&nbsp;X&nbsp;and&nbsp;y&nbsp;datasets.</tt></dd></dl>
+ <dl><dt><a name="-pca"><strong>pca</strong></a>(dataset: pandas.core.frame.DataFrame, n_components: int = 2) -&gt; &lt;built-in function array&gt;</dt><dd><tt>This&nbsp;function&nbsp;does&nbsp;the&nbsp;principal&nbsp;component&nbsp;analysis.<br>
+&nbsp;<br>
+Parameters:<br>
+dataset(pd.DataFrame):&nbsp;The&nbsp;dataset&nbsp;to&nbsp;reduce&nbsp;dimensionality.<br>
+n_components(int):&nbsp;The&nbsp;amount&nbsp;of&nbsp;dimensions&nbsp;to&nbsp;reduce&nbsp;the&nbsp;dataset:<br>
+&nbsp;<br>
+Returns:<br>
+np.array:&nbsp;Numpy&nbsp;array&nbsp;that&nbsp;contains&nbsp;the&nbsp;pca&nbsp;values.</tt></dd></dl>
+ <dl><dt><a name="-print_scores"><strong>print_scores</strong></a>(y_true: Iterable, y_pred: Iterable) -&gt; None</dt><dd><tt>This&nbsp;function&nbsp;prints&nbsp;the&nbsp;accuracy,&nbsp;precision,&nbsp;recall&nbsp;and&nbsp;f1&nbsp;score&nbsp;of&nbsp;a&nbsp;prediction.<br>
+&nbsp;<br>
+Parameters:<br>
+y_true(Iterable):&nbsp;Iterable&nbsp;containing&nbsp;the&nbsp;true&nbsp;labels.<br>
+y_pred(Iterable):&nbsp;Iterable&nbsp;containing&nbsp;the&nbsp;predicted&nbsp;labels.<br>
+&nbsp;<br>
+Returns:<br>
+None.</tt></dd></dl>
+</td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>Iterable</strong> = typing.Iterable<br>
+<strong>List</strong> = typing.List</td></tr></table>
+</body></html>
