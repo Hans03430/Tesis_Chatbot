@@ -30,8 +30,9 @@ if __name__ == "__main__":
 
 
 Yo corro con el hermoso gato. A nosotros no nos gusta el gato.
-Ella tiene mascotas. Aunque, ella tiene plantas y él no.
-
+Ella tiene mascotas.        
+Aunque, ella tiene plantas y él no.
+             
 Tú jamás dijiste que no, porque ustedes debieron salir temprano al mismo tiempo.
 '''
         #with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt.bak/2/Arte/orientaciones-ensenanza-arte-cultura.txt', 'r') as f:
@@ -51,7 +52,7 @@ Tú jamás dijiste que no, porque ustedes debieron salir temprano al mismo tiemp
         readability = readability.append(tca.calculate_readability_indices_for_one_text(text, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word), ignore_index=True)
         referential_cohesion = referential_cohesion.append(tca.calculate_referential_cohesion_indices_for_one_text(text=text), ignore_index=True)
         end = time.time()  
-        #print(f"Tiempo demorado: {end - start} segundos.")
+        print(f"Tiempo demorado: {end - start} segundos.")
                 #filename = filepath.split('/')[-1]   
                 #print(f'Tiempo demorado para {filename}: {end - start} segundos.')
 

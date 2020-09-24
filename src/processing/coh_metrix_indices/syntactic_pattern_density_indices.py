@@ -62,10 +62,9 @@ class SyntacticPatternDensityIndices:
             paragraphs = split_text_into_paragraphs(text) # Find all paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
             wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)            
-            density = 0
-            
-            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads): # Calculate with multiprocessing 
-                density += sp_counter_function(doc)
+            self._nlp.get_pipe('feature counter').counter_function = sp_counter_function
+            density = sum(doc._.feature_count
+                          for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)) # Calculate with multiprocessing 
             
             return (density / wc) * self._incidence
 
@@ -84,7 +83,7 @@ class SyntacticPatternDensityIndices:
         count_noun_phrases = lambda doc: len(doc._.noun_phrases)
         disable_pipeline = [pipe 
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['noun phrase tagger', 'tagger', 'parser']]
+                            if pipe not in ['noun phrase tagger', 'tagger', 'parser', 'feature counter']]
 
         return self._get_syntactic_pattern_density(text, disable_pipeline=disable_pipeline, sp_counter_function=count_noun_phrases, workers=workers)
 
@@ -103,7 +102,7 @@ class SyntacticPatternDensityIndices:
         count_verb_phrases = lambda doc: len(doc._.verb_phrases)
         disable_pipeline = [pipe 
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['verb phrase tagger', 'tagger']]
+                            if pipe not in ['verb phrase tagger', 'tagger', 'feature counter']]
 
         return self._get_syntactic_pattern_density(text, disable_pipeline=disable_pipeline, sp_counter_function=count_verb_phrases, workers=workers)
             
@@ -122,6 +121,6 @@ class SyntacticPatternDensityIndices:
         count_negation_expressions = lambda doc: len(doc._.negation_expressions)
         disable_pipeline = [pipe 
                             for pipe in self._nlp.pipe_names
-                            if pipe not in ['negative expression tagger', 'tagger']]
+                            if pipe not in ['negative expression tagger', 'tagger', 'feature counter']]
 
         return self._get_syntactic_pattern_density(text, disable_pipeline=disable_pipeline, sp_counter_function=count_negation_expressions, workers=workers)

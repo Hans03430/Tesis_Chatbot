@@ -38,14 +38,14 @@ class WordInformationIndices:
         else:
             self._di = descriptive_indices
 
-    def _get_word_type_incidence(self, text: str, disable_pipeline :List, word_type_condition: Callable, word_count: int=None, workers: int=-1) -> float:
+    def _get_word_type_incidence(self, text: str, disable_pipeline :List, counter_function: Callable, word_count: int=None, workers: int=-1) -> float:
         '''
         This method calculates the incidence of a certain type of word in a text per {self._incidence} words.
 
         Parameters:
         text(str): The text to be analyzed.
         disable_pipeline(List): The pipeline elements to be disabled.
-        word_type_condition(Callable): The function that helps identify a certain type of word. It receives a Spacy token and returns a boolean.
+        counter_function(Callable): The function that counts the amount of a certain type of word.
         word_count(int): The amount of words in the text.
         workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
 
@@ -59,11 +59,10 @@ class WordInformationIndices:
         else:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
-            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)   
-            words = sum(1 
-                        for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)
-                        for token in doc
-                        if word_type_condition(token))
+            wc = word_count if word_count is not None else self._di.get_word_count_from_text(text)
+            self._nlp.get_pipe('feature counter').counter_function = counter_function
+            words = sum(doc._.feature_count
+                        for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads))
 
             return (words / wc) * self._incidence
 
@@ -79,10 +78,12 @@ class WordInformationIndices:
         Returns:
         float: The incidence of nouns per {self._incidence} words.
         '''
-        noun_condition = lambda token: is_word(token) and token.pos_ in ['NOUN', 'PROPN']
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
+        noun_counter = lambda doc: sum(1
+                                       for token in doc
+                                       if is_word(token) and token.pos_ in ['NOUN', 'PROPN'])
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['tagger', 'feature counter']]
 
-        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=noun_condition, workers=workers)
+        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, counter_function=noun_counter, workers=workers)
 
     def get_verb_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -96,10 +97,12 @@ class WordInformationIndices:
         Returns:
         float: The incidence of verbs per {self._incidence} words.
         '''
-        verb_condition = lambda token: is_word(token) and token.pos_ == 'VERB'
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
+        verb_counter = lambda doc: sum(1
+                                       for token in doc
+                                       if is_word(token) and token.pos_ == 'VERB')
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['tagger', 'feature counter']]
 
-        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=verb_condition, workers=workers)
+        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, counter_function=verb_counter, workers=workers)
 
     def get_adjective_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -113,10 +116,12 @@ class WordInformationIndices:
         Returns:
         float: The incidence of adjectives per {self._incidence} words.
         '''
-        adjective_condition = lambda token: is_word(token) and token.pos_ == 'ADJ'
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
+        adjective_counter = lambda doc: sum(1
+                                            for token in doc
+                                            if is_word(token) and token.pos_ == 'ADJ')
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['tagger', 'feature counter']]
 
-        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=adjective_condition, workers=workers)
+        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, counter_function=adjective_counter, workers=workers)
 
     def get_adverb_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -130,10 +135,12 @@ class WordInformationIndices:
         Returns:
         float: The incidence of adverbs per {self._incidence} words.
         '''
-        adverb_condition = lambda token: is_word(token) and token.pos_ == 'ADV'
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
+        adverb_counter = lambda doc: sum(1
+                                         for token in doc
+                                         if is_word(token) and token.pos_ == 'ADV')
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['tagger', 'feature counter']]
 
-        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=adverb_condition, workers=workers)
+        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, counter_function=adverb_counter, workers=workers)
 
     def get_personal_pronoun_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -148,10 +155,13 @@ class WordInformationIndices:
         float: The incidence of personal pronouns per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' in token.tag_
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
+            pronoun_counter = lambda doc: sum(1
+                                              for token in doc
+                                              if is_word(token) and token.pos_ == 'PRON' in token.tag_)
+        
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['tagger', 'feature counter']]
 
-        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
+        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, counter_function=pronoun_counter, workers=workers)
 
     def get_personal_pronoun_first_person_singular_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -166,11 +176,13 @@ class WordInformationIndices:
         float: The incidence of personal pronouns in first person and singular form per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'Number=Sing' in token.tag_ and 'Person=1' in token.tag_
+            pronoun_counter = lambda doc: sum(1
+                                              for token in doc
+                                              if is_word(token) and token.pos_ == 'PRON' and 'Number=Sing' in token.tag_ and 'Person=1' in token.tag_)
         
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['tagger', 'feature counter']]
 
-        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
+        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, counter_function=pronoun_counter, workers=workers)
 
     def get_personal_pronoun_first_person_plural_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -185,11 +197,13 @@ class WordInformationIndices:
         float: The incidence of personal pronouns in first person and plural form per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'Number=Plur' in token.tag_ and 'Person=1' in token.tag_
+            pronoun_counter = lambda doc: sum(1
+                                              for token in doc
+                                              if is_word(token) and token.pos_ == 'PRON' and 'Number=Plur' in token.tag_ and 'Person=1' in token.tag_)
         
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['tagger', 'feature counter']]
 
-        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
+        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, counter_function=pronoun_counter, workers=workers)
 
     def get_personal_pronoun_second_person_singular_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -204,11 +218,13 @@ class WordInformationIndices:
         float: The incidence of personal pronouns in second person and singular form per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'Number=Sing' in token.tag_ and 'Person=2' in token.tag_
+            pronoun_counter = lambda doc: sum(1
+                                              for token in doc
+                                              if is_word(token) and token.pos_ == 'PRON' and 'Number=Sing' in token.tag_ and 'Person=2' in token.tag_)
         
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['tagger', 'feature counter']]
 
-        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
+        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, counter_function=pronoun_counter, workers=workers)
 
     def get_personal_pronoun_second_person_plural_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -223,11 +239,13 @@ class WordInformationIndices:
         float: The incidence of personal pronouns in second person and plural form per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'Number=Plur' in token.tag_ and 'Person=2' in token.tag_
+            pronoun_counter = lambda doc: sum(1
+                                              for token in doc
+                                              if is_word(token) and token.pos_ == 'PRON' and 'Number=Plur' in token.tag_ and 'Person=2' in token.tag_)
         
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['tagger', 'feature counter']]
 
-        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
+        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, counter_function=pronoun_counter, workers=workers)
 
     def get_personal_pronoun_third_person_singular_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -242,11 +260,13 @@ class WordInformationIndices:
         float: The incidence of personal pronouns in third person and singular form per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'Number=Sing' in token.tag_ and 'Person=3' in token.tag_
+            pronoun_counter = lambda doc: sum(1
+                                              for token in doc
+                                              if is_word(token) and token.pos_ == 'PRON' and 'Number=Sing' in token.tag_ and 'Person=3' in token.tag_)
         
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['tagger', 'feature counter']]
 
-        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
+        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, counter_function=pronoun_counter, workers=workers)
 
     def get_personal_pronoun_third_person_plural_form_incidence(self, text: str, word_count: int=None, workers: int=-1) -> float:
         '''
@@ -261,8 +281,10 @@ class WordInformationIndices:
         float: The incidence of personal pronouns in third person and plural form per {self._incidence} words.
         '''
         if self.language == 'es':
-            personal_pronoun_condition = lambda token: is_word(token) and token.pos_ == 'PRON' and 'Number=Plur' in token.tag_ and 'Person=3' in token.tag_
+            pronoun_counter = lambda doc: sum(1
+                                              for token in doc
+                                              if is_word(token) and token.pos_ == 'PRON' and 'Number=Plur' in token.tag_ and 'Person=3' in token.tag_)
         
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'tagger']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['tagger', 'feature counter']]
 
-        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, word_type_condition=personal_pronoun_condition, workers=workers)
+        return self._get_word_type_incidence(text, disable_pipeline=disable_pipeline, counter_function=pronoun_counter, workers=workers)

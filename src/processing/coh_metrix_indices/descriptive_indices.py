@@ -66,12 +66,14 @@ class DescriptiveIndices:
         else:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers  
-            disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'sentencizer']
+            disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['sentencizer', 'feature counter']]
 
-            sentences = sum(1
-                            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads)
-                            for _ in doc.sents)
-                            
+            sentence_counter = lambda doc: sum(1 for _ in doc.sents)
+            self._nlp.get_pipe('feature counter').counter_function = sentence_counter
+            
+            sentences = sum(doc._.feature_count
+                            for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads))
+
             return sentences
 
     def get_word_count_from_text(self, text: str, workers: int=-1) -> int:
@@ -92,11 +94,13 @@ class DescriptiveIndices:
         else:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
+            word_counter = lambda doc: sum(1 for token in doc if is_word(token))
+            disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'feature counter']
+            self._nlp.get_pipe('feature counter').counter_function = word_counter
 
-            total_words = sum(1
-                              for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=self._nlp.pipe_names, n_process=threads)
-                              for token in doc
-                              if is_word(token))
+            total_words = sum(doc._.feature_count
+                              for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads))
+
 
             return total_words
 
@@ -123,10 +127,11 @@ class DescriptiveIndices:
         else:
             paragraphs = split_text_into_paragraphs(text) # Obtain paragraphs
             threads = multiprocessing.cpu_count() if workers == -1 else workers
+            self._nlp.get_pipe('feature counter').counter_function = counter_function
             counter = []
 
             for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
-                current_result = counter_function(doc) # Find the values to add to the counter
+                current_result = doc._.feature_count # Find the values to add to the counter
 
                 if not isinstance(current_result, list): # Add any numbers
                     counter.append(current_result)
@@ -156,7 +161,7 @@ class DescriptiveIndices:
         
         count_length_of_paragraphs = lambda doc: sum(1 for _ in doc.sents)
 
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'sentencizer']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['sentencizer', 'feature counter']]
 
         return self._get_mean_std_of_metric(text, disable_pipeline=disable_pipeline, counter_function=count_length_of_paragraphs, statistic_type='all', workers=workers)
 
@@ -176,7 +181,7 @@ class DescriptiveIndices:
                                                      if is_word(token)])
                                                  for sentence in doc.sents]
 
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'sentencizer']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['sentencizer', 'feature counter']]
 
         return self._get_mean_std_of_metric(text, disable_pipeline=disable_pipeline, counter_function=count_length_of_sentences, statistic_type='all', workers=workers)
 
@@ -195,7 +200,7 @@ class DescriptiveIndices:
                                               for token in doc
                                               if is_word(token)]
 
-        disable_pipeline = self._nlp.pipe_names
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'feature counter']
 
         return self._get_mean_std_of_metric(text, disable_pipeline=disable_pipeline, counter_function=count_letters_per_word, statistic_type='all', workers=workers)
 
@@ -214,6 +219,6 @@ class DescriptiveIndices:
                                                 for token in doc
                                                 if is_word(token) and token._.syllables is not None]
 
-        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe != 'syllable splitter']
+        disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['syllable splitter', 'feature counter']]
 
         return self._get_mean_std_of_metric(text, disable_pipeline=disable_pipeline, counter_function=count_syllables_per_word, statistic_type='all', workers=workers)
