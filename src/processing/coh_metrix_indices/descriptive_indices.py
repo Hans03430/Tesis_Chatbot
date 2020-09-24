@@ -11,6 +11,8 @@ from src.processing.utils.statistics_results import StatisticsResults
 from src.processing.utils.utils import is_word
 from src.processing.utils.utils import split_text_into_paragraphs
 from src.processing.utils.utils import split_text_into_sentences
+from src.processing.utils.utils import split_doc_into_sentences
+
 
 class DescriptiveIndices:
     '''
@@ -159,7 +161,7 @@ class DescriptiveIndices:
         StatisticsResults: The mean and standard deviation of the amount in sentences in each paragraph.
         """
         
-        count_length_of_paragraphs = lambda doc: sum(1 for _ in doc.sents)
+        count_length_of_paragraphs = lambda doc: sum(1 for _ in split_doc_into_sentences(doc))
 
         disable_pipeline = [pipe for pipe in self._nlp.pipe_names if pipe not in ['sentencizer', 'feature counter']]
 

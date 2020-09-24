@@ -32,7 +32,8 @@ if __name__ == "__main__":
 Yo corro con el hermoso gato. A nosotros no nos gusta el gato.
 Ella tiene mascotas.        
 Aunque, ella tiene plantas y él no.
-             
+
+
 Tú jamás dijiste que no, porque ustedes debieron salir temprano al mismo tiempo.
 '''
         #with open('/home/hans/Documentos/Tesis_Chatbot/data/raw/txt.bak/2/Arte/orientaciones-ensenanza-arte-cultura.txt', 'r') as f:
