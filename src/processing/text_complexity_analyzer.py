@@ -43,6 +43,7 @@ class TextComplexityAnalyzer:
         
         self.language = language
         self._nlp = spacy.load(ACCEPTED_LANGUAGES[language], disable=['ner'])
+        self._nlp.max_length = 3000000
         self._nlp.add_pipe(self._nlp.create_pipe('sentencizer'))
         self._nlp.add_pipe(SyllableSplitter(language), after='tagger')
         self._nlp.add_pipe(NounPhraseTagger(language), after='parser')
