@@ -1,8 +1,9 @@
+import pickle
 import spacy
 import time
 
-from typing import Dict
 from src.processing.constants import ACCEPTED_LANGUAGES
+from src.processing.constants import BASE_DIRECTORY
 from src.processing.coh_metrix_indices.connective_indices import ConnectiveIndices
 from src.processing.coh_metrix_indices.descriptive_indices import DescriptiveIndices
 from src.processing.coh_metrix_indices.lexical_diversity_indices import LexicalDiversityIndices
@@ -23,6 +24,9 @@ from src.processing.pipes.additive_connectives_tagger import AdditiveConnectives
 from src.processing.pipes.referential_cohesion_adjacent_sentences_analyzer import ReferentialCohesionAdjacentSentencesAnalyzer
 from src.processing.pipes.referential_cohesion_all_sentences_analyzer import ReferentialCohesionAllSentencesAnalyzer
 from src.processing.pipes.feature_counter import FeatureCounter
+from typing import Dict
+from typing import List
+
 
 class TextComplexityAnalyzer:
     '''
@@ -34,7 +38,7 @@ class TextComplexityAnalyzer:
 
         Parameters:
         language(str): The language that the texts are in.
-
+        
         Returns:
         None.
         '''
@@ -65,6 +69,12 @@ class TextComplexityAnalyzer:
         self._ldi = LexicalDiversityIndices(language=language, nlp=self._nlp)
         self._ri = ReadabilityIndices(language=language, nlp=self._nlp, descriptive_indices=self._di)
         self._rci = ReferentialCohesionIndices(language=language, nlp=self._nlp)
+
+        # Load default classifier
+        self._classifier = pickle.load(open(f'{BASE_DIRECTORY}/model/classifier.pkl', 'rb'))
+        self._scaler = pickle.load(open(f'{BASE_DIRECTORY}/model/scaler.pkl', 'rb'))
+        self._indices = ['CNCADC', 'CNCAdd', 'CNCAll', 'CNCCaus', 'CNCLogic', 'CNCTemp', 'CRFANP1', 'CRFANPa', 'CRFAO1', 'CRFAOa', 'CRFCWO1', 'CRFCWO1d', 'CRFCWOa', 'CRFCWOad', 'CRFNO1', 'CRFNOa', 'CRFSO1', 'CRFSOa', 'DESPC', 'DESPL', 'DESPLd', 'DESSC', 'DESSL', 'DESSLd', 'DESWC', 'DESWLlt', 'DESWLltd', 'DESWLsy', 'DESWLsyd', 'DRNEG', 'DRNP', 'DRVP', 'LDTTRa', 'LDTTRcw', 'RDFHGL', 'SYNLE', 'SYNNP', 'WRDADJ', 'WRDADV', 'WRDNOUN', 'WRDPRO', 'WRDPRP1p', 'WRDPRP1s', 'WRDPRP2p', 'WRDPRP2s', 'WRDPRP3p', 'WRDPRP3s', 'WRDVERB']
+
 
     def calculate_descriptive_indices_for_one_text(self, text: str, workers: int=-1) -> Dict:
         '''
@@ -179,7 +189,7 @@ class TextComplexityAnalyzer:
 
         return indices
 
-    def calculate_lexical_diversity_density_indices_for_one_text(self, text: str, workers: int=-1) -> Dict:
+    def calculate_lexical_diversity_indices_for_one_text(self, text: str, workers: int=-1) -> Dict:
         '''
         This method calculates the lexical diversity indices and stores them in a dictionary.
 
@@ -245,3 +255,60 @@ class TextComplexityAnalyzer:
         indices['CRFANPa'] = self._rci.get_anaphore_overlap_all_sentences(text=text, workers=workers)
 
         return indices
+
+    def calculate_all_indices_for_one_text(self, text: str, workers: int=-1) -> (Dict, Dict, Dict, Dict, Dict, Dict, Dict, Dict):
+        '''
+        This method calculates the referential cohesion indices and stores them in a dictionary.
+
+        Parameters:
+        text(str): The text to be analyzed.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+
+        Returns:
+        (Dict, Dict, Dict, Dict, Dict, Dict, Dict, Dict): The dictionary with the all the indices.
+        '''
+        start = time.time()
+        descriptive = self.calculate_descriptive_indices_for_one_text(text=text, workers=workers)
+        word_count = descriptive['DESWC']                
+        mean_words_per_sentence = descriptive['DESSL']
+        mean_syllables_per_word = descriptive['DESWLsy']
+        word_information = self.calculate_word_information_indices_for_one_text(text=text, workers=workers, word_count=word_count)
+        syntactic_pattern = self.calculate_syntactic_pattern_density_indices_for_one_text(text=text, workers=workers, word_count=word_count)
+        syntactic_complexity = self.calculate_syntactic_complexity_indices_for_one_text(text=text, workers=workers)
+        connective = self.calculate_connective_indices_for_one_text(text=text, workers=workers, word_count=word_count)
+        lexical_diversity = self.calculate_lexical_diversity_indices_for_one_text(text=text, workers=workers)
+        readability = self.calculate_readability_indices_for_one_text(text, workers=workers, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word)
+        referential_cohesion = self.calculate_referential_cohesion_indices_for_one_text(text=text, workers=workers)
+        end = time.time()
+        print(f'Text analized in {end - start} seconds.')
+
+        return descriptive, word_information, syntactic_pattern, syntactic_complexity, connective, lexical_diversity, readability, referential_cohesion
+
+    def predict_text_category(self, text: str, workers: int=-1, classifier=None, scaler=None, indices: List=None) -> int:
+        '''
+        This method receives a text and predict its category based on the classification model trained.
+
+        Parameters:
+        text(str): The text to predict its category.
+        workers(int): Amount of threads that will complete this operation. If it's -1 then all cpu cores will be used.
+        classifier: Optional. A supervised learning model that implements the 'predict' method. If None, the default classifier is used.
+        scaler: Optional. A object that implements the 'transform' method that scales the indices of the text to analyze. It must be the same as the one used in the classifier, if a scaler was used. Pass None if no scaler was used during the custom classifier's training.
+        indices(List): Optional. Ignored if the default classifier is used. The name indices which the classifier was trained with. They must be in the same order as the ones that were used at training and also be the same. 
+
+        Returns:
+        int: The category of the text represented as a number
+        '''
+        if workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0') 
+        else:
+            descriptive, word_information, syntactic_pattern, syntactic_complexity, connective, lexical_diversity, readability, referential_cohesion = self.calculate_all_indices_for_one_text(text, workers)
+            indices = {**descriptive, **word_information, **syntactic_pattern, **syntactic_complexity, **connective, **lexical_diversity, **readability, **referential_cohesion}
+            if classifier is None: # Default indices
+                indices_values = [[indices[key] for key in self._indices]]
+                print(self._scaler.transform(indices_values))
+                return self._classifier.predict(self._scaler.transform(indices_values))
+            else: # Indices used by the custom classifier
+                indices_values = [[indices[key] for key in indices]]
+                return classifier.predict(scaler.transform(indices_values) if scaler is not None else indices_values)
+
+            print(indices_values)

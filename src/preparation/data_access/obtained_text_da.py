@@ -90,9 +90,8 @@ class ObtainedTextDA:
                         for key in index:
                             if key not in ['id', 'obtained_text_id', 'obtained_text']:
                                 row[key] = index[key]
-
+                
                 dataframe = dataframe.append(row, ignore_index=True)
-            
             return dataframe
         except Exception as e:
             raise e
