@@ -44,7 +44,22 @@
 <tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
 <td colspan=2><tt><a href="#TextComplexityAnalyzer">TextComplexityAnalyzer</a>(language:&nbsp;str&nbsp;=&nbsp;'es')&nbsp;-&amp;gt;&nbsp;None<br>
 &nbsp;<br>
-This&nbsp;class&nbsp;groups&nbsp;all&nbsp;of&nbsp;the&nbsp;indices&nbsp;in&nbsp;order&nbsp;to&nbsp;calculate&nbsp;them&nbsp;in&nbsp;one&nbsp;go.&nbsp;It&nbsp;works&nbsp;for&nbsp;a&nbsp;specific&nbsp;language.<br>&nbsp;</tt></td></tr>
+This&nbsp;class&nbsp;groups&nbsp;all&nbsp;of&nbsp;the&nbsp;indices&nbsp;in&nbsp;order&nbsp;to&nbsp;calculate&nbsp;them&nbsp;in&nbsp;one&nbsp;go.&nbsp;It&nbsp;works&nbsp;for&nbsp;a&nbsp;specific&nbsp;language.<br>
+&nbsp;<br>
+To&nbsp;use&nbsp;this&nbsp;class,&nbsp;instantiate&nbsp;an&nbsp;<a href="builtins.html#object">object</a>&nbsp;with&nbsp;it.&nbsp;For&nbsp;example:<br>
+tca&nbsp;=&nbsp;<a href="#TextComplexityAnalyzer">TextComplexityAnalyzer</a>('es')<br>
+&nbsp;<br>
+Notice&nbsp;that&nbsp;a&nbsp;short&nbsp;version&nbsp;of&nbsp;the&nbsp;language&nbsp;was&nbsp;passed.&nbsp;The&nbsp;only&nbsp;languages&nbsp;available&nbsp;for&nbsp;now&nbsp;are:&nbsp;'es'.<br>
+&nbsp;<br>
+To&nbsp;calculate&nbsp;the&nbsp;implemented&nbsp;coh-metrix&nbsp;indices&nbsp;for&nbsp;a&nbsp;text,&nbsp;do&nbsp;the&nbsp;following:<br>
+m1,&nbsp;m2,&nbsp;m3,&nbsp;m4,&nbsp;m5,&nbsp;m6,&nbsp;m7,&nbsp;m8&nbsp;=&nbsp;tca.<a href="#TextComplexityAnalyzer-calculate_all_indices_for_one_text">calculate_all_indices_for_one_text</a>(text='Example&nbsp;text',&nbsp;workers=-1)<br>
+&nbsp;<br>
+Here,&nbsp;all&nbsp;available&nbsp;cores&nbsp;will&nbsp;be&nbsp;used&nbsp;to&nbsp;analyze&nbsp;the&nbsp;text&nbsp;passed&nbsp;as&nbsp;parameter.<br>
+&nbsp;<br>
+To&nbsp;predict&nbsp;the&nbsp;category&nbsp;of&nbsp;a&nbsp;text,&nbsp;do&nbsp;the&nbsp;following:<br>
+prediction&nbsp;=&nbsp;tca.<a href="#TextComplexityAnalyzer-predict_text_category">predict_text_category</a>(text='Example&nbsp;text',&nbsp;workers=-1)<br>
+&nbsp;<br>
+The&nbsp;example&nbsp;uses&nbsp;the&nbsp;default&nbsp;classifier&nbsp;stored&nbsp;along&nbsp;the&nbsp;library.<br>&nbsp;</tt></td></tr>
 <tr><td>&nbsp;</td>
 <td width="100%">Methods defined here:<br>
 <dl><dt><a name="TextComplexityAnalyzer-__init__"><strong>__init__</strong></a>(self, language: str = 'es') -&gt; None</dt><dd><tt>This&nbsp;constructor&nbsp;initializes&nbsp;the&nbsp;analizer&nbsp;for&nbsp;a&nbsp;specific&nbsp;language.<br>

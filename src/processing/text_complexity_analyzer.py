@@ -31,6 +31,21 @@ from typing import List
 class TextComplexityAnalyzer:
     '''
     This class groups all of the indices in order to calculate them in one go. It works for a specific language.
+
+    To use this class, instantiate an object with it. For example:
+    tca = TextComplexityAnalyzer('es')
+
+    Notice that a short version of the language was passed. The only languages available for now are: 'es'.
+
+    To calculate the implemented coh-metrix indices for a text, do the following:
+    m1, m2, m3, m4, m5, m6, m7, m8 = tca.calculate_all_indices_for_one_text(text='Example text', workers=-1)
+
+    Here, all available cores will be used to analyze the text passed as parameter.
+
+    To predict the category of a text, do the following:
+    prediction = tca.predict_text_category(text='Example text', workers=-1)
+
+    The example uses the default classifier stored along the library.
     '''
     def __init__(self, language:str = 'es') -> None:
         '''
@@ -267,22 +282,25 @@ class TextComplexityAnalyzer:
         Returns:
         (Dict, Dict, Dict, Dict, Dict, Dict, Dict, Dict): The dictionary with the all the indices.
         '''
-        start = time.time()
-        descriptive = self.calculate_descriptive_indices_for_one_text(text=text, workers=workers)
-        word_count = descriptive['DESWC']                
-        mean_words_per_sentence = descriptive['DESSL']
-        mean_syllables_per_word = descriptive['DESWLsy']
-        word_information = self.calculate_word_information_indices_for_one_text(text=text, workers=workers, word_count=word_count)
-        syntactic_pattern = self.calculate_syntactic_pattern_density_indices_for_one_text(text=text, workers=workers, word_count=word_count)
-        syntactic_complexity = self.calculate_syntactic_complexity_indices_for_one_text(text=text, workers=workers)
-        connective = self.calculate_connective_indices_for_one_text(text=text, workers=workers, word_count=word_count)
-        lexical_diversity = self.calculate_lexical_diversity_indices_for_one_text(text=text, workers=workers)
-        readability = self.calculate_readability_indices_for_one_text(text, workers=workers, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word)
-        referential_cohesion = self.calculate_referential_cohesion_indices_for_one_text(text=text, workers=workers)
-        end = time.time()
-        print(f'Text analized in {end - start} seconds.')
+        if workers == 0 or workers < -1:
+            raise ValueError('Workers must be -1 or any positive number greater than 0.')
+        else:
+            start = time.time()
+            descriptive = self.calculate_descriptive_indices_for_one_text(text=text, workers=workers)
+            word_count = descriptive['DESWC']                
+            mean_words_per_sentence = descriptive['DESSL']
+            mean_syllables_per_word = descriptive['DESWLsy']
+            word_information = self.calculate_word_information_indices_for_one_text(text=text, workers=workers, word_count=word_count)
+            syntactic_pattern = self.calculate_syntactic_pattern_density_indices_for_one_text(text=text, workers=workers, word_count=word_count)
+            syntactic_complexity = self.calculate_syntactic_complexity_indices_for_one_text(text=text, workers=workers)
+            connective = self.calculate_connective_indices_for_one_text(text=text, workers=workers, word_count=word_count)
+            lexical_diversity = self.calculate_lexical_diversity_indices_for_one_text(text=text, workers=workers)
+            readability = self.calculate_readability_indices_for_one_text(text, workers=workers, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word)
+            referential_cohesion = self.calculate_referential_cohesion_indices_for_one_text(text=text, workers=workers)
+            end = time.time()
+            print(f'Text analized in {end - start} seconds.')
 
-        return descriptive, word_information, syntactic_pattern, syntactic_complexity, connective, lexical_diversity, readability, referential_cohesion
+            return descriptive, word_information, syntactic_pattern, syntactic_complexity, connective, lexical_diversity, readability, referential_cohesion
 
     def predict_text_category(self, text: str, workers: int=-1, classifier=None, scaler=None, indices: List=None) -> int:
         '''
@@ -299,16 +317,23 @@ class TextComplexityAnalyzer:
         int: The category of the text represented as a number
         '''
         if workers == 0 or workers < -1:
-            raise ValueError('Workers must be -1 or any positive number greater than 0') 
+            raise ValueError('Workers must be -1 or any positive number greater than 0.')
+        if classifier is not None and not hasattr(classifier, 'predict'):
+            raise ValueError('The custom surpervised learning model (classifier) must have the \'predict\' method.d')
+        if classifier is not None and indices is None:
+            raise ValueError('You must provide the names of the metrics used to train the custom classifier in the same order and amount that they were at the time of training said classifier.')
+        if classifier is not None and scaler is not None and not hasattr(scaler, 'transform'):
+            raise ValueError('The custom scaling model (scaler) for the custom classifier must have the \'transform\' method.')
         else:
             descriptive, word_information, syntactic_pattern, syntactic_complexity, connective, lexical_diversity, readability, referential_cohesion = self.calculate_all_indices_for_one_text(text, workers)
-            indices = {**descriptive, **word_information, **syntactic_pattern, **syntactic_complexity, **connective, **lexical_diversity, **readability, **referential_cohesion}
+            metrics = {**descriptive, **word_information, **syntactic_pattern, **syntactic_complexity, **connective, **lexical_diversity, **readability, **referential_cohesion}
             if classifier is None: # Default indices
-                indices_values = [[indices[key] for key in self._indices]]
-                print(self._scaler.transform(indices_values))
+                indices_values = [[metrics[key] for key in self._indices]]
+
                 return self._classifier.predict(self._scaler.transform(indices_values))
             else: # Indices used by the custom classifier
-                indices_values = [[indices[key] for key in indices]]
-                return classifier.predict(scaler.transform(indices_values) if scaler is not None else indices_values)
+                indices_values = [[metrics[key] for key in indices]]
+                    
+                return classifier.predict(indices_values if scaler is None else scaler.transform(indices_values))
 
             print(indices_values)
