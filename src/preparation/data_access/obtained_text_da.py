@@ -81,7 +81,7 @@ class ObtainedTextDA:
                 row = {}
                 text_as_dict = t.to_dict()
                 
-                for key in ['id', 'grade', 'category', 'filename', 'cluster_grade']: # Add text's basic information
+                for key in ['id', 'grade', 'category', 'filename']: # Add text's basic information
                     row[key] = text_as_dict[key]
                 # Add the information of all indices
                 for index_key in ['descriptive_index', 'connective_index', 'lexical_diversity_index', 'readability_index', 'referential_cohesion_index', 'syntactic_complexity_index', 'syntactic_pattern_density_index', 'word_information_index']:

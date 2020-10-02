@@ -26,7 +26,6 @@ class ObtainedText(Base):
     filename = Column('FILENAME', String(256), nullable=False)
     grade = Column('GRADE', Integer, nullable=False)
     category = Column('CATEGORY', String, nullable=False)
-    cluster_grade = Column('CLUSTER_GRADE', Integer, nullable=True)
     sentence_pair = relationship('SentencePair', uselist=True, lazy='select', back_populates='obtained_text', cascade='save-update, delete, delete-orphan, merge')
     descriptive_index = relationship('DescriptiveIndex', uselist=False, lazy='joined', back_populates='obtained_text', cascade='save-update, delete, delete-orphan, merge')
     connective_index = relationship('ConnectiveIndex', uselist=False, lazy='joined', back_populates='obtained_text', cascade='save-update, delete, delete-orphan, merge')
@@ -53,7 +52,6 @@ class ObtainedText(Base):
             'filename': self.filename,
             'grade': self.grade,
             'category': self.category,
-            'cluster_grade': self.cluster_grade,
             'descriptive_index': None if self.descriptive_index is None else self.descriptive_index.to_dict(),
             'connective_index': None if self.connective_index is None else self.connective_index.to_dict(),
             'lexical_diversity_index': None if self.lexical_diversity_index is None else self.lexical_diversity_index.to_dict(),
