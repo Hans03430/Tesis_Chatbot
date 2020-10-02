@@ -10,7 +10,7 @@ from src.processing.text_complexity_analyzer import TextComplexityAnalyzer
 import pickle
 
 print(BASE_DIRECTORY)
-texts = ObtainedTextDA().select_all_as_dataframe().drop(columns=['id', 'filename', 'category', 'cluster_grade'])
+texts = ObtainedTextDA().select_all_as_dataframe().drop(columns=['id', 'filename', 'category'])
 data_columns = [c for c in texts.columns if c not in ['category', 'filename', 'grade', 'id']]
 # SCALER
 scaler = MinMaxScaler()

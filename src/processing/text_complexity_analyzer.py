@@ -298,7 +298,7 @@ class TextComplexityAnalyzer:
             readability = self.calculate_readability_indices_for_one_text(text, workers=workers, mean_words_per_sentence=mean_words_per_sentence, mean_syllables_per_word=mean_syllables_per_word)
             referential_cohesion = self.calculate_referential_cohesion_indices_for_one_text(text=text, workers=workers)
             end = time.time()
-            print(f'Text analized in {end - start} seconds.')
+            print(f'Text analyzed in {end - start} seconds.')
 
             return descriptive, word_information, syntactic_pattern, syntactic_complexity, connective, lexical_diversity, readability, referential_cohesion
 
