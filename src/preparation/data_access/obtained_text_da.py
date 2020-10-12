@@ -2,6 +2,8 @@ import pandas as pd
 
 from src.preparation import session
 from src.preparation.models.obtained_text import ObtainedText
+from src.preparation.utils import clean_string_from_punctuation
+from typing import Iterable
 from typing import List
 
 class ObtainedTextDA:
@@ -96,3 +98,23 @@ class ObtainedTextDA:
         except Exception as e:
             raise e
 
+    def select_all_sentence_pairs_clean_as_list(self) -> Iterable:
+        '''
+        This method returns all sentence pairs of all texts, clean from punctuation.
+
+        Parameters:
+        None:
+
+        Returns:
+        Iterable: An iterable with the sentence pairs as a list.
+        '''
+        try: # Get all texts
+            texts = self.select_all()
+        except Exception as e:
+            raise e
+
+        return ([clean_string_from_punctuation(sp.first), clean_string_from_punctuation(sp.second)]
+                for t in texts
+                for sp in t.sentence_pair
+               )
+        

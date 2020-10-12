@@ -1,6 +1,7 @@
 '''
 This module contains generic functions to reutilze across the "preparation" module.
 '''
+import re
 
 from aiofile import AIOFile
 
@@ -17,3 +18,15 @@ async def obtain_text_file_as_string(file_path: str) -> str:
     async with AIOFile(file_path, 'r') as text_file:
         text_string = await text_file.read()
         return text_string
+
+def clean_string_from_punctuation(text: str) -> str:
+    '''
+    This function removes punctuation from a string.
+    
+    Parameters:
+    text(str): The string to clean.
+
+    Returns:
+    str: The cleaned string.
+    '''
+    return re.sub(r'[^\w\s]', ' ', text)
