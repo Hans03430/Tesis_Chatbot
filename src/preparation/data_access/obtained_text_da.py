@@ -98,12 +98,12 @@ class ObtainedTextDA:
         except Exception as e:
             raise e
 
-    def select_all_sentence_pairs_clean_as_list(self) -> Iterable:
+    def select_all_sentence_pairs_by_grade_clean_as_list(self, grade: int) -> Iterable:
         '''
         This method returns all sentence pairs of all texts, clean from punctuation.
 
         Parameters:
-        None:
+        grade(int): The grade or text complexity of the texts.
 
         Returns:
         Iterable: An iterable with the sentence pairs as a list.
@@ -116,5 +116,6 @@ class ObtainedTextDA:
         return ([clean_string_from_punctuation(sp.first), clean_string_from_punctuation(sp.second)]
                 for t in texts
                 for sp in t.sentence_pair
+                if t.grade == grade
                )
         
