@@ -2,8 +2,8 @@ import multiprocessing
 
 from typing import Tuple
 
-import numpy as np
 import spacy
+import statistics
 
 from spacy.tokens import Span
 from src.processing.constants import ACCEPTED_LANGUAGES
@@ -62,7 +62,7 @@ class SyntacticComplexityIndices:
             for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads):
                 modifiers_per_noun_phrase.extend(doc._.feature_count)
                 
-            return np.mean(modifiers_per_noun_phrase)
+            return statistics.mean(modifiers_per_noun_phrase)
 
     def get_mean_number_of_words_before_main_verb(self, text: str, workers: int=-1) -> float:
         '''
@@ -91,7 +91,7 @@ class SyntacticComplexityIndices:
             for doc in self._nlp.pipe(paragraphs, batch_size=threads, disable=disable_pipeline, n_process=threads): # Calculate with multiprocessing 
                 words_before_main_verb.extend(doc._.feature_count)
         
-            return np.mean(words_before_main_verb)
+            return statistics.mean(words_before_main_verb)
 
 def amount_of_words_before_main_verb(sentence: Span) -> int:
     '''

@@ -33,5 +33,7 @@ X_train, X_test, y_train, y_test = train_test_split(texts[data_columns], texts[[
 #y_pred = lr.predict(X_test)
 #print_scores(y_test, y_pred)
 
-tca = TextComplexityAnalyzer('es')
-print(tca.predict_text_category(text='Hola a todos como están. Hoy es un día muy hermoso.'))
+with open('/home/hans/Proyectos/Python/Tesis_Chatbot/data/raw/txt/1/Historia, Geografía y Economía/atahualpa.txt', 'r') as file:
+    text = file.read()
+    tca = TextComplexityAnalyzer('es')
+    print(tca.calculate_all_indices_for_one_text(text=text, workers=-1))

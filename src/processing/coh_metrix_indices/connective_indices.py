@@ -1,7 +1,6 @@
 import multiprocessing
 import pyphen
 import spacy
-import statistics
 import string
 
 from typing import Callable

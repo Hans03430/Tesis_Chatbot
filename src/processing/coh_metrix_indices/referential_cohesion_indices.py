@@ -1,7 +1,6 @@
 import multiprocessing
-import numpy as np
-
 import spacy
+import statistics
 
 from itertools import combinations
 from spacy.tokens import Span
@@ -64,10 +63,10 @@ class ReferentialCohesionIndices:
                 return stat_results
             else:
                 if statistic_type in ['mean', 'all']:
-                    stat_results.mean = np.mean(doc._.referential_cohesion_adjacent)
+                    stat_results.mean = statistics.mean(doc._.referential_cohesion_adjacent)
 
                 if statistic_type in ['std', 'all']:
-                    stat_results.std = np.std(doc._.referential_cohesion_adjacent)
+                    stat_results.std = statistics.pstdev(doc._.referential_cohesion_adjacent)
                 
                 return stat_results
 
@@ -99,10 +98,10 @@ class ReferentialCohesionIndices:
                 return stat_results
             else:
                 if statistic_type in ['mean', 'all']:
-                    stat_results.mean = np.mean(doc._.referential_cohesion_all)
+                    stat_results.mean = statistics.mean(doc._.referential_cohesion_all)
 
                 if statistic_type in ['std', 'all']:
-                    stat_results.std = np.std(doc._.referential_cohesion_all)
+                    stat_results.std = statistics.pstdev(doc._.referential_cohesion_all)
                 
                 return stat_results
 

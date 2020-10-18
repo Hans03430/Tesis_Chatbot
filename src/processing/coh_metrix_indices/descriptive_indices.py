@@ -1,6 +1,6 @@
 import multiprocessing
-import numpy as np
 import spacy
+import statistics
 import string
 
 from typing import Callable
@@ -143,10 +143,10 @@ class DescriptiveIndices:
 
             stat_results = StatisticsResults()
             if statistic_type in ['std', 'all']:
-                stat_results.std = np.std(counter)
+                stat_results.std = statistics.pstdev(counter)
             
             if statistic_type in ['mean', 'all']:
-                stat_results.mean = np.mean(counter)
+                stat_results.mean = statistics.mean(counter)
 
             return stat_results
 
