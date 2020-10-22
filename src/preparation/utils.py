@@ -2,6 +2,7 @@
 This module contains generic functions to reutilze across the "preparation" module.
 '''
 import re
+import spacy
 
 from aiofile import AIOFile
 
@@ -19,9 +20,9 @@ async def obtain_text_file_as_string(file_path: str) -> str:
         text_string = await text_file.read()
         return text_string
 
-def clean_string_from_punctuation(text: str) -> str:
+def clean_string(text: str) -> str:
     '''
-    This function removes punctuation from a string.
+    This function cleans a string.
     
     Parameters:
     text(str): The string to clean.
@@ -29,4 +30,15 @@ def clean_string_from_punctuation(text: str) -> str:
     Returns:
     str: The cleaned string.
     '''
-    return re.sub(r'[^\w\s]', ' ', text)
+    if not hasattr(clean_string, 'nlp'): # To clean stop words
+        print('Creating nlp model.')
+        clean_string.nlp = spacy.load('es_core_news_lg')
+
+    doc = clean_string.nlp(text)
+    joined =  ' '.join([token.text
+                        for token in doc
+                        if not token.is_stop
+                    ])
+    clean = re.sub(r'[^\w\s]', ' ', joined).strip()
+    clean = re.sub(r'\s\s*', ' ', clean)
+    return clean

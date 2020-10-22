@@ -2,7 +2,7 @@ import pandas as pd
 
 from src.preparation import session
 from src.preparation.models.obtained_text import ObtainedText
-from src.preparation.utils import clean_string_from_punctuation
+from src.preparation.utils import clean_string
 from typing import Iterable
 from typing import List
 
@@ -100,7 +100,7 @@ class ObtainedTextDA:
 
     def select_all_sentence_pairs_by_grade_clean_as_list(self, grade: int) -> Iterable:
         '''
-        This method returns all sentence pairs of all texts, clean from punctuation.
+        This method returns all sentence pairs of all texts from a certain grade, clean from punctuation.
 
         Parameters:
         grade(int): The grade or text complexity of the texts.
@@ -119,3 +119,23 @@ class ObtainedTextDA:
                 if t.grade == grade
                )
         
+    def select_all_sentence_pairs_by_grade_and_category(self, grade: int, category: str) -> Iterable:
+        '''
+        This method returns all sentence pairs of all texts from a certain grade and category, clean from punctuation.
+
+        Parameters:
+        grade(int): The grade or text complexity of the texts.
+
+        Returns:
+        Iterable: An iterable with the sentence pairs as a list.
+        '''
+        try: # Get all texts
+            texts = self.select_all()
+        except Exception as e:
+            raise e
+
+        return ([clean_string(sp.first), clean_string(sp.second)]
+                for t in texts
+                for sp in t.sentence_pair
+                if t.grade == grade and t.category == category
+               )
