@@ -32,12 +32,12 @@ def clean_string(text: str) -> str:
     '''
     if not hasattr(clean_string, 'nlp'): # To clean stop words
         print('Creating nlp model.')
-        clean_string.nlp = spacy.load('es_core_news_lg')
+        clean_string.nlp = spacy.load('es_core_news_lg', disable=['parser', 'tagger', 'ner'])
 
     doc = clean_string.nlp(text)
     joined =  ' '.join([token.text
                         for token in doc
-                        if not token.is_stop
+                        if token.is_alpha
                     ])
     clean = re.sub(r'[^\w\s]', ' ', joined).strip()
     clean = re.sub(r'\s\s*', ' ', clean)
