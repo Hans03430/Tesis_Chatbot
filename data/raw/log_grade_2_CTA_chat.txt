@@ -1,0 +1,73 @@
+
+Loading vocabulary...
+
+Initializing model...
+
+
+Loading model weights...
+
+
+
+Commands:
+-----------General-----------------
+--help (Show this list of commands)                             --reset (Reset to default settings from hparams.json [*]);
+--exit (Quit);
+
+-----------Chat Options:-----------
+--enableautopunct (Auto add punctuation to questions);          --disableautopunct (Enter punctuation exactly as typed);
+--enablenormwords (Auto replace 'don't' with 'do not', etc.);   --disablenormwords (Enter words exactly as typed);
+--showquestioncontext (Show conversation history as context);   --hidequestioncontext (Show questions only);
+--showbeams (Output all predicted beams);                       --hidebeams (Output only the highest ranked beam);
+--convhistlength=N (Set conversation history length to N);      --clearconvhist (Clear history and start a new conversation);
+
+-----------Model Options:----------
+--beamwidth=N (Set beam width to N. 0 disables beamsearch [*]); --beamlenpenalty=N (Set beam length penalty to N);
+--enablesampling (Use sampling decoder if beamwidth=0 [*]);     --disableasampling (Use greedy decoder if beamwidth=0 [*]);
+--samplingtemp=N (Set sampling temperature to N);               --maxanswerlen=N (Set max words in answer to N);
+
+
+[*] Causes model to reload
+
+
+You: [Conversation history length set to 2.]
+You: ChatBot: y personas agua y plantas extinguen y desaparecen
+
+You: ChatBot: actividad campo actividad y operaciones función función y problemas problemas y problemas
+
+You: ChatBot: e e p e ia e n c ia d e a p r e n d iz a j e grupo y responde elaborar a conversar
+
+You: ChatBot: estructura distancia y aliados siguientes y adolescentes
+
+You: ChatBot: c ie n c ia t e c n o g ía y s a lu d actividad portafolio evidencias considerando edad años a tasa tasa basal kcal kcal kcal kcal
+
+You: ChatBot: años resultados y energía ci ci ci a a disminuye disminuye reducción atmósfera d d d ia n n c ia d c l p r r e e d
+
+You: ChatBot: a gr íc
+
+You: ChatBot: a información o c c c c ia t e c n o g ía y s a lu d d evidencias etapas etapas digestivo digestivo ingestión diverso semejanzas diferencias diferencias
+
+You: ChatBot: guia am n implícitos nt energía energía m m s a rr o ll o p e rs o n a l y c iu d a d
+
+You: ChatBot: pequeños estrategias estrategias ci ón a a a o b b du dulia x ll p p e rs o n a l y c d a d d d
+
+You: ChatBot: mayoría
+
+You: ChatBot: portafolio portafolio m c ia t e c n o g ía y s a lu d portafolio portafolio evidencias incluye edad años a tasa metabolismo basal kcal kcal kcal
+
+You: ChatBot: guia climático dirección ci física m m m ia t o o ll o p e rs n n a l y c iu d a d a n
+
+You: ChatBot: mayoría estrategias estrategias responsabilidad alimentos a prohibida y cultura cultura diversas e e iguales dignidad derechos derechos y dotados razón y conciencia conciencia comportarse
+
+You: ChatBot: considerando a saludable a saludable y a a a desastres desastres e e dignidad dignidad n n n ia d e a p r r d d d iz a
+
+You: ChatBot: expresa
+
+You: ChatBot: actividad portafolio evidencias actividad portafolio portafolio evidencias c evidencias c d d s o s o in is r y d d e e tr c tr c
+
+You: ChatBot: a evitar estrategias y mejores adolescentes a adolescentes indagación
+
+You: ChatBot: a o a alimentos ambiental ambiental y a riesgo riesgo y zonas zonas derecho higiene
+
+You: ChatBot: e ciente transparente y descentralizado vital cumpla cumpla eficiente y transparente ponerse servicio
+
+You: 

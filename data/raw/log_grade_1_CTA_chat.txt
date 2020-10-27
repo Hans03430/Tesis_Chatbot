@@ -1,0 +1,73 @@
+
+Loading vocabulary...
+
+Initializing model...
+
+
+Loading model weights...
+
+
+
+Commands:
+-----------General-----------------
+--help (Show this list of commands)                             --reset (Reset to default settings from hparams.json [*]);
+--exit (Quit);
+
+-----------Chat Options:-----------
+--enableautopunct (Auto add punctuation to questions);          --disableautopunct (Enter punctuation exactly as typed);
+--enablenormwords (Auto replace 'don't' with 'do not', etc.);   --disablenormwords (Enter words exactly as typed);
+--showquestioncontext (Show conversation history as context);   --hidequestioncontext (Show questions only);
+--showbeams (Output all predicted beams);                       --hidebeams (Output only the highest ranked beam);
+--convhistlength=N (Set conversation history length to N);      --clearconvhist (Clear history and start a new conversation);
+
+-----------Model Options:----------
+--beamwidth=N (Set beam width to N. 0 disables beamsearch [*]); --beamlenpenalty=N (Set beam length penalty to N);
+--enablesampling (Use sampling decoder if beamwidth=0 [*]);     --disableasampling (Use greedy decoder if beamwidth=0 [*]);
+--samplingtemp=N (Set sampling temperature to N);               --maxanswerlen=N (Set max words in answer to N);
+
+
+[*] Causes model to reload
+
+
+You: [Conversation history length set to 2.]
+You: ChatBot: razón niños niñas adolescentes o adultos estudiantes o trabajadores debemos promover y fortalecer garanticen garanticen cumplimiento siguientes siguientes y derecho justicia y y desarrollo peruanos peruanos
+
+You: ChatBot: padres derecho libertades a escoger tipo a a a a a I I I I I I I e e e e e e e e e e z z z z
+
+You: ChatBot: energía energía energía energía solar solar y sol sol sol sol energía energía energía energía energía energía energía energía energía energía energía energía energía energía energía energía energía energía energía energía y y y respondemos respondemos respondemos comunidad comunidad comunidad comunidad comunidad comunidad y comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad y comunidad comunidad comunidad comunidad comunidad comunidad y comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad y comunidad comunidad comunidad comunidad comunidad y comunidad comunidad comunidad comunidad comunidad y comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad comunidad
+
+You: ChatBot: actividad actividad actividad actividad actividad actividad actividad
+
+You: ChatBot: identificar tipos aprendimos
+
+You: ChatBot: a
+
+You: ChatBot: impondrá y
+
+You: ChatBot: y y tecnologia
+
+You: ChatBot: útil
+
+You: ChatBot: a
+
+You: ChatBot: y y
+
+You: ChatBot: importantes
+
+You: ChatBot: a a a a e n n d d t t r b b a o o energía energía energía energía energía energía energía
+
+You: ChatBot: energía energía energía energía
+
+You: ChatBot: energía
+
+You: ChatBot: energía
+
+You: ChatBot: a
+
+You: ChatBot: a a
+
+You: ChatBot: alcanzaremos y
+
+You: ChatBot: a
+
+You: 
