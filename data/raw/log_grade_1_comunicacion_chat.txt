@@ -1,0 +1,73 @@
+
+Loading vocabulary...
+
+Initializing model...
+
+
+Loading model weights...
+
+
+
+Commands:
+-----------General-----------------
+--help (Show this list of commands)                             --reset (Reset to default settings from hparams.json [*]);
+--exit (Quit);
+
+-----------Chat Options:-----------
+--enableautopunct (Auto add punctuation to questions);          --disableautopunct (Enter punctuation exactly as typed);
+--enablenormwords (Auto replace 'don't' with 'do not', etc.);   --disablenormwords (Enter words exactly as typed);
+--showquestioncontext (Show conversation history as context);   --hidequestioncontext (Show questions only);
+--showbeams (Output all predicted beams);                       --hidebeams (Output only the highest ranked beam);
+--convhistlength=N (Set conversation history length to N);      --clearconvhist (Clear history and start a new conversation);
+
+-----------Model Options:----------
+--beamwidth=N (Set beam width to N. 0 disables beamsearch [*]); --beamlenpenalty=N (Set beam length penalty to N);
+--enablesampling (Use sampling decoder if beamwidth=0 [*]);     --disableasampling (Use greedy decoder if beamwidth=0 [*]);
+--samplingtemp=N (Set sampling temperature to N);               --maxanswerlen=N (Set max words in answer to N);
+
+
+[*] Causes model to reload
+
+
+You: [Conversation history length set to 2.]
+You: ChatBot: que es lo que más le gusta hacer
+
+You: ChatBot: comunicacion en grupo el objeto en la página en nuestro cuaderno o en nuestro cd
+
+You: ChatBot: en qué trata del texto
+
+You: ChatBot: qué tipo de texto voy a leer
+
+You: ChatBot: cómo se sintieron la actitud
+
+You: ChatBot: paso o m u n n a c ió n el texto de manera silenciosa
+
+You: ChatBot: oralmente oralmente oralmente
+
+You: ChatBot: ubicar qué puedes hacer para aprender lo que te faltó
+
+You: ChatBot: comunicacion en esta actividad aprenderemos lo siguiente qué aprenderemos en esta actividad
+
+You: ChatBot: comunicacion qué aprendimos en esta unidad
+
+You: ChatBot: qué tipo de texto vamos a escribir
+
+You: ChatBot: con su profesora o profesor y sus compañeras y compañeros
+
+You: ChatBot: comunicacion leemos los acuerdos de convivencia que necesitamos para trabajar en grupo
+
+You: ChatBot: d o m u n ic a c ió n el siguiente esquema
+
+You: ChatBot: oralmente la situación
+
+You: ChatBot: lo que dice esteban y respondan las preguntas
+
+You: ChatBot: comunicacion
+
+You: ChatBot: para qué voy a escribir este texto
+
+You: ChatBot: qué tipo de texto vamos a leer
+
+You: ChatBot: comunicacion qué tipo en esta unidad
+
+You: 
