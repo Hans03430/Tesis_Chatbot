@@ -113,7 +113,7 @@ class ObtainedTextDA:
         except Exception as e:
             raise e
 
-        return ([clean_string_from_punctuation(sp.first), clean_string_from_punctuation(sp.second)]
+        return ([clean_string(sp.first), clean_string(sp.second)]
                 for t in texts
                 for sp in t.sentence_pair
                 if t.grade == grade

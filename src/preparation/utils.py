@@ -37,7 +37,7 @@ def clean_string(text: str) -> str:
     doc = clean_string.nlp(text)
     joined =  ' '.join([token.text
                         for token in doc
-                        if token.is_alpha and not token.is_stop
+                        if token.is_alpha
                     ])
     clean = re.sub(r'[^\w\s]', ' ', joined).strip()
     clean = re.sub(r'\s\s*', ' ', clean)
