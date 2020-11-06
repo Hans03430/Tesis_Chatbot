@@ -1,0 +1,73 @@
+
+Loading vocabulary...
+
+Initializing model...
+
+
+Loading model weights...
+
+
+
+Commands:
+-----------General-----------------
+--help (Show this list of commands)                             --reset (Reset to default settings from hparams.json [*]);
+--exit (Quit);
+
+-----------Chat Options:-----------
+--enableautopunct (Auto add punctuation to questions);          --disableautopunct (Enter punctuation exactly as typed);
+--enablenormwords (Auto replace 'don't' with 'do not', etc.);   --disablenormwords (Enter words exactly as typed);
+--showquestioncontext (Show conversation history as context);   --hidequestioncontext (Show questions only);
+--showbeams (Output all predicted beams);                       --hidebeams (Output only the highest ranked beam);
+--convhistlength=N (Set conversation history length to N);      --clearconvhist (Clear history and start a new conversation);
+
+-----------Model Options:----------
+--beamwidth=N (Set beam width to N. 0 disables beamsearch [*]); --beamlenpenalty=N (Set beam length penalty to N);
+--enablesampling (Use sampling decoder if beamwidth=0 [*]);     --disableasampling (Use greedy decoder if beamwidth=0 [*]);
+--samplingtemp=N (Set sampling temperature to N);               --maxanswerlen=N (Set max words in answer to N);
+
+
+[*] Causes model to reload
+
+
+You: [Conversation history length set to 2.]
+You: ChatBot: proyección historia a a a a y a a a carne esfera a a w agua años a a a a loa mansedumbre y y y y y halagüeña halagüeña halagüeña
+
+You: ChatBot: a a a procedentes a a a a a a a a a a a a y y a a a a y y y y y y y y a a a
+
+You: ChatBot: a a a procedentes a a a a a a a a a a a a y y y y y y y y y y y y y a a educacion
+
+You: ChatBot: a a a japón a a a a a a a a a a a a y y y y y y y y y y y y y a a a
+
+You: ChatBot: a a a japón a a a a a a a a a a a a y y y y y y y y y y y y y a a a
+
+You: ChatBot: a a a procedentes a a a a a a a a a a a a y y y y y y y y y y y y y a a educacion
+
+You: ChatBot: a a a procedentes a a a a a a a a a a a a y y y y y y y y y y y y y a a educacion
+
+You: ChatBot: a a a japón a a a a a a a a a a a a y y y y y y y y y y y y y a a a
+
+You: ChatBot: a a sana procedentes a a a a a a a a a a a y y y y y y y y y y y y y y a a educacion
+
+You: ChatBot: a a a procedentes a a a a a a a a a a a y y y y y y y y y y y y y y a a educacion
+
+You: ChatBot: a a a procedentes a a a a a a a a a a a a y y y y y y y y y y y y y a a educacion
+
+You: ChatBot: a a sana procedentes a a a a a a a a a a a y y y y y y y y y y y y y y a a educacion
+
+You: ChatBot: a a enterarse procedentes a a a a a a a a a a a y y y y a y y y y y y y y y a a educacion a
+
+You: ChatBot: a a a japón a a a a a a a a a a a a y y y y y y y y y y y y y a a a
+
+You: ChatBot: a a a a a a a a a a a a a a a a y y y y y y y y y y y y y concurrentes a a
+
+You: ChatBot: a a a japón a a a a a a a a a a a a y y y y y y y y y y y y y a a a
+
+You: ChatBot: a a a procedentes a a a a a a a a a a a a y y y y y y y y y y y y y a a educacion
+
+You: ChatBot: a a a japón a a a a a a a a a a a a y y y y y y y y y y y y y a a a
+
+You: ChatBot: a a a japón a a a a a a a a a a a a y y y y y y y y y y y y y a a a
+
+You: ChatBot: a a a japón a a a a a a a a a a a a y y y y y y y y y y y y y a a a
+
+You: 

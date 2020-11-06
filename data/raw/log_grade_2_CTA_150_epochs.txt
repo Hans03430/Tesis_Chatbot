@@ -1,0 +1,795 @@
+
+Reading dataset 'csv'...
+
+Final shared vocab size: 21459
+
+Splitting 19344 samples into training & validation sets (20.0% used for validation)...
+Training set: 15476 samples. Validation set: 3868 samples.
+Sorting training & validation sets to increase training efficiency...
+Initializing model...
+
+
+Creating checkpoint batch files...
+Initializing training...
+Epochs: 150
+Batch Size: 128
+Optimizer: sgd
+Epoch:   1/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  8.819, Training Time: 33 seconds), Stats for epoch: (Training Loss:  8.819, Training Time: 33 seconds)
+Epoch:   1/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  8.353, Training Time: 8 seconds), Stats for epoch: (Training Loss:  8.738, Training Time: 42 seconds)
+Epoch:   1/150, Validation loss:  8.293, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  1.000 to  0.998
+Training loss improved!
+Validation loss improved!
+Epoch:   2/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  8.055, Training Time: 30 seconds), Stats for epoch: (Training Loss:  8.055, Training Time: 30 seconds)
+Epoch:   2/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  8.019, Training Time: 8 seconds), Stats for epoch: (Training Loss:  8.048, Training Time: 39 seconds)
+Epoch:   2/150, Validation loss:  7.973, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.998 to  0.995
+Training loss improved!
+Validation loss improved!
+Epoch:   3/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.879, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.879, Training Time: 30 seconds)
+Epoch:   3/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.843, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.872, Training Time: 39 seconds)
+Epoch:   3/150, Validation loss:  7.940, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.995 to  0.993
+Training loss improved!
+Validation loss improved!
+Epoch:   4/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.783, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.783, Training Time: 30 seconds)
+Epoch:   4/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.787, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.783, Training Time: 39 seconds)
+Epoch:   4/150, Validation loss:  7.856, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.993 to  0.990
+Training loss improved!
+Validation loss improved!
+Epoch:   5/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.714, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.714, Training Time: 30 seconds)
+Epoch:   5/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.750, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.720, Training Time: 39 seconds)
+Epoch:   5/150, Validation loss:  7.716, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.990 to  0.988
+Training loss improved!
+Validation loss improved!
+Epoch:   6/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.655, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.655, Training Time: 30 seconds)
+Epoch:   6/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.692, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.661, Training Time: 39 seconds)
+Epoch:   6/150, Validation loss:  7.656, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.988 to  0.985
+Training loss improved!
+Validation loss improved!
+Epoch:   7/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.610, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.610, Training Time: 30 seconds)
+Epoch:   7/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.636, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.614, Training Time: 39 seconds)
+Epoch:   7/150, Validation loss:  7.750, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.985 to  0.983
+Training loss improved!
+Epoch:   8/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.567, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.567, Training Time: 30 seconds)
+Epoch:   8/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.592, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.572, Training Time: 39 seconds)
+Epoch:   8/150, Validation loss:  7.767, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.983 to  0.980
+Training loss improved!
+Epoch:   9/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.533, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.533, Training Time: 30 seconds)
+Epoch:   9/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.569, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.540, Training Time: 39 seconds)
+Epoch:   9/150, Validation loss:  7.657, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.980 to  0.978
+Training loss improved!
+Epoch:  10/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.493, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.493, Training Time: 30 seconds)
+Epoch:  10/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.528, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.499, Training Time: 39 seconds)
+Epoch:  10/150, Validation loss:  7.739, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.978 to  0.975
+Training loss improved!
+Epoch:  11/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.462, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.462, Training Time: 30 seconds)
+Epoch:  11/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.512, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.470, Training Time: 39 seconds)
+Epoch:  11/150, Validation loss:  7.643, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.975 to  0.973
+Training loss improved!
+Validation loss improved!
+Epoch:  12/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.429, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.429, Training Time: 30 seconds)
+Epoch:  12/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.469, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.436, Training Time: 39 seconds)
+Epoch:  12/150, Validation loss:  7.574, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.973 to  0.970
+Training loss improved!
+Validation loss improved!
+Epoch:  13/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.396, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.396, Training Time: 30 seconds)
+Epoch:  13/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.446, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.405, Training Time: 39 seconds)
+Epoch:  13/150, Validation loss:  7.536, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.970 to  0.968
+Training loss improved!
+Validation loss improved!
+Epoch:  14/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.371, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.371, Training Time: 30 seconds)
+Epoch:  14/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.409, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.377, Training Time: 39 seconds)
+Epoch:  14/150, Validation loss:  7.684, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.968 to  0.966
+Training loss improved!
+Epoch:  15/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.352, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.352, Training Time: 30 seconds)
+Epoch:  15/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.416, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.363, Training Time: 39 seconds)
+Epoch:  15/150, Validation loss:  7.517, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.966 to  0.963
+Training loss improved!
+Validation loss improved!
+Epoch:  16/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.316, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.316, Training Time: 30 seconds)
+Epoch:  16/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.334, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.319, Training Time: 39 seconds)
+Epoch:  16/150, Validation loss:  7.521, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.963 to  0.961
+Training loss improved!
+Epoch:  17/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.298, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.298, Training Time: 30 seconds)
+Epoch:  17/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.311, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.300, Training Time: 39 seconds)
+Epoch:  17/150, Validation loss:  7.544, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.961 to  0.958
+Training loss improved!
+Epoch:  18/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.261, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.261, Training Time: 30 seconds)
+Epoch:  18/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.303, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.268, Training Time: 39 seconds)
+Epoch:  18/150, Validation loss:  7.571, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.958 to  0.956
+Training loss improved!
+Epoch:  19/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.242, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.242, Training Time: 30 seconds)
+Epoch:  19/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.253, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.244, Training Time: 39 seconds)
+Epoch:  19/150, Validation loss:  7.527, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.956 to  0.954
+Training loss improved!
+Epoch:  20/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.214, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.214, Training Time: 30 seconds)
+Epoch:  20/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.236, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.218, Training Time: 39 seconds)
+Epoch:  20/150, Validation loss:  7.496, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.954 to  0.951
+Training loss improved!
+Validation loss improved!
+Epoch:  21/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.182, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.182, Training Time: 30 seconds)
+Epoch:  21/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.195, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.184, Training Time: 39 seconds)
+Epoch:  21/150, Validation loss:  7.616, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.951 to  0.949
+Training loss improved!
+Epoch:  22/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.156, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.156, Training Time: 30 seconds)
+Epoch:  22/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.224, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.168, Training Time: 39 seconds)
+Epoch:  22/150, Validation loss:  7.549, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.949 to  0.946
+Training loss improved!
+Epoch:  23/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.122, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.122, Training Time: 30 seconds)
+Epoch:  23/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.165, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.129, Training Time: 39 seconds)
+Epoch:  23/150, Validation loss:  7.618, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.946 to  0.944
+Training loss improved!
+Epoch:  24/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.101, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.101, Training Time: 30 seconds)
+Epoch:  24/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.072, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.096, Training Time: 39 seconds)
+Epoch:  24/150, Validation loss:  7.448, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.944 to  0.942
+Training loss improved!
+Validation loss improved!
+Epoch:  25/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.047, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.047, Training Time: 30 seconds)
+Epoch:  25/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.117, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.059, Training Time: 39 seconds)
+Epoch:  25/150, Validation loss:  7.501, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.942 to  0.939
+Training loss improved!
+Epoch:  26/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  7.041, Training Time: 30 seconds), Stats for epoch: (Training Loss:  7.041, Training Time: 30 seconds)
+Epoch:  26/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  7.042, Training Time: 8 seconds), Stats for epoch: (Training Loss:  7.041, Training Time: 39 seconds)
+Epoch:  26/150, Validation loss:  7.494, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.939 to  0.937
+Training loss improved!
+Epoch:  27/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.984, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.984, Training Time: 30 seconds)
+Epoch:  27/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.996, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.986, Training Time: 39 seconds)
+Epoch:  27/150, Validation loss:  7.487, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.937 to  0.935
+Training loss improved!
+Epoch:  28/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.931, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.931, Training Time: 30 seconds)
+Epoch:  28/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.927, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.930, Training Time: 39 seconds)
+Epoch:  28/150, Validation loss:  7.508, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.935 to  0.932
+Training loss improved!
+Epoch:  29/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.880, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.880, Training Time: 30 seconds)
+Epoch:  29/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.918, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.887, Training Time: 39 seconds)
+Epoch:  29/150, Validation loss:  7.515, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.932 to  0.930
+Training loss improved!
+Epoch:  30/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.848, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.848, Training Time: 30 seconds)
+Epoch:  30/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.827, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.845, Training Time: 39 seconds)
+Epoch:  30/150, Validation loss:  7.458, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.930 to  0.928
+Training loss improved!
+Epoch:  31/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.815, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.815, Training Time: 30 seconds)
+Epoch:  31/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.733, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.801, Training Time: 39 seconds)
+Epoch:  31/150, Validation loss:  7.443, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.928 to  0.925
+Training loss improved!
+Validation loss improved!
+Epoch:  32/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.755, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.755, Training Time: 30 seconds)
+Epoch:  32/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.795, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.762, Training Time: 39 seconds)
+Epoch:  32/150, Validation loss:  7.396, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.925 to  0.923
+Training loss improved!
+Validation loss improved!
+Epoch:  33/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.720, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.720, Training Time: 30 seconds)
+Epoch:  33/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.651, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.708, Training Time: 39 seconds)
+Epoch:  33/150, Validation loss:  7.439, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.923 to  0.921
+Training loss improved!
+Epoch:  34/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.681, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.681, Training Time: 30 seconds)
+Epoch:  34/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.666, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.679, Training Time: 39 seconds)
+Epoch:  34/150, Validation loss:  7.448, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.921 to  0.918
+Training loss improved!
+Epoch:  35/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.641, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.641, Training Time: 30 seconds)
+Epoch:  35/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.595, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.633, Training Time: 39 seconds)
+Epoch:  35/150, Validation loss:  7.423, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.918 to  0.916
+Training loss improved!
+Epoch:  36/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.620, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.620, Training Time: 30 seconds)
+Epoch:  36/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.496, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.599, Training Time: 39 seconds)
+Epoch:  36/150, Validation loss:  7.389, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.916 to  0.914
+Training loss improved!
+Validation loss improved!
+Epoch:  37/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.555, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.555, Training Time: 30 seconds)
+Epoch:  37/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.533, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.552, Training Time: 39 seconds)
+Epoch:  37/150, Validation loss:  7.359, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.914 to  0.912
+Training loss improved!
+Validation loss improved!
+Epoch:  38/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.525, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.525, Training Time: 30 seconds)
+Epoch:  38/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.403, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.504, Training Time: 39 seconds)
+Epoch:  38/150, Validation loss:  7.360, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.912 to  0.909
+Training loss improved!
+Epoch:  39/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.479, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.479, Training Time: 30 seconds)
+Epoch:  39/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.383, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.463, Training Time: 39 seconds)
+Epoch:  39/150, Validation loss:  7.339, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.909 to  0.907
+Training loss improved!
+Validation loss improved!
+Epoch:  40/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.438, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.438, Training Time: 30 seconds)
+Epoch:  40/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.928, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.523, Training Time: 39 seconds)
+Epoch:  40/150, Validation loss:  7.642, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.907 to  0.905
+Epoch:  41/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.503, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.503, Training Time: 30 seconds)
+Epoch:  41/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.320, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.471, Training Time: 39 seconds)
+Epoch:  41/150, Validation loss:  7.364, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.905 to  0.902
+Epoch:  42/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.369, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.369, Training Time: 30 seconds)
+Epoch:  42/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.350, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.365, Training Time: 39 seconds)
+Epoch:  42/150, Validation loss:  7.308, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.902 to  0.900
+Training loss improved!
+Validation loss improved!
+Epoch:  43/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.331, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.331, Training Time: 30 seconds)
+Epoch:  43/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.232, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.314, Training Time: 39 seconds)
+Epoch:  43/150, Validation loss:  7.356, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.900 to  0.898
+Training loss improved!
+Epoch:  44/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.288, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.288, Training Time: 30 seconds)
+Epoch:  44/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.169, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.268, Training Time: 39 seconds)
+Epoch:  44/150, Validation loss:  7.384, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.898 to  0.896
+Training loss improved!
+Epoch:  45/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.242, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.242, Training Time: 30 seconds)
+Epoch:  45/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.252, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.244, Training Time: 39 seconds)
+Epoch:  45/150, Validation loss:  7.350, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.896 to  0.893
+Training loss improved!
+Epoch:  46/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.211, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.211, Training Time: 30 seconds)
+Epoch:  46/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.068, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.186, Training Time: 39 seconds)
+Epoch:  46/150, Validation loss:  7.297, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.893 to  0.891
+Training loss improved!
+Validation loss improved!
+Epoch:  47/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.165, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.165, Training Time: 30 seconds)
+Epoch:  47/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.023, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.140, Training Time: 39 seconds)
+Epoch:  47/150, Validation loss:  7.345, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.891 to  0.889
+Training loss improved!
+Epoch:  48/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.099, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.099, Training Time: 30 seconds)
+Epoch:  48/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  6.002, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.082, Training Time: 39 seconds)
+Epoch:  48/150, Validation loss:  7.263, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.889 to  0.887
+Training loss improved!
+Validation loss improved!
+Epoch:  49/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.076, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.076, Training Time: 30 seconds)
+Epoch:  49/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.908, Training Time: 8 seconds), Stats for epoch: (Training Loss:  6.047, Training Time: 39 seconds)
+Epoch:  49/150, Validation loss:  7.252, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.887 to  0.885
+Training loss improved!
+Validation loss improved!
+Epoch:  50/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  6.004, Training Time: 30 seconds), Stats for epoch: (Training Loss:  6.004, Training Time: 30 seconds)
+Epoch:  50/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.880, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.983, Training Time: 39 seconds)
+Epoch:  50/150, Validation loss:  7.245, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.885 to  0.882
+Training loss improved!
+Validation loss improved!
+Epoch:  51/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.949, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.949, Training Time: 30 seconds)
+Epoch:  51/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.795, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.922, Training Time: 39 seconds)
+Epoch:  51/150, Validation loss:  7.247, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.882 to  0.880
+Training loss improved!
+Epoch:  52/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.911, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.911, Training Time: 30 seconds)
+Epoch:  52/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.776, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.887, Training Time: 39 seconds)
+Epoch:  52/150, Validation loss:  7.258, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.880 to  0.878
+Training loss improved!
+Epoch:  53/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.860, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.860, Training Time: 30 seconds)
+Epoch:  53/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.677, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.828, Training Time: 39 seconds)
+Epoch:  53/150, Validation loss:  7.211, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.878 to  0.876
+Training loss improved!
+Validation loss improved!
+Epoch:  54/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.804, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.804, Training Time: 30 seconds)
+Epoch:  54/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.612, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.771, Training Time: 39 seconds)
+Epoch:  54/150, Validation loss:  7.204, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.876 to  0.874
+Training loss improved!
+Validation loss improved!
+Epoch:  55/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.749, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.749, Training Time: 30 seconds)
+Epoch:  55/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.617, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.726, Training Time: 39 seconds)
+Epoch:  55/150, Validation loss:  7.358, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.874 to  0.871
+Training loss improved!
+Epoch:  56/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.718, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.718, Training Time: 30 seconds)
+Epoch:  56/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.542, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.687, Training Time: 39 seconds)
+Epoch:  56/150, Validation loss:  7.190, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.871 to  0.869
+Training loss improved!
+Validation loss improved!
+Epoch:  57/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.652, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.652, Training Time: 30 seconds)
+Epoch:  57/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.510, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.627, Training Time: 39 seconds)
+Epoch:  57/150, Validation loss:  7.315, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.869 to  0.867
+Training loss improved!
+Epoch:  58/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.590, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.590, Training Time: 30 seconds)
+Epoch:  58/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.370, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.552, Training Time: 39 seconds)
+Epoch:  58/150, Validation loss:  7.264, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.867 to  0.865
+Training loss improved!
+Epoch:  59/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.541, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.541, Training Time: 30 seconds)
+Epoch:  59/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.388, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.515, Training Time: 39 seconds)
+Epoch:  59/150, Validation loss:  7.293, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.865 to  0.863
+Training loss improved!
+Epoch:  60/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.471, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.471, Training Time: 30 seconds)
+Epoch:  60/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.273, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.437, Training Time: 39 seconds)
+Epoch:  60/150, Validation loss:  7.419, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.863 to  0.861
+Training loss improved!
+Epoch:  61/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.432, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.432, Training Time: 30 seconds)
+Epoch:  61/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.247, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.400, Training Time: 39 seconds)
+Epoch:  61/150, Validation loss:  7.225, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.861 to  0.858
+Training loss improved!
+Epoch:  62/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.382, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.382, Training Time: 30 seconds)
+Epoch:  62/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.169, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.345, Training Time: 39 seconds)
+Epoch:  62/150, Validation loss:  7.330, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.858 to  0.856
+Training loss improved!
+Epoch:  63/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.316, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.316, Training Time: 30 seconds)
+Epoch:  63/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.111, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.281, Training Time: 39 seconds)
+Epoch:  63/150, Validation loss:  7.282, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.856 to  0.854
+Training loss improved!
+Epoch:  64/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.262, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.262, Training Time: 30 seconds)
+Epoch:  64/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  5.096, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.233, Training Time: 39 seconds)
+Epoch:  64/150, Validation loss:  7.369, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.854 to  0.852
+Training loss improved!
+Epoch:  65/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.204, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.204, Training Time: 30 seconds)
+Epoch:  65/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.957, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.161, Training Time: 39 seconds)
+Epoch:  65/150, Validation loss:  7.329, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.852 to  0.850
+Training loss improved!
+Epoch:  66/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.149, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.149, Training Time: 30 seconds)
+Epoch:  66/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.975, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.119, Training Time: 39 seconds)
+Epoch:  66/150, Validation loss:  7.345, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.850 to  0.848
+Training loss improved!
+Epoch:  67/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.096, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.096, Training Time: 30 seconds)
+Epoch:  67/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.876, Training Time: 8 seconds), Stats for epoch: (Training Loss:  5.057, Training Time: 39 seconds)
+Epoch:  67/150, Validation loss:  7.369, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.848 to  0.846
+Training loss improved!
+Epoch:  68/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  5.025, Training Time: 30 seconds), Stats for epoch: (Training Loss:  5.025, Training Time: 30 seconds)
+Epoch:  68/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.876, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.999, Training Time: 39 seconds)
+Epoch:  68/150, Validation loss:  7.364, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.846 to  0.843
+Training loss improved!
+Epoch:  69/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.960, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.960, Training Time: 30 seconds)
+Epoch:  69/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.754, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.925, Training Time: 39 seconds)
+Epoch:  69/150, Validation loss:  7.331, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.843 to  0.841
+Training loss improved!
+Epoch:  70/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.912, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.912, Training Time: 30 seconds)
+Epoch:  70/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.642, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.865, Training Time: 39 seconds)
+Epoch:  70/150, Validation loss:  7.268, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.841 to  0.839
+Training loss improved!
+Epoch:  71/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.859, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.859, Training Time: 30 seconds)
+Epoch:  71/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.599, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.814, Training Time: 39 seconds)
+Epoch:  71/150, Validation loss:  7.338, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.839 to  0.837
+Training loss improved!
+Epoch:  72/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.769, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.769, Training Time: 30 seconds)
+Epoch:  72/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.595, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.738, Training Time: 39 seconds)
+Epoch:  72/150, Validation loss:  7.311, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.837 to  0.835
+Training loss improved!
+Epoch:  73/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.717, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.717, Training Time: 30 seconds)
+Epoch:  73/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.545, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.687, Training Time: 39 seconds)
+Epoch:  73/150, Validation loss:  7.296, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.835 to  0.833
+Training loss improved!
+Epoch:  74/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.670, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.670, Training Time: 30 seconds)
+Epoch:  74/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.389, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.621, Training Time: 39 seconds)
+Epoch:  74/150, Validation loss:  7.335, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.833 to  0.831
+Training loss improved!
+Epoch:  75/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.613, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.613, Training Time: 30 seconds)
+Epoch:  75/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.285, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.556, Training Time: 39 seconds)
+Epoch:  75/150, Validation loss:  7.305, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.831 to  0.829
+Training loss improved!
+Epoch:  76/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.529, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.529, Training Time: 30 seconds)
+Epoch:  76/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.376, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.502, Training Time: 39 seconds)
+Epoch:  76/150, Validation loss:  7.324, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.829 to  0.827
+Training loss improved!
+Epoch:  77/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.456, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.456, Training Time: 30 seconds)
+Epoch:  77/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.242, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.419, Training Time: 39 seconds)
+Epoch:  77/150, Validation loss:  7.379, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.827 to  0.825
+Training loss improved!
+Epoch:  78/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.426, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.426, Training Time: 30 seconds)
+Epoch:  78/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.195, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.386, Training Time: 39 seconds)
+Epoch:  78/150, Validation loss:  7.340, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.825 to  0.823
+Training loss improved!
+Epoch:  79/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.368, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.368, Training Time: 30 seconds)
+Epoch:  79/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.078, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.318, Training Time: 39 seconds)
+Epoch:  79/150, Validation loss:  7.431, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.823 to  0.821
+Training loss improved!
+Epoch:  80/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.286, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.286, Training Time: 30 seconds)
+Epoch:  80/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  4.035, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.243, Training Time: 39 seconds)
+Epoch:  80/150, Validation loss:  7.429, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.821 to  0.819
+Training loss improved!
+Epoch:  81/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.259, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.259, Training Time: 30 seconds)
+Epoch:  81/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.968, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.209, Training Time: 39 seconds)
+Epoch:  81/150, Validation loss:  7.415, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.819 to  0.816
+Training loss improved!
+Epoch:  82/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.149, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.149, Training Time: 30 seconds)
+Epoch:  82/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.864, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.100, Training Time: 39 seconds)
+Epoch:  82/150, Validation loss:  7.428, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.816 to  0.814
+Training loss improved!
+Epoch:  83/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.078, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.078, Training Time: 30 seconds)
+Epoch:  83/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.846, Training Time: 8 seconds), Stats for epoch: (Training Loss:  4.038, Training Time: 39 seconds)
+Epoch:  83/150, Validation loss:  7.433, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.814 to  0.812
+Training loss improved!
+Epoch:  84/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  4.034, Training Time: 30 seconds), Stats for epoch: (Training Loss:  4.034, Training Time: 30 seconds)
+Epoch:  84/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.765, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.987, Training Time: 39 seconds)
+Epoch:  84/150, Validation loss:  7.418, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.812 to  0.810
+Training loss improved!
+Epoch:  85/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.975, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.975, Training Time: 30 seconds)
+Epoch:  85/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.746, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.936, Training Time: 39 seconds)
+Epoch:  85/150, Validation loss:  7.477, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.810 to  0.808
+Training loss improved!
+Epoch:  86/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.937, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.937, Training Time: 30 seconds)
+Epoch:  86/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.691, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.895, Training Time: 39 seconds)
+Epoch:  86/150, Validation loss:  7.509, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.808 to  0.806
+Training loss improved!
+Epoch:  87/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.849, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.849, Training Time: 30 seconds)
+Epoch:  87/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.507, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.789, Training Time: 39 seconds)
+Epoch:  87/150, Validation loss:  7.482, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.806 to  0.804
+Training loss improved!
+Epoch:  88/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.780, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.780, Training Time: 30 seconds)
+Epoch:  88/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.456, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.724, Training Time: 39 seconds)
+Epoch:  88/150, Validation loss:  7.443, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.804 to  0.802
+Training loss improved!
+Epoch:  89/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.716, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.716, Training Time: 30 seconds)
+Epoch:  89/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.483, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.676, Training Time: 39 seconds)
+Epoch:  89/150, Validation loss:  7.618, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.802 to  0.800
+Training loss improved!
+Epoch:  90/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.657, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.657, Training Time: 30 seconds)
+Epoch:  90/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.289, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.593, Training Time: 39 seconds)
+Epoch:  90/150, Validation loss:  7.490, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.800 to  0.798
+Training loss improved!
+Epoch:  91/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.638, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.638, Training Time: 30 seconds)
+Epoch:  91/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.306, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.581, Training Time: 39 seconds)
+Epoch:  91/150, Validation loss:  7.538, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.798 to  0.796
+Training loss improved!
+Epoch:  92/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.558, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.558, Training Time: 30 seconds)
+Epoch:  92/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.242, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.503, Training Time: 39 seconds)
+Epoch:  92/150, Validation loss:  7.460, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.796 to  0.794
+Training loss improved!
+Epoch:  93/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.483, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.483, Training Time: 30 seconds)
+Epoch:  93/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.088, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.414, Training Time: 39 seconds)
+Epoch:  93/150, Validation loss:  7.497, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.794 to  0.792
+Training loss improved!
+Epoch:  94/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.440, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.440, Training Time: 30 seconds)
+Epoch:  94/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.035, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.369, Training Time: 39 seconds)
+Epoch:  94/150, Validation loss:  7.539, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.792 to  0.790
+Training loss improved!
+Epoch:  95/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.364, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.364, Training Time: 30 seconds)
+Epoch:  95/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  3.007, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.302, Training Time: 39 seconds)
+Epoch:  95/150, Validation loss:  7.498, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.790 to  0.788
+Training loss improved!
+Epoch:  96/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.316, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.316, Training Time: 30 seconds)
+Epoch:  96/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.940, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.251, Training Time: 39 seconds)
+Epoch:  96/150, Validation loss:  7.565, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.788 to  0.786
+Training loss improved!
+Epoch:  97/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.254, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.254, Training Time: 30 seconds)
+Epoch:  97/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.969, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.204, Training Time: 39 seconds)
+Epoch:  97/150, Validation loss:  7.549, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.786 to  0.784
+Training loss improved!
+Epoch:  98/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.200, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.200, Training Time: 30 seconds)
+Epoch:  98/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.824, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.135, Training Time: 39 seconds)
+Epoch:  98/150, Validation loss:  7.561, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.784 to  0.782
+Training loss improved!
+Epoch:  99/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.141, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.141, Training Time: 30 seconds)
+Epoch:  99/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.739, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.071, Training Time: 39 seconds)
+Epoch:  99/150, Validation loss:  7.603, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.782 to  0.781
+Training loss improved!
+Epoch: 100/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.076, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.076, Training Time: 30 seconds)
+Epoch: 100/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.690, Training Time: 8 seconds), Stats for epoch: (Training Loss:  3.009, Training Time: 39 seconds)
+Epoch: 100/150, Validation loss:  7.572, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.781 to  0.779
+Training loss improved!
+Epoch: 101/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  3.029, Training Time: 30 seconds), Stats for epoch: (Training Loss:  3.029, Training Time: 30 seconds)
+Epoch: 101/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.558, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.948, Training Time: 39 seconds)
+Epoch: 101/150, Validation loss:  7.649, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.779 to  0.777
+Training loss improved!
+Backup to models/csv/20201105_175100_backup_2_948 complete!
+Epoch: 102/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.971, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.971, Training Time: 30 seconds)
+Epoch: 102/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.511, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.891, Training Time: 39 seconds)
+Epoch: 102/150, Validation loss:  7.657, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.777 to  0.775
+Training loss improved!
+Epoch: 103/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.932, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.932, Training Time: 30 seconds)
+Epoch: 103/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.535, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.863, Training Time: 39 seconds)
+Epoch: 103/150, Validation loss:  7.667, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.775 to  0.773
+Training loss improved!
+Epoch: 104/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.844, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.844, Training Time: 30 seconds)
+Epoch: 104/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.339, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.756, Training Time: 39 seconds)
+Epoch: 104/150, Validation loss:  7.657, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.773 to  0.771
+Training loss improved!
+Epoch: 105/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.818, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.818, Training Time: 30 seconds)
+Epoch: 105/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.313, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.730, Training Time: 39 seconds)
+Epoch: 105/150, Validation loss:  7.690, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.771 to  0.769
+Training loss improved!
+Epoch: 106/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.761, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.761, Training Time: 30 seconds)
+Epoch: 106/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.287, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.679, Training Time: 39 seconds)
+Epoch: 106/150, Validation loss:  7.698, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.769 to  0.767
+Training loss improved!
+Epoch: 107/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.716, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.716, Training Time: 30 seconds)
+Epoch: 107/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.209, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.628, Training Time: 39 seconds)
+Epoch: 107/150, Validation loss:  7.729, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.767 to  0.765
+Training loss improved!
+Epoch: 108/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.671, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.671, Training Time: 30 seconds)
+Epoch: 108/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.196, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.588, Training Time: 39 seconds)
+Epoch: 108/150, Validation loss:  7.758, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.765 to  0.763
+Training loss improved!
+Epoch: 109/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.607, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.607, Training Time: 30 seconds)
+Epoch: 109/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.048, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.510, Training Time: 39 seconds)
+Epoch: 109/150, Validation loss:  7.745, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.763 to  0.761
+Training loss improved!
+Epoch: 110/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.547, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.547, Training Time: 30 seconds)
+Epoch: 110/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.029, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.457, Training Time: 39 seconds)
+Epoch: 110/150, Validation loss:  7.786, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.761 to  0.759
+Training loss improved!
+Backup to models/csv/20201105_175100_backup_2_457 complete!
+Epoch: 111/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.499, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.499, Training Time: 30 seconds)
+Epoch: 111/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  2.000, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.413, Training Time: 39 seconds)
+Epoch: 111/150, Validation loss:  7.811, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.759 to  0.757
+Training loss improved!
+Epoch: 112/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.474, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.474, Training Time: 30 seconds)
+Epoch: 112/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.865, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.368, Training Time: 39 seconds)
+Epoch: 112/150, Validation loss:  7.998, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.757 to  0.756
+Training loss improved!
+Epoch: 113/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.437, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.437, Training Time: 30 seconds)
+Epoch: 113/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.780, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.323, Training Time: 39 seconds)
+Epoch: 113/150, Validation loss:  7.767, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.756 to  0.754
+Training loss improved!
+Epoch: 114/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.377, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.377, Training Time: 30 seconds)
+Epoch: 114/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.734, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.265, Training Time: 39 seconds)
+Epoch: 114/150, Validation loss:  7.794, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.754 to  0.752
+Training loss improved!
+Epoch: 115/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.313, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.313, Training Time: 30 seconds)
+Epoch: 115/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.695, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.206, Training Time: 39 seconds)
+Epoch: 115/150, Validation loss:  7.887, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.752 to  0.750
+Training loss improved!
+Epoch: 116/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.289, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.289, Training Time: 30 seconds)
+Epoch: 116/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.682, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.184, Training Time: 39 seconds)
+Epoch: 116/150, Validation loss:  7.871, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.750 to  0.748
+Training loss improved!
+Epoch: 117/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.252, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.252, Training Time: 30 seconds)
+Epoch: 117/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.682, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.153, Training Time: 39 seconds)
+Epoch: 117/150, Validation loss:  7.975, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.748 to  0.746
+Training loss improved!
+Epoch: 118/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.182, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.182, Training Time: 30 seconds)
+Epoch: 118/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.542, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.071, Training Time: 39 seconds)
+Epoch: 118/150, Validation loss:  7.878, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.746 to  0.744
+Training loss improved!
+Epoch: 119/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.129, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.129, Training Time: 30 seconds)
+Epoch: 119/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.471, Training Time: 8 seconds), Stats for epoch: (Training Loss:  2.015, Training Time: 39 seconds)
+Epoch: 119/150, Validation loss:  7.913, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.744 to  0.742
+Training loss improved!
+Epoch: 120/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.084, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.084, Training Time: 30 seconds)
+Epoch: 120/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.416, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.968, Training Time: 39 seconds)
+Epoch: 120/150, Validation loss:  7.916, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.742 to  0.741
+Training loss improved!
+Backup to models/csv/20201105_175100_backup_1_968 complete!
+Epoch: 121/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.045, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.045, Training Time: 30 seconds)
+Epoch: 121/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.341, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.922, Training Time: 39 seconds)
+Epoch: 121/150, Validation loss:  7.953, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.741 to  0.739
+Training loss improved!
+Epoch: 122/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  2.019, Training Time: 30 seconds), Stats for epoch: (Training Loss:  2.019, Training Time: 30 seconds)
+Epoch: 122/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.309, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.896, Training Time: 39 seconds)
+Epoch: 122/150, Validation loss:  7.955, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.739 to  0.737
+Training loss improved!
+Epoch: 123/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.989, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.989, Training Time: 30 seconds)
+Epoch: 123/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.243, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.859, Training Time: 39 seconds)
+Epoch: 123/150, Validation loss:  7.943, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.737 to  0.735
+Training loss improved!
+Epoch: 124/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.938, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.938, Training Time: 30 seconds)
+Epoch: 124/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.234, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.816, Training Time: 39 seconds)
+Epoch: 124/150, Validation loss:  7.976, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.735 to  0.733
+Training loss improved!
+Epoch: 125/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.872, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.872, Training Time: 30 seconds)
+Epoch: 125/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.186, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.753, Training Time: 39 seconds)
+Epoch: 125/150, Validation loss:  8.027, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.733 to  0.731
+Training loss improved!
+Epoch: 126/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.847, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.847, Training Time: 30 seconds)
+Epoch: 126/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.155, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.727, Training Time: 39 seconds)
+Epoch: 126/150, Validation loss:  8.094, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.731 to  0.730
+Training loss improved!
+Epoch: 127/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.824, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.824, Training Time: 30 seconds)
+Epoch: 127/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.125, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.703, Training Time: 39 seconds)
+Epoch: 127/150, Validation loss:  8.054, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.730 to  0.728
+Training loss improved!
+Epoch: 128/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.783, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.783, Training Time: 30 seconds)
+Epoch: 128/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  1.043, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.655, Training Time: 39 seconds)
+Epoch: 128/150, Validation loss:  8.113, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.728 to  0.726
+Training loss improved!
+Epoch: 129/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.736, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.736, Training Time: 30 seconds)
+Epoch: 129/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.962, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.602, Training Time: 39 seconds)
+Epoch: 129/150, Validation loss:  8.083, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.726 to  0.724
+Training loss improved!
+Epoch: 130/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.710, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.710, Training Time: 30 seconds)
+Epoch: 130/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.942, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.577, Training Time: 39 seconds)
+Epoch: 130/150, Validation loss:  8.171, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.724 to  0.722
+Training loss improved!
+Epoch: 131/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.668, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.668, Training Time: 30 seconds)
+Epoch: 131/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.877, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.531, Training Time: 39 seconds)
+Epoch: 131/150, Validation loss:  8.131, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.722 to  0.720
+Training loss improved!
+Epoch: 132/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.636, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.636, Training Time: 30 seconds)
+Epoch: 132/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.858, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.501, Training Time: 39 seconds)
+Epoch: 132/150, Validation loss:  8.128, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.720 to  0.719
+Training loss improved!
+Epoch: 133/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.591, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.591, Training Time: 30 seconds)
+Epoch: 133/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.810, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.456, Training Time: 39 seconds)
+Epoch: 133/150, Validation loss:  8.177, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.719 to  0.717
+Training loss improved!
+Backup to models/csv/20201105_175100_backup_1_456 complete!
+Epoch: 134/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.554, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.554, Training Time: 30 seconds)
+Epoch: 134/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.803, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.424, Training Time: 39 seconds)
+Epoch: 134/150, Validation loss:  8.147, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.717 to  0.715
+Training loss improved!
+Epoch: 135/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.518, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.518, Training Time: 30 seconds)
+Epoch: 135/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.899, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.411, Training Time: 39 seconds)
+Epoch: 135/150, Validation loss:  8.190, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.715 to  0.713
+Training loss improved!
+Epoch: 136/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.493, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.493, Training Time: 30 seconds)
+Epoch: 136/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.828, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.377, Training Time: 39 seconds)
+Epoch: 136/150, Validation loss:  8.196, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.713 to  0.711
+Training loss improved!
+Epoch: 137/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.458, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.458, Training Time: 30 seconds)
+Epoch: 137/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.724, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.331, Training Time: 39 seconds)
+Epoch: 137/150, Validation loss:  8.206, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.711 to  0.710
+Training loss improved!
+Epoch: 138/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.440, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.440, Training Time: 30 seconds)
+Epoch: 138/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.668, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.306, Training Time: 39 seconds)
+Epoch: 138/150, Validation loss:  8.264, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.710 to  0.708
+Training loss improved!
+Epoch: 139/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.399, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.399, Training Time: 30 seconds)
+Epoch: 139/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.618, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.264, Training Time: 39 seconds)
+Epoch: 139/150, Validation loss:  8.261, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.708 to  0.706
+Training loss improved!
+Epoch: 140/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.370, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.370, Training Time: 30 seconds)
+Epoch: 140/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.594, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.235, Training Time: 39 seconds)
+Epoch: 140/150, Validation loss:  8.272, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.706 to  0.704
+Training loss improved!
+Epoch: 141/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.345, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.345, Training Time: 30 seconds)
+Epoch: 141/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.597, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.215, Training Time: 39 seconds)
+Epoch: 141/150, Validation loss:  8.326, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.704 to  0.703
+Training loss improved!
+Epoch: 142/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.325, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.325, Training Time: 30 seconds)
+Epoch: 142/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.580, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.196, Training Time: 39 seconds)
+Epoch: 142/150, Validation loss:  8.308, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.703 to  0.701
+Training loss improved!
+Epoch: 143/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.300, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.300, Training Time: 30 seconds)
+Epoch: 143/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.543, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.169, Training Time: 39 seconds)
+Epoch: 143/150, Validation loss:  8.338, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.701 to  0.699
+Training loss improved!
+Epoch: 144/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.276, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.276, Training Time: 30 seconds)
+Epoch: 144/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.521, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.145, Training Time: 39 seconds)
+Epoch: 144/150, Validation loss:  8.352, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.699 to  0.697
+Training loss improved!
+Epoch: 145/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.245, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.245, Training Time: 30 seconds)
+Epoch: 145/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.502, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.116, Training Time: 39 seconds)
+Epoch: 145/150, Validation loss:  8.358, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.697 to  0.696
+Training loss improved!
+Epoch: 146/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.223, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.223, Training Time: 30 seconds)
+Epoch: 146/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.481, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.094, Training Time: 39 seconds)
+Epoch: 146/150, Validation loss:  8.394, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.696 to  0.694
+Training loss improved!
+Epoch: 147/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.190, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.190, Training Time: 30 seconds)
+Epoch: 147/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.488, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.068, Training Time: 39 seconds)
+Epoch: 147/150, Validation loss:  8.411, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.694 to  0.692
+Training loss improved!
+Epoch: 148/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.172, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.172, Training Time: 30 seconds)
+Epoch: 148/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.455, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.048, Training Time: 39 seconds)
+Epoch: 148/150, Validation loss:  8.403, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.692 to  0.690
+Training loss improved!
+Epoch: 149/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.143, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.143, Training Time: 30 seconds)
+Epoch: 149/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.450, Training Time: 8 seconds), Stats for epoch: (Training Loss:  1.023, Training Time: 39 seconds)
+Epoch: 149/150, Validation loss:  8.462, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.690 to  0.689
+Training loss improved!
+Epoch: 150/150, Batch:  100/121, Stats for last 100 batches: (Training Loss:  1.118, Training Time: 30 seconds), Stats for epoch: (Training Loss:  1.118, Training Time: 30 seconds)
+Epoch: 150/150, Batch:  121/121, Stats for last 21 batches: (Training Loss:  0.422, Training Time: 8 seconds), Stats for epoch: (Training Loss:  0.997, Training Time: 39 seconds)
+Epoch: 150/150, Validation loss:  8.449, Batch Validation Time: 3 seconds
+Learning rate decay: adjusting from  0.689 to  0.687
+Training loss improved!
+Backup to models/csv/20201105_175100_backup_0_997 complete!
+Training Complete!

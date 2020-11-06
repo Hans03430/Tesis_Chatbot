@@ -1,0 +1,73 @@
+
+Loading vocabulary...
+
+Initializing model...
+
+
+Loading model weights...
+
+
+
+Commands:
+-----------General-----------------
+--help (Show this list of commands)                             --reset (Reset to default settings from hparams.json [*]);
+--exit (Quit);
+
+-----------Chat Options:-----------
+--enableautopunct (Auto add punctuation to questions);          --disableautopunct (Enter punctuation exactly as typed);
+--enablenormwords (Auto replace 'don't' with 'do not', etc.);   --disablenormwords (Enter words exactly as typed);
+--showquestioncontext (Show conversation history as context);   --hidequestioncontext (Show questions only);
+--showbeams (Output all predicted beams);                       --hidebeams (Output only the highest ranked beam);
+--convhistlength=N (Set conversation history length to N);      --clearconvhist (Clear history and start a new conversation);
+
+-----------Model Options:----------
+--beamwidth=N (Set beam width to N. 0 disables beamsearch [*]); --beamlenpenalty=N (Set beam length penalty to N);
+--enablesampling (Use sampling decoder if beamwidth=0 [*]);     --disableasampling (Use greedy decoder if beamwidth=0 [*]);
+--samplingtemp=N (Set sampling temperature to N);               --maxanswerlen=N (Set max words in answer to N);
+
+
+[*] Causes model to reload
+
+
+You: [Conversation history length set to 2.]
+You: ChatBot: m in is rio d e e du ca ci ón y c ie nc ia d e e sp añ a mil millones años planeta tierra bola materiales extremadamente
+
+You: ChatBot: cuidadosamente pasadas agua y generan generan agua
+
+You: ChatBot: c evidencias n o h a c e r
+
+You: ChatBot: diversos textos o diarios y recorta titulares o noticias usen comillas
+
+You: ChatBot: b inicial pasos realizados oscilación y aceleración cuerpo cuerpo cuerpo cuerpo cuerpo cuerpo cuerpo cuerpo y cuerpo a p cierre cierre ubicación ubicación unido frente descripción proteger resultado
+
+You: ChatBot: casos nombre
+
+You: ChatBot: escribe portafolio evidencias resolver situación debes carbohidratos y rectilíneo aportan gramo gramo horizontal horizontal horizontal animales
+
+You: ChatBot: globe ii elabora cuerpos representa constante química y altura altura
+
+You: ChatBot: perú
+
+You: ChatBot: información recogen fuentes recubrir a viceversa internet menores recojo piedras y traslado tierra o abono peso puedan cargar
+
+You: ChatBot: h h humedad capítulo
+
+You: ChatBot: h am comen plantas vegetación semillas frutos secos y bayas
+
+You: ChatBot: mediciones método a temperaturas extremas calor o frío generalmente tolerar fluctuaciones temperatura sangre entrar situaciones estrés
+
+You: ChatBot: fase ie m c ia t e c n o g ía y s a lu d actividad portafolio evidencias considerando edad años y frutas frutas vitaminas fuente
+
+You: ChatBot: presente recomendable referencia referencia actividad actividad e e m u e n c ia d e a p r e n d iz a j e actividad a inicial
+
+You: ChatBot: incremento tomada y quema importantes importantes importantes vida vida
+
+You: ChatBot: c a m á ar td av is ministerio educacion ciencia y tecnologia nap nucleos aprendizajes agua especial
+
+You: ChatBot: datos necesarios
+
+You: ChatBot: suelo actividad tipos textos escritos lengua materna toma nota nota subrayado correcto consiste concluirlo leer ideas destacadas y resulta síntesis o resumen texto original
+
+You: ChatBot: x a m información c a portafolio evidencias actividad resuelve recreativa recreativa y determina
+
+You: 

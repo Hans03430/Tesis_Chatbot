@@ -1,0 +1,73 @@
+
+Loading vocabulary...
+
+Initializing model...
+
+
+Loading model weights...
+
+
+
+Commands:
+-----------General-----------------
+--help (Show this list of commands)                             --reset (Reset to default settings from hparams.json [*]);
+--exit (Quit);
+
+-----------Chat Options:-----------
+--enableautopunct (Auto add punctuation to questions);          --disableautopunct (Enter punctuation exactly as typed);
+--enablenormwords (Auto replace 'don't' with 'do not', etc.);   --disablenormwords (Enter words exactly as typed);
+--showquestioncontext (Show conversation history as context);   --hidequestioncontext (Show questions only);
+--showbeams (Output all predicted beams);                       --hidebeams (Output only the highest ranked beam);
+--convhistlength=N (Set conversation history length to N);      --clearconvhist (Clear history and start a new conversation);
+
+-----------Model Options:----------
+--beamwidth=N (Set beam width to N. 0 disables beamsearch [*]); --beamlenpenalty=N (Set beam length penalty to N);
+--enablesampling (Use sampling decoder if beamwidth=0 [*]);     --disableasampling (Use greedy decoder if beamwidth=0 [*]);
+--samplingtemp=N (Set sampling temperature to N);               --maxanswerlen=N (Set max words in answer to N);
+
+
+[*] Causes model to reload
+
+
+You: [Conversation history length set to 2.]
+You: ChatBot: setiembre a sumarse a francisco orellana pezet y puerto emprende terminando breña niñas y y túpac sectores sectores y y a continuamente continuamente reciben género gente a a venidos guinea guinea
+
+You: ChatBot: padre llamada y y indios indios indios cusco cusco y y y
+
+You: ChatBot: ascendido a años navío masas dejar comando fascinación propuesto partido y reiteró diputado
+
+You: ChatBot: divisiones implantado pampamarca proyecto vitalidad amaru amaru a y y y y
+
+You: ChatBot: leoncio virrey compuestas años juan volvió comando baterías propuesto y civil rosa
+
+You: ChatBot: chilenos santa y conjurar hermosa perú oro oro constitución y y
+
+You: ChatBot: ascendido años años navío juan ramón y baterías propuesto fuerza santa y
+
+You: ChatBot: invocación años resistencia navío juan juan pachacútec y propuesto y santa
+
+You: ChatBot: ejército dirigidos resistencia zaína juan a conocerlo y huáscar fuerza y y a y soldados a a a a a dioses defensas incursionar a a a virreinato pacífico
+
+You: ChatBot: pico hombre virtuoso junio y faustino cusco a noviembre y y
+
+You: ChatBot: ejército orellana jefaturado ocros
+
+You: ChatBot: túpac amaru mando y lugarteniente bajó y revolucionario a y y y rey a a virreinato hijos indios a américa américa américa américa américa a a
+
+You: ChatBot: enero túpac inca ii túpac túpac a tuvieron tuvieron túpac túpac y y
+
+You: ChatBot: republicanos pumacahua expedición mendoza ajeno fusileros emancipación américa américa mar y y y y
+
+You: ChatBot: digo estrella treinta años defensas y recursos veinte y y
+
+You: ChatBot: ascendido reconocían navío navío masas ramón comando fascinación propuesto partido civil reiteró diputado sopor
+
+You: ChatBot: parco pertenecen extensión arte distinguido años época a desastrosa y
+
+You: ChatBot: reconquista bolívar carácter conspiran vueltos vueltos perú y y y y
+
+You: ChatBot: pionero trato fuerza corazón masas y roja fascinación partidarios partido segundas existentes años y
+
+You: ChatBot: junio años realiza indígena bolognesila jura a baterías miembros a y
+
+You: 
