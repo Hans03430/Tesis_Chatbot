@@ -29,47 +29,44 @@ Commands:
 [*] Causes model to reload
 
 
-You: [Conversation history length set to 2.]
-You: ChatBot: el director de la compañía
+You: ChatBot: o exagerar partes de la historia o características de algún personaje
 
-You: ChatBot: el director de la compañía de la calle de los personajes y la televisión a la lectura a la cultura a través de los niños de la educación
+You: ChatBot: comunicacio n er taller de lectura taller de lectura el encanto de las palabras escribe en lo que viene del texto de las y las estudiantes de su interés
 
-You: ChatBot: por qué
+You: ChatBot: condiciones previas preguntar si alguno de los estudiantes cumplió con el reto familiar y socializar su experiencia
 
-You: ChatBot: j de la sesión cierre de la sesión literaria familiar pida a sus estudiantes que apliquen esta estrategia en casa con otro de los textos del segundo bloque de
+You: ChatBot: los textos que se trabajarán en este cuarto son corresponden al tercer bloque del siguiente bloque de la antología literaria y se enmarcan en una diversidad de géneros y una
 
-You: ChatBot: por qué
+You: ChatBot: en esta sesión se continúa con la lectura de la sesión anterior
 
-You: ChatBot: comunicacio n er actividad la atención y el hecho de esta actividad aprenderás a realizar lo siguiente j información la atención de la biblioteca y la escritura
+You: ChatBot: condiciones previas seleccionar si alguno de los estudiantes cumplió con el reto familiar y socializar su experiencia
 
-You: ChatBot: por qué
+You: ChatBot: el texto de la sesión es de manera por qué es del segundo bloque del texto de los y las estudiantes se debe situaciones una ruta de los estudiantes literarias
 
-You: ChatBot: j de la sesión desarrollo de la sesión literaria familiar pida a sus estudiantes que apliquen esta estrategia en casa con otro de los textos del segundo bloque de
+You: ChatBot: el texto de la sesión es el texto de la sesión anterior
 
-You: ChatBot: por qué
+You: ChatBot: el texto seleccionado se organiza en la sesión y
 
-You: ChatBot: el director de la compañía sí qué tiene usted
+You: ChatBot: a continuación se presenta un breve panorama de estos textos preguntas tener tener tener tener a la lectura y escribimos creativamente a los estudiantes semana por las que se enfrentan
 
-You: ChatBot: el director de la compañía sí es usted que la de los personajes de la tarde es una de las islas de los niños de su padre y su
+You: ChatBot: en esta sesión se continúa con la lectura de la sesión anterior
 
-You: ChatBot: picaporte se había marchado muy alegre yendo con paso rápido al domicilio del reverendo samuel wilson que no había vuelto aún
+You: ChatBot: condiciones previas preguntar si alguno de los estudiantes cumplió con el reto familiar y socializar su experiencia
 
-You: ChatBot: por eso aquel mismo día que era sábado y no domingo como lo creía mister fogg lo esperaban los de la apuesta en el salón del
+You: ChatBot: a continuación se presenta un breve panorama de estos textos para tener ideas previas previas que contribuyan a la elección de las dos lecturas que se trabajarán en este módulo
 
-You: ChatBot: phileas fogg tomó phileas fogg era un criminal que la policía perseguía sin descanso y ahora era el caballero más honrado que estaba cumpliendo matemáticamente matemáticamente su excéntrico viaje del
+You: ChatBot: es importante que como producto el docente logre llegar a un consenso entre uno de los dos textos que se proponen en este material respecto a cada bloque de lecturas
 
-You: ChatBot: phileas fogg tomó phileas fogg era un criminal que la policía perseguía sin descanso y ahora era el caballero más honrado que estaba cumpliendo matemáticamente matemáticamente su excéntrico viaje del
+You: ChatBot: en esta segunda sesión se realizará el formato de las preguntas en el teatro
 
-You: ChatBot: phileas fogg después de haber dado la vuelta al mundo llegaba con un atraso
+You: ChatBot: esto genera un intercambio muy enriquecedor que permite una mayor profundidad en los temas y promueve la construcción de nuevos conocimientos
 
-You: ChatBot: qué es lo que yo he visto
+You: ChatBot: el video de la dramatización en voz alta en parejas o grupal en el docente de las siguientes las estudiantes literarias se enmarcan una ruta de este módulo y una
 
-You: ChatBot: e m I l y b r o n t e
+You: ChatBot: el segundo texto será escogido en consenso entre los estudiantes a partir del mismo bloque de la antología literaria la biblioteca escolar o un texto digital y se trabajará en través
 
-You: ChatBot: pero en el caso de que la ballena no es nada más que una de las de la tarde es una de la tarde de su padre
+You: ChatBot: los textos que se trabajarán en este cuarto módulo corresponden al segundo bloque a los estudiantes
 
-You: ChatBot: por eso aquel mismo día que era sábado y no domingo como lo creía mister fogg lo esperaban los de la apuesta en el salón del
-
-You: ChatBot: phileas fogg después phileas fogg era un criminal que la policía perseguía sin descanso y ahora era el caballero más honrado que estaba cumpliendo matemáticamente matemáticamente su excéntrico viaje del
+You: ChatBot: condiciones la hora a la hora por la hora literaria
 
 You: 

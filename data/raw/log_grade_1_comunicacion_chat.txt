@@ -29,45 +29,44 @@ Commands:
 [*] Causes model to reload
 
 
-You: [Conversation history length set to 2.]
-You: ChatBot: que es lo que más le gusta hacer
+You: ChatBot: publico mi texto en un lugar del aula que el docente indique
 
-You: ChatBot: comunicacion en grupo el objeto en la página en nuestro cuaderno o en nuestro cd
+You: ChatBot: para realizar tu texto informativo debes seguir las pasos
 
-You: ChatBot: en qué trata del texto
+You: ChatBot: organiza los pasos
 
-You: ChatBot: qué tipo de texto voy a leer
+You: ChatBot: y completa sus ideas
 
-You: ChatBot: cómo se sintieron la actitud
+You: ChatBot: el texto y la forma de la siguiente página
 
-You: ChatBot: paso o m u n n a c ió n el texto de manera silenciosa
+You: ChatBot: este texto de la siguiente unidad
 
-You: ChatBot: oralmente oralmente oralmente
+You: ChatBot: el texto de la siguiente página
 
-You: ChatBot: ubicar qué puedes hacer para aprender lo que te faltó
+You: ChatBot: actividad sobre un compañero las alternativas y responde oralmente
 
-You: ChatBot: comunicacion en esta actividad aprenderemos lo siguiente qué aprenderemos en esta actividad
+You: ChatBot: la siguiente información y responde la información
 
-You: ChatBot: comunicacion qué aprendimos en esta unidad
+You: ChatBot: portafolio tu respuesta con tus compañeras y compañeros
 
-You: ChatBot: qué tipo de texto vamos a escribir
+You: ChatBot: información con un compañero sobre las situaciones y dialoguen en tu región a partir de las siguientes preguntas leer el diálogo de las palabras palabras las palabras y el texto de las páginas y
 
-You: ChatBot: con su profesora o profesor y sus compañeras y compañeros
+You: ChatBot: completa un esquema sobre la que se indica una una de una unidad sobre cómo la vida diaria
 
-You: ChatBot: comunicacion leemos los acuerdos de convivencia que necesitamos para trabajar en grupo
+You: ChatBot: para ello tu respuesta
 
-You: ChatBot: d o m u n ic a c ió n el siguiente esquema
+You: ChatBot: para elaborar sobre las compañeras y compañeros sobre lo que aprenderemos expresar sobre el cuidado del ambiente
 
-You: ChatBot: oralmente la situación
+You: ChatBot: leer un texto y reconocer los pasos y su estructura
 
-You: ChatBot: lo que dice esteban y respondan las preguntas
+You: ChatBot: para qué leerás a realizar este texto con la exposición y las niñas de la imagen y subraya las siguientes preguntas los afiches y los niños los niños al final grado los que tipo de una de ellas
 
-You: ChatBot: comunicacion
+You: ChatBot: para qué está las niñas y los niños de la imagen
 
-You: ChatBot: para qué voy a escribir este texto
+You: ChatBot: en un momento a partir de las siguientes preguntas
 
-You: ChatBot: qué tipo de texto vamos a leer
+You: ChatBot: elaboramos el texto sobre la ayuda de un compañero
 
-You: ChatBot: comunicacion qué tipo en esta unidad
+You: ChatBot: para ello tu respuesta es importante los pasos de estos amigas
 
 You: 
