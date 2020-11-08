@@ -1,0 +1,72 @@
+
+Loading vocabulary...
+
+Initializing model...
+
+
+Loading model weights...
+
+
+
+Commands:
+-----------General-----------------
+--help (Show this list of commands)                             --reset (Reset to default settings from hparams.json [*]);
+--exit (Quit);
+
+-----------Chat Options:-----------
+--enableautopunct (Auto add punctuation to questions);          --disableautopunct (Enter punctuation exactly as typed);
+--enablenormwords (Auto replace 'don't' with 'do not', etc.);   --disablenormwords (Enter words exactly as typed);
+--showquestioncontext (Show conversation history as context);   --hidequestioncontext (Show questions only);
+--showbeams (Output all predicted beams);                       --hidebeams (Output only the highest ranked beam);
+--convhistlength=N (Set conversation history length to N);      --clearconvhist (Clear history and start a new conversation);
+
+-----------Model Options:----------
+--beamwidth=N (Set beam width to N. 0 disables beamsearch [*]); --beamlenpenalty=N (Set beam length penalty to N);
+--enablesampling (Use sampling decoder if beamwidth=0 [*]);     --disableasampling (Use greedy decoder if beamwidth=0 [*]);
+--samplingtemp=N (Set sampling temperature to N);               --maxanswerlen=N (Set max words in answer to N);
+
+
+[*] Causes model to reload
+
+
+You: ChatBot: para qué nos sirvió el diálogo sobre el texto
+
+You: ChatBot: condiciones previas preguntar si alguno de los estudiantes cumplió con el reto familiar y socializar su experiencia
+
+You: ChatBot: en ese sentido es importante que lea todos los resúmenes y seleccione aquel texto que considere que atraerá más la atención de los estudiantes y que se podrá trabajar en su
+
+You: ChatBot: inicio de la sesión reto familiar pida a sus estudiantes que apliquen esta estrategia en casa con otro de los textos del segundo bloque de las antologías literarias
+
+You: ChatBot: los textos que se trabajarán en este segundo módulo corresponden corresponden al segundo bloque de lecturas de la antología literaria y son los siguientes tipos de acuerdo
+
+You: ChatBot: por ello es importante que los y las estudiantes conozcan más comunes que se encuentran en el segundo bloque de la antología literaria
+
+You: ChatBot: el segundo texto será escogido por los estudiantes a partir del segundo bloque de la antología literaria o de la biblioteca escolar
+
+You: ChatBot: el segundo texto será escogido en consenso entre los estudiantes a partir del mismo bloque de la antología literaria o de la biblioteca escolar
+
+You: ChatBot: es así es importante que los estudiantes de las y los estudiantes a partir de sus motivaciones
+
+You: ChatBot: en ese sentido es importante que los y las estudiantes y estudiantes en el país se encuentran los textos en su
+
+You: ChatBot: por ello es importante que los y las estudiantes son gratis en un textos
+
+You: ChatBot: en ese sentido es importante que lea todos los resúmenes y seleccione aquel texto que se considere los textos que permitirán los voluntarias voluntarias voluntarias a su docente y a través de
+
+You: ChatBot: por qué
+
+You: ChatBot: a continuación por ejemplo a estas preguntas y de desarrollo portafolio de textos portafolio de aprendizaje portafolio de aprendizaje portafolio de evidencias portafolio de evidencias portafolio de evidencias e ie n c ia t e c n t e lo g ía y s a lu d del discurso
+
+You: ChatBot: por qué se hace que este mundo se siente cada uno cada uno de cada uno
+
+You: ChatBot: desarrollo de la sesión cierre de la sesión inicie pida pida a los estudiantes que apliquen esta estrategia en casa de los textos del segundo bloque de las antologías literarias su
+
+You: ChatBot: cuál es importante recalcar que antes de iniciar con los dos dos textos cuentan cuentan más adelante con una breve sinopsis de cada una de las lecturas en las que se
+
+You: ChatBot: para ello es necesario que los y las estudiantes conozcan su biblioteca escolar su infraestructura escolar y socializar su experiencia
+
+You: ChatBot: en ese sentido es importante que lea todos los resúmenes y seleccione aquel texto
+
+You: ChatBot: artículo toda persona tiene derecho a la comunidad
+
+You: 
